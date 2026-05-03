@@ -1333,66 +1333,6 @@
     "job_posted_at": "2026-05-01T07:04:56.978Z"
   },
   {
-    "job_id": "workday-medtronic-R65669",
-    "job_title": "Prin. Clinical Specialist - SVI - Houston",
-    "employer_name": "Medtronic",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston, Texas, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Prin-Clinical-Specialist---SVI---Houston_R65669-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8baae0ba24992e16d3aa2f2ffc00342776c9868a0af849b591b135fd4ec3b536",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:04:47.437Z"
-  },
-  {
-    "job_id": "workday-medtronic-R62598",
-    "job_title": "CRM Clinical Specialist - Hartford, CT",
-    "employer_name": "Medtronic",
-    "job_city": "Hartford",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hartford, Connecticut, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8454a17c7be9134dff173087dc1404cee6c3637f3e452725d415b395260b278",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:04:47.437Z"
-  },
-  {
     "job_id": "workday-medtronic-R59617",
     "job_title": "Clinical Specialist, CRM - Rochester, NY",
     "employer_name": "Medtronic",
@@ -1445,6 +1385,66 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:04:47.437Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65669",
+    "job_title": "Prin. Clinical Specialist - SVI - Houston",
+    "employer_name": "Medtronic",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston, Texas, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Prin-Clinical-Specialist---SVI---Houston_R65669-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8baae0ba24992e16d3aa2f2ffc00342776c9868a0af849b591b135fd4ec3b536",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:04:47.437Z"
+  },
+  {
+    "job_id": "workday-medtronic-R62598",
+    "job_title": "CRM Clinical Specialist - Hartford, CT",
+    "employer_name": "Medtronic",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hartford, Connecticut, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8454a17c7be9134dff173087dc1404cee6c3637f3e452725d415b395260b278",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -3857,36 +3857,6 @@
     "job_posted_at": "2026-04-30T07:05:26.282Z"
   },
   {
-    "job_id": "workday-medtronic-R65662",
-    "job_title": "Cardiac Rhythm Management Associate Clinical Specialist - Little Rock",
-    "employer_name": "Medtronic",
-    "job_city": "Little Rock",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Little Rock, Arkansas, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist---Little-Rock_R65662",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:47.438Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b6665d45d8e5c6b1c4b82d6ebeae96e3f5fcfb957ddad2950739548f53a42d55",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:04:47.438Z"
-  },
-  {
     "job_id": "workday-medtronic-R65554",
     "job_title": "Associate Clinical Specialist CRM - San Fernando Valley / Ventura",
     "employer_name": "Medtronic",
@@ -3930,6 +3900,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1543a476c0ec443f71ccd7d8ed8a850100b94e51689911bc4ad3f5f8f98eafca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:04:47.438Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65662",
+    "job_title": "Cardiac Rhythm Management Associate Clinical Specialist - Little Rock",
+    "employer_name": "Medtronic",
+    "job_city": "Little Rock",
+    "job_state": "AR",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Little Rock, Arkansas, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist---Little-Rock_R65662",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:47.438Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b6665d45d8e5c6b1c4b82d6ebeae96e3f5fcfb957ddad2950739548f53a42d55",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4097,6 +4097,36 @@
     "job_posted_at": "2026-04-30T07:04:06.554Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-072617",
+    "job_title": "Clinical Trials Assistant- Shockwave (Reducer)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "New Brighton",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New Brighton, Minnesota, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brighton-Minnesota-United-States-of-America/Clinical-Trials-Assistant--Shockwave--Reducer-_R-072617-2",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f78cdc37ee7addb3d58f6f563d0cb663853150255b9da3ec35a7de701cf6a0a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:59.332Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-051648",
     "job_title": "Associate Area Manager or Area Manager - Arlington, VA to Washington, DC - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -4149,36 +4179,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:59.332Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-072617",
-    "job_title": "Clinical Trials Assistant- Shockwave (Reducer)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "New Brighton",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New Brighton, Minnesota, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brighton-Minnesota-United-States-of-America/Clinical-Trials-Assistant--Shockwave--Reducer-_R-072617-2",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f78cdc37ee7addb3d58f6f563d0cb663853150255b9da3ec35a7de701cf6a0a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
@@ -6071,6 +6071,36 @@
     "job_posted_at": "2026-04-29T07:02:39.256Z"
   },
   {
+    "job_id": "workday-abbott-31149034",
+    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
+    "employer_name": "Abbott",
+    "job_city": "Texas - Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Texas - Houston",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:02:15.111Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:02:15.111Z"
+  },
+  {
     "job_id": "workday-abbott-31149132",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -6144,36 +6174,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "95ec9e1cd957eeec6b076ae7d9619405674bd04222a0c60e0ac4be545afd46ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:02:15.111Z"
-  },
-  {
-    "job_id": "workday-abbott-31149034",
-    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
-    "employer_name": "Abbott",
-    "job_city": "Texas - Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Texas - Houston",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:15.111Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7728,37 +7728,6 @@
     "job_posted_at": "2026-04-28T07:02:55.631Z"
   },
   {
-    "job_id": "workday-philips-579348",
-    "job_title": "Cardiology Clinical Product Manager- Pediatric Sonographer",
-    "employer_name": "Philips",
-    "job_city": "Cambridge (US)",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cambridge (US), Massachusetts, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Cardiology-Clinical-Product-Manager--Pediatric-Sonographer_579348-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:44.221Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d681651e8d37d401e208e48a24e2644ce6b79fc06ee4dfe6db17f8bde1ae1e20",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:44.221Z"
-  },
-  {
     "job_id": "workday-philips-580988",
     "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Washington, DC)",
     "employer_name": "Philips",
@@ -7777,6 +7746,37 @@
       "domains": [
         "healthcare",
         "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:44.221Z"
+  },
+  {
+    "job_id": "workday-philips-579348",
+    "job_title": "Cardiology Clinical Product Manager- Pediatric Sonographer",
+    "employer_name": "Philips",
+    "job_city": "Cambridge (US)",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cambridge (US), Massachusetts, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Cardiology-Clinical-Product-Manager--Pediatric-Sonographer_579348-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:44.221Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d681651e8d37d401e208e48a24e2644ce6b79fc06ee4dfe6db17f8bde1ae1e20",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "product"
       ],
       "locations": [
         "us"
@@ -8000,66 +8000,6 @@
     "job_posted_at": "2026-04-28T07:02:15.112Z"
   },
   {
-    "job_id": "workday-medtronic-R65369",
-    "job_title": "Clinical Specialist, Pain Interventions - Orlando, FL",
-    "employer_name": "Medtronic",
-    "job_city": "Orlando",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Orlando, Florida, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Specialist--Pain-Interventions---Orlando--FL_R65369-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:01:56.502Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7d11cf97694a7c0e3c1456763f743ee973908ad74b09a02b3590c16f4dc6003",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:01:56.502Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65370",
-    "job_title": "Clinical Specialist Manager, Pain Interventions - Carolinas",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charleston-South-Carolina-United-States-of-America/Clinical-Specialist-Manager--Pain-Interventions---Carolinas_R65370",
-    "job_posted_at_datetime_utc": "2026-04-28T07:01:56.502Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ac32b72958b90243385a63d241a98cc5d01064aa2949db6a37809d49a0d4444c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:01:56.502Z"
-  },
-  {
     "job_id": "workday-medtronic-R65425",
     "job_title": "Clinical Specialist- Pelvic Health - Greenville, SC",
     "employer_name": "Medtronic",
@@ -8103,6 +8043,66 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8aee7a654b88edd604d430f7675d6c2019856bd7f4d1c9b10af80b28640ebea2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:01:56.502Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65369",
+    "job_title": "Clinical Specialist, Pain Interventions - Orlando, FL",
+    "employer_name": "Medtronic",
+    "job_city": "Orlando",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Orlando, Florida, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Specialist--Pain-Interventions---Orlando--FL_R65369-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:01:56.502Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f7d11cf97694a7c0e3c1456763f743ee973908ad74b09a02b3590c16f4dc6003",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:01:56.502Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65370",
+    "job_title": "Clinical Specialist Manager, Pain Interventions - Carolinas",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charleston-South-Carolina-United-States-of-America/Clinical-Specialist-Manager--Pain-Interventions---Carolinas_R65370",
+    "job_posted_at_datetime_utc": "2026-04-28T07:01:56.502Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ac32b72958b90243385a63d241a98cc5d01064aa2949db6a37809d49a0d4444c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11646,19 +11646,19 @@
     "job_posted_at": "2026-04-27T07:00:39.224Z"
   },
   {
-    "job_id": "workday-idexx-J-052663",
-    "job_title": "Medical Laboratory Technician",
+    "job_id": "workday-idexx-J-052273",
+    "job_title": "Data Billing Associate - Veterinary Software",
     "employer_name": "IDEXX",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "Westbrook",
+    "job_state": "ME",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/New-York-NY/Medical-Laboratory-Technician_J-052663",
+    "job_location": "Westbrook, ME",
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273",
     "job_posted_at_datetime_utc": "2026-04-27T07:00:33.533Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d78e3563b065df8833519a2e274c320f8d390d390c686c65ff49014ca49dc69b",
+    "fingerprint": "2da70852ce88fbfe85ffc8b0e342a37c1809a29f75dd484048cc0a6e567e816b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11676,19 +11676,19 @@
     "job_posted_at": "2026-04-27T07:00:33.533Z"
   },
   {
-    "job_id": "workday-idexx-J-052273",
-    "job_title": "Data Billing Associate - Veterinary Software",
+    "job_id": "workday-idexx-J-052663",
+    "job_title": "Medical Laboratory Technician",
     "employer_name": "IDEXX",
-    "job_city": "Westbrook",
-    "job_state": "ME",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Westbrook, ME",
-    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Billing-Associate---Veterinary-Software_J-052273",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/New-York-NY/Medical-Laboratory-Technician_J-052663",
     "job_posted_at_datetime_utc": "2026-04-27T07:00:33.533Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2da70852ce88fbfe85ffc8b0e342a37c1809a29f75dd484048cc0a6e567e816b",
+    "fingerprint": "d78e3563b065df8833519a2e274c320f8d390d390c686c65ff49014ca49dc69b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -14234,19 +14234,19 @@
     "job_posted_at": "2026-04-27T00:28:41.049Z"
   },
   {
-    "job_id": "greenhouse-oscar-7648597",
+    "job_id": "greenhouse-oscar-7648599",
     "job_title": "Manager, Strategic Value & Investment Analysis",
     "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "Tempe",
+    "job_state": "AZ",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7648597?gh_jid=7648597",
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7648599?gh_jid=7648599",
     "job_posted_at_datetime_utc": "2026-04-27T00:28:41.048Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bc0128969408111f330df24a25572a89663abe5b01cd9658e4afbdd871aedeec",
+    "fingerprint": "3f886d45434d417a272e0e5744d14d321e4fc3431c672a4dbbf81df8bc1db588",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -14264,19 +14264,19 @@
     "job_posted_at": "2026-04-27T00:28:41.048Z"
   },
   {
-    "job_id": "greenhouse-oscar-7648599",
+    "job_id": "greenhouse-oscar-7648597",
     "job_title": "Manager, Strategic Value & Investment Analysis",
     "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "AZ",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7648599?gh_jid=7648599",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7648597?gh_jid=7648597",
     "job_posted_at_datetime_utc": "2026-04-27T00:28:41.048Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3f886d45434d417a272e0e5744d14d321e4fc3431c672a4dbbf81df8bc1db588",
+    "fingerprint": "bc0128969408111f330df24a25572a89663abe5b01cd9658e4afbdd871aedeec",
     "tags": {
       "employment": "entry_level",
       "domains": [
