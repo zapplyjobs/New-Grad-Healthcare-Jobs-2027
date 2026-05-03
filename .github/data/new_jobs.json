@@ -3065,186 +3065,6 @@
     "job_posted_at": "2026-04-30T15:01:36.164Z"
   },
   {
-    "job_id": "workday-takeda-R0175138",
-    "job_title": "EMT – I – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "IL - Joliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IL - Joliet",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/EMT---I---No-Overnight-Shifts_R0175138-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8e36a6580b02982922fc6af75aec7f79e123c74e7f8cfbcb22359e6047a5dccf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175139",
-    "job_title": "AEMT – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "IL - Joliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IL - Joliet",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/AEMT---No-Overnight-Shifts_R0175139-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "09a9e2cc8d18a7a913ca3bcd2861a1df0b9ca2ace27d7a8309d147ef331e581c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0173426",
-    "job_title": "Bilingual Licensed Practical Nurse",
-    "employer_name": "Takeda",
-    "job_city": "IL - Joliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IL - Joliet",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Bilingual-Licensed-Practical-Nurse_R0173426-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1718775754edfa31ba036eb0df2cb653bc24ce924a9bb9c93f81ccb11707823b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175140",
-    "job_title": "Licensed Practical Nurse – Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IL - Joliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IL - Joliet",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Licensed-Practical-Nurse---Day-One-Benefits_R0175140-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "14a4f66b2f1d7559ffaa6e55bf57292fb020d4efc4113426c1b1d12f2b0acc96",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0175135",
-    "job_title": "Paramedic – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "IL - Joliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IL - Joliet",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Paramedic---No-Overnight-Shifts_R0175135-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f792450a52ef929ede6a55a06d52f50c1752109ea80c4184537c32a195055faf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179453",
-    "job_title": "Plasma Center Nurse- RN",
-    "employer_name": "Takeda",
-    "job_city": "WA - Vancouver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WA - Vancouver",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WA---Vancouver/Plasma-Center-Nurse--RN_R0179453-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0b8b49105b5e96855db7aa3cdf167ce2fe79318ffb737f2c97b71360bd216832",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
     "job_id": "workday-takeda-R0179451",
     "job_title": "Paramedic – No Overnight Shifts",
     "employer_name": "Takeda",
@@ -3648,6 +3468,186 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9e5b1e6b620bf60418da0a68c5554fa80af20bee6d69a57d511fd63c6a640c1e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175138",
+    "job_title": "EMT – I – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Joliet",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/EMT---I---No-Overnight-Shifts_R0175138-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8e36a6580b02982922fc6af75aec7f79e123c74e7f8cfbcb22359e6047a5dccf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175139",
+    "job_title": "AEMT – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Joliet",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/AEMT---No-Overnight-Shifts_R0175139-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "09a9e2cc8d18a7a913ca3bcd2861a1df0b9ca2ace27d7a8309d147ef331e581c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0173426",
+    "job_title": "Bilingual Licensed Practical Nurse",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Joliet",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Bilingual-Licensed-Practical-Nurse_R0173426-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1718775754edfa31ba036eb0df2cb653bc24ce924a9bb9c93f81ccb11707823b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175140",
+    "job_title": "Licensed Practical Nurse – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Joliet",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Licensed-Practical-Nurse---Day-One-Benefits_R0175140-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "14a4f66b2f1d7559ffaa6e55bf57292fb020d4efc4113426c1b1d12f2b0acc96",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0175135",
+    "job_title": "Paramedic – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Joliet",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Paramedic---No-Overnight-Shifts_R0175135-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f792450a52ef929ede6a55a06d52f50c1752109ea80c4184537c32a195055faf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179453",
+    "job_title": "Plasma Center Nurse- RN",
+    "employer_name": "Takeda",
+    "job_city": "WA - Vancouver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WA - Vancouver",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WA---Vancouver/Plasma-Center-Nurse--RN_R0179453-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0b8b49105b5e96855db7aa3cdf167ce2fe79318ffb737f2c97b71360bd216832",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4562,6 +4562,36 @@
     "job_posted_at": "2026-04-30T07:03:32.417Z"
   },
   {
+    "job_id": "workday-cigna-26004418",
+    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
+    "employer_name": "Cigna",
+    "job_city": "Clinic Arlington County Clarendon Blvd",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:01.667Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:01.667Z"
+  },
+  {
     "job_id": "workday-cigna-26004429",
     "job_title": "Home Infusion Nurse, Per Diem – Accredo - Springfield, IL",
     "employer_name": "Cigna",
@@ -4665,36 +4695,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:01.667Z"
-  },
-  {
-    "job_id": "workday-cigna-26004418",
-    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
-    "employer_name": "Cigna",
-    "job_city": "Clinic Arlington County Clarendon Blvd",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:01.667Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7638,6 +7638,36 @@
     "job_posted_at": "2026-04-28T07:03:08.771Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01348744",
+    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Diego, California, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:55.631Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:55.631Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01350148",
     "job_title": "QC Scientist I",
     "employer_name": "Thermo Fisher Scientific",
@@ -7690,36 +7720,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:55.631Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01348744",
-    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Diego, California, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:55.631Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -9820,6 +9820,156 @@
     "job_posted_at": "2026-04-27T07:11:17.347Z"
   },
   {
+    "job_id": "workday-takeda-R0177695",
+    "job_title": "Licensed Practical Nurse (LPN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
+    "employer_name": "Takeda",
+    "job_city": "TX - Georgetown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Georgetown",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Licensed-Practical-Nurse--LPN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177695-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05292f85f8c7a08e6d395da41ede5f420fb4ccbd749d4baea8ff7bc7ee1ebf7a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177697",
+    "job_title": "Registered Nurse (RN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
+    "employer_name": "Takeda",
+    "job_city": "TX - Georgetown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Georgetown",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Registered-Nurse--RN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177697-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02b94966e09459e6213ab7abe00ae9f184ad15673d4359207dee6295f5fbad8a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177696",
+    "job_title": "EMT-P, Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
+    "employer_name": "Takeda",
+    "job_city": "TX - Georgetown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Georgetown",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/EMT-P--Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177696-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a262bcf999e8c626b0fb3251069d9b7518fee644648153a62c264d032bbcf192",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177318",
+    "job_title": "Head, Global Clinical Science & Medical Affairs for Marketed Products",
+    "employer_name": "Takeda",
+    "job_city": "MA - Cambridge - Kendall Square - 500",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MA - Cambridge - Kendall Square - 500",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge---Kendall-Square---500/Head--Global-Clinical-Science---Medical-Affairs-for-Marketed-Products_R0177318-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5b5ef9798acf6add99b1db5f32081ec542445597205374b928c5d6d26339201",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179242",
+    "job_title": "Medical Support Specialist – RN (Immediate Benefits!)   Fond du Lac",
+    "employer_name": "Takeda",
+    "job_city": "WI - Fond du Lac",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Fond du Lac",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---RN--Immediate-Benefits-----Fond-du-Lac_R0179242-1",
+    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d072eb57391e6c306aa0e100c8113dadc8c25a559263f0874f8da996c67b1d0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:03:08.772Z"
+  },
+  {
     "job_id": "workday-takeda-R0179241",
     "job_title": "Medical Support Specialist – EMT (Immediate Benefits!)   Fond du Lac",
     "employer_name": "Takeda",
@@ -10193,156 +10343,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e24909f5b2c091e9676cabac53772c1c66a87322780c32e2611aa22ad5ac5640",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177695",
-    "job_title": "Licensed Practical Nurse (LPN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
-    "employer_name": "Takeda",
-    "job_city": "TX - Georgetown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Georgetown",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Licensed-Practical-Nurse--LPN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177695-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05292f85f8c7a08e6d395da41ede5f420fb4ccbd749d4baea8ff7bc7ee1ebf7a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177697",
-    "job_title": "Registered Nurse (RN), Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
-    "employer_name": "Takeda",
-    "job_city": "TX - Georgetown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Georgetown",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/Registered-Nurse--RN---Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177697-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02b94966e09459e6213ab7abe00ae9f184ad15673d4359207dee6295f5fbad8a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177696",
-    "job_title": "EMT-P, Part-Time (30hrs/week) – Afternoon/Evening Shifts & Weekend Rotation",
-    "employer_name": "Takeda",
-    "job_city": "TX - Georgetown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Georgetown",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Georgetown/EMT-P--Part-Time---Afternoon-Evening-Shifts---Weekend-Rotation_R0177696-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a262bcf999e8c626b0fb3251069d9b7518fee644648153a62c264d032bbcf192",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177318",
-    "job_title": "Head, Global Clinical Science & Medical Affairs for Marketed Products",
-    "employer_name": "Takeda",
-    "job_city": "MA - Cambridge - Kendall Square - 500",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MA - Cambridge - Kendall Square - 500",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge---Kendall-Square---500/Head--Global-Clinical-Science---Medical-Affairs-for-Marketed-Products_R0177318-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5b5ef9798acf6add99b1db5f32081ec542445597205374b928c5d6d26339201",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:03:08.772Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179242",
-    "job_title": "Medical Support Specialist – RN (Immediate Benefits!)   Fond du Lac",
-    "employer_name": "Takeda",
-    "job_city": "WI - Fond du Lac",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Fond du Lac",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Fond-du-Lac/Medical-Support-Specialist---RN--Immediate-Benefits-----Fond-du-Lac_R0179242-1",
-    "job_posted_at_datetime_utc": "2026-04-27T07:03:08.772Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d072eb57391e6c306aa0e100c8113dadc8c25a559263f0874f8da996c67b1d0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11071,36 +11071,6 @@
     "job_posted_at": "2026-04-27T07:02:15.112Z"
   },
   {
-    "job_id": "workday-medtronic-R64799",
-    "job_title": "Clinical Specialist CRM - Palm Beach Gardens / Jupiter",
-    "employer_name": "Medtronic",
-    "job_city": "Jupiter",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Jupiter, Florida, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jupiter-Florida-United-States-of-America/Clinical-Specialist-CRM---Palm-Beach-Gardens---Jupiter_R64799-2",
-    "job_posted_at_datetime_utc": "2026-04-27T07:01:56.502Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4aca185b2150fdeb21dd36a44f808c753865bf0a786a9c73d6798d2cc980a96c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T07:01:56.502Z"
-  },
-  {
     "job_id": "workday-medtronic-R65233",
     "job_title": "Vascular Clinical Specialist - Chicago",
     "employer_name": "Medtronic",
@@ -11174,6 +11144,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2e7778d787b9b796041f35ac9ab50a4ad7b022d5293e2ba4975674d6b472de7d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-27T07:01:56.502Z"
+  },
+  {
+    "job_id": "workday-medtronic-R64799",
+    "job_title": "Clinical Specialist CRM - Palm Beach Gardens / Jupiter",
+    "employer_name": "Medtronic",
+    "job_city": "Jupiter",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Jupiter, Florida, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jupiter-Florida-United-States-of-America/Clinical-Specialist-CRM---Palm-Beach-Gardens---Jupiter_R64799-2",
+    "job_posted_at_datetime_utc": "2026-04-27T07:01:56.502Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4aca185b2150fdeb21dd36a44f808c753865bf0a786a9c73d6798d2cc980a96c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12054,36 +12054,6 @@
     "job_posted_at": "2026-04-27T02:58:17.210Z"
   },
   {
-    "job_id": "greenhouse-personalisinc-7689649003",
-    "job_title": "Sample Accessioner 1 (Temp)",
-    "employer_name": "Personalis",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fremont, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7689649003",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.690Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef2921dec187c0486bac988529ca4e88fee9e31f2af56f88a2215859a814c1f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:16.690Z"
-  },
-  {
     "job_id": "greenhouse-personalisinc-6680748003",
     "job_title": "Client Experience Associate (Temp - 6 Months)",
     "employer_name": "Personalis",
@@ -12228,6 +12198,36 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:16.690Z"
+  },
+  {
+    "job_id": "greenhouse-personalisinc-7689649003",
+    "job_title": "Sample Accessioner 1 (Temp)",
+    "employer_name": "Personalis",
+    "job_city": "Fremont",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fremont, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7689649003",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.690Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ef2921dec187c0486bac988529ca4e88fee9e31f2af56f88a2215859a814c1f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
