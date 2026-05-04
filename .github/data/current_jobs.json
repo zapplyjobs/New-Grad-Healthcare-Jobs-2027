@@ -1093,6 +1093,126 @@
     "job_posted_at": "2026-05-01T07:05:50.705Z"
   },
   {
+    "job_id": "workday-takeda-R0179512",
+    "job_title": "Paramedic/EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "TX - Irving",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Irving",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Irving/Paramedic-EMT-P_R0179512-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d2cad06d3323d7332ec8069bd5d3dc541cf4585a7f74ab287d0ae94ac90088bf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:05:50.704Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179511",
+    "job_title": "Plasma Center Nurse – LPN",
+    "employer_name": "Takeda",
+    "job_city": "TX - Irving",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Irving",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Irving/Plasma-Center-Nurse---LPN_R0179511-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "39e6efd2d2b06e824636f78845c086d5b7b5948fada017c53aba227bac3eef03",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:05:50.704Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178930",
+    "job_title": "Licensed Practical Nurse - Day One Medical Benefits",
+    "employer_name": "Takeda",
+    "job_city": "OK - Tulsa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - OK - Tulsa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Licensed-Practical-Nurse---Day-One-Medical-Benefits_R0178930-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d4770494c51c24d63e0412af20693fd20fd4e568a0a5f3797843a8f6b6544acb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:05:50.704Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179278",
+    "job_title": "Rare Disease Business Manager - PI/CIDP (Des Moines)",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "IA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Iowa - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Iowa---Virtual/Rare-Disease-Business-Manager---PI-CIDP_R0179278",
+    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "80ca9a92117c7ff5d8f189b759e23e2219f0e1ac49a5ced867b29e7239618846",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:05:50.704Z"
+  },
+  {
     "job_id": "workday-takeda-R0179525",
     "job_title": "Medical Screener, Phlebotomist - Morning Shift",
     "employer_name": "Takeda",
@@ -1256,126 +1376,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6f397a6864d3f1af868de915d09110165b0721d82802c829296cd6cd0d39bd05",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:05:50.704Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179512",
-    "job_title": "Paramedic/EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "TX - Irving",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Irving",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Irving/Paramedic-EMT-P_R0179512-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2cad06d3323d7332ec8069bd5d3dc541cf4585a7f74ab287d0ae94ac90088bf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:05:50.704Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179511",
-    "job_title": "Plasma Center Nurse – LPN",
-    "employer_name": "Takeda",
-    "job_city": "TX - Irving",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Irving",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Irving/Plasma-Center-Nurse---LPN_R0179511-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "39e6efd2d2b06e824636f78845c086d5b7b5948fada017c53aba227bac3eef03",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:05:50.704Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178930",
-    "job_title": "Licensed Practical Nurse - Day One Medical Benefits",
-    "employer_name": "Takeda",
-    "job_city": "OK - Tulsa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - OK - Tulsa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Tulsa/Licensed-Practical-Nurse---Day-One-Medical-Benefits_R0178930-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d4770494c51c24d63e0412af20693fd20fd4e568a0a5f3797843a8f6b6544acb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:05:50.704Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179278",
-    "job_title": "Rare Disease Business Manager - PI/CIDP (Des Moines)",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "IA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Iowa - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Iowa---Virtual/Rare-Disease-Business-Manager---PI-CIDP_R0179278",
-    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "80ca9a92117c7ff5d8f189b759e23e2219f0e1ac49a5ced867b29e7239618846",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1784,36 +1784,6 @@
     "job_posted_at": "2026-05-01T07:03:41.043Z"
   },
   {
-    "job_id": "workday-globus-medical-JR105618",
-    "job_title": "Inventory Planner",
-    "employer_name": "Globus Medical",
-    "job_city": "Audubon",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Audubon, PA + 1 more",
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Inventory-Planner_JR105618",
-    "job_posted_at_datetime_utc": "2026-05-01T07:03:33.547Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2dfff8d17abafb443fb777513b65bcaec6f7c42e08b029c28a70960e19b7b2b9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:03:33.547Z"
-  },
-  {
     "job_id": "workday-globus-medical-JR105264",
     "job_title": "Corporate Pilot",
     "employer_name": "Globus Medical",
@@ -1836,6 +1806,36 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:03:33.547Z"
+  },
+  {
+    "job_id": "workday-globus-medical-JR105618",
+    "job_title": "Inventory Planner",
+    "employer_name": "Globus Medical",
+    "job_city": "Audubon",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Audubon, PA + 1 more",
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Inventory-Planner_JR105618",
+    "job_posted_at_datetime_utc": "2026-05-01T07:03:33.547Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2dfff8d17abafb443fb777513b65bcaec6f7c42e08b029c28a70960e19b7b2b9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
@@ -4682,36 +4682,6 @@
     "job_posted_at": "2026-04-30T07:03:32.417Z"
   },
   {
-    "job_id": "workday-cigna-26004741",
-    "job_title": "Pharmacy Technician - Accredo - Norcross, GA",
-    "employer_name": "Cigna",
-    "job_city": "Norcross",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Norcross, GA + 1 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Norcross-GA/Pharmacy-Technician---Accredo---Norcross--GA_26004741",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:01.667Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:01.667Z"
-  },
-  {
     "job_id": "workday-cigna-26004418",
     "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
     "employer_name": "Cigna",
@@ -4815,6 +4785,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6540fa75a38d05082388cd27845c8359a5624d1cbac8f7c20cd48116b3e930aa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:01.667Z"
+  },
+  {
+    "job_id": "workday-cigna-26004741",
+    "job_title": "Pharmacy Technician - Accredo - Norcross, GA",
+    "employer_name": "Cigna",
+    "job_city": "Norcross",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Norcross, GA + 1 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Norcross-GA/Pharmacy-Technician---Accredo---Norcross--GA_26004741",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:01.667Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7848,37 +7848,6 @@
     "job_posted_at": "2026-04-28T07:02:55.631Z"
   },
   {
-    "job_id": "workday-philips-579348",
-    "job_title": "Cardiology Clinical Product Manager- Pediatric Sonographer",
-    "employer_name": "Philips",
-    "job_city": "Cambridge (US)",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cambridge (US), Massachusetts, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Cardiology-Clinical-Product-Manager--Pediatric-Sonographer_579348-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:44.221Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d681651e8d37d401e208e48a24e2644ce6b79fc06ee4dfe6db17f8bde1ae1e20",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:44.221Z"
-  },
-  {
     "job_id": "workday-philips-580988",
     "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Washington, DC)",
     "employer_name": "Philips",
@@ -7897,6 +7866,37 @@
       "domains": [
         "healthcare",
         "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:44.221Z"
+  },
+  {
+    "job_id": "workday-philips-579348",
+    "job_title": "Cardiology Clinical Product Manager- Pediatric Sonographer",
+    "employer_name": "Philips",
+    "job_city": "Cambridge (US)",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cambridge (US), Massachusetts, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Cardiology-Clinical-Product-Manager--Pediatric-Sonographer_579348-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:44.221Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d681651e8d37d401e208e48a24e2644ce6b79fc06ee4dfe6db17f8bde1ae1e20",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "product"
       ],
       "locations": [
         "us"
@@ -8000,6 +8000,36 @@
     "job_posted_at": "2026-04-28T07:02:37.007Z"
   },
   {
+    "job_id": "workday-abbott-31148866",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Ohio - Columbus",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:11.080Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:11.080Z"
+  },
+  {
     "job_id": "workday-abbott-31148530",
     "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
     "employer_name": "Abbott",
@@ -8073,36 +8103,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:11.080Z"
-  },
-  {
-    "job_id": "workday-abbott-31148866",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Columbus",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:11.080Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
     "tags": {
       "employment": "entry_level",
       "domains": [
