@@ -2802,6 +2802,36 @@
     "job_posted_at": "2026-05-01T07:04:56.978Z"
   },
   {
+    "job_id": "workday-medtronic-R62598",
+    "job_title": "CRM Clinical Specialist - Hartford, CT",
+    "employer_name": "Medtronic",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hartford, Connecticut, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8454a17c7be9134dff173087dc1404cee6c3637f3e452725d415b395260b278",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:04:47.437Z"
+  },
+  {
     "job_id": "workday-medtronic-R59617",
     "job_title": "Clinical Specialist, CRM - Rochester, NY",
     "employer_name": "Medtronic",
@@ -2854,36 +2884,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:04:47.437Z"
-  },
-  {
-    "job_id": "workday-medtronic-R62598",
-    "job_title": "CRM Clinical Specialist - Hartford, CT",
-    "employer_name": "Medtronic",
-    "job_city": "Hartford",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hartford, Connecticut, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8454a17c7be9134dff173087dc1404cee6c3637f3e452725d415b395260b278",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -5416,66 +5416,6 @@
     "job_posted_at": "2026-04-30T07:04:06.554Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-072617",
-    "job_title": "Clinical Trials Assistant- Shockwave (Reducer)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "New Brighton",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New Brighton, Minnesota, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brighton-Minnesota-United-States-of-America/Clinical-Trials-Assistant--Shockwave--Reducer-_R-072617-2",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f78cdc37ee7addb3d58f6f563d0cb663853150255b9da3ec35a7de701cf6a0a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:59.332Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-069424",
-    "job_title": "Preclinical Scientist, Surgical - MedTech Surgery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Cincinnati",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cincinnati, Ohio, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Preclinical-Scientist--Surgical---MedTech-Surgery_R-069424-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cb1af64bcebca8c6588fe56d07f4a1c63a6e95ac4f108d36d452d20a803963ba",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:59.332Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-051648",
     "job_title": "Associate Area Manager or Area Manager - Arlington, VA to Washington, DC - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -5536,19 +5476,79 @@
     "job_posted_at": "2026-04-30T07:03:59.332Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202609633",
-    "job_title": "Health Center Nursing Supervisor",
-    "employer_name": "General Motors",
-    "job_city": "Spring Hill",
-    "job_state": "TN",
+    "job_id": "workday-johnson-&-johnson-R-072617",
+    "job_title": "Clinical Trials Assistant- Shockwave (Reducer)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "New Brighton",
+    "job_state": "MN",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Spring Hill, Tennessee, United States of America",
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Health-Center-Nursing-Supervisor_JR-202609633",
+    "job_location": "New Brighton, Minnesota, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brighton-Minnesota-United-States-of-America/Clinical-Trials-Assistant--Shockwave--Reducer-_R-072617-2",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f78cdc37ee7addb3d58f6f563d0cb663853150255b9da3ec35a7de701cf6a0a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:59.332Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-069424",
+    "job_title": "Preclinical Scientist, Surgical - MedTech Surgery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cincinnati, Ohio, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Preclinical-Scientist--Surgical---MedTech-Surgery_R-069424-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cb1af64bcebca8c6588fe56d07f4a1c63a6e95ac4f108d36d452d20a803963ba",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:59.332Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202608493",
+    "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
+    "employer_name": "General Motors",
+    "job_city": "Roanoke",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Roanoke, Indiana, United States of America",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Roanoke-Indiana-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202608493",
     "job_posted_at_datetime_utc": "2026-04-30T07:03:44.068Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0aaf75d5b3b3f0cffa69ef8d3565045a41fa9b7b41ccc270d7336ce6f9a49c70",
+    "fingerprint": "35a76478dc3d35266c073e06946fde22704d0485900e92398104c4c681f24f9f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5566,19 +5566,19 @@
     "job_posted_at": "2026-04-30T07:03:44.068Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202608493",
-    "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
+    "job_id": "workday-general-motors-JR-202609633",
+    "job_title": "Health Center Nursing Supervisor",
     "employer_name": "General Motors",
-    "job_city": "Roanoke",
-    "job_state": "IN",
+    "job_city": "Spring Hill",
+    "job_state": "TN",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Roanoke, Indiana, United States of America",
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Roanoke-Indiana-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202608493",
+    "job_location": "Spring Hill, Tennessee, United States of America",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Health-Center-Nursing-Supervisor_JR-202609633",
     "job_posted_at_datetime_utc": "2026-04-30T07:03:44.068Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "35a76478dc3d35266c073e06946fde22704d0485900e92398104c4c681f24f9f",
+    "fingerprint": "0aaf75d5b3b3f0cffa69ef8d3565045a41fa9b7b41ccc270d7336ce6f9a49c70",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5701,36 +5701,6 @@
     "job_posted_at": "2026-04-30T07:03:41.044Z"
   },
   {
-    "job_id": "workday-globus-medical-JR106632",
-    "job_title": "Fast Track Spine Specialist (Chicago, IL)",
-    "employer_name": "Globus Medical",
-    "job_city": "Illinois",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Illinois",
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Illinois/Fast-Track-Spine-Specialist--Chicago--IL-_JR106632",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:33.547Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0c0721754d57196c08ebbc60abfb0d52d519225a1455b84a71737e9fd841b62c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:33.547Z"
-  },
-  {
     "job_id": "workday-globus-medical-JR106631",
     "job_title": "Fast Track Spine Specialist (Michigan)",
     "employer_name": "Globus Medical",
@@ -5834,6 +5804,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e7f0dba57f304b337f88c8106c24cbe71ed6298c005d457898a4632bf5571334",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:33.547Z"
+  },
+  {
+    "job_id": "workday-globus-medical-JR106632",
+    "job_title": "Fast Track Spine Specialist (Chicago, IL)",
+    "employer_name": "Globus Medical",
+    "job_city": "Illinois",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Illinois",
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Illinois/Fast-Track-Spine-Specialist--Chicago--IL-_JR106632",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:33.547Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0c0721754d57196c08ebbc60abfb0d52d519225a1455b84a71737e9fd841b62c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6456,36 +6456,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-29T07:12:08.795Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179405",
-    "job_title": "Part Time Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Largo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - FL - Largo",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
   },
   {
     "job_id": "workday-takeda-R0178551",
@@ -7191,6 +7161,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a87a752f6580e89a0f7b86a54db6d7a02063049062c0aa02285716a1f807401f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179405",
+    "job_title": "Part Time Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Largo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - FL - Largo",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9199,36 +9199,6 @@
     "job_posted_at": "2026-04-28T07:02:37.007Z"
   },
   {
-    "job_id": "workday-abbott-31147603",
-    "job_title": "Clinical Specialist, MCS - Nashville",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Tennessee - Nashville",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:11.080Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:11.080Z"
-  },
-  {
     "job_id": "workday-abbott-31148866",
     "job_title": "Clinical Specialist",
     "employer_name": "Abbott",
@@ -9302,6 +9272,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3939e8e756781dde548b32fcbdaa1431b11da8df1582bd738c2f8b6601756d53",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:11.080Z"
+  },
+  {
+    "job_id": "workday-abbott-31147603",
+    "job_title": "Clinical Specialist, MCS - Nashville",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Tennessee - Nashville",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:11.080Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9741,19 +9741,19 @@
     "job_posted_at": "2026-04-28T07:00:35.378Z"
   },
   {
-    "job_id": "workday-cigna-26003177",
-    "job_title": "PT Inpatient Telepharmacist - Evening & Overnight Shifts - Remote",
+    "job_id": "workday-cigna-26000994",
+    "job_title": "RN Health Coach - Evernorth - Ottawa KS",
     "employer_name": "Cigna",
-    "job_city": "United States Work at Home",
-    "job_state": "",
+    "job_city": "Ottawa",
+    "job_state": "KS",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "United States Work at Home",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/PT-Inpatient-Telepharmacist---Evening---Overnight-Shifts---Remote_26003177-1",
+    "job_location": "Ottawa, KS",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Ottawa-KS/RN---Clinic-RN---Health-Coach---Evernorth---Ottawa-KS_26000994",
     "job_posted_at_datetime_utc": "2026-04-28T07:00:35.378Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "27b45792b12bba257640c10a33b0ae0773ecdb3786a7df8de7558d6d60a8542f",
+    "fingerprint": "e2dd1154dd23fd4307ca8d238df750f133655634ce150295e03a4e7a2072407d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9771,19 +9771,19 @@
     "job_posted_at": "2026-04-28T07:00:35.378Z"
   },
   {
-    "job_id": "workday-cigna-26000994",
-    "job_title": "RN Health Coach - Evernorth - Ottawa KS",
+    "job_id": "workday-cigna-26003177",
+    "job_title": "PT Inpatient Telepharmacist - Evening & Overnight Shifts - Remote",
     "employer_name": "Cigna",
-    "job_city": "Ottawa",
-    "job_state": "KS",
+    "job_city": "United States Work at Home",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Ottawa, KS",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Ottawa-KS/RN---Clinic-RN---Health-Coach---Evernorth---Ottawa-KS_26000994",
+    "job_location": "United States Work at Home",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/PT-Inpatient-Telepharmacist---Evening---Overnight-Shifts---Remote_26003177-1",
     "job_posted_at_datetime_utc": "2026-04-28T07:00:35.378Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e2dd1154dd23fd4307ca8d238df750f133655634ce150295e03a4e7a2072407d",
+    "fingerprint": "27b45792b12bba257640c10a33b0ae0773ecdb3786a7df8de7558d6d60a8542f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10300,47 +10300,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-27T23:06:34.618Z"
-  },
-  {
-    "job_id": "apple-200660347",
-    "job_title": "Clinical Specialist, Health",
-    "employer_name": "Apple",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York City",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200660347/clinical-specialist-health",
-    "job_posted_at_datetime_utc": "2026-04-27T22:47:58.778Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4c3b09119bca9902f9d2be6f7f2049968a94a0f63a5aaf48c76ec32ac4362a67",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T22:47:58.778Z"
   }
 ]
