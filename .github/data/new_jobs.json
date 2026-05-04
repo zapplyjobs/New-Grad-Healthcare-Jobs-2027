@@ -9,7 +9,7 @@
     "job_is_remote": false,
     "job_location": "USA - OK - Oklahoma City",
     "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/EMT----AEMT-or-EMT-I-_R0179558-1",
-    "job_posted_at_datetime_utc": "2026-05-04T16:55:34.183Z",
+    "job_posted_at_datetime_utc": "2026-05-04T17:11:43.552Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1c993d99d1e9d9ebe531923f11a9c4f56fb2fb06287c3b0d934d5b318ab206a6",
@@ -27,7 +27,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T16:55:34.183Z"
+    "job_posted_at": "2026-05-04T17:11:43.552Z"
   },
   {
     "job_id": "workday-takeda-R0179556",
@@ -39,7 +39,7 @@
     "job_is_remote": false,
     "job_location": "USA - OK - Oklahoma City",
     "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/Paramedic--EMT-P----No-Overnight-Shifts_R0179556-1",
-    "job_posted_at_datetime_utc": "2026-05-04T16:55:34.183Z",
+    "job_posted_at_datetime_utc": "2026-05-04T16:39:27.574Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "bdf1f64f4131d41d18236f63128c25cfcb26f4b4f0b8b677eaeee2ebc7e79a34",
@@ -57,7 +57,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T16:55:34.183Z"
+    "job_posted_at": "2026-05-04T16:39:27.574Z"
   },
   {
     "job_id": "workday-takeda-R0179554",
@@ -69,7 +69,7 @@
     "job_is_remote": false,
     "job_location": "USA - OK - Oklahoma City",
     "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/RN----Day-One-Benefits_R0179554-1",
-    "job_posted_at_datetime_utc": "2026-05-04T16:55:34.183Z",
+    "job_posted_at_datetime_utc": "2026-05-04T16:39:27.574Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7da8c2634f80a3413c135a7274b22b9e745d3e2a93e86eeedfe2104c34040069",
@@ -87,7 +87,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T16:55:34.183Z"
+    "job_posted_at": "2026-05-04T16:39:27.574Z"
   },
   {
     "job_id": "workday-takeda-R0179555",
@@ -99,7 +99,7 @@
     "job_is_remote": false,
     "job_location": "USA - SC - Spartanburg",
     "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Plasma-Center-Nurse-LPN_R0179555-1",
-    "job_posted_at_datetime_utc": "2026-05-04T16:55:34.183Z",
+    "job_posted_at_datetime_utc": "2026-05-04T16:39:27.574Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f8b35ca44a7856b5c5afeca6cf4660b123ff6449de952c0b847b495642db5667",
@@ -117,7 +117,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T16:55:34.183Z"
+    "job_posted_at": "2026-05-04T16:39:27.574Z"
   },
   {
     "job_id": "workday-takeda-R0177831",
@@ -129,7 +129,7 @@
     "job_is_remote": false,
     "job_location": "Boston, MA",
     "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Head--Global-Oncology-Strategic-Market-Research---Advanced-Analytics-Innovation_R0177831",
-    "job_posted_at_datetime_utc": "2026-05-04T16:55:34.183Z",
+    "job_posted_at_datetime_utc": "2026-05-04T16:39:27.574Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9eabba3fcd86ab36d94cf92556b7980dde1caf08292158ece66ed380da65dfab",
@@ -147,7 +147,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T16:55:34.183Z"
+    "job_posted_at": "2026-05-04T16:39:27.574Z"
   },
   {
     "job_id": "workday-takeda-R0179553",
@@ -159,7 +159,7 @@
     "job_is_remote": false,
     "job_location": "USA - OK - Oklahoma City",
     "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---OK---Oklahoma-City/LPN---Day-One-Benefits_R0179553-1",
-    "job_posted_at_datetime_utc": "2026-05-04T16:55:34.183Z",
+    "job_posted_at_datetime_utc": "2026-05-04T16:39:27.574Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fab69a422f75838263f1a357f05baec88baaa372006c01a0e764e240428a633a",
@@ -177,7 +177,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T16:55:34.183Z"
+    "job_posted_at": "2026-05-04T16:39:27.574Z"
   },
   {
     "job_id": "workday-takeda-R0179552",
@@ -189,7 +189,7 @@
     "job_is_remote": false,
     "job_location": "USA - SC - Spartanburg",
     "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---SC---Spartanburg/Plasma-Center-Nurse-RN_R0179552-1",
-    "job_posted_at_datetime_utc": "2026-05-04T16:55:34.183Z",
+    "job_posted_at_datetime_utc": "2026-05-04T16:39:27.574Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fd505b832ff4f31e5077fead77b0ac79ba7ca0d7281d43cc4253e1da157d8aea",
@@ -207,7 +207,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T16:55:34.183Z"
+    "job_posted_at": "2026-05-04T16:39:27.574Z"
   },
   {
     "job_id": "workday-cigna-26005331",
@@ -219,7 +219,7 @@
     "job_is_remote": false,
     "job_location": "Fayetteville, GA",
     "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Fayetteville-GA/Onsite-RN-Health-Coach--Fayetteville--GA_26005331",
-    "job_posted_at_datetime_utc": "2026-05-04T16:51:50.501Z",
+    "job_posted_at_datetime_utc": "2026-05-04T16:36:00.570Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "80d27d20c604d9d3eef2bd909c0e0f9d9d34c87c087492a90a2b96831c53e9db",
@@ -237,7 +237,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T16:51:50.501Z"
+    "job_posted_at": "2026-05-04T16:36:00.570Z"
   },
   {
     "job_id": "workday-abbott-31146598",
@@ -249,7 +249,7 @@
     "job_is_remote": false,
     "job_location": "United States - Virginia - Altavista",
     "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Stockroom-Clerk---3rd-Shift---Altavista-Plant_31146598-1",
-    "job_posted_at_datetime_utc": "2026-05-04T16:50:58.257Z",
+    "job_posted_at_datetime_utc": "2026-05-04T16:35:06.207Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "16d070aca67445133e35f951a0bce33b2e8f9e3f1b5fa39128e98390666842f1",
@@ -267,7 +267,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T16:50:58.257Z"
+    "job_posted_at": "2026-05-04T16:35:06.207Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01351960",
@@ -2295,36 +2295,6 @@
     "job_posted_at": "2026-05-01T07:04:56.978Z"
   },
   {
-    "job_id": "workday-medtronic-R62598",
-    "job_title": "CRM Clinical Specialist - Hartford, CT",
-    "employer_name": "Medtronic",
-    "job_city": "Hartford",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hartford, Connecticut, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8454a17c7be9134dff173087dc1404cee6c3637f3e452725d415b395260b278",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:04:47.437Z"
-  },
-  {
     "job_id": "workday-medtronic-R59617",
     "job_title": "Clinical Specialist, CRM - Rochester, NY",
     "employer_name": "Medtronic",
@@ -2377,6 +2347,36 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:04:47.437Z"
+  },
+  {
+    "job_id": "workday-medtronic-R62598",
+    "job_title": "CRM Clinical Specialist - Hartford, CT",
+    "employer_name": "Medtronic",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hartford, Connecticut, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8454a17c7be9134dff173087dc1404cee6c3637f3e452725d415b395260b278",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -2445,19 +2445,19 @@
     "job_posted_at": "2026-05-01T07:04:30.822Z"
   },
   {
-    "job_id": "workday-leidos-R-00182346",
-    "job_title": "Military Family Life Counselor - Schofield Barracks, HI",
+    "job_id": "workday-leidos-R-00182324",
+    "job_title": "Military Family Life School Counselor - MCB, Hawaii",
     "employer_name": "Leidos",
-    "job_city": "Honolulu",
+    "job_city": "Marine Corps Base Kaneohe Bay",
     "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Honolulu, HI",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Military-Family-Life-Counselor---Schofield-Barracks--HI_R-00182346",
+    "job_location": "Marine Corps Base Kaneohe Bay, HI",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Marine-Corps-Base-Kaneohe-Bay-HI/Military-Family-Life-School-Counselor---MCB--Hawaii_R-00182324",
     "job_posted_at_datetime_utc": "2026-05-01T07:04:12.955Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "364defeb2e3668719f799f9ea020ec442111dea51723ed01f7961f2149bb56d3",
+    "fingerprint": "d3ead766437935dc0ac542de185338ebf9f35c59ea043021d3fa29382aa6239d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2475,19 +2475,19 @@
     "job_posted_at": "2026-05-01T07:04:12.955Z"
   },
   {
-    "job_id": "workday-leidos-R-00182324",
-    "job_title": "Military Family Life School Counselor - MCB, Hawaii",
+    "job_id": "workday-leidos-R-00182346",
+    "job_title": "Military Family Life Counselor - Schofield Barracks, HI",
     "employer_name": "Leidos",
-    "job_city": "Marine Corps Base Kaneohe Bay",
+    "job_city": "Honolulu",
     "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Marine Corps Base Kaneohe Bay, HI",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Marine-Corps-Base-Kaneohe-Bay-HI/Military-Family-Life-School-Counselor---MCB--Hawaii_R-00182324",
+    "job_location": "Honolulu, HI",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Military-Family-Life-Counselor---Schofield-Barracks--HI_R-00182346",
     "job_posted_at_datetime_utc": "2026-05-01T07:04:12.955Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d3ead766437935dc0ac542de185338ebf9f35c59ea043021d3fa29382aa6239d",
+    "fingerprint": "364defeb2e3668719f799f9ea020ec442111dea51723ed01f7961f2149bb56d3",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5374,6 +5374,36 @@
     "job_posted_at": "2026-04-30T07:03:32.417Z"
   },
   {
+    "job_id": "workday-cigna-26004418",
+    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
+    "employer_name": "Cigna",
+    "job_city": "Clinic Arlington County Clarendon Blvd",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:01.667Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:01.667Z"
+  },
+  {
     "job_id": "workday-cigna-26004429",
     "job_title": "Home Infusion Nurse, Per Diem – Accredo - Springfield, IL",
     "employer_name": "Cigna",
@@ -5477,36 +5507,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:01.667Z"
-  },
-  {
-    "job_id": "workday-cigna-26004418",
-    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
-    "employer_name": "Cigna",
-    "job_city": "Clinic Arlington County Clarendon Blvd",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:01.667Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6883,36 +6883,6 @@
     "job_posted_at": "2026-04-29T07:02:39.256Z"
   },
   {
-    "job_id": "workday-abbott-31149034",
-    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
-    "employer_name": "Abbott",
-    "job_city": "Texas - Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Texas - Houston",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:11.079Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:02:11.079Z"
-  },
-  {
     "job_id": "workday-abbott-31149132",
     "job_title": "Clinical Associate",
     "employer_name": "Abbott",
@@ -6986,6 +6956,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "95ec9e1cd957eeec6b076ae7d9619405674bd04222a0c60e0ac4be545afd46ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:02:11.079Z"
+  },
+  {
+    "job_id": "workday-abbott-31149034",
+    "job_title": "Clinical Account Representative, CardioMEMS - Houston",
+    "employer_name": "Abbott",
+    "job_city": "Texas - Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Texas - Houston",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Houston/Clinical-Account-Representative--CardioMEMS---Houston_31149034-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:02:11.079Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03474815c64cbeaf23fdbcdf995a0fe495de64ba3e8345be627e952f2e94cdb9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8692,36 +8692,6 @@
     "job_posted_at": "2026-04-28T07:02:37.007Z"
   },
   {
-    "job_id": "workday-abbott-31147603",
-    "job_title": "Clinical Specialist, MCS - Nashville",
-    "employer_name": "Abbott",
-    "job_city": "Tennessee - Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Tennessee - Nashville",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:11.080Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:11.080Z"
-  },
-  {
     "job_id": "workday-abbott-31148866",
     "job_title": "Clinical Specialist",
     "employer_name": "Abbott",
@@ -8795,6 +8765,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3939e8e756781dde548b32fcbdaa1431b11da8df1582bd738c2f8b6601756d53",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:11.080Z"
+  },
+  {
+    "job_id": "workday-abbott-31147603",
+    "job_title": "Clinical Specialist, MCS - Nashville",
+    "employer_name": "Abbott",
+    "job_city": "Tennessee - Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Tennessee - Nashville",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Clinical-Consultant--MCS---Nashville_31147603-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:11.080Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
     "tags": {
       "employment": "entry_level",
       "domains": [
