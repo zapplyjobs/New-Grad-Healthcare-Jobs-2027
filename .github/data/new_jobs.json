@@ -120,6 +120,37 @@
     "job_posted_at": "2026-05-04T00:20:20.473Z"
   },
   {
+    "job_id": "lever-includedhealth-371dcf5d-4923-418a-b575-37021e3d3ad6",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Georgia",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Georgia",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/371dcf5d-4923-418a-b575-37021e3d3ad6/apply",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:54.953Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d69d7904aa8ec472e89b4cf1eb8b9c880a347f1a253381a1b949ab6ee1f5dcf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-02T13:30:54.953Z"
+  },
+  {
     "job_id": "lever-includedhealth-6e522bd8-5dad-4be2-87fe-d775c6ea8c46",
     "job_title": "Psychiatrist",
     "employer_name": "Included Health",
@@ -164,37 +195,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "30a5c9e978db285b39794782c157c03636031a479e33180f52bbea3aa2d29191",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-05-02T13:30:54.953Z"
-  },
-  {
-    "job_id": "lever-includedhealth-371dcf5d-4923-418a-b575-37021e3d3ad6",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Georgia",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Georgia",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/371dcf5d-4923-418a-b575-37021e3d3ad6/apply",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:54.953Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d69d7904aa8ec472e89b4cf1eb8b9c880a347f1a253381a1b949ab6ee1f5dcf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3185,6 +3185,36 @@
     "job_posted_at": "2026-04-30T15:01:36.164Z"
   },
   {
+    "job_id": "workday-takeda-R0179419",
+    "job_title": "Plasma Center Nurse- RN- Day 1 Benefits!",
+    "employer_name": "Takeda",
+    "job_city": "TX - Abilene",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Abilene",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--RN--Day-1-Benefits-_R0179419-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9e5b1e6b620bf60418da0a68c5554fa80af20bee6d69a57d511fd63c6a640c1e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
     "job_id": "workday-takeda-R0175138",
     "job_title": "EMT – I – No Overnight Shifts",
     "employer_name": "Takeda",
@@ -3755,36 +3785,6 @@
     "job_posted_at": "2026-04-30T07:05:50.705Z"
   },
   {
-    "job_id": "workday-takeda-R0179419",
-    "job_title": "Plasma Center Nurse- RN- Day 1 Benefits!",
-    "employer_name": "Takeda",
-    "job_city": "TX - Abilene",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Abilene",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Abilene/Plasma-Center-Nurse--RN--Day-1-Benefits-_R0179419-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e5b1e6b620bf60418da0a68c5554fa80af20bee6d69a57d511fd63c6a640c1e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01349605",
     "job_title": "Clinical Research Coordinator",
     "employer_name": "Thermo Fisher Scientific",
@@ -4217,66 +4217,6 @@
     "job_posted_at": "2026-04-30T07:04:06.554Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-072617",
-    "job_title": "Clinical Trials Assistant- Shockwave (Reducer)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "New Brighton",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New Brighton, Minnesota, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brighton-Minnesota-United-States-of-America/Clinical-Trials-Assistant--Shockwave--Reducer-_R-072617-2",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f78cdc37ee7addb3d58f6f563d0cb663853150255b9da3ec35a7de701cf6a0a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:59.332Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-069424",
-    "job_title": "Preclinical Scientist, Surgical - MedTech Surgery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Cincinnati",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cincinnati, Ohio, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Preclinical-Scientist--Surgical---MedTech-Surgery_R-069424-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cb1af64bcebca8c6588fe56d07f4a1c63a6e95ac4f108d36d452d20a803963ba",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:59.332Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-051648",
     "job_title": "Associate Area Manager or Area Manager - Arlington, VA to Washington, DC - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -4329,6 +4269,66 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:59.332Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-072617",
+    "job_title": "Clinical Trials Assistant- Shockwave (Reducer)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "New Brighton",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New Brighton, Minnesota, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brighton-Minnesota-United-States-of-America/Clinical-Trials-Assistant--Shockwave--Reducer-_R-072617-2",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f78cdc37ee7addb3d58f6f563d0cb663853150255b9da3ec35a7de701cf6a0a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:59.332Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-069424",
+    "job_title": "Preclinical Scientist, Surgical - MedTech Surgery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cincinnati, Ohio, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Preclinical-Scientist--Surgical---MedTech-Surgery_R-069424-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cb1af64bcebca8c6588fe56d07f4a1c63a6e95ac4f108d36d452d20a803963ba",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
@@ -6191,6 +6191,66 @@
     "job_posted_at": "2026-04-29T07:02:39.256Z"
   },
   {
+    "job_id": "workday-abbott-31147606",
+    "job_title": "Clinical Specialist, Vessel Closure - Phoenix/Tucson, AZ",
+    "employer_name": "Abbott",
+    "job_city": "United States Arizona Phoenix",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States Arizona Phoenix + 1 more",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist--Vessel-Closure---Phoenix--AZ_31147606-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:02:11.079Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3b39828a930f6d551a3e29674a5bcfb22786e3675a3d316aa0a55e9d0343944b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:02:11.079Z"
+  },
+  {
+    "job_id": "workday-abbott-31149131",
+    "job_title": "Plant Occupational Health Nurse",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Tipp City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Ohio - Tipp City",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Tipp-City/Plant-Occupational-Health-Nurse_31149131-2",
+    "job_posted_at_datetime_utc": "2026-04-29T07:02:11.079Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "95ec9e1cd957eeec6b076ae7d9619405674bd04222a0c60e0ac4be545afd46ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:02:11.079Z"
+  },
+  {
     "job_id": "workday-abbott-31149034",
     "job_title": "Clinical Account Representative, CardioMEMS - Houston",
     "employer_name": "Abbott",
@@ -6251,19 +6311,19 @@
     "job_posted_at": "2026-04-29T07:02:11.079Z"
   },
   {
-    "job_id": "workday-abbott-31147606",
-    "job_title": "Clinical Specialist, Vessel Closure - Phoenix/Tucson, AZ",
-    "employer_name": "Abbott",
-    "job_city": "United States Arizona Phoenix",
-    "job_state": "",
+    "job_id": "workday-medtronic-R64928",
+    "job_title": "Associate Clinical Specialist, Pain Interventions - Oklahoma City, OK",
+    "employer_name": "Medtronic",
+    "job_city": "Oklahoma City",
+    "job_state": "OK",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "United States Arizona Phoenix + 1 more",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist--Vessel-Closure---Phoenix--AZ_31147606-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:11.079Z",
+    "job_location": "Oklahoma City, Oklahoma, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oklahoma-City-Oklahoma-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---Oklahoma-City--OK_R64928-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:01:56.501Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3b39828a930f6d551a3e29674a5bcfb22786e3675a3d316aa0a55e9d0343944b",
+    "fingerprint": "e7771918e99dff8603b03023a68371ee6762ac241701e361c466ca890120997c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6278,37 +6338,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:02:11.079Z"
-  },
-  {
-    "job_id": "workday-abbott-31149131",
-    "job_title": "Plant Occupational Health Nurse",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Tipp City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Tipp City",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Tipp-City/Plant-Occupational-Health-Nurse_31149131-2",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:11.079Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "95ec9e1cd957eeec6b076ae7d9619405674bd04222a0c60e0ac4be545afd46ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:02:11.079Z"
+    "job_posted_at": "2026-04-29T07:01:56.501Z"
   },
   {
     "job_id": "workday-medtronic-R65475",
@@ -6384,36 +6414,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8c452c600d71e92e3af382c50f13f96a9fef9c63090bd74a8605b9591890cf20",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:01:56.501Z"
-  },
-  {
-    "job_id": "workday-medtronic-R64928",
-    "job_title": "Associate Clinical Specialist, Pain Interventions - Oklahoma City, OK",
-    "employer_name": "Medtronic",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Oklahoma City, Oklahoma, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oklahoma-City-Oklahoma-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---Oklahoma-City--OK_R64928-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:01:56.501Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e7771918e99dff8603b03023a68371ee6762ac241701e361c466ca890120997c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7758,36 +7758,6 @@
     "job_posted_at": "2026-04-28T07:03:08.771Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01348744",
-    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Diego, California, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:55.631Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:55.631Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01350148",
     "job_title": "QC Scientist I",
     "employer_name": "Thermo Fisher Scientific",
@@ -7840,6 +7810,36 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:55.631Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01348744",
+    "job_title": "FSP - Scientist - Small Molecule Analytical Development Testing",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Diego, California, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Diego-California-USA/FSP---Scientist---Analytical-Development-Testing_R-01348744",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:55.631Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f85bd087b0a3b3052e5578f00f051415d508195e9860e2865fe52e8818257b5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
