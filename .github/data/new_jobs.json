@@ -5536,19 +5536,19 @@
     "job_posted_at": "2026-04-30T07:03:59.332Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202608493",
-    "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
+    "job_id": "workday-general-motors-JR-202609633",
+    "job_title": "Health Center Nursing Supervisor",
     "employer_name": "General Motors",
-    "job_city": "Roanoke",
-    "job_state": "IN",
+    "job_city": "Spring Hill",
+    "job_state": "TN",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Roanoke, Indiana, United States of America",
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Roanoke-Indiana-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202608493",
+    "job_location": "Spring Hill, Tennessee, United States of America",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Health-Center-Nursing-Supervisor_JR-202609633",
     "job_posted_at_datetime_utc": "2026-04-30T07:03:44.068Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "35a76478dc3d35266c073e06946fde22704d0485900e92398104c4c681f24f9f",
+    "fingerprint": "0aaf75d5b3b3f0cffa69ef8d3565045a41fa9b7b41ccc270d7336ce6f9a49c70",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5566,19 +5566,19 @@
     "job_posted_at": "2026-04-30T07:03:44.068Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202609633",
-    "job_title": "Health Center Nursing Supervisor",
+    "job_id": "workday-general-motors-JR-202608493",
+    "job_title": "Registered Nurse - Occupational Health - PRN/per diem",
     "employer_name": "General Motors",
-    "job_city": "Spring Hill",
-    "job_state": "TN",
+    "job_city": "Roanoke",
+    "job_state": "IN",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Spring Hill, Tennessee, United States of America",
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Health-Center-Nursing-Supervisor_JR-202609633",
+    "job_location": "Roanoke, Indiana, United States of America",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Roanoke-Indiana-United-States-of-America/Registered-Nurse---Occupational-Health---PRN-per-diem_JR-202608493",
     "job_posted_at_datetime_utc": "2026-04-30T07:03:44.068Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0aaf75d5b3b3f0cffa69ef8d3565045a41fa9b7b41ccc270d7336ce6f9a49c70",
+    "fingerprint": "35a76478dc3d35266c073e06946fde22704d0485900e92398104c4c681f24f9f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5701,66 +5701,6 @@
     "job_posted_at": "2026-04-30T07:03:41.044Z"
   },
   {
-    "job_id": "workday-globus-medical-JR106611",
-    "job_title": "Associate Interventional Specialist (Naples/ Ft. Myers, FL)",
-    "employer_name": "Globus Medical",
-    "job_city": "Florida",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Florida",
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Florida/Associate-Interventional-Specialist--Naples--Ft-Myers--FL-_JR106611",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:33.547Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f320730e2eb7c7e4f812b743f4a58e8921f2f6a0f38f21d4ee7773288b1e3e19",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:33.547Z"
-  },
-  {
-    "job_id": "workday-globus-medical-JR106593",
-    "job_title": "Associate Spine Specialist (Detroit, MI)",
-    "employer_name": "Globus Medical",
-    "job_city": "Michigan",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Michigan",
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Michigan/Associate-Spine-Specialist--Detroit--MI-_JR106593",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:33.547Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e6170c102da69c813c381128b90ad56a0449db0c80f0e1a2a409e67deec272cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:33.547Z"
-  },
-  {
     "job_id": "workday-globus-medical-JR106630",
     "job_title": "Fast Track Spine Specialist (Ohio)",
     "employer_name": "Globus Medical",
@@ -5834,6 +5774,66 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8a3c9401389d9dc398423bcf5450a9e66818ef6d3dab020d9953cb419724e315",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:33.547Z"
+  },
+  {
+    "job_id": "workday-globus-medical-JR106611",
+    "job_title": "Associate Interventional Specialist (Naples/ Ft. Myers, FL)",
+    "employer_name": "Globus Medical",
+    "job_city": "Florida",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Florida",
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Florida/Associate-Interventional-Specialist--Naples--Ft-Myers--FL-_JR106611",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:33.547Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f320730e2eb7c7e4f812b743f4a58e8921f2f6a0f38f21d4ee7773288b1e3e19",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:33.547Z"
+  },
+  {
+    "job_id": "workday-globus-medical-JR106593",
+    "job_title": "Associate Spine Specialist (Detroit, MI)",
+    "employer_name": "Globus Medical",
+    "job_city": "Michigan",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Michigan",
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Michigan/Associate-Spine-Specialist--Detroit--MI-_JR106593",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:33.547Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e6170c102da69c813c381128b90ad56a0449db0c80f0e1a2a409e67deec272cc",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9047,37 +9047,6 @@
     "job_posted_at": "2026-04-28T07:02:55.631Z"
   },
   {
-    "job_id": "workday-philips-579348",
-    "job_title": "Cardiology Clinical Product Manager- Pediatric Sonographer",
-    "employer_name": "Philips",
-    "job_city": "Cambridge (US)",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cambridge (US), Massachusetts, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Cardiology-Clinical-Product-Manager--Pediatric-Sonographer_579348-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:44.221Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d681651e8d37d401e208e48a24e2644ce6b79fc06ee4dfe6db17f8bde1ae1e20",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:44.221Z"
-  },
-  {
     "job_id": "workday-philips-580988",
     "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Washington, DC)",
     "employer_name": "Philips",
@@ -9096,6 +9065,37 @@
       "domains": [
         "healthcare",
         "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:44.221Z"
+  },
+  {
+    "job_id": "workday-philips-579348",
+    "job_title": "Cardiology Clinical Product Manager- Pediatric Sonographer",
+    "employer_name": "Philips",
+    "job_city": "Cambridge (US)",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cambridge (US), Massachusetts, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Cardiology-Clinical-Product-Manager--Pediatric-Sonographer_579348-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:44.221Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d681651e8d37d401e208e48a24e2644ce6b79fc06ee4dfe6db17f8bde1ae1e20",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "product"
       ],
       "locations": [
         "us"
@@ -9199,6 +9199,36 @@
     "job_posted_at": "2026-04-28T07:02:37.007Z"
   },
   {
+    "job_id": "workday-abbott-31148866",
+    "job_title": "Clinical Specialist",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Ohio - Columbus",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:11.080Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:11.080Z"
+  },
+  {
     "job_id": "workday-abbott-31148530",
     "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
     "employer_name": "Abbott",
@@ -9272,36 +9302,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "502dc7267262965616e0fb9ac3b66b94f597ad84312b0a1a194a0e4b272f9416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:11.080Z"
-  },
-  {
-    "job_id": "workday-abbott-31148866",
-    "job_title": "Clinical Specialist",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Columbus",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Clinical-Specialist_31148866-2",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:11.080Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4b6bafe0ac0d0a217d348b2a28c5679f5f3b899b2358d10362d97e9b36e3c85",
     "tags": {
       "employment": "entry_level",
       "domains": [
