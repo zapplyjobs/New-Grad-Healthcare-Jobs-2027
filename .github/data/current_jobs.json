@@ -1,5 +1,65 @@
 [
   {
+    "job_id": "workday-takeda-R0178848",
+    "job_title": "Hematology Key Account Manager (Washington, Oregon, Alaska)",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Washington - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Washington---Virtual/Hematology-Key-Account-Manager--Washington--Oregon--Alaska-_R0178848-1",
+    "job_posted_at_datetime_utc": "2026-05-04T15:09:43.831Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af12be181b804d3a6a5379ccd29b6527136cf36b79c17cefb5add3ee73216e65",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T15:09:43.831Z"
+  },
+  {
+    "job_id": "workday-cigna-26001892",
+    "job_title": "Pharmacy Technician Associate Representative - CarepathRx - US Remote",
+    "employer_name": "Cigna",
+    "job_city": "Georgia Work at Home",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Georgia Work at Home + 1 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Georgia-Work-at-Home/Pharmacy-Technician-Associate-Representative---CarepathRx---US-Remote_26001892",
+    "job_posted_at_datetime_utc": "2026-05-04T15:06:19.840Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dbd05afeb7b1bddd7d604b3aa4aae1ce7174a18286017fbbbd1a262eb4dfe11f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T15:06:19.840Z"
+  },
+  {
     "job_id": "workday-kbr-R2123085",
     "job_title": "Special Operations Strength and Conditioning Specialist (JEB, Little Creek, VA)",
     "employer_name": "KBR",
@@ -1515,6 +1575,126 @@
     "job_posted_at": "2026-05-01T07:05:50.705Z"
   },
   {
+    "job_id": "workday-takeda-R0179525",
+    "job_title": "Medical Screener, Phlebotomist - Morning Shift",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - AZ - Mesa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Screener--Phlebotomist---Morning-Shift_R0179525-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c5763dcb24c8677f2b9bd6a061e67dad558a97220fb8e83871f375f2b8f84d7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:05:50.704Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179524",
+    "job_title": "Medical Screener, Phlebotomist - Morning Shift",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - AZ - Mesa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Screener--Phlebotomist---Morning-Shift_R0179524",
+    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c5763dcb24c8677f2b9bd6a061e67dad558a97220fb8e83871f375f2b8f84d7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:05:50.704Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179523",
+    "job_title": "Medical Screener, Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - AZ - Mesa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Screener--Phlebotomist_R0179523-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e70da079bbd1e3af94a2156129737ce1a681df723624ff5d7fe019438105fefa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:05:50.704Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179516",
+    "job_title": "Plasma Center Nurse- RN",
+    "employer_name": "Takeda",
+    "job_city": "TX - Irving",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Irving",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Irving/Plasma-Center-Nurse--RN_R0179516-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cc09bc7cb4eb78428aace37cec378a854a18971d9b006c4ec5dc8f027e548562",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:05:50.704Z"
+  },
+  {
     "job_id": "workday-takeda-R0179514",
     "job_title": "Spanish Speaking EMT-P",
     "employer_name": "Takeda",
@@ -1678,126 +1858,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "80ca9a92117c7ff5d8f189b759e23e2219f0e1ac49a5ced867b29e7239618846",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:05:50.704Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179525",
-    "job_title": "Medical Screener, Phlebotomist - Morning Shift",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Mesa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - AZ - Mesa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Screener--Phlebotomist---Morning-Shift_R0179525-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9c5763dcb24c8677f2b9bd6a061e67dad558a97220fb8e83871f375f2b8f84d7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:05:50.704Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179524",
-    "job_title": "Medical Screener, Phlebotomist - Morning Shift",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Mesa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - AZ - Mesa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Screener--Phlebotomist---Morning-Shift_R0179524",
-    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9c5763dcb24c8677f2b9bd6a061e67dad558a97220fb8e83871f375f2b8f84d7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:05:50.704Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179523",
-    "job_title": "Medical Screener, Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Mesa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - AZ - Mesa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Screener--Phlebotomist_R0179523-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e70da079bbd1e3af94a2156129737ce1a681df723624ff5d7fe019438105fefa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:05:50.704Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179516",
-    "job_title": "Plasma Center Nurse- RN",
-    "employer_name": "Takeda",
-    "job_city": "TX - Irving",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Irving",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Irving/Plasma-Center-Nurse--RN_R0179516-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:05:50.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc09bc7cb4eb78428aace37cec378a854a18971d9b006c4ec5dc8f027e548562",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4489,36 +4549,6 @@
     "job_posted_at": "2026-04-30T07:04:06.554Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-069424",
-    "job_title": "Preclinical Scientist, Surgical - MedTech Surgery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Cincinnati",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cincinnati, Ohio, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Preclinical-Scientist--Surgical---MedTech-Surgery_R-069424-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cb1af64bcebca8c6588fe56d07f4a1c63a6e95ac4f108d36d452d20a803963ba",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:59.332Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-051648",
     "job_title": "Associate Area Manager or Area Manager - Arlington, VA to Washington, DC - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -4592,6 +4622,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0f78cdc37ee7addb3d58f6f563d0cb663853150255b9da3ec35a7de701cf6a0a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:59.332Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-069424",
+    "job_title": "Preclinical Scientist, Surgical - MedTech Surgery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cincinnati, Ohio, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Preclinical-Scientist--Surgical---MedTech-Surgery_R-069424-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cb1af64bcebca8c6588fe56d07f4a1c63a6e95ac4f108d36d452d20a803963ba",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4774,36 +4834,6 @@
     "job_posted_at": "2026-04-30T07:03:41.044Z"
   },
   {
-    "job_id": "workday-globus-medical-JR106611",
-    "job_title": "Associate Interventional Specialist (Naples/ Ft. Myers, FL)",
-    "employer_name": "Globus Medical",
-    "job_city": "Florida",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Florida",
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Florida/Associate-Interventional-Specialist--Naples--Ft-Myers--FL-_JR106611",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:33.547Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f320730e2eb7c7e4f812b743f4a58e8921f2f6a0f38f21d4ee7773288b1e3e19",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:33.547Z"
-  },
-  {
     "job_id": "workday-globus-medical-JR106593",
     "job_title": "Associate Spine Specialist (Detroit, MI)",
     "employer_name": "Globus Medical",
@@ -4924,6 +4954,36 @@
     "job_posted_at": "2026-04-30T07:03:33.547Z"
   },
   {
+    "job_id": "workday-globus-medical-JR106611",
+    "job_title": "Associate Interventional Specialist (Naples/ Ft. Myers, FL)",
+    "employer_name": "Globus Medical",
+    "job_city": "Florida",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Florida",
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Florida/Associate-Interventional-Specialist--Naples--Ft-Myers--FL-_JR106611",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:33.547Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f320730e2eb7c7e4f812b743f4a58e8921f2f6a0f38f21d4ee7773288b1e3e19",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:33.547Z"
+  },
+  {
     "job_id": "workday-idexx-J-052586",
     "job_title": "Laboratory Technician – Verification & Validation",
     "employer_name": "IDEXX",
@@ -4952,6 +5012,66 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-30T07:03:32.417Z"
+  },
+  {
+    "job_id": "workday-cigna-26004741",
+    "job_title": "Pharmacy Technician - Accredo - Norcross, GA",
+    "employer_name": "Cigna",
+    "job_city": "Norcross",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Norcross, GA + 1 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Norcross-GA/Pharmacy-Technician---Accredo---Norcross--GA_26004741",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:01.667Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:01.667Z"
+  },
+  {
+    "job_id": "workday-cigna-26004418",
+    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
+    "employer_name": "Cigna",
+    "job_city": "Clinic Arlington County Clarendon Blvd",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:01.667Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:01.667Z"
   },
   {
     "job_id": "workday-cigna-26004429",
@@ -5027,66 +5147,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6540fa75a38d05082388cd27845c8359a5624d1cbac8f7c20cd48116b3e930aa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:01.667Z"
-  },
-  {
-    "job_id": "workday-cigna-26004741",
-    "job_title": "Pharmacy Technician - Accredo - Norcross, GA",
-    "employer_name": "Cigna",
-    "job_city": "Norcross",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Norcross, GA + 1 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Norcross-GA/Pharmacy-Technician---Accredo---Norcross--GA_26004741",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:01.667Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:01.667Z"
-  },
-  {
-    "job_id": "workday-cigna-26004418",
-    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
-    "employer_name": "Cigna",
-    "job_city": "Clinic Arlington County Clarendon Blvd",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:01.667Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7640,6 +7700,126 @@
     "job_posted_at": "2026-04-28T07:03:08.772Z"
   },
   {
+    "job_id": "workday-takeda-R0179290",
+    "job_title": "Plasma Center Nurse- RN",
+    "employer_name": "Takeda",
+    "job_city": "TX - Fort Worth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Fort Worth",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Plasma-Center-Nurse--RN_R0179290-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8154956d41a0e4ebd62a8d08ac143017f3a8fcaff30996ed56d96df84bf5558d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179289",
+    "job_title": "Plasma Center Nurse- LPN",
+    "employer_name": "Takeda",
+    "job_city": "TX - Fort Worth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Fort Worth",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Plasma-Center-Nurse--LPN_R0179289-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "79b9c6a40662d5de1d49033d474696d0ec4bbaa299b7e7623661029dda586f4a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0176875",
+    "job_title": "Plasma Center Manager",
+    "employer_name": "Takeda",
+    "job_city": "MA - Worcester",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MA - Worcester",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Worcester/Plasma-Center-Manager_R0176875-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bbbce83f9c5ee8faadfd1825c70f1cfcc9202e8b1b3709028a2db8387fc9e941",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178846",
+    "job_title": "Rare Disease Business Manager-LSD- Michigan",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Michigan - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Michigan---Virtual/Rare-Disease-Business-Manager-LSD--Michigan_R0178846-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "340393eea0936fadf80c7bbdee063acf5a7b9aab92035c8c09d2f0bdf00cbaf8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:03:08.771Z"
+  },
+  {
     "job_id": "workday-takeda-R0179324",
     "job_title": "Bilingual Plasma Center Nurse (RN)",
     "employer_name": "Takeda",
@@ -7910,126 +8090,6 @@
     "job_posted_at": "2026-04-28T07:03:08.771Z"
   },
   {
-    "job_id": "workday-takeda-R0179290",
-    "job_title": "Plasma Center Nurse- RN",
-    "employer_name": "Takeda",
-    "job_city": "TX - Fort Worth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Fort Worth",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Plasma-Center-Nurse--RN_R0179290-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8154956d41a0e4ebd62a8d08ac143017f3a8fcaff30996ed56d96df84bf5558d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179289",
-    "job_title": "Plasma Center Nurse- LPN",
-    "employer_name": "Takeda",
-    "job_city": "TX - Fort Worth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Fort Worth",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Fort-Worth/Plasma-Center-Nurse--LPN_R0179289-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "79b9c6a40662d5de1d49033d474696d0ec4bbaa299b7e7623661029dda586f4a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176875",
-    "job_title": "Plasma Center Manager",
-    "employer_name": "Takeda",
-    "job_city": "MA - Worcester",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MA - Worcester",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Worcester/Plasma-Center-Manager_R0176875-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bbbce83f9c5ee8faadfd1825c70f1cfcc9202e8b1b3709028a2db8387fc9e941",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178846",
-    "job_title": "Rare Disease Business Manager-LSD- Michigan",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Michigan - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Michigan---Virtual/Rare-Disease-Business-Manager-LSD--Michigan_R0178846-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "340393eea0936fadf80c7bbdee063acf5a7b9aab92035c8c09d2f0bdf00cbaf8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:03:08.771Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01350148",
     "job_title": "QC Scientist I",
     "employer_name": "Thermo Fisher Scientific",
@@ -8120,37 +8180,6 @@
     "job_posted_at": "2026-04-28T07:02:55.631Z"
   },
   {
-    "job_id": "workday-philips-580988",
-    "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Washington, DC)",
-    "employer_name": "Philips",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Washington, District of Columbia, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Devices--Washington--DC-_580988-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:44.221Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e9e39e9d1c84db9b7bd4d803309a01fc24d1564719517703b88b9ab810f320f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:44.221Z"
-  },
-  {
     "job_id": "workday-philips-579348",
     "job_title": "Cardiology Clinical Product Manager- Pediatric Sonographer",
     "employer_name": "Philips",
@@ -8169,6 +8198,37 @@
       "domains": [
         "healthcare",
         "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:44.221Z"
+  },
+  {
+    "job_id": "workday-philips-580988",
+    "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (Washington, DC)",
+    "employer_name": "Philips",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Washington, District of Columbia, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Washington-District-of-Columbia-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Devices--Washington--DC-_580988-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:44.221Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e9e39e9d1c84db9b7bd4d803309a01fc24d1564719517703b88b9ab810f320f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
       ],
       "locations": [
         "us"
@@ -8272,6 +8332,66 @@
     "job_posted_at": "2026-04-28T07:02:37.007Z"
   },
   {
+    "job_id": "workday-abbott-31148530",
+    "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
+    "employer_name": "Abbott",
+    "job_city": "North Carolina - Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - North Carolina - Charlotte",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Charlotte/Associate-Clinical-Specialist--CRM---Charlotte--NC_31148530-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:11.080Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:11.080Z"
+  },
+  {
+    "job_id": "workday-abbott-31149022",
+    "job_title": "Clinical Associate",
+    "employer_name": "Abbott",
+    "job_city": "Florida - Orlando",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Florida - Orlando",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Orlando/Clinical-Associate_31149022-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:11.080Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3939e8e756781dde548b32fcbdaa1431b11da8df1582bd738c2f8b6601756d53",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T07:02:11.080Z"
+  },
+  {
     "job_id": "workday-abbott-31147603",
     "job_title": "Clinical Specialist, MCS - Nashville",
     "employer_name": "Abbott",
@@ -8332,19 +8452,19 @@
     "job_posted_at": "2026-04-28T07:02:11.080Z"
   },
   {
-    "job_id": "workday-abbott-31148530",
-    "job_title": "Associate Clinical Specialist, CRM - Charlotte, NC",
-    "employer_name": "Abbott",
-    "job_city": "North Carolina - Charlotte",
-    "job_state": "",
+    "job_id": "workday-medtronic-R65369",
+    "job_title": "Clinical Specialist, Pain Interventions - Orlando, FL",
+    "employer_name": "Medtronic",
+    "job_city": "Orlando",
+    "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "United States - North Carolina - Charlotte",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---North-Carolina---Charlotte/Associate-Clinical-Specialist--CRM---Charlotte--NC_31148530-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:11.080Z",
+    "job_location": "Orlando, Florida, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Specialist--Pain-Interventions---Orlando--FL_R65369-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:01:56.502Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "03c6a40b04e56ff0c49fe49d64c6ce7b76302b392d5c42c858fcc152c9212295",
+    "fingerprint": "f7d11cf97694a7c0e3c1456763f743ee973908ad74b09a02b3590c16f4dc6003",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8359,37 +8479,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:11.080Z"
-  },
-  {
-    "job_id": "workday-abbott-31149022",
-    "job_title": "Clinical Associate",
-    "employer_name": "Abbott",
-    "job_city": "Florida - Orlando",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Florida - Orlando",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Orlando/Clinical-Associate_31149022-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:11.080Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3939e8e756781dde548b32fcbdaa1431b11da8df1582bd738c2f8b6601756d53",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:02:11.080Z"
+    "job_posted_at": "2026-04-28T07:01:56.502Z"
   },
   {
     "job_id": "workday-medtronic-R65370",
@@ -8465,36 +8555,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8aee7a654b88edd604d430f7675d6c2019856bd7f4d1c9b10af80b28640ebea2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T07:01:56.502Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65369",
-    "job_title": "Clinical Specialist, Pain Interventions - Orlando, FL",
-    "employer_name": "Medtronic",
-    "job_city": "Orlando",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Orlando, Florida, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Clinical-Specialist--Pain-Interventions---Orlando--FL_R65369-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:01:56.502Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7d11cf97694a7c0e3c1456763f743ee973908ad74b09a02b3590c16f4dc6003",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9878,35 +9938,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-27T16:02:16.821Z"
-  },
-  {
-    "job_id": "workday-cigna-26005042",
-    "job_title": "Primary Care Physician - Evernorth Workplace Care - Dalton, GA",
-    "employer_name": "Cigna",
-    "job_city": "Dalton",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dalton, GA + 1 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Dalton-GA/Primary-Care-Physician---Evernorth-Workplace-Care---Dalton--GA_26005042",
-    "job_posted_at_datetime_utc": "2026-04-27T15:25:40.752Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ca5641258ad3e82ab9baa69873224e2889218b0055c9b2dcad1532fbf2d8554",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T15:25:40.752Z"
   }
 ]
