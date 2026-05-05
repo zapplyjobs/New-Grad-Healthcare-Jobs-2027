@@ -1,5 +1,97 @@
 [
   {
+    "job_id": "workday-philips-579553",
+    "job_title": "Sales Support, Clinical Specialist – Coronary Image-Guided Therapy Devices (Denver CO)",
+    "employer_name": "Philips",
+    "job_city": "Denver",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Denver, Colorado, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denver-Colorado-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--Denver-CO-_579553",
+    "job_posted_at_datetime_utc": "2026-05-05T19:33:35.887Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6ac3685e44a9fde7450b1ed78d767651f40336471ffaaa758356182fb0f9c0ab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T19:33:35.887Z"
+  },
+  {
+    "job_id": "workday-guidehouse-39026",
+    "job_title": "Hospital Admissions Rep - Evening Shift, Full Time Onsite",
+    "employer_name": "Guidehouse",
+    "job_city": "CA, Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - CA, Los Angeles",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Los-Angeles/Hospital-Admissions-Rep---Evening-Shift--Full-Time-Onsite_39026",
+    "job_posted_at_datetime_utc": "2026-05-05T19:32:47.246Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a7a5e7e6d88d9209ce637389165d09b6a6b560ecc1acf423ca7af145229ab37b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T19:32:47.246Z"
+  },
+  {
+    "job_id": "workday-cigna-26005337",
+    "job_title": "Clinical Account Executive - Express Scripts - Hybrid (Health Plans)",
+    "employer_name": "Cigna",
+    "job_city": "Morris Plains",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Morris Plains, NJ + 3 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Clinical-Account-Executive---Express-Scripts---Hybrid--Health-Plans-_26005337-1",
+    "job_posted_at_datetime_utc": "2026-05-05T19:32:29.585Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "21fb836b1e5947c365b810edead0cdce9449c186c7799ffb24f90299191b6aeb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T19:32:29.585Z"
+  },
+  {
     "job_id": "workday-takeda-R0179666",
     "job_title": "Medical Screener, Phlebotomist - Benefits on Day 1",
     "employer_name": "Takeda",
@@ -4233,36 +4325,6 @@
     "job_posted_at": "2026-05-01T07:04:47.437Z"
   },
   {
-    "job_id": "workday-medtronic-R65711",
-    "job_title": "Clinical Specialist, Neurovascular - Mobile, AL",
-    "employer_name": "Medtronic",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "3 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mobile-Alabama-United-States-of-America/Clinical-Specialist--Neurovascular---New-Orleans--LA_R65711-2",
-    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dc227cb405fe764f17f66390cffc9464e6802045a41e32542f68ab54cf3a78c0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:04:47.437Z"
-  },
-  {
     "job_id": "workday-medtronic-R62598",
     "job_title": "CRM Clinical Specialist - Hartford, CT",
     "employer_name": "Medtronic",
@@ -4285,6 +4347,36 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:04:47.437Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65711",
+    "job_title": "Clinical Specialist, Neurovascular - Mobile, AL",
+    "employer_name": "Medtronic",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "3 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mobile-Alabama-United-States-of-America/Clinical-Specialist--Neurovascular---New-Orleans--LA_R65711-2",
+    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dc227cb405fe764f17f66390cffc9464e6802045a41e32542f68ab54cf3a78c0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
@@ -7252,36 +7344,6 @@
     "job_posted_at": "2026-04-30T07:03:32.417Z"
   },
   {
-    "job_id": "workday-cigna-26004418",
-    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
-    "employer_name": "Cigna",
-    "job_city": "Clinic Arlington County Clarendon Blvd",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:01.667Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:01.667Z"
-  },
-  {
     "job_id": "workday-cigna-26004429",
     "job_title": "Home Infusion Nurse, Per Diem – Accredo - Springfield, IL",
     "employer_name": "Cigna",
@@ -7385,6 +7447,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c4ab7215efacbc263d65b9ce8d4ccbc2f8789626bac4d4e1d693c967acfaf7fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:01.667Z"
+  },
+  {
+    "job_id": "workday-cigna-26004418",
+    "job_title": "Family Nurse Practitioner - Per Diem - Evernorth - Arlington County",
+    "employer_name": "Cigna",
+    "job_city": "Clinic Arlington County Clarendon Blvd",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Clinic Arlington County Clarendon Blvd, VA + 2 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---Arlington-County---Clarendon-Blvd-VA/Family-Nurse-Practitioner---Per-Diem---Evernorth---Towson-MD_26004418",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:01.667Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f14fc5ef2aef25d85d0985e38357465f8b15403976f546a825d389a0b33b183f",
     "tags": {
       "employment": "entry_level",
       "domains": [
