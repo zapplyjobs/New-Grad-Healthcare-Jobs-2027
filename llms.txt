@@ -1,0 +1,16 @@
+# Zapply Jobs — New Grad Healthcare Jobs 2026
+
+> Curated entry-level healthcare job listings. Updated every 15 minutes. US-focused.
+
+## What this repo provides
+- Entry-level healthcare jobs: nursing, clinical, pharmacy, medical, patient care, therapist, public health
+- Updated every 15 minutes from 500+ companies
+- Structured data with apply links, location, company info
+- Part of the Zapply Jobs ecosystem (zapplyjobs)
+
+## Related repos
+- All Jobs: github.com/zapplyjobs/New-Grad-Jobs-2026
+- Internships: github.com/zapplyjobs/Internships-2026
+
+## Who maintains this
+Zapply Jobs (zapplyjobs) — automated pipeline with human curation
