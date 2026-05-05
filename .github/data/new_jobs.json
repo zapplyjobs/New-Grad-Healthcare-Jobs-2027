@@ -3074,36 +3074,6 @@
     "job_posted_at": "2026-05-01T07:04:56.978Z"
   },
   {
-    "job_id": "workday-medtronic-R65711",
-    "job_title": "Clinical Specialist, Neurovascular - Mobile, AL",
-    "employer_name": "Medtronic",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "3 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mobile-Alabama-United-States-of-America/Clinical-Specialist--Neurovascular---New-Orleans--LA_R65711-2",
-    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dc227cb405fe764f17f66390cffc9464e6802045a41e32542f68ab54cf3a78c0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:04:47.437Z"
-  },
-  {
     "job_id": "workday-medtronic-R62598",
     "job_title": "CRM Clinical Specialist - Hartford, CT",
     "employer_name": "Medtronic",
@@ -3126,6 +3096,36 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:04:47.437Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65711",
+    "job_title": "Clinical Specialist, Neurovascular - Mobile, AL",
+    "employer_name": "Medtronic",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "3 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mobile-Alabama-United-States-of-America/Clinical-Specialist--Neurovascular---New-Orleans--LA_R65711-2",
+    "job_posted_at_datetime_utc": "2026-05-01T07:04:47.437Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dc227cb405fe764f17f66390cffc9464e6802045a41e32542f68ab54cf3a78c0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
@@ -3315,6 +3315,36 @@
     "job_posted_at": "2026-05-01T07:03:59.331Z"
   },
   {
+    "job_id": "workday-guidehouse-38968",
+    "job_title": "Patient Access Representative- 8:30 am Part Time- Onsite",
+    "employer_name": "Guidehouse",
+    "job_city": "CA, Ventura",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - CA, Ventura",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Patient-Access-Representative--8-30-am-Part-Time--Onsite_38968",
+    "job_posted_at_datetime_utc": "2026-05-01T07:03:41.043Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1606e9b529381b5057cc86b3fca7d04781c68a541c0a91d91b5a4ec9e9db3520",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:03:41.043Z"
+  },
+  {
     "job_id": "workday-guidehouse-38956",
     "job_title": "Clinical Laboratory Scientist, Microbiology",
     "employer_name": "Guidehouse",
@@ -3358,36 +3388,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6b00eb64e5e7d81d547c0f5afb6679d6a99c8691030dad6ee544b752d2dc161f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:03:41.043Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38968",
-    "job_title": "Patient Access Representative- 8:30 am Part Time- Onsite",
-    "employer_name": "Guidehouse",
-    "job_city": "CA, Ventura",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - CA, Ventura",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ventura/Patient-Access-Representative--8-30-am-Part-Time--Onsite_38968",
-    "job_posted_at_datetime_utc": "2026-05-01T07:03:41.043Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1606e9b529381b5057cc86b3fca7d04781c68a541c0a91d91b5a4ec9e9db3520",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7662,6 +7662,66 @@
     "job_posted_at": "2026-04-29T07:02:39.256Z"
   },
   {
+    "job_id": "workday-abbott-31147606",
+    "job_title": "Clinical Specialist, Vessel Closure - Phoenix/Tucson, AZ",
+    "employer_name": "Abbott",
+    "job_city": "United States Arizona Phoenix",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States Arizona Phoenix + 1 more",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist--Vessel-Closure---Phoenix--AZ_31147606-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:02:11.079Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3b39828a930f6d551a3e29674a5bcfb22786e3675a3d316aa0a55e9d0343944b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:02:11.079Z"
+  },
+  {
+    "job_id": "workday-abbott-31149131",
+    "job_title": "Plant Occupational Health Nurse",
+    "employer_name": "Abbott",
+    "job_city": "Ohio - Tipp City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Ohio - Tipp City",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Tipp-City/Plant-Occupational-Health-Nurse_31149131-2",
+    "job_posted_at_datetime_utc": "2026-04-29T07:02:11.079Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "95ec9e1cd957eeec6b076ae7d9619405674bd04222a0c60e0ac4be545afd46ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:02:11.079Z"
+  },
+  {
     "job_id": "workday-abbott-31149034",
     "job_title": "Clinical Account Representative, CardioMEMS - Houston",
     "employer_name": "Abbott",
@@ -7722,19 +7782,19 @@
     "job_posted_at": "2026-04-29T07:02:11.079Z"
   },
   {
-    "job_id": "workday-abbott-31147606",
-    "job_title": "Clinical Specialist, Vessel Closure - Phoenix/Tucson, AZ",
-    "employer_name": "Abbott",
-    "job_city": "United States Arizona Phoenix",
-    "job_state": "",
+    "job_id": "workday-medtronic-R65612",
+    "job_title": "Clinical Specialist, Pelvic Health - San Francisco",
+    "employer_name": "Medtronic",
+    "job_city": "San Francisco",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "United States Arizona Phoenix + 1 more",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist--Vessel-Closure---Phoenix--AZ_31147606-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:11.079Z",
+    "job_location": "San Francisco, California, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Clinical-Specialist--Pelvic-Health---San-Francisco_R65612-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:01:56.501Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3b39828a930f6d551a3e29674a5bcfb22786e3675a3d316aa0a55e9d0343944b",
+    "fingerprint": "8c452c600d71e92e3af382c50f13f96a9fef9c63090bd74a8605b9591890cf20",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7749,37 +7809,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:02:11.079Z"
-  },
-  {
-    "job_id": "workday-abbott-31149131",
-    "job_title": "Plant Occupational Health Nurse",
-    "employer_name": "Abbott",
-    "job_city": "Ohio - Tipp City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Ohio - Tipp City",
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Tipp-City/Plant-Occupational-Health-Nurse_31149131-2",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:11.079Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "95ec9e1cd957eeec6b076ae7d9619405674bd04222a0c60e0ac4be545afd46ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:02:11.079Z"
+    "job_posted_at": "2026-04-29T07:01:56.501Z"
   },
   {
     "job_id": "workday-medtronic-R64928",
@@ -7855,36 +7885,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "34122d524c4d88a76bdb8e5c827c4366efdc95299d2a01183441772b1f399fe9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:01:56.501Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65612",
-    "job_title": "Clinical Specialist, Pelvic Health - San Francisco",
-    "employer_name": "Medtronic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, California, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Clinical-Specialist--Pelvic-Health---San-Francisco_R65612-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:01:56.501Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8c452c600d71e92e3af382c50f13f96a9fef9c63090bd74a8605b9591890cf20",
     "tags": {
       "employment": "entry_level",
       "domains": [
