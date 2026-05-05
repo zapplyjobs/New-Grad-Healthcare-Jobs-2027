@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-313-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-319-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-46-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -68,11 +68,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Nurse – RN | MI | 56m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Walker/Plasma-Center-Nurse---RN_R0179665-1) |
+| 🏢 **Takeda** | Plasma Center Nurse- RN | MT | 12m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Plasma-Center-Nurse--RN_R0179671-1) |
+| 🏢 **Takeda** | Plasma Center Nurse – RN | MI | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Walker/Plasma-Center-Nurse---RN_R0179665-1) |
 | 🏢 **Takeda** | Plasma Center Nurse – LPN | MI | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Mt-Pleasant/Plasma-Center-Nurse---LPN_R0179663-1) |
 | 🏢 **Cigna** | Premium Personal Advocate – Evernorth Health Services – Remote | United States Wor... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Premium-Personal-Advocate---Evernorth-Health-Services---Remote_26005168-1) |
-| 🏢 **Takeda** | Plasma Center Nurse- RN | TX | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Denton/Plasma-Center-Nurse--RN_R0179649-1) |
-| 🏢 **Exact Sciences** | Regional Oncology Specialist - Central California | CA Fresno + 1 more | 6h | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Fresno/Regional-Oncology-Specialist---Central-California_R26-13040) |
+| 🏢 **Exact Sciences** | Regional Oncology Specialist - Central California | CA Fresno + 1 more | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Fresno/Regional-Oncology-Specialist---Central-California_R26-13040) |
 | 🏢 **Disney** | Guest Registered Nurse Coordinator (Project Hire/Internal Assignment) | Lake Buena Vista,... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Guest-Registered-Nurse-Coordinator_10144089) |
 | 🏢 **Cigna** | Onsite RN Health Coach- Fayetteville, GA | Fayetteville, GA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Fayetteville-GA/Onsite-RN-Health-Coach--Fayetteville--GA_26005331) |
 | 🏢 **Cigna** | Patient Care Coordinator, Specialty Pharmacy- Evernorth | United States Wor... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Patient-Care-Coordinator--Specialty-Pharmacy--Evernorth_26001961) |
@@ -175,11 +175,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Philips** | Sales Support, Clinical Specialist – Coronary Image-Guided Therapy Devices (Denver CO) | Denver, Colorado,... | 12m | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denver-Colorado-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--Denver-CO-_579553) |
-| 🏢 **Takeda** | Medical Screener, Phlebotomist - Benefits on Day 1 | MT | 42m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Medical-Screener--Phlebotomist---Benefits-on-Day-1_R0179666-1) |
+| 🏢 **Philips** | Sales Support, Clinical Specialist – Coronary Image-Guided Therapy Devices (Denver CO) | Denver, Colorado,... | 27m | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denver-Colorado-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--Denver-CO-_579553) |
+| 🏢 **Takeda** | Medical Screener, Phlebotomist - Benefits on Day 1 | MT | 57m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Medical-Screener--Phlebotomist---Benefits-on-Day-1_R0179666-1) |
 | 🏢 **Takeda** | Medical Screener/Phlebotomist | UT | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---UT---Ogden/Medical-Screener-Phlebotomist_R0179658-1) |
 | 🏢 **Takeda** | Medical Screener | MO | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MO---Springfield---McCurry-Ave/Medical-Screener_R0179645) |
-| 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA | 2 Locations | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1) |
+| 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA | 2 Locations | 6h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (Dallas, Ft. Worth TX) | Dallas Texas Unit... | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Dallas-Texas-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--Dallas--Ft-Worth-TX-_582474-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (San Francisco CA) | 2 Locations | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Francisco-Bay-Area-California-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--San-Francisco-CA-_579374-1) |
 | 🏢 **Medtronic** | Clinical Specialist - Cardiac Rhythm Management (CRM) | New York, New Yor... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/New-York-New-York-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management--CRM-_R63536-1) |
@@ -206,7 +206,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Guidehouse** | Hospital Admissions Rep - Evening Shift, Full Time Onsite | CA, Los Angeles | 13m | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Los-Angeles/Hospital-Admissions-Rep---Evening-Shift--Full-Time-Onsite_39026) |
+| 🏢 **Guidehouse** | Hospital Admissions Rep - Evening Shift, Full Time Onsite | CA, Los Angeles | 28m | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Los-Angeles/Hospital-Admissions-Rep---Evening-Shift--Full-Time-Onsite_39026) |
 | 🏢 **Guidehouse** | Medical Biller - Hospital Claims - Healthcare | TX, San Antonio | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Medical-Biller---Hospital-Claims---Healthcare_38692) |
 | 🏢 **Guidehouse** | Cash Poster - Payment Posting - Healthcare Claims | TX, San Antonio | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Cash-Poster---Payment-Posting---Healthcare-Claims_38691) |
 | 🏢 **athenahealth** | Associate, Revenue Cycle Case & Escalation Management , Claim Resolution | Belfast, ME + 1 more | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://athenahealth.wd1.myworkdayjobs.com/External/job/Belfast-ME/Associate--Revenue-Cycle-Case---Escalation-Management_R14954-1) |
@@ -221,7 +221,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Leidos** | Military Family Life Counselor - CDC - Fort Worth, TX | Fort Worth, TX | 57m | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Worth-TX/Military-Family-Life-Counselor---CDC---Fort-Worth--TX_R-00182548) |
+| 🏢 **Leidos** | Military Family Life Counselor - CDC - Fort Worth, TX | Fort Worth, TX | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Worth-TX/Military-Family-Life-Counselor---CDC---Fort-Worth--TX_R-00182548) |
 | 🏢 **Leidos** | Military Family Life School Counselor | San Diego, CA | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Military-Family-Life-School-Counselor_R-00182525) |
 | 🏢 **Leidos** | Military Family Life School Counselor | San Diego, CA | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Military-Family-Life-School-Counselor_R-00182527) |
 | 🏢 **KBR** | Special Operations Mental Health Counselor (Fort Bragg,NC) | Fort Liberty, Nor... | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Liberty-North-Carolina/Special-Operations-Mental-Health-Counselor--Fort-Bragg-NC-_R2120877) |
@@ -238,16 +238,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cigna** | Clinical Account Executive - Express Scripts - Hybrid (Health Plans) | Morris Plains, NJ... | 13m | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Clinical-Account-Executive---Express-Scripts---Hybrid--Health-Plans-_26005337-1) |
-| 🏢 **Takeda** | Center Supervisor - $3,000 Sign On Bonus | AZ | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Phoenix/Center-Supervisor----3-000-Sign-On-Bonus_R0174237-1) |
+| 🏢 **Takeda** | Paramedic/EMT-P | MT | 12m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Paramedic-EMT-P_R0179672-1) |
+| 🏢 **Takeda** | Screening Associate - Paid time Off Offered, Paid Training | MT | 12m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Screening-Associate---Paid-time-Off-Offered--Paid-Training_R0179670-1) |
+| 🏢 **Takeda** | Fast Paced Medical Tech - Paid Training | MT | 12m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Fast-Paced-Medical-Tech---Paid-Training_R0179669-1) |
+| 🏢 **Exact Sciences** | Histology Assistant I | Phoenix, AZ | 14m | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histology-Assistant-I_R26-13202) |
+| 🏢 **Cigna** | Clinical Account Executive - Express Scripts - Hybrid (Health Plans) | Morris Plains, NJ... | 28m | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Clinical-Account-Executive---Express-Scripts---Hybrid--Health-Plans-_26005337-1) |
 | 🏢 **Globus Medical** | Associate Neurophysiologist (Albany, NY) | New York | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/New-York/Neurophysiologist--Albany--NY-_JR106210-1) |
-| 🏢 **Takeda** | Paramedic/EMT-P | TX | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Denton/Paramedic-EMT-P_R0179651-1) |
-| 🏢 **Walmart** | (USA) Clinical Services Pharmacy Technician - Sam’s Club PT | Dallas, TX | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Dallas-TX/XMLNAME--USA--Clinical-Services-Pharmacy-Technician---Sam-s-Club-PT_R-2500267) |
-| 🏢 **Takeda** | Paramedic/EMT-P | TX | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Lubbock/Paramedic-EMT-P_R0179642-1) |
-| 🏢 **Johnson & Johnson** | Field Reimbursement Manager, Sarasota, FL (Oncology) | 5 Locations | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Sarasota-Florida-United-States/Field-Reimbursement-Manager--Sarasota--FL--Oncology-_R-070040-1) |
+| 🏢 **Walmart** | (USA) Clinical Services Pharmacy Technician - Sam’s Club PT | Dallas, TX | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Dallas-TX/XMLNAME--USA--Clinical-Services-Pharmacy-Technician---Sam-s-Club-PT_R-2500267) |
+| 🏢 **Johnson & Johnson** | Field Reimbursement Manager, Sarasota, FL (Oncology) | 5 Locations | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Sarasota-Florida-United-States/Field-Reimbursement-Manager--Sarasota--FL--Oncology-_R-070040-1) |
 | 🏢 **Ro** | Compounding Pharmacy Technician - Boynton Beach, FL | Boynton Beach, FL | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/4b815c8f-f429-4430-98e1-4b91164627c7/apply) |
 | 🏢 **IDEXX** | Medical Laboratory Technologist - 1st Shift | Westminster, CO | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westminster-CO/Medical-Laboratory-Technologist---1st-Shift_J-052782) |
-| 🏢 **Johnson & Johnson** | Associate Clinical Consultant/ Clinical Consultant - Long Island, NY - Johnson & Johnson MedTech – Heart Recovery | New York, New Yor... | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Associate-Clinical-Consultant--Clinical-Consultant---Long-Island--NY---Johnson---Johnson-MedTech---Heart-Recovery_R-073263-1) |
+| 🏢 **Johnson & Johnson** | Associate Clinical Consultant/ Clinical Consultant - Long Island, NY - Johnson & Johnson MedTech – Heart Recovery | New York, New Yor... | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Associate-Clinical-Consultant--Clinical-Consultant---Long-Island--NY---Johnson---Johnson-MedTech---Heart-Recovery_R-073263-1) |
 | 🏢 **Walmart** | Pharmacist Manager - Sam's Pharmacy | Denver, CO | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Pharmacist-Manager---Sam-s-Pharmacy_R-2499945) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Consultant/Clinical Consultant - Winston Salem, NC - Johnson & Johnson MedTech – Heart Recovery | Winston Salem, No... | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Winston-Salem-North-Carolina-United-States/Associate-Clinical-Consultant-Clinical-Consultant---Winston-Salem--NC---Johnson---Johnson-MedTech---Heart-Recovery_R-073393-1) |
 | 🏢 **IDEXX** | Field Sales Veterinary Diagnostics Boston North | N Boston, MA | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/N-Boston-MA/Field-Sales-Veterinary-Diagnostics-Boston-North_J-052959) |
@@ -349,7 +350,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 313 current opportunities from 46 companies**
+**🎯 319 current opportunities from 46 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
