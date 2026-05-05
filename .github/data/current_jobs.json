@@ -1952,7 +1952,7 @@
   },
   {
     "job_id": "workday-takeda-R0179541",
-    "job_title": "Paramedic – No Overnight Shifts",
+    "job_title": "Paramedic �� No Overnight Shifts",
     "employer_name": "Takeda",
     "job_city": "IL - Joliet",
     "job_state": "",
@@ -1963,7 +1963,7 @@
     "job_posted_at_datetime_utc": "2026-05-04T13:51:44.823Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f792450a52ef929ede6a55a06d52f50c1752109ea80c4184537c32a195055faf",
+    "fingerprint": "ffdb260b96400cfb5c4d5ea65ab85f602270568514ff6e35635e31446eb72def",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6393,6 +6393,66 @@
     "job_posted_at": "2026-04-30T07:03:41.044Z"
   },
   {
+    "job_id": "workday-globus-medical-JR106632",
+    "job_title": "Fast Track Spine Specialist (Chicago, IL)",
+    "employer_name": "Globus Medical",
+    "job_city": "Illinois",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Illinois",
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Illinois/Fast-Track-Spine-Specialist--Chicago--IL-_JR106632",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:33.547Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0c0721754d57196c08ebbc60abfb0d52d519225a1455b84a71737e9fd841b62c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:33.547Z"
+  },
+  {
+    "job_id": "workday-globus-medical-JR106631",
+    "job_title": "Fast Track Spine Specialist (Michigan)",
+    "employer_name": "Globus Medical",
+    "job_city": "Michigan",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Michigan",
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Michigan/Fast-Track-Spine-Specialist--Michigan-_JR106631",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:33.547Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a3c9401389d9dc398423bcf5450a9e66818ef6d3dab020d9953cb419724e315",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:33.547Z"
+  },
+  {
     "job_id": "workday-globus-medical-JR106611",
     "job_title": "Associate Interventional Specialist (Naples/ Ft. Myers, FL)",
     "employer_name": "Globus Medical",
@@ -6466,66 +6526,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e7f0dba57f304b337f88c8106c24cbe71ed6298c005d457898a4632bf5571334",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:33.547Z"
-  },
-  {
-    "job_id": "workday-globus-medical-JR106632",
-    "job_title": "Fast Track Spine Specialist (Chicago, IL)",
-    "employer_name": "Globus Medical",
-    "job_city": "Illinois",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Illinois",
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Illinois/Fast-Track-Spine-Specialist--Chicago--IL-_JR106632",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:33.547Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0c0721754d57196c08ebbc60abfb0d52d519225a1455b84a71737e9fd841b62c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:33.547Z"
-  },
-  {
-    "job_id": "workday-globus-medical-JR106631",
-    "job_title": "Fast Track Spine Specialist (Michigan)",
-    "employer_name": "Globus Medical",
-    "job_city": "Michigan",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Michigan",
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Michigan/Fast-Track-Spine-Specialist--Michigan-_JR106631",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:33.547Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a3c9401389d9dc398423bcf5450a9e66818ef6d3dab020d9953cb419724e315",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7180,66 +7180,6 @@
     "job_posted_at": "2026-04-29T07:12:08.795Z"
   },
   {
-    "job_id": "workday-takeda-R0179355",
-    "job_title": "Medical Support Specialist",
-    "employer_name": "Takeda",
-    "job_city": "AZ - Mesa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - AZ - Mesa",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Support-Specialist_R0179355-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a87a752f6580e89a0f7b86a54db6d7a02063049062c0aa02285716a1f807401f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179405",
-    "job_title": "Part Time Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "FL - Largo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - FL - Largo",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
-    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:03:08.771Z"
-  },
-  {
     "job_id": "workday-takeda-R0178551",
     "job_title": "Specialty Business Manager, IBD - Houston, TX",
     "employer_name": "Takeda",
@@ -7883,6 +7823,66 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3eba634da1495d0deab08451c8470426d1e4b0965b77df57f30241402104d29c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179355",
+    "job_title": "Medical Support Specialist",
+    "employer_name": "Takeda",
+    "job_city": "AZ - Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - AZ - Mesa",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Mesa/Medical-Support-Specialist_R0179355-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a87a752f6580e89a0f7b86a54db6d7a02063049062c0aa02285716a1f807401f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-29T07:03:08.771Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179405",
+    "job_title": "Part Time Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "FL - Largo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - FL - Largo",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Largo/Part-Time-Medical-Screener_R0179405-1",
+    "job_posted_at_datetime_utc": "2026-04-29T07:03:08.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af24bbc5eafc171ab2641183715b3fc3613d3e253b8c70e20a64d2aa446cb032",
     "tags": {
       "employment": "entry_level",
       "domains": [
