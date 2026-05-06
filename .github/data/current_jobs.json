@@ -4199,8 +4199,8 @@
         "sql"
       ],
       "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
+      "visa_question_present": true,
+      "is_simple_apply": true,
       "summary_line": null,
       "is_remote": false
     },
@@ -4250,8 +4250,8 @@
         "sql"
       ],
       "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
+      "visa_question_present": true,
+      "is_simple_apply": true,
       "summary_line": null,
       "is_remote": false
     },
@@ -4301,8 +4301,8 @@
         "sql"
       ],
       "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
+      "visa_question_present": true,
+      "is_simple_apply": true,
       "summary_line": null,
       "is_remote": false
     },
@@ -4352,8 +4352,8 @@
         "sql"
       ],
       "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
+      "visa_question_present": true,
+      "is_simple_apply": true,
       "summary_line": null,
       "is_remote": false
     },
@@ -8591,36 +8591,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-29T15:37:38.434Z"
-  },
-  {
-    "job_id": "sr-VeoliaEnvironnementSA-744000123685900",
-    "job_title": "Laboratory Supervisor",
-    "employer_name": "Veolia Environnement SA",
-    "job_city": "Arkadelphia",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Arkadelphia, AR",
-    "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123685900",
-    "job_posted_at_datetime_utc": "2026-04-29T12:54:49.630Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "c265cb448ff64d3d70586b9d4b2a6392eafd0a044145dc0a03d53d26a15d079f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-29T12:54:49.630Z"
   }
 ]
