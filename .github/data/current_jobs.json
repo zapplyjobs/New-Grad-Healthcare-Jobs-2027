@@ -8349,19 +8349,19 @@
     "job_posted_at": "2026-04-30T00:10:49.576Z"
   },
   {
-    "job_id": "greenhouse-oscar-7819672",
+    "job_id": "greenhouse-oscar-7812522",
     "job_title": "Associate, UM Regulatory Operations",
     "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "AZ",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7819672?gh_jid=7819672",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7812522?gh_jid=7812522",
     "job_posted_at_datetime_utc": "2026-04-29T23:03:15.230Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "752eceaaf7c8054f18d1c6b484c5430a8d167c90e199927895c3e47270564abb",
+    "fingerprint": "2e03cc83834ac7d235aea86fa30774a8bc95b0d03f9885c1bb6432c94a977fbb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8379,19 +8379,19 @@
     "job_posted_at": "2026-04-29T23:03:15.230Z"
   },
   {
-    "job_id": "greenhouse-oscar-7812522",
+    "job_id": "greenhouse-oscar-7819672",
     "job_title": "Associate, UM Regulatory Operations",
     "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "Tempe",
+    "job_state": "AZ",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7812522?gh_jid=7812522",
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7819672?gh_jid=7819672",
     "job_posted_at_datetime_utc": "2026-04-29T23:03:15.230Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2e03cc83834ac7d235aea86fa30774a8bc95b0d03f9885c1bb6432c94a977fbb",
+    "fingerprint": "752eceaaf7c8054f18d1c6b484c5430a8d167c90e199927895c3e47270564abb",
     "tags": {
       "employment": "entry_level",
       "domains": [
