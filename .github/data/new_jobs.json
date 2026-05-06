@@ -2643,6 +2643,156 @@
     "job_posted_at": "2026-05-04T08:47:38.289Z"
   },
   {
+    "job_id": "workday-takeda-R0179544",
+    "job_title": "Licensed Practical Nurse – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Joliet",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Licensed-Practical-Nurse---Day-One-Benefits_R0179544-1",
+    "job_posted_at_datetime_utc": "2026-05-04T08:47:37.665Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "14a4f66b2f1d7559ffaa6e55bf57292fb020d4efc4113426c1b1d12f2b0acc96",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T08:47:37.665Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179543",
+    "job_title": "EMT – I – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Joliet",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/EMT---I---No-Overnight-Shifts_R0179543-1",
+    "job_posted_at_datetime_utc": "2026-05-04T08:47:37.665Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8e36a6580b02982922fc6af75aec7f79e123c74e7f8cfbcb22359e6047a5dccf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T08:47:37.665Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179542",
+    "job_title": "AEMT – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Joliet",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/AEMT---No-Overnight-Shifts_R0179542-1",
+    "job_posted_at_datetime_utc": "2026-05-04T08:47:37.665Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "09a9e2cc8d18a7a913ca3bcd2861a1df0b9ca2ace27d7a8309d147ef331e581c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T08:47:37.665Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179541",
+    "job_title": "Paramedic – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Joliet",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Paramedic---No-Overnight-Shifts_R0179541-1",
+    "job_posted_at_datetime_utc": "2026-05-04T08:47:37.665Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f792450a52ef929ede6a55a06d52f50c1752109ea80c4184537c32a195055faf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T08:47:37.665Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179538",
+    "job_title": "Bilingual Licensed Practical Nurse",
+    "employer_name": "Takeda",
+    "job_city": "IL - Joliet",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IL - Joliet",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Bilingual-Licensed-Practical-Nurse_R0179538-1",
+    "job_posted_at_datetime_utc": "2026-05-04T08:47:37.665Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1718775754edfa31ba036eb0df2cb653bc24ce924a9bb9c93f81ccb11707823b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T08:47:37.665Z"
+  },
+  {
     "job_id": "workday-takeda-R0177069",
     "job_title": "Rare Disease Business Manager, PI (Ft. Myers)",
     "employer_name": "Takeda",
@@ -2973,169 +3123,19 @@
     "job_posted_at": "2026-05-04T08:47:37.665Z"
   },
   {
-    "job_id": "workday-takeda-R0179544",
-    "job_title": "Licensed Practical Nurse – Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IL - Joliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IL - Joliet",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Licensed-Practical-Nurse---Day-One-Benefits_R0179544-1",
-    "job_posted_at_datetime_utc": "2026-05-04T08:47:37.665Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "14a4f66b2f1d7559ffaa6e55bf57292fb020d4efc4113426c1b1d12f2b0acc96",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T08:47:37.665Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179543",
-    "job_title": "EMT – I – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "IL - Joliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IL - Joliet",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/EMT---I---No-Overnight-Shifts_R0179543-1",
-    "job_posted_at_datetime_utc": "2026-05-04T08:47:37.665Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8e36a6580b02982922fc6af75aec7f79e123c74e7f8cfbcb22359e6047a5dccf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T08:47:37.665Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179542",
-    "job_title": "AEMT – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "IL - Joliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IL - Joliet",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/AEMT---No-Overnight-Shifts_R0179542-1",
-    "job_posted_at_datetime_utc": "2026-05-04T08:47:37.665Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "09a9e2cc8d18a7a913ca3bcd2861a1df0b9ca2ace27d7a8309d147ef331e581c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T08:47:37.665Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179541",
-    "job_title": "Paramedic – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "IL - Joliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IL - Joliet",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Paramedic---No-Overnight-Shifts_R0179541-1",
-    "job_posted_at_datetime_utc": "2026-05-04T08:47:37.665Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f792450a52ef929ede6a55a06d52f50c1752109ea80c4184537c32a195055faf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T08:47:37.665Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179538",
-    "job_title": "Bilingual Licensed Practical Nurse",
-    "employer_name": "Takeda",
-    "job_city": "IL - Joliet",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IL - Joliet",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Joliet/Bilingual-Licensed-Practical-Nurse_R0179538-1",
-    "job_posted_at_datetime_utc": "2026-05-04T08:47:37.665Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1718775754edfa31ba036eb0df2cb653bc24ce924a9bb9c93f81ccb11707823b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T08:47:37.665Z"
-  },
-  {
-    "job_id": "workday-kbr-R2123084",
-    "job_title": "Special Operations Case Manager / Nurse Case Manager (Hampton Roads, VA)",
+    "job_id": "workday-kbr-R2123085",
+    "job_title": "Special Operations Strength and Conditioning Specialist (JEB, Little Creek, VA)",
     "employer_name": "KBR",
-    "job_city": "Hampton",
+    "job_city": "Virginia Beach",
     "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Hampton, Virginia",
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hampton-Virginia/Special-Operations-Case-Manager---Nurse-Case-Manager--Hampton-Roads--VA-_R2123084",
+    "job_location": "Virginia Beach, Virginia",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Virginia-Beach-Virginia/Special-Operations-Strength-and-Conditioning-Specialist--JEB--Little-Creek--VA-_R2123085",
     "job_posted_at_datetime_utc": "2026-05-04T07:32:15.367Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3837583ad13c10de9e329352dad234ead4d986bc4026b7dd5b5e1f638444a94f",
+    "fingerprint": "8624b621cd83fedf0f17810f6e15b045c62bc9ed1f8e4a556bbb157fd74333e7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3153,19 +3153,19 @@
     "job_posted_at": "2026-05-04T07:32:15.367Z"
   },
   {
-    "job_id": "workday-kbr-R2123085",
-    "job_title": "Special Operations Strength and Conditioning Specialist (JEB, Little Creek, VA)",
+    "job_id": "workday-kbr-R2123084",
+    "job_title": "Special Operations Case Manager / Nurse Case Manager (Hampton Roads, VA)",
     "employer_name": "KBR",
-    "job_city": "Virginia Beach",
+    "job_city": "Hampton",
     "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Virginia Beach, Virginia",
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Virginia-Beach-Virginia/Special-Operations-Strength-and-Conditioning-Specialist--JEB--Little-Creek--VA-_R2123085",
+    "job_location": "Hampton, Virginia",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hampton-Virginia/Special-Operations-Case-Manager---Nurse-Case-Manager--Hampton-Roads--VA-_R2123084",
     "job_posted_at_datetime_utc": "2026-05-04T07:32:15.367Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "8624b621cd83fedf0f17810f6e15b045c62bc9ed1f8e4a556bbb157fd74333e7",
+    "fingerprint": "3837583ad13c10de9e329352dad234ead4d986bc4026b7dd5b5e1f638444a94f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6760,6 +6760,96 @@
     "job_posted_at": "2026-04-30T15:01:36.164Z"
   },
   {
+    "job_id": "workday-takeda-R0179453",
+    "job_title": "Plasma Center Nurse- RN",
+    "employer_name": "Takeda",
+    "job_city": "WA - Vancouver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WA - Vancouver",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WA---Vancouver/Plasma-Center-Nurse--RN_R0179453-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0b8b49105b5e96855db7aa3cdf167ce2fe79318ffb737f2c97b71360bd216832",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179451",
+    "job_title": "Paramedic – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "IA - West Des Moines",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IA - West Des Moines",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---West-Des-Moines/Paramedic---No-Overnight-Shifts_R0179451-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4860f30acbe359e5d61dfe26fb51e05f722e864be87b6cbec9cd393c365e25a7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179449",
+    "job_title": "Licensed Practical Nurse – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IA - West Des Moines",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IA - West Des Moines",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---West-Des-Moines/Licensed-Practical-Nurse---Day-One-Benefits_R0179449-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0ed84c5f4e2019d71487590573d2975f9f0b4f9287a440b577f2007c7371e3bc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
     "job_id": "workday-takeda-R0179435",
     "job_title": "Licensed Practical Nurse (LPN)",
     "employer_name": "Takeda",
@@ -7103,96 +7193,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9e5b1e6b620bf60418da0a68c5554fa80af20bee6d69a57d511fd63c6a640c1e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179453",
-    "job_title": "Plasma Center Nurse- RN",
-    "employer_name": "Takeda",
-    "job_city": "WA - Vancouver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WA - Vancouver",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WA---Vancouver/Plasma-Center-Nurse--RN_R0179453-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0b8b49105b5e96855db7aa3cdf167ce2fe79318ffb737f2c97b71360bd216832",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179451",
-    "job_title": "Paramedic – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "IA - West Des Moines",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IA - West Des Moines",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---West-Des-Moines/Paramedic---No-Overnight-Shifts_R0179451-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4860f30acbe359e5d61dfe26fb51e05f722e864be87b6cbec9cd393c365e25a7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179449",
-    "job_title": "Licensed Practical Nurse – Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IA - West Des Moines",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IA - West Des Moines",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---West-Des-Moines/Licensed-Practical-Nurse---Day-One-Benefits_R0179449-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0ed84c5f4e2019d71487590573d2975f9f0b4f9287a440b577f2007c7371e3bc",
     "tags": {
       "employment": "entry_level",
       "domains": [
