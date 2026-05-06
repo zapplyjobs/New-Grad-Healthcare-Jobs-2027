@@ -2256,68 +2256,6 @@
     "job_posted_at": "2026-05-04T20:20:45.099Z"
   },
   {
-    "job_id": "workday-philips-582474",
-    "job_title": "Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (Dallas, Ft. Worth TX)",
-    "employer_name": "Philips",
-    "job_city": "Dallas Texas United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas Texas United States + 1 more",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Dallas-Texas-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--Dallas--Ft-Worth-TX-_582474-1",
-    "job_posted_at_datetime_utc": "2026-05-04T20:20:20.414Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "385b070150b01a76e029e266a90e2074b68a6b922cecd581e63b587d283366fa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T20:20:20.414Z"
-  },
-  {
-    "job_id": "workday-philips-579374",
-    "job_title": "Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (San Francisco CA)",
-    "employer_name": "Philips",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Francisco-Bay-Area-California-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--San-Francisco-CA-_579374-1",
-    "job_posted_at_datetime_utc": "2026-05-04T20:20:20.414Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7cd9f4b9c20691438a6dbee3e2c3200e0c292448ed37e8a65fd6de4b754a87c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T20:20:20.414Z"
-  },
-  {
     "job_id": "workday-walmart-R-2499379",
     "job_title": "Pharmacy Tech Certified Sam's",
     "employer_name": "Walmart",
@@ -2793,36 +2731,6 @@
     "job_posted_at": "2026-05-04T16:39:27.574Z"
   },
   {
-    "job_id": "workday-cigna-26005331",
-    "job_title": "Onsite RN Health Coach- Fayetteville, GA",
-    "employer_name": "Cigna",
-    "job_city": "Fayetteville",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fayetteville, GA",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Fayetteville-GA/Onsite-RN-Health-Coach--Fayetteville--GA_26005331",
-    "job_posted_at_datetime_utc": "2026-05-04T16:36:00.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "80d27d20c604d9d3eef2bd909c0e0f9d9d34c87c087492a90a2b96831c53e9db",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T16:36:00.570Z"
-  },
-  {
     "job_id": "workday-abbott-31146598",
     "job_title": "Stockroom Clerk - 3rd Shift - Altavista Plant",
     "employer_name": "Abbott",
@@ -2883,36 +2791,6 @@
     "job_posted_at": "2026-05-04T15:39:35.618Z"
   },
   {
-    "job_id": "workday-cigna-26001961",
-    "job_title": "Patient Care Coordinator, Specialty Pharmacy- Evernorth",
-    "employer_name": "Cigna",
-    "job_city": "United States Work at Home",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States Work at Home",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Patient-Care-Coordinator--Specialty-Pharmacy--Evernorth_26001961",
-    "job_posted_at_datetime_utc": "2026-05-04T15:36:38.272Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fc5c16daa1c3f7f906c215eaaa2c0b975a9394d8c7234a5fd3c51b6ac50f7d16",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T15:36:38.272Z"
-  },
-  {
     "job_id": "workday-abbott-31147789",
     "job_title": "Clinical Specialist",
     "employer_name": "Abbott",
@@ -2971,36 +2849,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-04T15:09:43.831Z"
-  },
-  {
-    "job_id": "workday-cigna-26001892",
-    "job_title": "Pharmacy Technician Associate Representative - CarepathRx - US Remote",
-    "employer_name": "Cigna",
-    "job_city": "Georgia Work at Home",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Georgia Work at Home + 1 more",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Georgia-Work-at-Home/Pharmacy-Technician-Associate-Representative---CarepathRx---US-Remote_26001892",
-    "job_posted_at_datetime_utc": "2026-05-04T15:06:19.840Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dbd05afeb7b1bddd7d604b3aa4aae1ce7174a18286017fbbbd1a262eb4dfe11f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T15:06:19.840Z"
   },
   {
     "job_id": "workday-kbr-R2123085",
@@ -3335,6 +3183,188 @@
     "job_posted_at": "2026-05-04T13:47:38.175Z"
   },
   {
+    "job_id": "workday-philips-582474",
+    "job_title": "Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (Dallas, Ft. Worth TX)",
+    "employer_name": "Philips",
+    "job_city": "Dallas Texas United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas Texas United States + 1 more",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Dallas-Texas-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--Dallas--Ft-Worth-TX-_582474-1",
+    "job_posted_at_datetime_utc": "2026-05-04T07:17:53.778Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "385b070150b01a76e029e266a90e2074b68a6b922cecd581e63b587d283366fa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T07:17:53.778Z"
+  },
+  {
+    "job_id": "workday-philips-579374",
+    "job_title": "Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (San Francisco CA)",
+    "employer_name": "Philips",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Francisco-Bay-Area-California-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--San-Francisco-CA-_579374-1",
+    "job_posted_at_datetime_utc": "2026-05-04T07:17:53.778Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7cd9f4b9c20691438a6dbee3e2c3200e0c292448ed37e8a65fd6de4b754a87c5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T07:17:53.778Z"
+  },
+  {
+    "job_id": "workday-cigna-26005331",
+    "job_title": "Onsite RN Health Coach- Fayetteville, GA",
+    "employer_name": "Cigna",
+    "job_city": "Fayetteville",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fayetteville, GA",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Fayetteville-GA/Onsite-RN-Health-Coach--Fayetteville--GA_26005331",
+    "job_posted_at_datetime_utc": "2026-05-04T07:17:04.311Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "80d27d20c604d9d3eef2bd909c0e0f9d9d34c87c087492a90a2b96831c53e9db",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T07:17:04.311Z"
+  },
+  {
+    "job_id": "workday-cigna-26001892",
+    "job_title": "Pharmacy Technician Associate Representative - CarepathRx - US Remote",
+    "employer_name": "Cigna",
+    "job_city": "Georgia Work at Home",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Georgia Work at Home + 1 more",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Georgia-Work-at-Home/Pharmacy-Technician-Associate-Representative---CarepathRx---US-Remote_26001892",
+    "job_posted_at_datetime_utc": "2026-05-04T07:17:04.311Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dbd05afeb7b1bddd7d604b3aa4aae1ce7174a18286017fbbbd1a262eb4dfe11f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T07:17:04.311Z"
+  },
+  {
+    "job_id": "workday-cigna-26001961",
+    "job_title": "Patient Care Coordinator, Specialty Pharmacy- Evernorth",
+    "employer_name": "Cigna",
+    "job_city": "United States Work at Home",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States Work at Home",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Patient-Care-Coordinator--Specialty-Pharmacy--Evernorth_26001961",
+    "job_posted_at_datetime_utc": "2026-05-04T07:17:04.311Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc5c16daa1c3f7f906c215eaaa2c0b975a9394d8c7234a5fd3c51b6ac50f7d16",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T07:17:04.311Z"
+  },
+  {
+    "job_id": "workday-medtronic-R61783",
+    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Northeast)",
+    "employer_name": "Medtronic",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "4 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Northeast-_R61783-1",
+    "job_posted_at_datetime_utc": "2026-05-04T07:02:59.266Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "de974c5d52d8a2a76446ff56e1878fb68d7f0e613bd73f17d6aea0f289c54932",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T07:02:59.266Z"
+  },
+  {
     "job_id": "workday-medtronic-R63266",
     "job_title": "Field Inventory Analyst - Indianapolis, IN",
     "employer_name": "Medtronic",
@@ -3417,36 +3447,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T07:02:59.266Z"
-  },
-  {
-    "job_id": "workday-medtronic-R61783",
-    "job_title": "Clinical Product Specialist, OR/NICU/PICU - Acute Care and Monitoring (Northeast)",
-    "employer_name": "Medtronic",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "4 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Clinical-Product-Specialist--OR-NICU-PICU---Acute-Care-and-Monitoring--Northeast-_R61783-1",
-    "job_posted_at_datetime_utc": "2026-05-04T07:02:59.266Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "de974c5d52d8a2a76446ff56e1878fb68d7f0e613bd73f17d6aea0f289c54932",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
