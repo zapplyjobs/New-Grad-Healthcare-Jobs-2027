@@ -5028,19 +5028,19 @@
     "job_posted_at": "2026-05-01T07:04:30.822Z"
   },
   {
-    "job_id": "workday-leidos-R-00182346",
-    "job_title": "Military Family Life Counselor - Schofield Barracks, HI",
+    "job_id": "workday-leidos-R-00182324",
+    "job_title": "Military Family Life School Counselor - MCB, Hawaii",
     "employer_name": "Leidos",
-    "job_city": "Honolulu",
+    "job_city": "Marine Corps Base Kaneohe Bay",
     "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Honolulu, HI",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Military-Family-Life-Counselor---Schofield-Barracks--HI_R-00182346",
+    "job_location": "Marine Corps Base Kaneohe Bay, HI",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Marine-Corps-Base-Kaneohe-Bay-HI/Military-Family-Life-School-Counselor---MCB--Hawaii_R-00182324",
     "job_posted_at_datetime_utc": "2026-05-01T07:04:12.955Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "364defeb2e3668719f799f9ea020ec442111dea51723ed01f7961f2149bb56d3",
+    "fingerprint": "d3ead766437935dc0ac542de185338ebf9f35c59ea043021d3fa29382aa6239d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5058,19 +5058,19 @@
     "job_posted_at": "2026-05-01T07:04:12.955Z"
   },
   {
-    "job_id": "workday-leidos-R-00182324",
-    "job_title": "Military Family Life School Counselor - MCB, Hawaii",
+    "job_id": "workday-leidos-R-00182346",
+    "job_title": "Military Family Life Counselor - Schofield Barracks, HI",
     "employer_name": "Leidos",
-    "job_city": "Marine Corps Base Kaneohe Bay",
+    "job_city": "Honolulu",
     "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Marine Corps Base Kaneohe Bay, HI",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Marine-Corps-Base-Kaneohe-Bay-HI/Military-Family-Life-School-Counselor---MCB--Hawaii_R-00182324",
+    "job_location": "Honolulu, HI",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Military-Family-Life-Counselor---Schofield-Barracks--HI_R-00182346",
     "job_posted_at_datetime_utc": "2026-05-01T07:04:12.955Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d3ead766437935dc0ac542de185338ebf9f35c59ea043021d3fa29382aa6239d",
+    "fingerprint": "364defeb2e3668719f799f9ea020ec442111dea51723ed01f7961f2149bb56d3",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10104,35 +10104,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-29T01:32:04.988Z"
-  },
-  {
-    "job_id": "workday-medtronic-R64820",
-    "job_title": "Clinical Specialist Pelvic Health-  Metro Detroit, MI",
-    "employer_name": "Medtronic",
-    "job_city": "Detroit",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Detroit, Michigan, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Detroit-Michigan-United-States-of-America/Clinical-Specialist-Pelvic-Health---Metro-Detroit--MI_R64820-1",
-    "job_posted_at_datetime_utc": "2026-04-29T01:09:04.157Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8b9feb42f396dd37ce7c9344cffc0704cdbe9aa67330571a51860a24d72313eb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T01:09:04.157Z"
   }
 ]
