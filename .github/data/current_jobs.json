@@ -5478,36 +5478,6 @@
     "job_posted_at": "2026-05-01T07:03:01.667Z"
   },
   {
-    "job_id": "workday-medtronic-R62598",
-    "job_title": "CRM Clinical Specialist - Hartford, CT",
-    "employer_name": "Medtronic",
-    "job_city": "Hartford",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hartford, Connecticut, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:02:59.266Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8454a17c7be9134dff173087dc1404cee6c3637f3e452725d415b395260b278",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T07:02:59.266Z"
-  },
-  {
     "job_id": "workday-medtronic-R65711",
     "job_title": "Clinical Specialist, Neurovascular - Mobile, AL",
     "employer_name": "Medtronic",
@@ -5530,6 +5500,36 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-01T07:02:59.266Z"
+  },
+  {
+    "job_id": "workday-medtronic-R62598",
+    "job_title": "CRM Clinical Specialist - Hartford, CT",
+    "employer_name": "Medtronic",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hartford, Connecticut, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:02:59.266Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8454a17c7be9134dff173087dc1404cee6c3637f3e452725d415b395260b278",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -6760,96 +6760,6 @@
     "job_posted_at": "2026-04-30T15:01:36.164Z"
   },
   {
-    "job_id": "workday-takeda-R0179453",
-    "job_title": "Plasma Center Nurse- RN",
-    "employer_name": "Takeda",
-    "job_city": "WA - Vancouver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WA - Vancouver",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WA---Vancouver/Plasma-Center-Nurse--RN_R0179453-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0b8b49105b5e96855db7aa3cdf167ce2fe79318ffb737f2c97b71360bd216832",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179451",
-    "job_title": "Paramedic – No Overnight Shifts",
-    "employer_name": "Takeda",
-    "job_city": "IA - West Des Moines",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IA - West Des Moines",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---West-Des-Moines/Paramedic---No-Overnight-Shifts_R0179451-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4860f30acbe359e5d61dfe26fb51e05f722e864be87b6cbec9cd393c365e25a7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179449",
-    "job_title": "Licensed Practical Nurse – Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "IA - West Des Moines",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - IA - West Des Moines",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---West-Des-Moines/Licensed-Practical-Nurse---Day-One-Benefits_R0179449-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0ed84c5f4e2019d71487590573d2975f9f0b4f9287a440b577f2007c7371e3bc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:05:50.705Z"
-  },
-  {
     "job_id": "workday-takeda-R0179435",
     "job_title": "Licensed Practical Nurse (LPN)",
     "employer_name": "Takeda",
@@ -7193,6 +7103,96 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9e5b1e6b620bf60418da0a68c5554fa80af20bee6d69a57d511fd63c6a640c1e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179453",
+    "job_title": "Plasma Center Nurse- RN",
+    "employer_name": "Takeda",
+    "job_city": "WA - Vancouver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WA - Vancouver",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WA---Vancouver/Plasma-Center-Nurse--RN_R0179453-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0b8b49105b5e96855db7aa3cdf167ce2fe79318ffb737f2c97b71360bd216832",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179451",
+    "job_title": "Paramedic – No Overnight Shifts",
+    "employer_name": "Takeda",
+    "job_city": "IA - West Des Moines",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IA - West Des Moines",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---West-Des-Moines/Paramedic---No-Overnight-Shifts_R0179451-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4860f30acbe359e5d61dfe26fb51e05f722e864be87b6cbec9cd393c365e25a7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:05:50.705Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179449",
+    "job_title": "Licensed Practical Nurse – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "IA - West Des Moines",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - IA - West Des Moines",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---IA---West-Des-Moines/Licensed-Practical-Nurse---Day-One-Benefits_R0179449-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:05:50.705Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0ed84c5f4e2019d71487590573d2975f9f0b4f9287a440b577f2007c7371e3bc",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7856,6 +7856,36 @@
     "job_posted_at": "2026-04-30T07:03:33.547Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01347202",
+    "job_title": "Field Applications Scientist, Proteomics (Remote - MD/DC)",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "District of Columbia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "District of Columbia + 5 more",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/Field-Applications-Scientist--Proteomics--Remote---MD-DC-_R-01347202",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:09.978Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bfe4d27bd0bff791fd49d2de138e05b3d6917663511d015a74a9bae9d7e73be4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:03:09.978Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01349605",
     "job_title": "Clinical Research Coordinator",
     "employer_name": "Thermo Fisher Scientific",
@@ -7970,36 +8000,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "db6da49de3e8a649457655d698a67b7e9a4e79a75a3932fb90b73f0a416701e1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:03:09.978Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01347202",
-    "job_title": "Field Applications Scientist, Proteomics (Remote - MD/DC)",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "District of Columbia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "District of Columbia + 5 more",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/Field-Applications-Scientist--Proteomics--Remote---MD-DC-_R-01347202",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:09.978Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bfe4d27bd0bff791fd49d2de138e05b3d6917663511d015a74a9bae9d7e73be4",
     "tags": {
       "employment": "entry_level",
       "domains": [
