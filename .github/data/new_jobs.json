@@ -2228,36 +2228,6 @@
     "job_posted_at": "2026-05-04T19:44:45.956Z"
   },
   {
-    "job_id": "workday-guidehouse-39012",
-    "job_title": "Managing Consultant - Public Health - Healthcare Review/Audit Manager",
-    "employer_name": "Guidehouse",
-    "job_city": "US VA McLean",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US VA McLean + 3 more",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Managing-Consultant---Public-Health---Healthcare-Review-Audit-Manager_39012",
-    "job_posted_at_datetime_utc": "2026-05-04T18:09:18.359Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "037144c5b0f7d17d46bcc5ebfa555f38b90436e2aa93da38e3afa54cbc80fde8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T18:09:18.359Z"
-  },
-  {
     "job_id": "workday-abbott-31143622",
     "job_title": "Associate Clinical Specialist, Cardiac Rhythm Management - Milwaukee, WI",
     "employer_name": "Abbott",
@@ -2611,6 +2581,36 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-04T13:47:38.175Z"
+  },
+  {
+    "job_id": "workday-guidehouse-39012",
+    "job_title": "Managing Consultant - Public Health - Healthcare Review/Audit Manager",
+    "employer_name": "Guidehouse",
+    "job_city": "US VA McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US VA McLean + 3 more",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Managing-Consultant---Public-Health---Healthcare-Review-Audit-Manager_39012",
+    "job_posted_at_datetime_utc": "2026-05-04T09:31:48.492Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "037144c5b0f7d17d46bcc5ebfa555f38b90436e2aa93da38e3afa54cbc80fde8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T09:31:48.492Z"
   },
   {
     "job_id": "workday-leidos-R-00182498",
@@ -3123,19 +3123,19 @@
     "job_posted_at": "2026-05-04T08:47:37.665Z"
   },
   {
-    "job_id": "workday-kbr-R2123085",
-    "job_title": "Special Operations Strength and Conditioning Specialist (JEB, Little Creek, VA)",
+    "job_id": "workday-kbr-R2123084",
+    "job_title": "Special Operations Case Manager / Nurse Case Manager (Hampton Roads, VA)",
     "employer_name": "KBR",
-    "job_city": "Virginia Beach",
+    "job_city": "Hampton",
     "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Virginia Beach, Virginia",
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Virginia-Beach-Virginia/Special-Operations-Strength-and-Conditioning-Specialist--JEB--Little-Creek--VA-_R2123085",
+    "job_location": "Hampton, Virginia",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hampton-Virginia/Special-Operations-Case-Manager---Nurse-Case-Manager--Hampton-Roads--VA-_R2123084",
     "job_posted_at_datetime_utc": "2026-05-04T07:32:15.367Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "8624b621cd83fedf0f17810f6e15b045c62bc9ed1f8e4a556bbb157fd74333e7",
+    "fingerprint": "3837583ad13c10de9e329352dad234ead4d986bc4026b7dd5b5e1f638444a94f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3153,19 +3153,19 @@
     "job_posted_at": "2026-05-04T07:32:15.367Z"
   },
   {
-    "job_id": "workday-kbr-R2123084",
-    "job_title": "Special Operations Case Manager / Nurse Case Manager (Hampton Roads, VA)",
+    "job_id": "workday-kbr-R2123085",
+    "job_title": "Special Operations Strength and Conditioning Specialist (JEB, Little Creek, VA)",
     "employer_name": "KBR",
-    "job_city": "Hampton",
+    "job_city": "Virginia Beach",
     "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Hampton, Virginia",
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hampton-Virginia/Special-Operations-Case-Manager---Nurse-Case-Manager--Hampton-Roads--VA-_R2123084",
+    "job_location": "Virginia Beach, Virginia",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Virginia-Beach-Virginia/Special-Operations-Strength-and-Conditioning-Specialist--JEB--Little-Creek--VA-_R2123085",
     "job_posted_at_datetime_utc": "2026-05-04T07:32:15.367Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3837583ad13c10de9e329352dad234ead4d986bc4026b7dd5b5e1f638444a94f",
+    "fingerprint": "8624b621cd83fedf0f17810f6e15b045c62bc9ed1f8e4a556bbb157fd74333e7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3614,7 +3614,7 @@
     "job_is_remote": false,
     "job_location": "US - TX, San Antonio",
     "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Medical-Biller---Hospital-Claims---Healthcare_38692",
-    "job_posted_at_datetime_utc": "2026-05-03T11:19:29.045Z",
+    "job_posted_at_datetime_utc": "2026-05-03T09:31:48.492Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a17c563c30fb04dfc6af67a3d5e13102e125d2f4c2bd0f7a770b9a5f5e59f2da",
@@ -3632,7 +3632,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-03T11:19:29.045Z"
+    "job_posted_at": "2026-05-03T09:31:48.492Z"
   },
   {
     "job_id": "workday-guidehouse-38691",
@@ -3644,7 +3644,7 @@
     "job_is_remote": false,
     "job_location": "US - TX, San Antonio",
     "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Cash-Poster---Payment-Posting---Healthcare-Claims_38691",
-    "job_posted_at_datetime_utc": "2026-05-03T11:19:29.045Z",
+    "job_posted_at_datetime_utc": "2026-05-03T09:31:48.492Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1e72f18a25ace877f9a3b7627d91d38636b069b351a788ef891c819f4099e043",
@@ -3662,7 +3662,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-03T11:19:29.045Z"
+    "job_posted_at": "2026-05-03T09:31:48.492Z"
   },
   {
     "job_id": "workday-hpe-(university)-1206345",
