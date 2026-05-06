@@ -8468,35 +8468,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-29T16:52:50.892Z"
-  },
-  {
-    "job_id": "workday-cigna-26005228",
-    "job_title": "Medical Assistant- Evernorth- Clearwater, FL",
-    "employer_name": "Cigna",
-    "job_city": "Clearwater",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Clearwater, FL",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clearwater-FL/Onsite-Medical-Assistant--Clearwater--FL_26005228",
-    "job_posted_at_datetime_utc": "2026-04-29T16:40:03.600Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e660c1b69aa2d8355d87ce88c038d7880c87502c122b5b930576bda0ecf97ca0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T16:40:03.600Z"
   }
 ]
