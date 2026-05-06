@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-270-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-271-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-39-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -134,10 +134,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **IDEXX** | Microbiology Laboratory Technician - 1st Shift | Columbia, MO | 18h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Microbiology-Laboratory-Technician---1st-Shift_J-052996) |
-| 🏢 **IDEXX** | Laboratory Technician - 1st Shift Per Diem | Glen Burnie, MD | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Glen-Burnie-MD/Laboratory-Technician---1st-Shift-Per-Diem_J-052869) |
+| 🏢 **IDEXX** | Microbiology Laboratory Technician - 1st Shift | Columbia, MO | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Microbiology-Laboratory-Technician---1st-Shift_J-052996) |
+| 🏢 **IDEXX** | Laboratory Technician - 1st Shift Per Diem | Glen Burnie, MD | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Glen-Burnie-MD/Laboratory-Technician---1st-Shift-Per-Diem_J-052869) |
 | 🏢 **Apple** | Sensing Hardware Mechanical Lab Technician | San Diego | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661146/sensing-hardware-mechanical-lab-technician) |
-| 🏢 **Freeform** | Materials Lab Technician  (Trainee) | Los Angeles, CA (... | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7725222003) |
+| 🏢 **Freeform** | Materials Lab Technician  (Trainee) | Los Angeles, CA (... | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7725222003) |
 | 🏢 **Arrow Electronics** | QA Engineer – Lab Technician, Software, Hardware & Device Testing | Framingham, MA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://arrow.wd1.myworkdayjobs.com/AC/job/US-MA-Framingham-Massachusetts-Bose/QA-Engineer---Lab-Technician--Software--Hardware---Device-Testing_R243424) |
 | 🏢 **Thermo Fisher Scientific** | Supervisor - Sample Management- 2nd Shift | Covington, Kentuc... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covington-Kentucky---USA/Supervisor---Sample-Management_R-01345262) |
 | 🏢 **Thermo Fisher Scientific** | Associate Scientist – ELISA | Rockville, Maryla... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01351960) |
@@ -171,9 +171,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Medtronic** | Clinical Specialist Pelvic Health- Houston, TX | Houston, Texas, U... | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Clinical-Specialist-Pelvic-Health--Houston--TX_R65748-1) |
-| 🏢 **Takeda** | Part Time Medical Screener | CA | 21h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Part-Time-Medical-Screener_R0179683-1) |
+| 🏢 **Takeda** | Part Time Medical Screener | CA | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Part-Time-Medical-Screener_R0179683-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist – Coronary Image-Guided Therapy Devices (Denver CO) | Denver, Colorado,... | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denver-Colorado-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--Denver-CO-_579553) |
-| 🏢 **Takeda** | Medical Screener, Phlebotomist - Benefits on Day 1 | MT | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Medical-Screener--Phlebotomist---Benefits-on-Day-1_R0179666-1) |
+| 🏢 **Takeda** | Medical Screener, Phlebotomist - Benefits on Day 1 | MT | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Medical-Screener--Phlebotomist---Benefits-on-Day-1_R0179666-1) |
 | 🏢 **Takeda** | Medical Screener/Phlebotomist | UT | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---UT---Ogden/Medical-Screener-Phlebotomist_R0179658-1) |
 | 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA | 2 Locations | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1) |
 | 🏢 **Abbott** | Associate Clinical Specialist, Cardiac Rhythm Management - Milwaukee, WI | Wisconsin | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Milwaukee/Clinical-Specialist--Cardiac-Rhythm-Management---Milwaukee--WI_31143622-1) |
@@ -230,13 +230,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Technician | MD | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Baltimore---East/Plasma-Center-Technician_R0179693-1) |
+| 🏢 **Wellmark, Inc.** | Clinical Pharmacy Analyst (Pharmacoeconomics/HEOR) | Des Moines, IA | 25m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000124971255) |
+| 🏢 **Takeda** | Plasma Center Technician | MD | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Baltimore---East/Plasma-Center-Technician_R0179693-1) |
 | 🏢 **Takeda** | Plasma Center Technician | MD | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Baltimore---East/Plasma-Center-Technician_R0179692-1) |
 | 🏢 **IDEXX** | Medical Laboratory Technologist - 3rd Shift | Portland, OR | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Portland-OR/Medical-Laboratory-Technologist---3rd-Shift_J-052995) |
 | 🏢 **Intuitive** | Physician – Corporate Strategy | Sunnyvale, CA | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000124758819) |
-| 🏢 **Guidehouse** | Patient Account Representative - Self Pay | TX, San Antonio | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Account-Representative---Self-Pay_39058) |
+| 🏢 **Guidehouse** | Patient Account Representative - Self Pay | TX, San Antonio | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Patient-Account-Representative---Self-Pay_39058) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Consultant (San Francisco East Bay Area) - Johnson & Johnson MedTech, Heart Recovery (2 positions) | Walnut Creek, Cal... | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Walnut-Creek-California-United-States/Associate-Clinical-Consultant--San-Francisco-Bay-Area----Johnson---Johnson-MedTech--Heart-Recovery_R-073116) |
-| 🏢 **Thermo Fisher Scientific** | Technical Support Manager, Olink proteomics (Remote - US) | Massachusetts + 1... | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Technical-Support-Manager--Olink-proteomics--Remote---US-_R-01350117) |
+| 🏢 **Thermo Fisher Scientific** | Technical Support Manager, Olink proteomics (Remote - US) | Massachusetts + 1... | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Technical-Support-Manager--Olink-proteomics--Remote---US-_R-01350117) |
 | 🏢 **Takeda** | Paramedic/EMT-P | MT | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Paramedic-EMT-P_R0179672-1) |
 | 🏢 **Exact Sciences** | Histology Assistant I | Phoenix, AZ | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Phoenix/Histology-Assistant-I_R26-13202) |
 | 🏢 **Cigna** | Clinical Account Executive - Express Scripts - Hybrid (Health Plans) | Morris Plains, NJ... | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Clinical-Account-Executive---Express-Scripts---Hybrid--Health-Plans-_26005337-1) |
@@ -277,7 +278,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Affirm** | People Knowledge Experience Manager | Remote US | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7712659003) |
 | 🏢 **Wellmark, Inc.** | Pharmacy Performance Manager | Cedar Rapids, IA | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000124021149) |
 | 🏢 **Wellmark, Inc.** | Pharmacy Performance Manager | Sioux Falls, SD | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000124021029) |
-| 🏢 **Wellmark, Inc.** | Pharmacy Performance Manager | Des Moines, IA | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000124020949) |
 | 🏢 **Affirm** | Key Account Manager | Remote US | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7712703003) |
 | 🏢 **Intuitive** | Endoluminal Program Manager | Chicago, IL | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000123962834) |
 | 🏢 **General Motors** | Health Center Nursing Supervisor | Spring Hill, Tenn... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Health-Center-Nursing-Supervisor_JR-202609633) |
@@ -338,7 +338,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 270 current opportunities from 39 companies**
+**🎯 271 current opportunities from 39 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

@@ -1,5 +1,36 @@
 [
   {
+    "job_id": "sr-WellmarkInc-744000124971255",
+    "job_title": "Clinical Pharmacy Analyst (Pharmacoeconomics/HEOR)",
+    "employer_name": "Wellmark, Inc.",
+    "job_city": "Des Moines",
+    "job_state": "IA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Des Moines, IA",
+    "job_apply_link": "https://jobs.smartrecruiters.com/WellmarkInc/744000124971255",
+    "job_posted_at_datetime_utc": "2026-05-06T18:50:53.440Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "b9092ac3b67fa3d6d16cc8c1b6a4e4e62cbd8feb6e14d1ca856762777b197e26",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-06T18:50:53.440Z"
+  },
+  {
     "job_id": "workday-takeda-R0179628",
     "job_title": "Licensed Practical Nurse – Day One Benefits",
     "employer_name": "Takeda",
