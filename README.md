@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-209-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-37-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-208-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-36-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -238,9 +238,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Included Health** | Psychiatrist | Texas | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/6e522bd8-5dad-4be2-87fe-d775c6ea8c46/apply) |
 | 🏢 **Included Health** | Psychiatrist | Washington | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/f4ae6258-b23c-4f8e-856a-a843f1a5a930/apply) |
 | 🏢 **Guidehouse** | Research Nurse Specialist | MD, Bethesda | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Research-Nurse-Specialist_39065) |
+| 🏢 **Oscar Health** | Associate, Data Analytics (Tempe, AZ - Hybrid) | Tempe, Arizona, U... | 5d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7825277?gh_jid=7825277) |
 | 🏢 **Oscar Health** | Associate, Data Analytics (Atlanta, GA- Remote) | Atlanta, Georgia,... | 5d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7825290?gh_jid=7825290) |
 | 🏢 **Oscar Health** | Associate, Data Analytics (Dallas, TX- Remote) | Dallas, Texas, Un... | 5d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7825287?gh_jid=7825287) |
-| 🏢 **Oscar Health** | Associate, Data Analytics (NYC - Hybrid) | New York, New Yor... | 5d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7688263?gh_jid=7688263) |
 | 🏢 **Neuralink** | Preclinical Study Coordinator | Austin, Texas, Un... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7722015003?gh_jid=7722015003) |
 | 🏢 **EVERSANA** | Pharmacy Technician | Chesterfield, MO | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000124171380) |
 | 🏢 **Globus Medical** | Inventory Planner | Audubon, PA + 1 more | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Inventory-Planner_JR105618) |
@@ -251,7 +251,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **AbbVie** | Finance Manager, Oncology - Demand Planning | Mettawa, IL | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012924595) |
 | 🏢 **AbbVie** | Hematology Clinical Account Specialist - Jacksonville, FL | Jacksonville, FL | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012921848) |
 | 🏢 **AbbVie** | Oncology Account Executive - White Plains, NY | White Plains, NY | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012913380) |
-| 🏢 **Affirm** | People Knowledge Experience Manager | Remote US | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7712659003) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -307,7 +306,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 209 current opportunities from 37 companies**
+**🎯 208 current opportunities from 36 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
