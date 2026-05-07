@@ -4218,57 +4218,6 @@
     "job_posted_at": "2026-05-02T00:22:27.996Z"
   },
   {
-    "job_id": "greenhouse-oscar-7825277",
-    "job_title": "Associate, Data Analytics (Tempe, AZ - Hybrid)",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7825277?gh_jid=7825277",
-    "job_posted_at_datetime_utc": "2026-05-02T00:17:52.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "13869653c252555027a616e98a2d78367e0fcb105035f6166b3ec7015f275b03",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T00:17:52.402Z"
-  },
-  {
     "job_id": "greenhouse-oscar-7825290",
     "job_title": "Associate, Data Analytics (Atlanta, GA- Remote)",
     "employer_name": "Oscar Health",
@@ -4384,6 +4333,57 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3d5e65a7c2a7775116a148a3fed791bcadbd6a37b1497de5ec53161f98599296",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "dashboards",
+        "data visualization",
+        "excel",
+        "google sheets",
+        "looker",
+        "pandas",
+        "python",
+        "r",
+        "reporting",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T00:17:52.402Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7825277",
+    "job_title": "Associate, Data Analytics (Tempe, AZ - Hybrid)",
+    "employer_name": "Oscar Health",
+    "job_city": "Tempe",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7825277?gh_jid=7825277",
+    "job_posted_at_datetime_utc": "2026-05-02T00:17:52.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "13869653c252555027a616e98a2d78367e0fcb105035f6166b3ec7015f275b03",
     "tags": {
       "employment": "entry_level",
       "domains": [
