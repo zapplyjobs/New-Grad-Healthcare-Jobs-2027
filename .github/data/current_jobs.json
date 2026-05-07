@@ -6635,36 +6635,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-04-30T19:28:47.154Z"
-  },
-  {
-    "job_id": "greenhouse-affirm-7712703003",
-    "job_title": "Key Account Manager",
-    "employer_name": "Affirm",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote US",
-    "job_apply_link": "https://job-boards.greenhouse.io/affirm/jobs/7712703003",
-    "job_posted_at_datetime_utc": "2026-04-30T18:47:21.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "337254fc72bc22700cab66bb1eff6e228270414206df75090251394b651ecd8a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-30T18:47:21.000Z"
   }
 ]
