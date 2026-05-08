@@ -1,5 +1,66 @@
 [
   {
+    "job_id": "workday-guidehouse-39018",
+    "job_title": "Patient Account Representative - Physician Claims",
+    "employer_name": "Guidehouse",
+    "job_city": "Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "US - Remote",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Patient-Account-Representative---Physician-Claims_39018-1",
+    "job_posted_at_datetime_utc": "2026-05-08T21:02:53.352Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "08f716ba5fa3d97dfa85a8ee7a4552fc293ec3b5217a41656c639af9ca1fb49e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T21:02:53.352Z"
+  },
+  {
+    "job_id": "workday-guidehouse-39265",
+    "job_title": "Supervisor, Patient Access, Swing Shift",
+    "employer_name": "Guidehouse",
+    "job_city": "CA, Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - CA, Los Angeles",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Los-Angeles/Supervisor--Patient-Access--Swing-Shift_39265",
+    "job_posted_at_datetime_utc": "2026-05-08T21:02:53.352Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3038ddee87b2f806e8d93caa45e5864d4b00ac68a5503b885dfbac178250631c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T21:02:53.352Z"
+  },
+  {
     "job_id": "workday-takeda-R0178404",
     "job_title": "Specialty Business Manager - IBD (Las Vegas, NV)",
     "employer_name": "Takeda",
@@ -1450,67 +1511,6 @@
     "job_posted_at": "2026-05-08T20:08:59.834Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01344265",
-    "job_title": "Experienced CRA 1; Southeast Location",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote, North Carolina, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Experienced-CRA-1--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344265-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfac22970a4319d46b2ff65cbeb1405c279f5229972709a1fe9e5fd71df1a29e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:59.834Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01352360",
-    "job_title": "Associate Scientist – ELISA",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Rockville",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Rockville, Maryland, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01352360",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:59.834Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01351243",
     "job_title": "Laboratory Supervisor (GMP)",
     "employer_name": "Thermo Fisher Scientific",
@@ -1562,6 +1562,67 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:59.834Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01344265",
+    "job_title": "Experienced CRA 1; Southeast Location",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote, North Carolina, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Experienced-CRA-1--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344265-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfac22970a4319d46b2ff65cbeb1405c279f5229972709a1fe9e5fd71df1a29e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:59.834Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01352360",
+    "job_title": "Associate Scientist – ELISA",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Rockville",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Rockville, Maryland, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01352360",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "unknown",
       "special": [],
@@ -1935,36 +1996,6 @@
     "job_posted_at": "2026-05-08T20:07:22.554Z"
   },
   {
-    "job_id": "workday-merck-&-co.-R393567",
-    "job_title": "Companion Animal Professional Services Veterinarian (Tri-State)",
-    "employer_name": "Merck & Co.",
-    "job_city": "New Jersey Rahway",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New Jersey Rahway + 2 more",
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Professional-Services-Veterinarian--Tri-State-_R393567",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:22.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5b4fa9b8027314c869ddac4ffc63d60864fb3d793b35deddce74bf231f9ade74",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:07:22.553Z"
-  },
-  {
     "job_id": "workday-merck-&-co.-R395744",
     "job_title": "Scientist, Analytical R&D  Microbiologist (Onsite)",
     "employer_name": "Merck & Co.",
@@ -2008,6 +2039,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c7aeb8be6142708d612ccd1480d63a821e7e93ff1c239877c3011f4b88fdb459",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:22.553Z"
+  },
+  {
+    "job_id": "workday-merck-&-co.-R393567",
+    "job_title": "Companion Animal Professional Services Veterinarian (Tri-State)",
+    "employer_name": "Merck & Co.",
+    "job_city": "New Jersey Rahway",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New Jersey Rahway + 2 more",
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Professional-Services-Veterinarian--Tri-State-_R393567",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:22.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5b4fa9b8027314c869ddac4ffc63d60864fb3d793b35deddce74bf231f9ade74",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2272,68 +2333,6 @@
     "job_posted_at": "2026-05-08T20:07:01.395Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-073902",
-    "job_title": "Clinical Account Specialist (Nashville, TN) - Johnson and Johnson MedTech - Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Nashville",
-    "job_state": "TN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Nashville, Tennessee, United States",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Nashville-Tennessee-United-States/Clinical-Account-Specialist--Nashville--TN----Johnson-and-Johnson-MedTech---Electrophysiology_R-073902",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:53.749Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "00709cd4129347bb1d9bece096d4a612139121773a806e635eb0c5a151c805d1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:06:53.749Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-073900",
-    "job_title": "Associate Clinical Account Specialist (Nashville, TN) - Johnson and Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Nashville",
-    "job_state": "TN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Nashville, Tennessee, United States",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Nashville-Tennessee-United-States/Associate-Clinical-Account-Specialist--Nashville--TN----Johnson-and-Johnson-MedTech--Electrophysiology_R-073900",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:53.749Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9d1f2fa0428a826d2241f917f580629935766a83e1c9941ed773667af090e350",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:06:53.749Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-050086",
     "job_title": "Associate Clinical Consultant or Clinical Consultant - Ontario, CA - Johnson & Johnson MedTech – Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -2395,23 +2394,24 @@
     "job_posted_at": "2026-05-08T20:06:53.749Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-073630",
-    "job_title": "Medical Science Liaison - Schizophrenia (AZ, NV, CO & UT)",
+    "job_id": "workday-johnson-&-johnson-R-073902",
+    "job_title": "Clinical Account Specialist (Nashville, TN) - Johnson and Johnson MedTech - Electrophysiology",
     "employer_name": "Johnson & Johnson",
-    "job_city": "Arizona Any City",
-    "job_state": "",
+    "job_city": "Nashville",
+    "job_state": "TN",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Arizona Any City + 4 more",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Medical-Science-Liaison---Schizophrenia--AZ--NV--CO---UT-_R-073630",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:53.748Z",
+    "job_location": "Nashville, Tennessee, United States",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Nashville-Tennessee-United-States/Clinical-Account-Specialist--Nashville--TN----Johnson-and-Johnson-MedTech---Electrophysiology_R-073902",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:53.749Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0220844d4ddc7dde7c324de66adca9820e56410ce6765e59adfdcb3990565b61",
+    "fingerprint": "00709cd4129347bb1d9bece096d4a612139121773a806e635eb0c5a151c805d1",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "healthcare"
+        "healthcare",
+        "sales"
       ],
       "locations": [
         "us"
@@ -2422,7 +2422,38 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:06:53.748Z"
+    "job_posted_at": "2026-05-08T20:06:53.749Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-073900",
+    "job_title": "Associate Clinical Account Specialist (Nashville, TN) - Johnson and Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Nashville, Tennessee, United States",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Nashville-Tennessee-United-States/Associate-Clinical-Account-Specialist--Nashville--TN----Johnson-and-Johnson-MedTech--Electrophysiology_R-073900",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:53.749Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9d1f2fa0428a826d2241f917f580629935766a83e1c9941ed773667af090e350",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:53.749Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-067790",
@@ -2498,6 +2529,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "70cc6eca4d47f1be8edc330c7ac200aa6204e95b5995ef271b2e3cada1ea8642",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:53.748Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-073630",
+    "job_title": "Medical Science Liaison - Schizophrenia (AZ, NV, CO & UT)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Arizona Any City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Arizona Any City + 4 more",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Arizona-Any-City/Medical-Science-Liaison---Schizophrenia--AZ--NV--CO---UT-_R-073630",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:53.748Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0220844d4ddc7dde7c324de66adca9820e56410ce6765e59adfdcb3990565b61",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5674,6 +5735,68 @@
     "job_posted_at": "2026-05-06T20:07:01.395Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-073083",
+    "job_title": "Associate Clinical Account Specialist (Raleigh, NC) - Johnson and Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Raleigh, North Carolina, United States",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raleigh-North-Carolina-United-States/Associate-Clinical-Account-Specialist--Raleigh--NC----Johnson-and-Johnson-MedTech--Electrophysiology_R-073083",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "90efecf90e74bb75583cf4bfc6c5cdc0f3c8be461fbaeff7a9a12d1fb658755c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-073906",
+    "job_title": "Associate Clinical Account Specialist (Birmingham, AL) - Johnson and Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Birmingham",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Birmingham, Alabama, United States",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Birmingham-Alabama-United-States/Associate-Clinical-Account-Specialist--Birmingham--AL----Johnson-and-Johnson-MedTech--Electrophysiology_R-073906",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "59ffb58638ae1751a16b1833b63f199ec9ab9e0a53acd49148b4835caa6d1933",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-072581",
     "job_title": "Associate Clinical Consultant or Clinical Consultant (Detroit, MI) - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -5781,68 +5904,6 @@
       "employment": "entry_level",
       "domains": [
         "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:06:53.750Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-073083",
-    "job_title": "Associate Clinical Account Specialist (Raleigh, NC) - Johnson and Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Raleigh",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Raleigh, North Carolina, United States",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raleigh-North-Carolina-United-States/Associate-Clinical-Account-Specialist--Raleigh--NC----Johnson-and-Johnson-MedTech--Electrophysiology_R-073083",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "90efecf90e74bb75583cf4bfc6c5cdc0f3c8be461fbaeff7a9a12d1fb658755c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:06:53.750Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-073906",
-    "job_title": "Associate Clinical Account Specialist (Birmingham, AL) - Johnson and Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Birmingham",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Birmingham, Alabama, United States",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Birmingham-Alabama-United-States/Associate-Clinical-Account-Specialist--Birmingham--AL----Johnson-and-Johnson-MedTech--Electrophysiology_R-073906",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "59ffb58638ae1751a16b1833b63f199ec9ab9e0a53acd49148b4835caa6d1933",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
       ],
       "locations": [
         "us"
@@ -6410,6 +6471,36 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-05T22:24:19.766Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01351960",
+    "job_title": "Associate Scientist – ELISA",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Rockville",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Rockville, Maryland, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01351960",
+    "job_posted_at_datetime_utc": "2026-05-05T21:03:18.379Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T21:03:18.379Z"
   },
   {
     "job_id": "workday-takeda-R0179693",
