@@ -3326,36 +3326,6 @@
     "job_posted_at": "2026-05-08T20:06:23.846Z"
   },
   {
-    "job_id": "workday-cigna-26005024",
-    "job_title": "Pharmacy Technician Representative - Advent Health - Longwood, FL",
-    "employer_name": "Cigna",
-    "job_city": "FL",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "FL, Longwood (AHHI), 556 Florida Central Pkwy",
-    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/FL-Longwood-AHHI-556-Florida-Central-Pkwy/Pharmacy-Technician-Representative---Advent-Health---Longwood--FL_26005024-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:14.697Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cd2cb872c884177ef21ec6410be8fc139000e991329fcc5f56c674ef6ef9d212",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:06:14.697Z"
-  },
-  {
     "job_id": "workday-cigna-26002532",
     "job_title": "Pharmacy Technician Associate Representative - CarepathRx",
     "employer_name": "Cigna",
@@ -3429,6 +3399,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8b6169e0b282dc9cc4a19b3078b77bfeb6235c6498b7e5dace7dd7f2cca6b1a4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:14.697Z"
+  },
+  {
+    "job_id": "workday-cigna-26005024",
+    "job_title": "Pharmacy Technician Representative - Advent Health - Longwood, FL",
+    "employer_name": "Cigna",
+    "job_city": "FL",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "FL, Longwood (AHHI), 556 Florida Central Pkwy",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/FL-Longwood-AHHI-556-Florida-Central-Pkwy/Pharmacy-Technician-Representative---Advent-Health---Longwood--FL_26005024-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:14.697Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cd2cb872c884177ef21ec6410be8fc139000e991329fcc5f56c674ef6ef9d212",
     "tags": {
       "employment": "entry_level",
       "domains": [
