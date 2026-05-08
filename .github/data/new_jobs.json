@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "workday-exact-sciences-R26-12494",
+    "job_title": "Regional Oncology Specialist - West Virginia",
+    "employer_name": "Exact Sciences",
+    "job_city": "US WV Charleston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US WV Charleston + 3 more",
+    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WV---Charleston/Regional-Oncology-Specialist---West-Virginia_R26-12494",
+    "job_posted_at_datetime_utc": "2026-05-08T21:47:02.774Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a406a4a21fb647508e258063eb9f27c5f6b59334e742f5b7dc790a04ab509e3b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T21:47:02.774Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-067364",
     "job_title": "Study Responsible Physician- Neuroscience (Pediatric Studies)",
     "employer_name": "Johnson & Johnson",
@@ -399,6 +429,36 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-08T20:10:12.943Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179881",
+    "job_title": "Plasma Center Technician",
+    "employer_name": "Takeda",
+    "job_city": "TX - Houston - Buffalo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Houston - Buffalo",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---Buffalo/Plasma-Center-Technician_R0179881-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc91ad13f93814dbba6cef7c7713af19687752947202030da019f68a33cf3fbb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:09:14.745Z"
   },
   {
     "job_id": "workday-takeda-R0179859",
@@ -851,19 +911,19 @@
     "job_posted_at": "2026-05-08T20:09:14.745Z"
   },
   {
-    "job_id": "workday-takeda-R0179881",
-    "job_title": "Plasma Center Technician",
+    "job_id": "workday-takeda-R0179921",
+    "job_title": "Medical Screener",
     "employer_name": "Takeda",
-    "job_city": "TX - Houston - Buffalo",
+    "job_city": "NY - Latham",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - TX - Houston - Buffalo",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---Buffalo/Plasma-Center-Technician_R0179881-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:09:14.745Z",
+    "job_location": "USA - NY - Latham",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Latham/Medical-Screener_R0179921-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:09:14.744Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bc91ad13f93814dbba6cef7c7713af19687752947202030da019f68a33cf3fbb",
+    "fingerprint": "6d9d8eed8ee272e95aed5cf4ea37fdb9b925790119f90d3ee15fdaa474522574",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -878,7 +938,67 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:09:14.745Z"
+    "job_posted_at": "2026-05-08T20:09:14.744Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178401",
+    "job_title": "Specialty Business Manager, IBD (Los Angeles, CA)",
+    "employer_name": "Takeda",
+    "job_city": "CA - Virtual",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - CA - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Virtual/Specialty-Business-Manager--IBD--Los-Angeles--CA-_R0178401",
+    "job_posted_at_datetime_utc": "2026-05-08T20:09:14.744Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22b545255d0ccf2a7cb18a3e6c025008292c0a6b1c4d8b78b24f80036f1216ad",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:09:14.744Z"
+  },
+  {
+    "job_id": "workday-takeda-R0178407",
+    "job_title": "Specialty Business Manager - IBD (San Francisco, CA)",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "California - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/California---Virtual/Specialty-Business-Manager---IBD--San-Francisco--CA-_R0178407-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:09:14.744Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6f6c29b2789603ed1cbdec7e26fb449562f87458e4985c9180fe61b5f10adcc5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:09:14.744Z"
   },
   {
     "job_id": "workday-takeda-R0178408",
@@ -1481,96 +1601,6 @@
     "job_posted_at": "2026-05-08T20:09:14.744Z"
   },
   {
-    "job_id": "workday-takeda-R0179921",
-    "job_title": "Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "NY - Latham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - NY - Latham",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Latham/Medical-Screener_R0179921-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:09:14.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d9d8eed8ee272e95aed5cf4ea37fdb9b925790119f90d3ee15fdaa474522574",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:09:14.744Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178401",
-    "job_title": "Specialty Business Manager, IBD (Los Angeles, CA)",
-    "employer_name": "Takeda",
-    "job_city": "CA - Virtual",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - CA - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Virtual/Specialty-Business-Manager--IBD--Los-Angeles--CA-_R0178401",
-    "job_posted_at_datetime_utc": "2026-05-08T20:09:14.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22b545255d0ccf2a7cb18a3e6c025008292c0a6b1c4d8b78b24f80036f1216ad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:09:14.744Z"
-  },
-  {
-    "job_id": "workday-takeda-R0178407",
-    "job_title": "Specialty Business Manager - IBD (San Francisco, CA)",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "California - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/California---Virtual/Specialty-Business-Manager---IBD--San-Francisco--CA-_R0178407-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:09:14.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6f6c29b2789603ed1cbdec7e26fb449562f87458e4985c9180fe61b5f10adcc5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:09:14.744Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01351337",
     "job_title": "QC Scientist I, Microbiology",
     "employer_name": "Thermo Fisher Scientific",
@@ -1599,36 +1629,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-08T20:08:59.835Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01351694",
-    "job_title": "Clinical Research Nurse- Per Diem Day",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Las Vegas",
-    "job_state": "NV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Las Vegas, Nevada, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse--Per-Diem-Day_R-01351694",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f0fb30e238ef33be5f0b8c7ba0aca8bee772d6c20af7ee5316679f93b8e36ab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:59.834Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01351243",
@@ -1753,6 +1753,36 @@
     "job_posted_at": "2026-05-08T20:08:59.834Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01351694",
+    "job_title": "Clinical Research Nurse- Per Diem Day",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Las Vegas",
+    "job_state": "NV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Las Vegas, Nevada, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse--Per-Diem-Day_R-01351694",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f0fb30e238ef33be5f0b8c7ba0aca8bee772d6c20af7ee5316679f93b8e36ab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:59.834Z"
+  },
+  {
     "job_id": "workday-philips-583224",
     "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (North Alabama)",
     "employer_name": "Philips",
@@ -1815,36 +1845,6 @@
     "job_posted_at": "2026-05-08T20:08:27.105Z"
   },
   {
-    "job_id": "workday-medtronic-R63300",
-    "job_title": "Clinical Specialist, Cardiac Rhythm Management (CRM) - Mason City, IA",
-    "employer_name": "Medtronic",
-    "job_city": "State of Iowa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "State of Iowa, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Iowa-United-States-of-America/Clinical-Specialist--Cardiac-Rhythm-Management--CRM----Mason-City--IA_R63300-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:46.549Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "90c491de58f0958f99a6b42f731e929243ec4c86453f386d99827d2f8d4fd405",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:07:46.549Z"
-  },
-  {
     "job_id": "workday-medtronic-R65480",
     "job_title": "Clinical Specialist, Neurovascular - Arizona South",
     "employer_name": "Medtronic",
@@ -1867,6 +1867,36 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:46.549Z"
+  },
+  {
+    "job_id": "workday-medtronic-R63300",
+    "job_title": "Clinical Specialist, Cardiac Rhythm Management (CRM) - Mason City, IA",
+    "employer_name": "Medtronic",
+    "job_city": "State of Iowa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "State of Iowa, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-Iowa-United-States-of-America/Clinical-Specialist--Cardiac-Rhythm-Management--CRM----Mason-City--IA_R63300-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:46.549Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "90c491de58f0958f99a6b42f731e929243ec4c86453f386d99827d2f8d4fd405",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -3844,486 +3874,6 @@
     "job_posted_at": "2026-05-06T20:36:49.239Z"
   },
   {
-    "job_id": "workday-takeda-R0177822",
-    "job_title": "Center Manager",
-    "employer_name": "Takeda",
-    "job_city": "MD - Baltimore - East",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MD - Baltimore - East",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Baltimore---East/Center-Manager_R0177822-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "681fb640bf09d1263268faa5983e5ceffb0bc44d00fbf4ff29252ae2ae6f612b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179720",
-    "job_title": "Plasma Center Nurse – LPN (Immediate Benefits!)",
-    "employer_name": "Takeda",
-    "job_city": "WI - Appleton - Schroth Ln A",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Appleton - Schroth Ln A",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Schroth-Ln-A/Plasma-Center-Nurse---LPN--Immediate-Benefits--_R0179720-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0669d175b6499a310909799ebc2ac93a37f8ff771bb05b6c526dfe333ecfab2b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179718",
-    "job_title": "Registered Nurse (RN)",
-    "employer_name": "Takeda",
-    "job_city": "WI - Madison",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Madison",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Madison/Registered-Nurse--RN-_R0179718-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6c945481cca1491d848edee20514a15dab0780bffe049a314f59a8625bc77a90",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179717",
-    "job_title": "EMT-P",
-    "employer_name": "Takeda",
-    "job_city": "WI - Madison",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Madison",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Madison/EMT-P_R0179717-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "daa1222c91905442ce18ab33fa45146e986dd26ab4fe9326fa9d748360a3f6cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179715",
-    "job_title": "Licensed Practical Nurse (LPN)",
-    "employer_name": "Takeda",
-    "job_city": "WI - Madison",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Madison",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Madison/Licensed-Practical-Nurse--LPN-_R0179715-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e2e96de3be5e29984003c90b31885b80ee8aa03b3cadeaddc8222a9973ebeab7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179714",
-    "job_title": "Phlebotomist (On-the-Job Training + Immediate Benefits!)",
-    "employer_name": "Takeda",
-    "job_city": "WI - Wausau",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Wausau",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Wausau/Phlebotomist--On-the-Job-Training---Immediate-Benefits--_R0179714-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9186c9ed1a69b6524b6753417d660a96de7b475bc3374c79bd847499d9625499",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179710",
-    "job_title": "Entry Level Phlebotomist (On-the-Job Training)",
-    "employer_name": "Takeda",
-    "job_city": "WI - Madison",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Madison",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Madison/Entry-Level-Phlebotomist--On-the-Job-Training-_R0179710-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "30023b237038279c667cb1df8b5793b2a65ead887fb678c575b0548f0153df6f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0170974",
-    "job_title": "Rare Disease Business Manager - Albuquerque, NM",
-    "employer_name": "Takeda",
-    "job_city": "New Mexico Virtual",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New Mexico Virtual + 1 more",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/New-Mexico---Virtual/Rare-Disease-Business-Manager---Albuquerque--NM_R0170974-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "38165ade21ce6ee53786a09fa89036d6c18d03710c950ee3f4060eff5004af66",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0177328",
-    "job_title": "Hematology Key Account Manager (Delta-TN,MS,AL)",
-    "employer_name": "Takeda",
-    "job_city": "Virtual",
-    "job_state": "TN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tennessee - Virtual",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Tennessee---Virtual/Hematology-Key-Account-Manager--Delta-TN-MS-AL-_R0177328-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02413a7e1fc5254d856fa2cd851e744219b8900e6e49693a016ce3f6f87ddfed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179780",
-    "job_title": "BioLife Nurse",
-    "employer_name": "Takeda",
-    "job_city": "MN - Moorhead",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MN - Moorhead",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/BioLife-Nurse_R0179780-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "78de9535d9dd651a5f26e7fd3a7d734792871ca4581ff7fb1e1cccf5383f6f54",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179798",
-    "job_title": "Licensed Practical Nurse LPN",
-    "employer_name": "Takeda",
-    "job_city": "ND - West Fargo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - ND - West Fargo",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---West-Fargo/Licensed-Practical-Nurse-LPN_R0179798-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "10b95f21ec45c97eb372e6bb103697433a03578039c88d3b6db83ebf76581193",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179797",
-    "job_title": "On Site Paramedic",
-    "employer_name": "Takeda",
-    "job_city": "ND - West Fargo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - ND - West Fargo",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---West-Fargo/On-Site-Paramedic_R0179797-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c0988e6de3c8b948280893076ec3d8a55f8ef0977e5755d3aaf4b62f496d7529",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179770",
-    "job_title": "Paramedic",
-    "employer_name": "Takeda",
-    "job_city": "MN - Moorhead",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MN - Moorhead",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Paramedic_R0179770-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e3d1a6205ebad1c63cde760d470483dad0e16a0c1581752be85e61908f9c8d1f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179769",
-    "job_title": "Plasma Center Nurse - LPN",
-    "employer_name": "Takeda",
-    "job_city": "MN - Moorhead",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MN - Moorhead",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Plasma-Center-Nurse---LPN_R0179769-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "adc10ad55fa214452c5432af7c8bbe0f73c1adbf14ba31c48ac6733378215afd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179768",
-    "job_title": "Registered Nurse RN",
-    "employer_name": "Takeda",
-    "job_city": "MN - Moorhead",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MN - Moorhead",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Registered-Nurse-RN_R0179768-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5e0df9cc9a4fb43a02d29c41e3a584aa76a7a1e693c70f86ed614d9ef957b801",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179799",
-    "job_title": "Registered Nurse RN",
-    "employer_name": "Takeda",
-    "job_city": "ND - West Fargo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - ND - West Fargo",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---West-Fargo/Registered-Nurse-RN_R0179799-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "854f368e882e302ea50e12a13a56842c14f201ea3b23988ee4188f056ac2a3f9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:14.745Z"
-  },
-  {
     "job_id": "workday-takeda-R0179785",
     "job_title": "Center Supervisor - Inglewood, CA",
     "employer_name": "Takeda",
@@ -5344,6 +4894,486 @@
     "job_posted_at": "2026-05-06T20:09:14.745Z"
   },
   {
+    "job_id": "workday-takeda-R0177822",
+    "job_title": "Center Manager",
+    "employer_name": "Takeda",
+    "job_city": "MD - Baltimore - East",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MD - Baltimore - East",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Baltimore---East/Center-Manager_R0177822-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "681fb640bf09d1263268faa5983e5ceffb0bc44d00fbf4ff29252ae2ae6f612b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179720",
+    "job_title": "Plasma Center Nurse – LPN (Immediate Benefits!)",
+    "employer_name": "Takeda",
+    "job_city": "WI - Appleton - Schroth Ln A",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Appleton - Schroth Ln A",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Appleton---Schroth-Ln-A/Plasma-Center-Nurse---LPN--Immediate-Benefits--_R0179720-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0669d175b6499a310909799ebc2ac93a37f8ff771bb05b6c526dfe333ecfab2b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179718",
+    "job_title": "Registered Nurse (RN)",
+    "employer_name": "Takeda",
+    "job_city": "WI - Madison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Madison",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Madison/Registered-Nurse--RN-_R0179718-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6c945481cca1491d848edee20514a15dab0780bffe049a314f59a8625bc77a90",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179717",
+    "job_title": "EMT-P",
+    "employer_name": "Takeda",
+    "job_city": "WI - Madison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Madison",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Madison/EMT-P_R0179717-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "daa1222c91905442ce18ab33fa45146e986dd26ab4fe9326fa9d748360a3f6cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179715",
+    "job_title": "Licensed Practical Nurse (LPN)",
+    "employer_name": "Takeda",
+    "job_city": "WI - Madison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Madison",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Madison/Licensed-Practical-Nurse--LPN-_R0179715-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e2e96de3be5e29984003c90b31885b80ee8aa03b3cadeaddc8222a9973ebeab7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179714",
+    "job_title": "Phlebotomist (On-the-Job Training + Immediate Benefits!)",
+    "employer_name": "Takeda",
+    "job_city": "WI - Wausau",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Wausau",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Wausau/Phlebotomist--On-the-Job-Training---Immediate-Benefits--_R0179714-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9186c9ed1a69b6524b6753417d660a96de7b475bc3374c79bd847499d9625499",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179710",
+    "job_title": "Entry Level Phlebotomist (On-the-Job Training)",
+    "employer_name": "Takeda",
+    "job_city": "WI - Madison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Madison",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Madison/Entry-Level-Phlebotomist--On-the-Job-Training-_R0179710-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "30023b237038279c667cb1df8b5793b2a65ead887fb678c575b0548f0153df6f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0170974",
+    "job_title": "Rare Disease Business Manager - Albuquerque, NM",
+    "employer_name": "Takeda",
+    "job_city": "New Mexico Virtual",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New Mexico Virtual + 1 more",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/New-Mexico---Virtual/Rare-Disease-Business-Manager---Albuquerque--NM_R0170974-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "38165ade21ce6ee53786a09fa89036d6c18d03710c950ee3f4060eff5004af66",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0177328",
+    "job_title": "Hematology Key Account Manager (Delta-TN,MS,AL)",
+    "employer_name": "Takeda",
+    "job_city": "Virtual",
+    "job_state": "TN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tennessee - Virtual",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Tennessee---Virtual/Hematology-Key-Account-Manager--Delta-TN-MS-AL-_R0177328-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02413a7e1fc5254d856fa2cd851e744219b8900e6e49693a016ce3f6f87ddfed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179780",
+    "job_title": "BioLife Nurse",
+    "employer_name": "Takeda",
+    "job_city": "MN - Moorhead",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MN - Moorhead",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/BioLife-Nurse_R0179780-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "78de9535d9dd651a5f26e7fd3a7d734792871ca4581ff7fb1e1cccf5383f6f54",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179798",
+    "job_title": "Licensed Practical Nurse LPN",
+    "employer_name": "Takeda",
+    "job_city": "ND - West Fargo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - ND - West Fargo",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---West-Fargo/Licensed-Practical-Nurse-LPN_R0179798-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "10b95f21ec45c97eb372e6bb103697433a03578039c88d3b6db83ebf76581193",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179797",
+    "job_title": "On Site Paramedic",
+    "employer_name": "Takeda",
+    "job_city": "ND - West Fargo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - ND - West Fargo",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---West-Fargo/On-Site-Paramedic_R0179797-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c0988e6de3c8b948280893076ec3d8a55f8ef0977e5755d3aaf4b62f496d7529",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179770",
+    "job_title": "Paramedic",
+    "employer_name": "Takeda",
+    "job_city": "MN - Moorhead",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MN - Moorhead",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Paramedic_R0179770-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3d1a6205ebad1c63cde760d470483dad0e16a0c1581752be85e61908f9c8d1f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179769",
+    "job_title": "Plasma Center Nurse - LPN",
+    "employer_name": "Takeda",
+    "job_city": "MN - Moorhead",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MN - Moorhead",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Plasma-Center-Nurse---LPN_R0179769-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "adc10ad55fa214452c5432af7c8bbe0f73c1adbf14ba31c48ac6733378215afd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179768",
+    "job_title": "Registered Nurse RN",
+    "employer_name": "Takeda",
+    "job_city": "MN - Moorhead",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MN - Moorhead",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Moorhead/Registered-Nurse-RN_R0179768-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5e0df9cc9a4fb43a02d29c41e3a584aa76a7a1e693c70f86ed614d9ef957b801",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179799",
+    "job_title": "Registered Nurse RN",
+    "employer_name": "Takeda",
+    "job_city": "ND - West Fargo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - ND - West Fargo",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---ND---West-Fargo/Registered-Nurse-RN_R0179799-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:14.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "854f368e882e302ea50e12a13a56842c14f201ea3b23988ee4188f056ac2a3f9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:14.745Z"
+  },
+  {
     "job_id": "workday-takeda-R0179713",
     "job_title": "Medical Screener",
     "employer_name": "Takeda",
@@ -5614,6 +5644,36 @@
     "job_posted_at": "2026-05-06T20:07:46.550Z"
   },
   {
+    "job_id": "workday-kbr-R2120818",
+    "job_title": "Donor Specialist (Dallas/Fort Worth/McKinney)",
+    "employer_name": "KBR",
+    "job_city": "Dallas Texas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas Texas + 4 more",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Dallas-Texas/Donor-Specialist--Dallas-Fort-Worth-McKinney-_R2120818",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:30.228Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3035e76dc1537b656eb64b840d07cd1fa99ed3fbd6239622751266e4e9a6a27",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:07:30.228Z"
+  },
+  {
     "job_id": "workday-kbr-R2120885",
     "job_title": "Special Operations Clinical Psychologist (Fort Bragg, NC)",
     "employer_name": "KBR",
@@ -5696,36 +5756,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:07:30.228Z"
-  },
-  {
-    "job_id": "workday-kbr-R2120818",
-    "job_title": "Donor Specialist (Dallas/Fort Worth/McKinney)",
-    "employer_name": "KBR",
-    "job_city": "Dallas Texas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas Texas + 4 more",
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Dallas-Texas/Donor-Specialist--Dallas-Fort-Worth-McKinney-_R2120818",
-    "job_posted_at_datetime_utc": "2026-05-06T20:07:30.228Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e3035e76dc1537b656eb64b840d07cd1fa99ed3fbd6239622751266e4e9a6a27",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -6584,11 +6614,17 @@
     "_original_source": "apple",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T22:24:19.766Z"
   },
@@ -7683,11 +7719,17 @@
         "pytest",
         "python"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T17:17:29.000Z"
   },
@@ -8880,11 +8922,17 @@
         "sql",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T17:39:57.864Z"
   },
@@ -10688,11 +10736,19 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "analytics"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T00:17:52.402Z"
   },
@@ -10739,11 +10795,19 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "analytics"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T00:17:52.402Z"
   },
@@ -10790,11 +10854,19 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "analytics"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T00:17:52.402Z"
   },
@@ -10841,42 +10913,20 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "analytics"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T00:17:52.402Z"
-  },
-  {
-    "job_id": "greenhouse-neuralink-7722015003",
-    "job_title": "Preclinical Study Coordinator",
-    "employer_name": "Neuralink",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, Texas, United States",
-    "job_apply_link": "https://boards.greenhouse.io/neuralink/jobs/7722015003?gh_jid=7722015003",
-    "job_posted_at_datetime_utc": "2026-05-01T21:48:24.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "07f7f1b602f1a3e12da48c6fdb3857c96207ed09b0de23b525df8eb86573eb22",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T21:48:24.000Z"
   }
 ]
