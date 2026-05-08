@@ -113,8 +113,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **AbbVie** | Lab Technician IV - Cell Culture | Worcester, MA | 19m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013046056) |
-| 🏢 **AbbVie** | Associate Scientist I - II, Biologics Drug Product Development | Irvine, CA | 24m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013045996) |
+| 🏢 **AbbVie** | Lab Technician IV - Cell Culture | Worcester, MA | 34m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013046056) |
+| 🏢 **AbbVie** | Associate Scientist I - II, Biologics Drug Product Development | Irvine, CA | 39m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013045996) |
 | 🏢 **IDEXX** | Microbiology Laboratory Technician - 1st Shift | Columbia, MO | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Microbiology-Laboratory-Technician---1st-Shift_J-052996) |
 | 🏢 **IDEXX** | Laboratory Technician - 1st Shift Per Diem | Glen Burnie, MD | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Glen-Burnie-MD/Laboratory-Technician---1st-Shift-Per-Diem_J-052869) |
 | 🏢 **Apple** | Sensing Hardware Mechanical Lab Technician | San Diego | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661146/sensing-hardware-mechanical-lab-technician) |
@@ -140,14 +140,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **EVERSANA** | Medical Information Specialist | Overland Park, KS | 31m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000125383879) |
+| 🏢 **EVERSANA** | Medical Information Specialist | Overland Park, KS | 46m | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000125383879) |
 | 🏢 **Medtronic** | Clinical Specialist Pelvic Health- Houston, TX | Houston, Texas, U... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Houston-Texas-United-States-of-America/Clinical-Specialist-Pelvic-Health--Houston--TX_R65748-1) |
 | 🏢 **Takeda** | Part Time Medical Screener | CA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Part-Time-Medical-Screener_R0179683-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist – Coronary Image-Guided Therapy Devices (Denver CO) | Denver, Colorado,... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denver-Colorado-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--Denver-CO-_579553) |
 | 🏢 **Takeda** | Medical Screener, Phlebotomist - Benefits on Day 1 | MT | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Billings/Medical-Screener--Phlebotomist---Benefits-on-Day-1_R0179666-1) |
 | 🏢 **Takeda** | Medical Screener/Phlebotomist | UT | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---UT---Ogden/Medical-Screener-Phlebotomist_R0179658-1) |
 | 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA | 2 Locations | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1) |
-| 🏢 **Abbott** | Associate Clinical Specialist, Cardiac Rhythm Management - Milwaukee, WI | Wisconsin | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Milwaukee/Clinical-Specialist--Cardiac-Rhythm-Management---Milwaukee--WI_31143622-1) |
+| 🏢 **Abbott** | Associate Clinical Specialist, Cardiac Rhythm Management - Milwaukee, WI | Wisconsin | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Milwaukee/Clinical-Specialist--Cardiac-Rhythm-Management---Milwaukee--WI_31143622-1) |
 | 🏢 **Abbott** | Clinical Specialist | Florida | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Sarasota/Clinical-Associate_31147789) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (Dallas, Ft. Worth TX) | Dallas Texas Unit... | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Dallas-Texas-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--Dallas--Ft-Worth-TX-_582474-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral - Image Guided Therapy Devices (San Francisco CA) | 2 Locations | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Francisco-Bay-Area-California-United-States/Sales-Support--Clinical-Specialist---Peripheral---Image-Guided-Therapy-Devices--San-Francisco-CA-_579374-1) |
@@ -192,7 +192,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Wellmark, Inc.** | Associate Product Owner - Network Performance (Open to hiring at the Product Owner level) | Des Moines, IA | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125376109) |
-| 🏢 **Personalis** | Sample Accessioner 1 | Fremont, CA | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7727988003) |
+| 🏢 **Personalis** | Sample Accessioner 1 | Fremont, CA | 18h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7727988003) |
 | 🏢 **Wellmark, Inc.** | Provider Network Strategy & Contracting Consultant | Des Moines, IA | 22h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125212479) |
 | 🏢 **Veolia Environnement SA** | Laboratory Supervisor | Port Arthur, TX | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124986069) |
 | 🏢 **Wellmark, Inc.** | Clinical Pharmacy Analyst (Pharmacoeconomics/HEOR) | Des Moines, IA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000124971255) |
