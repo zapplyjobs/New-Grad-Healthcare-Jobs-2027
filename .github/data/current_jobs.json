@@ -3818,6 +3818,37 @@
     "job_posted_at": "2026-05-03T07:02:47.276Z"
   },
   {
+    "job_id": "lever-includedhealth-f4ae6258-b23c-4f8e-856a-a843f1a5a930",
+    "job_title": "Psychiatrist",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/f4ae6258-b23c-4f8e-856a-a843f1a5a930/apply",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:54.953Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "30a5c9e978db285b39794782c157c03636031a479e33180f52bbea3aa2d29191",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-02T13:30:54.953Z"
+  },
+  {
     "job_id": "lever-includedhealth-371dcf5d-4923-418a-b575-37021e3d3ad6",
     "job_title": "Psychiatrist",
     "employer_name": "Included Health",
@@ -3862,37 +3893,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b98b1530980da1b43617752423881285e3c0a919f41926b3510ed5f3ff2f6d18",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-05-02T13:30:54.953Z"
-  },
-  {
-    "job_id": "lever-includedhealth-f4ae6258-b23c-4f8e-856a-a843f1a5a930",
-    "job_title": "Psychiatrist",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/f4ae6258-b23c-4f8e-856a-a843f1a5a930/apply",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:54.953Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "30a5c9e978db285b39794782c157c03636031a479e33180f52bbea3aa2d29191",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5793,316 +5793,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-05-01T00:16:05.206Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012926115",
-    "job_title": "Associate Scientist II, Histology",
-    "employer_name": "AbbVie",
-    "job_city": "North Chicago",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "North Chicago, IL",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012926115",
-    "job_posted_at_datetime_utc": "2026-05-01T00:13:38.372Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "151a364b3284a532d36319ca9bbce09dc40fad96f82a878a307f3851ac76df9d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T00:13:38.372Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012924595",
-    "job_title": "Finance Manager, Oncology - Demand Planning",
-    "employer_name": "AbbVie",
-    "job_city": "Mettawa",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mettawa, IL",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012924595",
-    "job_posted_at_datetime_utc": "2026-05-01T00:11:20.765Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "9202941271e6f85aad15e839a5db144e26fbd99d9c695a3c2446c54fe2d20770",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T00:11:20.765Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012924206",
-    "job_title": "Laboratory Technician IV - Microbiology",
-    "employer_name": "AbbVie",
-    "job_city": "Waco",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Waco, TX",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012924206",
-    "job_posted_at_datetime_utc": "2026-05-01T00:10:47.474Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "70bc0564bdf54c476c37f01e3141da03db51558b821ae7a5616b1cafe42a4fdb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T00:10:47.474Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012922194",
-    "job_title": "Scientist I - Peptide Synthesis",
-    "employer_name": "AbbVie",
-    "job_city": "Madison",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Madison, WI",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012922194",
-    "job_posted_at_datetime_utc": "2026-05-01T00:07:57.825Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "6e12cb5d783e4a1d9a3ec25c3994909ce4036c814a361e909636771f89963174",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T00:07:57.825Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012921848",
-    "job_title": "Hematology Clinical Account Specialist - Jacksonville, FL",
-    "employer_name": "AbbVie",
-    "job_city": "Jacksonville",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Jacksonville, FL",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012921848",
-    "job_posted_at_datetime_utc": "2026-05-01T00:07:50.835Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "b763d3423f3794af42acfb0cca5536737fbf82a1c8ed321407e0dd8b33c6e410",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T00:07:50.835Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012920843",
-    "job_title": "Scientist l - Peptide Synthesis",
-    "employer_name": "AbbVie",
-    "job_city": "Madison",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Madison, WI",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012920843",
-    "job_posted_at_datetime_utc": "2026-05-01T00:07:03.658Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "0c05f4d71ae09d782ee8d308b4da93e0c01c1fe04932fa010f7c11c93ad0f5be",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T00:07:03.658Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012921432",
-    "job_title": "Oncology Specialist - Seattle, WA",
-    "employer_name": "AbbVie",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012921432",
-    "job_posted_at_datetime_utc": "2026-05-01T00:06:59.765Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "c128d555a08eb1bf29b3467453bee3b859d35bea0d7c93612a903a4ccdc2996a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T00:06:59.765Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012919176",
-    "job_title": "Associate Scientist II, In Vitro Pharmacology",
-    "employer_name": "AbbVie",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Diego, CA",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012919176",
-    "job_posted_at_datetime_utc": "2026-05-01T00:03:26.632Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "833831c7fd0336092ab4423d9ab886e9fceadcb7fd830509b414e1b7dede0a4d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T00:03:26.632Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012919040",
-    "job_title": "Associate Scientist II/Scientist I - In Vivo Pharmacology",
-    "employer_name": "AbbVie",
-    "job_city": "Cambridge",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cambridge, MA",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012919040",
-    "job_posted_at_datetime_utc": "2026-05-01T00:03:24.181Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "d71f4dcee1072f2889ec5f92c4bb229f8d082aa32a745cb7fad8eaf842413d73",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T00:03:24.181Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012918957",
-    "job_title": "Scientist I, Biologics Drug Substance Development, Cell Culture Development",
-    "employer_name": "AbbVie",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012918957",
-    "job_posted_at_datetime_utc": "2026-05-01T00:03:14.558Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "ab6649ec632e6f3fec1e638f19f05633b315551fb43c05eb9fd7df9d8a763884",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T00:03:14.558Z"
   }
 ]
