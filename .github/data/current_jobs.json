@@ -1,5 +1,37 @@
 [
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01351254",
+    "job_title": "Sales Specialist - Proteomics - Boston",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote, Massachusetts, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Sales-Specialist---Proteomics---Boston_R-01351254",
+    "job_posted_at_datetime_utc": "2026-05-09T00:16:15.520Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4c32f4f31c0141fbf24511e5fec8975a4a0ba0899579fca70e40024330c7a19c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-09T00:16:15.520Z"
+  },
+  {
     "job_id": "workday-merck-&-co.-R393333",
     "job_title": "Companion Animal Pharmacovigilance Veterinarian",
     "employer_name": "Merck & Co.",
@@ -1691,36 +1723,6 @@
     "job_posted_at": "2026-05-08T20:08:59.835Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01351243",
-    "job_title": "Laboratory Supervisor (GMP)",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Middleton",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Middleton, Wisconsin, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Laboratory-Supervisor--GMP-_R-01351243",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "32f1d15c7e9afb09cff6cd0535b0346cef974f11a754b764c856cba0886b867a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:59.834Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01346273",
     "job_title": "Project Manager - FSP - Medical Affairs & Evidence Generation",
     "employer_name": "Thermo Fisher Scientific",
@@ -1734,37 +1736,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0399f54280b4aefab07e19320aabed219f8adb058220d0c85694fcf03adfc96e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:59.834Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01344265",
-    "job_title": "Experienced CRA 1; Southeast Location",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote, North Carolina, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Experienced-CRA-1--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344265-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfac22970a4319d46b2ff65cbeb1405c279f5229972709a1fe9e5fd71df1a29e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1833,6 +1804,67 @@
       ],
       "locations": [
         "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:59.834Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01351243",
+    "job_title": "Laboratory Supervisor (GMP)",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Middleton",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Middleton, Wisconsin, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Laboratory-Supervisor--GMP-_R-01351243",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "32f1d15c7e9afb09cff6cd0535b0346cef974f11a754b764c856cba0886b867a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:59.834Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01344265",
+    "job_title": "Experienced CRA 1; Southeast Location",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote, North Carolina, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Experienced-CRA-1--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344265-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfac22970a4319d46b2ff65cbeb1405c279f5229972709a1fe9e5fd71df1a29e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
       ],
       "experience": "unknown",
       "special": [],
@@ -10558,369 +10590,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-02T07:02:32.785Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2497399",
-    "job_title": "(USA) Pharmacy Tech Certified Sam's",
-    "employer_name": "Walmart",
-    "job_city": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) MO COLUMBIA 08163 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MO-COLUMBIA-08163-SAMS-CLUB/XMLNAME--USA--Pharmacy-Tech-Certified-Sam-s_R-2497399",
-    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "080ef0cc1650641442eafb19e2b20b53eab6b3ad1bfeda2f101b186ebe7fa60f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-02T00:22:27.996Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2495831",
-    "job_title": "(USA) Pharmacist Manager - Sam's",
-    "employer_name": "Walmart",
-    "job_city": "(USA) OK TULSA 06342 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) OK TULSA 06342 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OK-TULSA-06342-SAMS-CLUB/XMLNAME--USA--Pharmacist-Manager---Sam-s_R-2495831-1",
-    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "575937aa1cb57413e690e485c2011f1d0f49303722995a683f1e337f19db86d3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-02T00:22:27.996Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2497141",
-    "job_title": "Part-Time Pharmacy Tech Certified Sam's",
-    "employer_name": "Walmart",
-    "job_city": "(USA) PA YORK 08161 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) PA YORK 08161 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-PA-YORK-08161-SAMS-CLUB/Part-Time-Pharmacy-Tech-Certified-Sam-s_R-2497141",
-    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2b36c7662d9ffa3f9222621bf3e742a040474a6378df6334baf5b807d353c95",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-02T00:22:27.996Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2497076",
-    "job_title": "Pharmacist Manager - Sam's Pharmacy",
-    "employer_name": "Walmart",
-    "job_city": "West Mifflin",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "West Mifflin, PA",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/West-Mifflin-PA/Pharmacist-Manager---Sam-s-Pharmacy_R-2497076",
-    "job_posted_at_datetime_utc": "2026-05-02T00:22:27.996Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2089dd24587c9f8a5263ece40ef654e5eb92b953bca5141eb9b2e7fbd7a0e4c1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-02T00:22:27.996Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7825290",
-    "job_title": "Associate, Data Analytics (Atlanta, GA- Remote)",
-    "employer_name": "Oscar Health",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, Georgia, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7825290?gh_jid=7825290",
-    "job_posted_at_datetime_utc": "2026-05-02T00:17:52.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8d07be7bfecac7137bcf5d48e9f65b3636c447aa1d6220c6176a2bba655daddf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "nice_to_have_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T00:17:52.402Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7825287",
-    "job_title": "Associate, Data Analytics (Dallas, TX- Remote)",
-    "employer_name": "Oscar Health",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas, Texas, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7825287?gh_jid=7825287",
-    "job_posted_at_datetime_utc": "2026-05-02T00:17:52.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "640ca385696a7a35e8f90e385ae08f6d4c4d1dfea1aa9b371fc7450b55213a1b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "nice_to_have_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T00:17:52.402Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7688263",
-    "job_title": "Associate, Data Analytics (NYC - Hybrid)",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7688263?gh_jid=7688263",
-    "job_posted_at_datetime_utc": "2026-05-02T00:17:52.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d5e65a7c2a7775116a148a3fed791bcadbd6a37b1497de5ec53161f98599296",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "nice_to_have_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T00:17:52.402Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7825277",
-    "job_title": "Associate, Data Analytics (Tempe, AZ - Hybrid)",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7825277?gh_jid=7825277",
-    "job_posted_at_datetime_utc": "2026-05-02T00:17:52.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "13869653c252555027a616e98a2d78367e0fcb105035f6166b3ec7015f275b03",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "nice_to_have_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T00:17:52.402Z"
   }
 ]
