@@ -5965,6 +5965,68 @@
     "job_posted_at": "2026-05-06T20:07:01.395Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-073083",
+    "job_title": "Associate Clinical Account Specialist (Raleigh, NC) - Johnson and Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Raleigh, North Carolina, United States",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raleigh-North-Carolina-United-States/Associate-Clinical-Account-Specialist--Raleigh--NC----Johnson-and-Johnson-MedTech--Electrophysiology_R-073083",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "90efecf90e74bb75583cf4bfc6c5cdc0f3c8be461fbaeff7a9a12d1fb658755c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-073906",
+    "job_title": "Associate Clinical Account Specialist (Birmingham, AL) - Johnson and Johnson MedTech, Electrophysiology",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Birmingham",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Birmingham, Alabama, United States",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Birmingham-Alabama-United-States/Associate-Clinical-Account-Specialist--Birmingham--AL----Johnson-and-Johnson-MedTech--Electrophysiology_R-073906",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "59ffb58638ae1751a16b1833b63f199ec9ab9e0a53acd49148b4835caa6d1933",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-072581",
     "job_title": "Associate Clinical Consultant or Clinical Consultant (Detroit, MI) - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -6072,68 +6134,6 @@
       "employment": "entry_level",
       "domains": [
         "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:06:53.750Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-073083",
-    "job_title": "Associate Clinical Account Specialist (Raleigh, NC) - Johnson and Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Raleigh",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Raleigh, North Carolina, United States",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raleigh-North-Carolina-United-States/Associate-Clinical-Account-Specialist--Raleigh--NC----Johnson-and-Johnson-MedTech--Electrophysiology_R-073083",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "90efecf90e74bb75583cf4bfc6c5cdc0f3c8be461fbaeff7a9a12d1fb658755c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:06:53.750Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-073906",
-    "job_title": "Associate Clinical Account Specialist (Birmingham, AL) - Johnson and Johnson MedTech, Electrophysiology",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Birmingham",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Birmingham, Alabama, United States",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Birmingham-Alabama-United-States/Associate-Clinical-Account-Specialist--Birmingham--AL----Johnson-and-Johnson-MedTech--Electrophysiology_R-073906",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "59ffb58638ae1751a16b1833b63f199ec9ab9e0a53acd49148b4835caa6d1933",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
       ],
       "locations": [
         "us"
