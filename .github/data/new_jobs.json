@@ -3186,6 +3186,126 @@
     "job_posted_at": "2026-05-07T07:32:47.745Z"
   },
   {
+    "job_id": "workday-takeda-R0179834",
+    "job_title": "Plasma Center Nurse LPN, or EMT-P.",
+    "employer_name": "Takeda",
+    "job_city": "FL - Jacksonville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - FL - Jacksonville",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville/Plasma-Center-Nurse-LPN--or-EMT-P_R0179834-1",
+    "job_posted_at_datetime_utc": "2026-05-07T07:32:47.744Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "707b5bd7f36eba6203c501259ef16f7c8c5f28e3251338cc3ebee2d091927835",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:32:47.744Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179833",
+    "job_title": "Medical Support Specialist- RN",
+    "employer_name": "Takeda",
+    "job_city": "VA - Roanoke",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - VA - Roanoke",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Roanoke/Medical-Support-Specialist--RN_R0179833-1",
+    "job_posted_at_datetime_utc": "2026-05-07T07:32:47.744Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4637e6704c0954c8163f85ac55d8c9ea482cea28949cc4eaca853d791678b14b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:32:47.744Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179826",
+    "job_title": "Entry Level Phlebotomist (on-the-job training)",
+    "employer_name": "Takeda",
+    "job_city": "MD - Baltimore - East",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - MD - Baltimore - East",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Baltimore---East/Entry-Level-Phlebotomist--on-the-job-training-_R0179826-1",
+    "job_posted_at_datetime_utc": "2026-05-07T07:32:47.744Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b3ac45e21b298a6e67e0281720d63edd9933458da4d95694e2b5b254228cf46f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:32:47.744Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179841",
+    "job_title": "Full Time Intake Nurse - Bilingual Spanish",
+    "employer_name": "Takeda",
+    "job_city": "CA - Lemon Grove",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - CA - Lemon Grove",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Full-Time-Intake-Nurse---Bilingual-Spanish_R0179841-1",
+    "job_posted_at_datetime_utc": "2026-05-07T07:32:47.744Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "477980a61d156934ca74a09a944d976b57d94b49f5931fa72629c18f1f69e0e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:32:47.744Z"
+  },
+  {
     "job_id": "workday-takeda-R0179880",
     "job_title": "Plasma Center Paramedic - EMT-P",
     "employer_name": "Takeda",
@@ -3829,126 +3949,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2f81cb96294c7e92701df52bc18452a6999341153f8dd420ccd8706582f2d01e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:32:47.744Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179834",
-    "job_title": "Plasma Center Nurse LPN, or EMT-P.",
-    "employer_name": "Takeda",
-    "job_city": "FL - Jacksonville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - FL - Jacksonville",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Jacksonville/Plasma-Center-Nurse-LPN--or-EMT-P_R0179834-1",
-    "job_posted_at_datetime_utc": "2026-05-07T07:32:47.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "707b5bd7f36eba6203c501259ef16f7c8c5f28e3251338cc3ebee2d091927835",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:32:47.744Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179833",
-    "job_title": "Medical Support Specialist- RN",
-    "employer_name": "Takeda",
-    "job_city": "VA - Roanoke",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - VA - Roanoke",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Roanoke/Medical-Support-Specialist--RN_R0179833-1",
-    "job_posted_at_datetime_utc": "2026-05-07T07:32:47.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4637e6704c0954c8163f85ac55d8c9ea482cea28949cc4eaca853d791678b14b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:32:47.744Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179826",
-    "job_title": "Entry Level Phlebotomist (on-the-job training)",
-    "employer_name": "Takeda",
-    "job_city": "MD - Baltimore - East",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - MD - Baltimore - East",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Baltimore---East/Entry-Level-Phlebotomist--on-the-job-training-_R0179826-1",
-    "job_posted_at_datetime_utc": "2026-05-07T07:32:47.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b3ac45e21b298a6e67e0281720d63edd9933458da4d95694e2b5b254228cf46f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:32:47.744Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179841",
-    "job_title": "Full Time Intake Nurse - Bilingual Spanish",
-    "employer_name": "Takeda",
-    "job_city": "CA - Lemon Grove",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - CA - Lemon Grove",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Full-Time-Intake-Nurse---Bilingual-Spanish_R0179841-1",
-    "job_posted_at_datetime_utc": "2026-05-07T07:32:47.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "477980a61d156934ca74a09a944d976b57d94b49f5931fa72629c18f1f69e0e2",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7726,6 +7726,156 @@
     "job_posted_at": "2026-05-05T07:47:00.282Z"
   },
   {
+    "job_id": "workday-takeda-R0179629",
+    "job_title": "Licensed Practical Nurse – Day One Benefits",
+    "employer_name": "Takeda",
+    "job_city": "WI - Janesville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - WI - Janesville",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Licensed-Practical-Nurse---Day-One-Benefits_R0179629-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:32:47.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1ff1b172938d7d7bfb1e1a99d8f5a545a5093ba805f9834a11dbb19413a16509",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:32:47.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179627",
+    "job_title": "Medical Support Specialist EMT/ Paramedic",
+    "employer_name": "Takeda",
+    "job_city": "TX - Burleson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Burleson",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Burleson/Medical-Support-Specialist-EMT--Paramedic_R0179627-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:32:47.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "242001ab239c09c491a01af1870f68c4a4f9103d40727202691689fc6962990b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:32:47.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179626",
+    "job_title": "Medical Support Specialist",
+    "employer_name": "Takeda",
+    "job_city": "TX - Burleson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - TX - Burleson",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Burleson/Medical-Support-Specialist_R0179626-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:32:47.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87b0ec01f537be36f6486f88e20929b80ba69830c79e1160247e5969e2321d4b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:32:47.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179683",
+    "job_title": "Part Time Medical Screener",
+    "employer_name": "Takeda",
+    "job_city": "CA - Lemon Grove",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - CA - Lemon Grove",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Part-Time-Medical-Screener_R0179683-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:32:47.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "096ddffcf9853eb4ea73f995470e5d0086820205483b0235fa506db4d8775ba6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:32:47.745Z"
+  },
+  {
+    "job_id": "workday-takeda-R0179606",
+    "job_title": "Experienced Phlebotomist",
+    "employer_name": "Takeda",
+    "job_city": "NY - Latham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - NY - Latham",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Latham/Experienced-Phlebotomist_R0179606-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:32:47.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "10257251c3e26a47692813478b9782c0244cff1e096e73bda38915508d3911d6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:32:47.745Z"
+  },
+  {
     "job_id": "workday-takeda-R0179693",
     "job_title": "Plasma Center Technician",
     "employer_name": "Takeda",
@@ -8549,156 +8699,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d07eb1d791c6d64132bee352b3807ff0e691bdaa8653ac583b38f321964facf2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T07:32:47.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179629",
-    "job_title": "Licensed Practical Nurse – Day One Benefits",
-    "employer_name": "Takeda",
-    "job_city": "WI - Janesville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - WI - Janesville",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---WI---Janesville/Licensed-Practical-Nurse---Day-One-Benefits_R0179629-1",
-    "job_posted_at_datetime_utc": "2026-05-05T07:32:47.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1ff1b172938d7d7bfb1e1a99d8f5a545a5093ba805f9834a11dbb19413a16509",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T07:32:47.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179627",
-    "job_title": "Medical Support Specialist EMT/ Paramedic",
-    "employer_name": "Takeda",
-    "job_city": "TX - Burleson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Burleson",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Burleson/Medical-Support-Specialist-EMT--Paramedic_R0179627-1",
-    "job_posted_at_datetime_utc": "2026-05-05T07:32:47.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "242001ab239c09c491a01af1870f68c4a4f9103d40727202691689fc6962990b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T07:32:47.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179626",
-    "job_title": "Medical Support Specialist",
-    "employer_name": "Takeda",
-    "job_city": "TX - Burleson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - TX - Burleson",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Burleson/Medical-Support-Specialist_R0179626-1",
-    "job_posted_at_datetime_utc": "2026-05-05T07:32:47.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "87b0ec01f537be36f6486f88e20929b80ba69830c79e1160247e5969e2321d4b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T07:32:47.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179683",
-    "job_title": "Part Time Medical Screener",
-    "employer_name": "Takeda",
-    "job_city": "CA - Lemon Grove",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - CA - Lemon Grove",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Lemon-Grove/Part-Time-Medical-Screener_R0179683-1",
-    "job_posted_at_datetime_utc": "2026-05-05T07:32:47.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "096ddffcf9853eb4ea73f995470e5d0086820205483b0235fa506db4d8775ba6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T07:32:47.745Z"
-  },
-  {
-    "job_id": "workday-takeda-R0179606",
-    "job_title": "Experienced Phlebotomist",
-    "employer_name": "Takeda",
-    "job_city": "NY - Latham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - NY - Latham",
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Latham/Experienced-Phlebotomist_R0179606-1",
-    "job_posted_at_datetime_utc": "2026-05-05T07:32:47.745Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "10257251c3e26a47692813478b9782c0244cff1e096e73bda38915508d3911d6",
     "tags": {
       "employment": "entry_level",
       "domains": [
