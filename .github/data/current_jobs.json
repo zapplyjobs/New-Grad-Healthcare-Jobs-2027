@@ -1723,67 +1723,6 @@
     "job_posted_at": "2026-05-08T20:08:59.835Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01346273",
-    "job_title": "Project Manager - FSP - Medical Affairs & Evidence Generation",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote, North Carolina, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Project-Manager---FSP---Medical-Affairs---Evidence-Generation_R-01346273",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0399f54280b4aefab07e19320aabed219f8adb058220d0c85694fcf03adfc96e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:59.834Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01352360",
-    "job_title": "Associate Scientist – ELISA",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Rockville",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Rockville, Maryland, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01352360",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:59.834Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01351694",
     "job_title": "Clinical Research Nurse- Per Diem Day",
     "employer_name": "Thermo Fisher Scientific",
@@ -1844,6 +1783,37 @@
     "job_posted_at": "2026-05-08T20:08:59.834Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01346273",
+    "job_title": "Project Manager - FSP - Medical Affairs & Evidence Generation",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote, North Carolina, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Project-Manager---FSP---Medical-Affairs---Evidence-Generation_R-01346273",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0399f54280b4aefab07e19320aabed219f8adb058220d0c85694fcf03adfc96e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:59.834Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01344265",
     "job_title": "Experienced CRA 1; Southeast Location",
     "employer_name": "Thermo Fisher Scientific",
@@ -1865,6 +1835,36 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:59.834Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01352360",
+    "job_title": "Associate Scientist – ELISA",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Rockville",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Rockville, Maryland, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01352360",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "unknown",
       "special": [],
