@@ -2371,6 +2371,36 @@
     "job_posted_at": "2026-05-07T08:01:51.270Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01351337",
+    "job_title": "QC Scientist I, Microbiology",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "St. Louis",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "St. Louis, Missouri, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/QC-Scientist-I--Microbiology_R-01351337",
+    "job_posted_at_datetime_utc": "2026-05-07T07:50:02.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "362a8cd15f53bd0df916f539904c72001b24525f6c6f5fa3f4726ea16e4811af",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:50:02.461Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01351243",
     "job_title": "Laboratory Supervisor (GMP)",
     "employer_name": "Thermo Fisher Scientific",
@@ -2422,36 +2452,6 @@
       "locations": [
         "us",
         "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:50:02.461Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01351337",
-    "job_title": "QC Scientist I, Microbiology",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "St. Louis",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "St. Louis, Missouri, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/QC-Scientist-I--Microbiology_R-01351337",
-    "job_posted_at_datetime_utc": "2026-05-07T07:50:02.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "362a8cd15f53bd0df916f539904c72001b24525f6c6f5fa3f4726ea16e4811af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
       ],
       "experience": "unknown",
       "special": [],
@@ -7455,6 +7455,36 @@
     "job_posted_at": "2026-05-05T08:01:51.270Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01350117",
+    "job_title": "Technical Support Manager, Olink proteomics (Remote - US)",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Massachusetts + 11 more",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Technical-Support-Manager--Olink-proteomics--Remote---US-_R-01350117",
+    "job_posted_at_datetime_utc": "2026-05-05T07:50:02.462Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ef61d5964c67ade63678a232acffab396df37bade1d2f1a7668ebbdb812cdeb3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:50:02.462Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01345262",
     "job_title": "Supervisor - Sample Management- 2nd Shift",
     "employer_name": "Thermo Fisher Scientific",
@@ -7498,36 +7528,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T07:50:02.462Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01350117",
-    "job_title": "Technical Support Manager, Olink proteomics (Remote - US)",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Massachusetts + 11 more",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Technical-Support-Manager--Olink-proteomics--Remote---US-_R-01350117",
-    "job_posted_at_datetime_utc": "2026-05-05T07:50:02.462Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef61d5964c67ade63678a232acffab396df37bade1d2f1a7668ebbdb812cdeb3",
     "tags": {
       "employment": "entry_level",
       "domains": [
