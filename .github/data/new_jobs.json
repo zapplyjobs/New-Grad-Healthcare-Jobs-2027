@@ -1875,19 +1875,19 @@
     "job_posted_at": "2026-05-08T20:08:59.834Z"
   },
   {
-    "job_id": "workday-philips-579594",
-    "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (North Miami)",
+    "job_id": "workday-philips-583224",
+    "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (North Alabama)",
     "employer_name": "Philips",
-    "job_city": "Miami",
-    "job_state": "FL",
+    "job_city": "Birmingham (US)",
+    "job_state": "AL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Miami, Florida, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Miami-Florida-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Therapy-Devices--North-Miami-_579594-1",
+    "job_location": "Birmingham (US), Alabama, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Birmingham-US-Alabama-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Therapy-Devices--North-Alabama-_583224-1",
     "job_posted_at_datetime_utc": "2026-05-08T20:08:27.105Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "6fd3c1ab1950f9fb2f6b1d641e37812c4ae18d4e4b8d98aee15b68109f8f8685",
+    "fingerprint": "26a885c568d05c1e06b5c48d0ec2d64a469f9c62fbf39638b7dad70b46ca45d2",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1906,19 +1906,19 @@
     "job_posted_at": "2026-05-08T20:08:27.105Z"
   },
   {
-    "job_id": "workday-philips-583224",
-    "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (North Alabama)",
+    "job_id": "workday-philips-579594",
+    "job_title": "Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (North Miami)",
     "employer_name": "Philips",
-    "job_city": "Birmingham (US)",
-    "job_state": "AL",
+    "job_city": "Miami",
+    "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Birmingham (US), Alabama, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Birmingham-US-Alabama-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Therapy-Devices--North-Alabama-_583224-1",
+    "job_location": "Miami, Florida, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Miami-Florida-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Therapy-Devices--North-Miami-_579594-1",
     "job_posted_at_datetime_utc": "2026-05-08T20:08:27.105Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "26a885c568d05c1e06b5c48d0ec2d64a469f9c62fbf39638b7dad70b46ca45d2",
+    "fingerprint": "6fd3c1ab1950f9fb2f6b1d641e37812c4ae18d4e4b8d98aee15b68109f8f8685",
     "tags": {
       "employment": "entry_level",
       "domains": [
