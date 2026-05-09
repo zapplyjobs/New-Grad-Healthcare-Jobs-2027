@@ -183,7 +183,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Medtronic** | Cardiac Rhythm Management Associate Clinical Specialist | St. Louis, Missou... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/St-Louis-Missouri-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist_R66015) |
-| 🏢 **Exact Sciences** | Regional Oncology Specialist - West Virginia | WV Charleston + 3... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WV---Charleston/Regional-Oncology-Specialist---West-Virginia_R26-12494) |
+| 🏢 **Exact Sciences** | Regional Oncology Specialist - West Virginia | WV Charleston + 3... | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WV---Charleston/Regional-Oncology-Specialist---West-Virginia_R26-12494) |
 | 🏢 **Takeda** | Medical Screener | NY | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Latham/Medical-Screener_R0179921-1) |
 | 🏢 **Takeda** | Medical Screener | FL | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Orlando/Medical-Screener_R0178484-1) |
 | 🏢 **Takeda** | Medical Screener/Phlebotomist | ID | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---ID---Hayden/Medical-Historian--Phlebotomist-PTO---Benefits_R0174872-1) |
@@ -244,7 +244,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Thermo Fisher Scientific** | Sales Specialist - Proteomics - Boston | Remote, Massachus... | 29m | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Sales-Specialist---Proteomics---Boston_R-01351254) |
+| 🏢 **Thermo Fisher Scientific** | Sales Specialist - Proteomics - Boston | Remote, Massachus... | 44m | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Sales-Specialist---Proteomics---Boston_R-01351254) |
 | 🏢 **Johnson & Johnson** | Study Responsible Physician- Neuroscience (Pediatric Studies) | 2 Locations | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1) |
 | 🏢 **Johnson & Johnson** | Study Responsible Physician- Neuroscience Late Development | 2 Locations | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience-Late-Development_R-066499-1) |
 | 🏢 **Johnson & Johnson** | Study Responsible Physician- Neuroscience Late Development | 2 Locations | 3h | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience-Late-Development_R-066453-1) |
