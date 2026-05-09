@@ -915,36 +915,6 @@
     "job_posted_at": "2026-05-08T20:09:14.744Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01351694",
-    "job_title": "Clinical Research Nurse- Per Diem Day",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Las Vegas",
-    "job_state": "NV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Las Vegas, Nevada, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse--Per-Diem-Day_R-01351694",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f0fb30e238ef33be5f0b8c7ba0aca8bee772d6c20af7ee5316679f93b8e36ab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:59.834Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01344265",
     "job_title": "Experienced CRA 1; Southeast Location",
     "employer_name": "Thermo Fisher Scientific",
@@ -989,6 +959,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:59.834Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01351694",
+    "job_title": "Clinical Research Nurse- Per Diem Day",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Las Vegas",
+    "job_state": "NV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Las Vegas, Nevada, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse--Per-Diem-Day_R-01351694",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f0fb30e238ef33be5f0b8c7ba0aca8bee772d6c20af7ee5316679f93b8e36ab",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2643,36 +2643,6 @@
     "job_posted_at": "2026-05-07T07:48:12.692Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-050086",
-    "job_title": "Associate Clinical Consultant or Clinical Consultant - Ontario, CA - Johnson & Johnson MedTech – Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Ontario",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ontario, California, United States",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Ontario-California-United-States/Associate-or-Area-Clinical-Consultant---Ontario--CA---Johnson---Johnson-MedTech---Heart-Recovery_R-050086-1",
-    "job_posted_at_datetime_utc": "2026-05-07T07:48:03.618Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a8a61d7cf3532814c4051025de907092d53f3e1a6c44e2b514456ab0934a26ea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:48:03.618Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-071016",
     "job_title": "Clinical Account Specialist - New York, NY - Johnson and Johnson MedTech - Electrophysiology",
     "employer_name": "Johnson & Johnson",
@@ -2696,6 +2666,36 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:48:03.618Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-050086",
+    "job_title": "Associate Clinical Consultant or Clinical Consultant - Ontario, CA - Johnson & Johnson MedTech – Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Ontario",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ontario, California, United States",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Ontario-California-United-States/Associate-or-Area-Clinical-Consultant---Ontario--CA---Johnson---Johnson-MedTech---Heart-Recovery_R-050086-1",
+    "job_posted_at_datetime_utc": "2026-05-07T07:48:03.618Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a8a61d7cf3532814c4051025de907092d53f3e1a6c44e2b514456ab0934a26ea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -4893,66 +4893,6 @@
     "job_posted_at": "2026-05-06T07:48:03.619Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-073309",
-    "job_title": "Advanced Surgical Consultant (Boston Central) - Johnson & Johnson MedTech - Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boston, Massachusetts, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Advanced-Surgical-Consultant--Boston-Central----Johnson---Johnson-MedTech---Heart-Recovery_R-073309-1",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:03.618Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "57fe5e16067d58cba032db990746fe7be6e778aba8dfc6975f464404bf40ba37",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T07:48:03.618Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-073313",
-    "job_title": "Advanced Surgical Consultant (Boston South - Hartford, CT) - Johnson & Johnson MedTech - Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "3 Locations",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Advanced-Surgical-Consultant--Boston-South---Hartford--CT----Johnson---Johnson-MedTech---Heart-Recovery_R-073313",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:03.618Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a327a30d6267229a0eb057f9917e30d21503e3c9c2ced0c7c681268a57c5962a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T07:48:03.618Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-072581",
     "job_title": "Associate Clinical Consultant or Clinical Consultant (Detroit, MI) - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -4996,6 +4936,66 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e90a3901ddbcb66d3d0ed2883e43d1c2b0d28d45c0545e4d818d9a1a44348cb6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T07:48:03.618Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-073309",
+    "job_title": "Advanced Surgical Consultant (Boston Central) - Johnson & Johnson MedTech - Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boston, Massachusetts, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Advanced-Surgical-Consultant--Boston-Central----Johnson---Johnson-MedTech---Heart-Recovery_R-073309-1",
+    "job_posted_at_datetime_utc": "2026-05-06T07:48:03.618Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "57fe5e16067d58cba032db990746fe7be6e778aba8dfc6975f464404bf40ba37",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T07:48:03.618Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-073313",
+    "job_title": "Advanced Surgical Consultant (Boston South - Hartford, CT) - Johnson & Johnson MedTech - Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "3 Locations",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Advanced-Surgical-Consultant--Boston-South---Hartford--CT----Johnson---Johnson-MedTech---Heart-Recovery_R-073313",
+    "job_posted_at_datetime_utc": "2026-05-06T07:48:03.618Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a327a30d6267229a0eb057f9917e30d21503e3c9c2ced0c7c681268a57c5962a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7455,6 +7455,36 @@
     "job_posted_at": "2026-05-05T08:01:51.270Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01351960",
+    "job_title": "Associate Scientist – ELISA",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Rockville",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Rockville, Maryland, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01351960",
+    "job_posted_at_datetime_utc": "2026-05-05T07:50:02.462Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:50:02.462Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01350117",
     "job_title": "Technical Support Manager, Olink proteomics (Remote - US)",
     "employer_name": "Thermo Fisher Scientific",
@@ -7507,36 +7537,6 @@
         "us"
       ],
       "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T07:50:02.462Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01351960",
-    "job_title": "Associate Scientist – ELISA",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Rockville",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Rockville, Maryland, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01351960",
-    "job_posted_at_datetime_utc": "2026-05-05T07:50:02.462Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
