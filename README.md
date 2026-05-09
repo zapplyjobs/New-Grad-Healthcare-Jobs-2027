@@ -183,7 +183,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Medtronic** | Cardiac Rhythm Management Associate Clinical Specialist | St. Louis, Missou... | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/St-Louis-Missouri-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist_R66015) |
-| 🏢 **Exact Sciences** | Regional Oncology Specialist - West Virginia | WV Charleston + 3... | 4h | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WV---Charleston/Regional-Oncology-Specialist---West-Virginia_R26-12494) |
+| 🏢 **Exact Sciences** | Regional Oncology Specialist - West Virginia | WV Charleston + 3... | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WV---Charleston/Regional-Oncology-Specialist---West-Virginia_R26-12494) |
 | 🏢 **Takeda** | Medical Screener | NY | 6h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NY---Latham/Medical-Screener_R0179921-1) |
 | 🏢 **Takeda** | Medical Screener | FL | 6h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Orlando/Medical-Screener_R0178484-1) |
 | 🏢 **Takeda** | Medical Screener/Phlebotomist | ID | 6h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---ID---Hayden/Medical-Historian--Phlebotomist-PTO---Benefits_R0174872-1) |
