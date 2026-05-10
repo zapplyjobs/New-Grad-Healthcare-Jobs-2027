@@ -62,36 +62,6 @@
     "job_posted_at": "2026-05-09T07:46:23.114Z"
   },
   {
-    "job_id": "workday-merck-&-co.-R393333",
-    "job_title": "Companion Animal Pharmacovigilance Veterinarian",
-    "employer_name": "Merck & Co.",
-    "job_city": "New Jersey - Rahway",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - New Jersey - Rahway",
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Pharmacovigilance-Veterinarian_R393333",
-    "job_posted_at_datetime_utc": "2026-05-08T22:17:35.737Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b36c455c5e6d2c780ae9c0d91f8ba9db3ff28db9308f3622bc899a568a22698f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T22:17:35.737Z"
-  },
-  {
     "job_id": "workday-exact-sciences-R26-12494",
     "job_title": "Regional Oncology Specialist - West Virginia",
     "employer_name": "Exact Sciences",
@@ -852,66 +822,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-08T20:07:30.227Z"
-  },
-  {
-    "job_id": "workday-merck-&-co.-R395744",
-    "job_title": "Scientist, Analytical R&D  Microbiologist (Onsite)",
-    "employer_name": "Merck & Co.",
-    "job_city": "New Jersey - Rahway",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - New Jersey - Rahway",
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Scientist--Analytical-R-D--Microbiologist--Onsite-_R395744-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:22.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2619c955acf67c83e3b9f276474fd476b898121efcf78489619335a99b5382f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:07:22.553Z"
-  },
-  {
-    "job_id": "workday-merck-&-co.-R395851",
-    "job_title": "Associate Scientist, Preclinical Dev.",
-    "employer_name": "Merck & Co.",
-    "job_city": "New Jersey - Rahway",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - New Jersey - Rahway",
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Scientist--Preclinical-Dev_R395851-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:22.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c7aeb8be6142708d612ccd1480d63a821e7e93ff1c239877c3011f4b88fdb459",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:07:22.553Z"
   },
   {
     "job_id": "workday-guidehouse-35732",
@@ -1706,6 +1616,96 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-05-08T16:35:14.871Z"
+  },
+  {
+    "job_id": "workday-merck-&-co.-R393333",
+    "job_title": "Companion Animal Pharmacovigilance Veterinarian",
+    "employer_name": "Merck & Co.",
+    "job_city": "New Jersey - Rahway",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - New Jersey - Rahway",
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Companion-Animal-Pharmacovigilance-Veterinarian_R393333",
+    "job_posted_at_datetime_utc": "2026-05-08T12:16:27.301Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b36c455c5e6d2c780ae9c0d91f8ba9db3ff28db9308f3622bc899a568a22698f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T12:16:27.301Z"
+  },
+  {
+    "job_id": "workday-merck-&-co.-R395744",
+    "job_title": "Scientist, Analytical R&D  Microbiologist (Onsite)",
+    "employer_name": "Merck & Co.",
+    "job_city": "New Jersey - Rahway",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - New Jersey - Rahway",
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Scientist--Analytical-R-D--Microbiologist--Onsite-_R395744-1",
+    "job_posted_at_datetime_utc": "2026-05-08T12:16:27.301Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d2619c955acf67c83e3b9f276474fd476b898121efcf78489619335a99b5382f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T12:16:27.301Z"
+  },
+  {
+    "job_id": "workday-merck-&-co.-R395851",
+    "job_title": "Associate Scientist, Preclinical Dev.",
+    "employer_name": "Merck & Co.",
+    "job_city": "New Jersey - Rahway",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - New Jersey - Rahway",
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Scientist--Preclinical-Dev_R395851-1",
+    "job_posted_at_datetime_utc": "2026-05-08T12:16:27.301Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c7aeb8be6142708d612ccd1480d63a821e7e93ff1c239877c3011f4b88fdb459",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T12:16:27.301Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-073630",
