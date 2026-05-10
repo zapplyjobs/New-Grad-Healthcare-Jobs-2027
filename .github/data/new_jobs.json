@@ -1738,6 +1738,36 @@
     "job_posted_at": "2026-05-08T10:46:31.641Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-067790",
+    "job_title": "Investigator - Lenti",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Raritan",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Raritan, New Jersey, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Investigator---Lenti_R-067790-1",
+    "job_posted_at_datetime_utc": "2026-05-08T10:46:31.641Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1bf2f143a861e7d68c83bcd28cca7e1a19cdd19c78d27f19d00c2617dee5d3f5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T10:46:31.641Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-070276",
     "job_title": "Executive Oncology Area Business Specialist (Denver, CO) - Johnson & Johnson Innovative Medicine",
     "employer_name": "Johnson & Johnson",
@@ -1796,6 +1826,36 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-08T10:46:31.641Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-063662",
+    "job_title": "Clinical Service Specialist",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Irvine, California, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Clinical-Service-Specialist_R-063662-1",
+    "job_posted_at_datetime_utc": "2026-05-08T10:46:31.640Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a71b0a8e30f25522f8c25e4d425eafc1c7a2683855746c68347ee85bebe92447",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T10:46:31.640Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-067364",
@@ -2462,6 +2522,36 @@
     "job_posted_at": "2026-05-07T07:48:12.692Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-050086",
+    "job_title": "Associate Clinical Consultant or Clinical Consultant - Ontario, CA - Johnson & Johnson MedTech – Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Ontario",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ontario, California, United States",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Ontario-California-United-States/Associate-or-Area-Clinical-Consultant---Ontario--CA---Johnson---Johnson-MedTech---Heart-Recovery_R-050086-1",
+    "job_posted_at_datetime_utc": "2026-05-07T07:48:03.618Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a8a61d7cf3532814c4051025de907092d53f3e1a6c44e2b514456ab0934a26ea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:48:03.618Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-071016",
     "job_title": "Clinical Account Specialist - New York, NY - Johnson and Johnson MedTech - Electrophysiology",
     "employer_name": "Johnson & Johnson",
@@ -2485,36 +2575,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:48:03.618Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-050086",
-    "job_title": "Associate Clinical Consultant or Clinical Consultant - Ontario, CA - Johnson & Johnson MedTech – Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Ontario",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ontario, California, United States",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Ontario-California-United-States/Associate-or-Area-Clinical-Consultant---Ontario--CA---Johnson---Johnson-MedTech---Heart-Recovery_R-050086-1",
-    "job_posted_at_datetime_utc": "2026-05-07T07:48:03.618Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a8a61d7cf3532814c4051025de907092d53f3e1a6c44e2b514456ab0934a26ea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -4652,36 +4712,6 @@
     "job_posted_at": "2026-05-06T07:48:03.619Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-073313",
-    "job_title": "Advanced Surgical Consultant (Boston South - Hartford, CT) - Johnson & Johnson MedTech - Heart Recovery",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "3 Locations",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Advanced-Surgical-Consultant--Boston-South---Hartford--CT----Johnson---Johnson-MedTech---Heart-Recovery_R-073313",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:03.618Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a327a30d6267229a0eb057f9917e30d21503e3c9c2ced0c7c681268a57c5962a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T07:48:03.618Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-072581",
     "job_title": "Associate Clinical Consultant or Clinical Consultant (Detroit, MI) - Johnson & Johnson MedTech, Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -4712,6 +4742,36 @@
     "job_posted_at": "2026-05-06T07:48:03.618Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-068945",
+    "job_title": "Transcend: Deploy CE Experienced Analyst",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "4 Locations",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-068945-2",
+    "job_posted_at_datetime_utc": "2026-05-06T07:48:03.618Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e90a3901ddbcb66d3d0ed2883e43d1c2b0d28d45c0545e4d818d9a1a44348cb6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T07:48:03.618Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-073309",
     "job_title": "Advanced Surgical Consultant (Boston Central) - Johnson & Johnson MedTech - Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -4725,6 +4785,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "57fe5e16067d58cba032db990746fe7be6e778aba8dfc6975f464404bf40ba37",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T07:48:03.618Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-073313",
+    "job_title": "Advanced Surgical Consultant (Boston South - Hartford, CT) - Johnson & Johnson MedTech - Heart Recovery",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "3 Locations",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Advanced-Surgical-Consultant--Boston-South---Hartford--CT----Johnson---Johnson-MedTech---Heart-Recovery_R-073313",
+    "job_posted_at_datetime_utc": "2026-05-06T07:48:03.618Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a327a30d6267229a0eb057f9917e30d21503e3c9c2ced0c7c681268a57c5962a",
     "tags": {
       "employment": "entry_level",
       "domains": [

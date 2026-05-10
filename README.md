@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-323-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-326-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-33-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -243,9 +243,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Abbott** | Clinical Associate | 2 Locations | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Pennsylvania---Reading/Clinical-Associate_31149726-2) |
 | 🏢 **Oscar Health** | Physician Reviewer - Utilization Management | Remote (New York) | 2d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7909087?gh_jid=7909087) |
 | 🏢 **Wellmark, Inc.** | Associate Product Owner - Network Performance (Open to hiring at the Product Owner level) | Des Moines, IA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125376109) |
+| 🏢 **Johnson & Johnson** | Investigator - Lenti | Raritan, New Jers... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Investigator---Lenti_R-067790-1) |
 | 🏢 **Johnson & Johnson** | Executive Oncology Area Business Specialist (Denver, CO) - Johnson & Johnson Innovative Medicine | Denver, Colorado,... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Denver-Colorado-United-States/Executive-Oncology-Area-Business-Specialist--Denver--CO----Johnson---Johnson-Innovative-Medicine_R-070276-1) |
 | 🏢 **Johnson & Johnson** | Associate Clinical Consultant (Oklahoma City Metro) - Johnson & Johnson MedTech, Heart Recovery | Oklahoma City, Ok... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Oklahoma-City-Oklahoma-United-States/Associate-Clinical-Consultant--Oklahoma-City-Metro----Johnson---Johnson-MedTech--Heart-Recovery_R-073563-1) |
-| 🏢 **Johnson & Johnson** | Study Responsible Physician- Neuroscience (Pediatric Studies) | 2 Locations | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1) |
 | 🏢 **Thermo Fisher Scientific** | Sales Specialist - Proteomics - Boston | Remote, Massachus... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Sales-Specialist---Proteomics---Boston_R-01351254) |
 | 🏢 **Personalis** | Sample Accessioner 1 | Fremont, CA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7727988003) |
 | 🏢 **Wellmark, Inc.** | Provider Network Strategy & Contracting Consultant | Des Moines, IA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125212479) |
@@ -324,7 +324,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 323 current opportunities from 33 companies**
+**🎯 326 current opportunities from 33 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
