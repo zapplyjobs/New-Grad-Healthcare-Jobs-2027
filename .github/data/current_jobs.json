@@ -1738,36 +1738,6 @@
     "job_posted_at": "2026-05-08T10:46:31.641Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-067790",
-    "job_title": "Investigator - Lenti",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Raritan",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Raritan, New Jersey, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Investigator---Lenti_R-067790-1",
-    "job_posted_at_datetime_utc": "2026-05-08T10:46:31.641Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1bf2f143a861e7d68c83bcd28cca7e1a19cdd19c78d27f19d00c2617dee5d3f5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T10:46:31.641Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-070276",
     "job_title": "Executive Oncology Area Business Specialist (Denver, CO) - Johnson & Johnson Innovative Medicine",
     "employer_name": "Johnson & Johnson",
@@ -1826,36 +1796,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-08T10:46:31.641Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-063662",
-    "job_title": "Clinical Service Specialist",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Irvine, California, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Clinical-Service-Specialist_R-063662-1",
-    "job_posted_at_datetime_utc": "2026-05-08T10:46:31.640Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a71b0a8e30f25522f8c25e4d425eafc1c7a2683855746c68347ee85bebe92447",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T10:46:31.640Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-067364",
@@ -2454,89 +2394,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:48:35.388Z"
-  },
-  {
-    "job_id": "workday-merck-&-co.-R390248",
-    "job_title": "Associate Specialist, Process and Instrumentation Engineer",
-    "employer_name": "Merck & Co.",
-    "job_city": "Nebraska - Elkhorn",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Nebraska - Elkhorn",
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Nebraska---Elkhorn/Associate-Specialist--Process-and-Instrumentation-Engineer_R390248",
-    "job_posted_at_datetime_utc": "2026-05-07T07:48:35.388Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4fe07902dee220922f369d885b1ff7ac2a541559a28cf30509a3a338e183edce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "change management",
-        "data analysis",
-        "ids",
-        "process improvement",
-        "project management",
-        "root cause analysis",
-        "workday"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:48:35.388Z"
-  },
-  {
-    "job_id": "workday-merck-&-co.-R392706",
-    "job_title": "Companion Animal Territory Representative - Johnson City/Kingsport, TN",
-    "employer_name": "Merck & Co.",
-    "job_city": "REMOTE - REMOTE",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "USA - REMOTE - REMOTE",
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---REMOTE---REMOTE/Companion-Animal-Territory-Representative---Johnson-City-Kingsport--TN_R392706-1",
-    "job_posted_at_datetime_utc": "2026-05-07T07:48:35.388Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ea9f4aa74dbe8e4f0ca25efc8b4704dec5a23bdf4c2b1c19dda158fd94cdaaad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -4808,36 +4665,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3c971dc97f6d683e65d399fe2595e9c19a706fcd5bdace2058bb6fe2998e889e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T07:48:03.618Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068945",
-    "job_title": "Transcend: Deploy CE Experienced Analyst",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "4 Locations",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Transcend--Deploy-CE-Experienced-Analyst_R-068945-2",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:03.618Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e90a3901ddbcb66d3d0ed2883e43d1c2b0d28d45c0545e4d818d9a1a44348cb6",
     "tags": {
       "employment": "entry_level",
       "domains": [
