@@ -62,38 +62,6 @@
     "job_posted_at": "2026-05-09T07:46:23.114Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01351254",
-    "job_title": "Sales Specialist - Proteomics - Boston",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote, Massachusetts, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Sales-Specialist---Proteomics---Boston_R-01351254",
-    "job_posted_at_datetime_utc": "2026-05-09T00:16:15.520Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4c32f4f31c0141fbf24511e5fec8975a4a0ba0899579fca70e40024330c7a19c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-09T00:16:15.520Z"
-  },
-  {
     "job_id": "workday-merck-&-co.-R393333",
     "job_title": "Companion Animal Pharmacovigilance Veterinarian",
     "employer_name": "Merck & Co.",
@@ -883,97 +851,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-08T20:09:14.744Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01344265",
-    "job_title": "Experienced CRA 1; Southeast Location",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote, North Carolina, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Experienced-CRA-1--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344265-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfac22970a4319d46b2ff65cbeb1405c279f5229972709a1fe9e5fd71df1a29e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:59.834Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01352360",
-    "job_title": "Associate Scientist – ELISA",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Rockville",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Rockville, Maryland, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01352360",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:59.834Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01351694",
-    "job_title": "Clinical Research Nurse- Per Diem Day",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Las Vegas",
-    "job_state": "NV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Las Vegas, Nevada, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse--Per-Diem-Day_R-01351694",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f0fb30e238ef33be5f0b8c7ba0aca8bee772d6c20af7ee5316679f93b8e36ab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:59.834Z"
   },
   {
     "job_id": "workday-philips-583224",
@@ -2071,6 +1948,129 @@
     "job_posted_at": "2026-05-08T16:35:14.871Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01351694",
+    "job_title": "Clinical Research Nurse- Per Diem Day",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Las Vegas",
+    "job_state": "NV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Las Vegas, Nevada, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse--Per-Diem-Day_R-01351694",
+    "job_posted_at_datetime_utc": "2026-05-08T08:01:43.343Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f0fb30e238ef33be5f0b8c7ba0aca8bee772d6c20af7ee5316679f93b8e36ab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T08:01:43.343Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01344265",
+    "job_title": "Experienced CRA 1; Southeast Location",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote, North Carolina, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Experienced-CRA-1--can-be-located-anywhere-in-the-southeast--requisitions-need-to-be-filled-by-March-16th-2026_R-01344265-1",
+    "job_posted_at_datetime_utc": "2026-05-08T08:01:43.342Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfac22970a4319d46b2ff65cbeb1405c279f5229972709a1fe9e5fd71df1a29e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T08:01:43.342Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01352360",
+    "job_title": "Associate Scientist – ELISA",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Rockville",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Rockville, Maryland, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01352360",
+    "job_posted_at_datetime_utc": "2026-05-08T08:01:43.342Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T08:01:43.342Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01351254",
+    "job_title": "Sales Specialist - Proteomics - Boston",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote, Massachusetts, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Sales-Specialist---Proteomics---Boston_R-01351254",
+    "job_posted_at_datetime_utc": "2026-05-08T08:01:43.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4c32f4f31c0141fbf24511e5fec8975a4a0ba0899579fca70e40024330c7a19c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T08:01:43.341Z"
+  },
+  {
     "job_id": "workday-medtronic-R66015",
     "job_title": "Cardiac Rhythm Management Associate Clinical Specialist",
     "employer_name": "Medtronic",
@@ -2342,6 +2342,36 @@
     "job_posted_at": "2026-05-07T08:01:51.270Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01351337",
+    "job_title": "QC Scientist I, Microbiology",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "St. Louis",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "St. Louis, Missouri, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/QC-Scientist-I--Microbiology_R-01351337",
+    "job_posted_at_datetime_utc": "2026-05-07T07:50:02.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "362a8cd15f53bd0df916f539904c72001b24525f6c6f5fa3f4726ea16e4811af",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:50:02.461Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01351243",
     "job_title": "Laboratory Supervisor (GMP)",
     "employer_name": "Thermo Fisher Scientific",
@@ -2393,36 +2423,6 @@
       "locations": [
         "us",
         "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:50:02.461Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01351337",
-    "job_title": "QC Scientist I, Microbiology",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "St. Louis",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "St. Louis, Missouri, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/QC-Scientist-I--Microbiology_R-01351337",
-    "job_posted_at_datetime_utc": "2026-05-07T07:50:02.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "362a8cd15f53bd0df916f539904c72001b24525f6c6f5fa3f4726ea16e4811af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
       ],
       "experience": "unknown",
       "special": [],
@@ -7485,6 +7485,36 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-05T08:01:51.270Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01351960",
+    "job_title": "Associate Scientist – ELISA",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Rockville",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Rockville, Maryland, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rockville-Maryland-USA/FSP-Associate-Scientist---ELISA_R-01351960",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:43.345Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:01:43.345Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01350117",
