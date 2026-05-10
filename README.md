@@ -195,7 +195,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Guidehouse** | Patient Account Representative - Physician Claims | Remote | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Patient-Account-Representative---Physician-Claims_39018-1) |
+| 🏢 **Guidehouse** | Patient Account Representative - Physician Claims | Remote | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Patient-Account-Representative---Physician-Claims_39018-1) |
 | 🏢 **Guidehouse** | Patient Account Representative - Medicare, Medicaid, Commercial Claims | Remote | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Patient-Account-Representative---Medicare--Medicaid--Commercial-Claims_35732) |
 | 🏢 **Guidehouse** | Patient Account Representative - Medicare, Medicaid, Commercial Claims | Remote | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Patient-Account-Representative---Medicare--Medicaid--Commercial-Claims_35726) |
 | 🏢 **Oscar Health** | Prior Authorization Pharmacy Technician | Remote (Arizona) | 5d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7872606?gh_jid=7872606) |
@@ -229,7 +229,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Walmart** | Full-Time Pharmacy Tech Certified Sam's | (USA) MD ANNAPOLI... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MD-ANNAPOLIS-06357-SAMS-CLUB/Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2504959) |
 | 🏢 **Abbott** | Clinical Associate | Florida | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tallahassee/Clinical-Associate_31131455-1) |
-| 🏢 **Guidehouse** | Supervisor, Patient Access, Swing Shift | CA, Los Angeles | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Los-Angeles/Supervisor--Patient-Access--Swing-Shift_39265) |
+| 🏢 **Guidehouse** | Supervisor, Patient Access, Swing Shift | CA, Los Angeles | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Los-Angeles/Supervisor--Patient-Access--Swing-Shift_39265) |
 | 🏢 **Takeda** | Specialty Business Manager - IBD (Las Vegas, NV) | NV | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NV---Virtual/Specialty-Business-Manager---IBD--Las-Vegas--NV-_R0178404) |
 | 🏢 **Takeda** | Plasma Center Technician | CA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Victorville/Plasma-Center-Technician_R0179926-1) |
 | 🏢 **Walmart** | Pharmacy Tech Sam's | (USA) MN MAPLE GR... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MN-MAPLE-GROVE-06254-SAMS-CLUB/Pharmacy-Tech-Sam-s_R-2503957) |
