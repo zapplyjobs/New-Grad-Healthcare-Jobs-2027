@@ -242,8 +242,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Walmart** | Full-Time Pharmacy Tech Certified Sam's | (USA) MD ANNAPOLI... | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MD-ANNAPOLIS-06357-SAMS-CLUB/Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2504959) |
-| 🏢 **Abbott** | Clinical Associate | Florida | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tallahassee/Clinical-Associate_31131455-1) |
+| 🏢 **Walmart** | Full-Time Pharmacy Tech Certified Sam's | (USA) MD ANNAPOLI... | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MD-ANNAPOLIS-06357-SAMS-CLUB/Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2504959) |
+| 🏢 **Abbott** | Clinical Associate | Florida | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tallahassee/Clinical-Associate_31131455-1) |
 | 🏢 **Thermo Fisher Scientific** | Sales Specialist - Proteomics - Boston | Remote, Massachus... | 23h | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Sales-Specialist---Proteomics---Boston_R-01351254) |
 | 🏢 **Johnson & Johnson** | Study Responsible Physician- Neuroscience (Pediatric Studies) | 2 Locations | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1) |
 | 🏢 **Johnson & Johnson** | Study Responsible Physician- Neuroscience Late Development | 2 Locations | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience-Late-Development_R-066499-1) |
@@ -348,6 +348,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: May 9, 2026
+**Last Updated**: May 10, 2026
 
 </div>
