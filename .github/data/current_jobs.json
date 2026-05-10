@@ -2162,6 +2162,37 @@
     "job_posted_at": "2026-05-08T00:13:40.000Z"
   },
   {
+    "job_id": "sr-AbbVie-3743990013032819",
+    "job_title": "Manager, Aesthetics Clinical Development",
+    "employer_name": "AbbVie",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Irvine, CA",
+    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990013032819",
+    "job_posted_at_datetime_utc": "2026-05-07T22:36:59.258Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "8b8e34fa546a698cbd67033da5d66212f8378d24a022a87f7764d8d9ce56f1ce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-07T22:36:59.258Z"
+  },
+  {
     "job_id": "sr-WellmarkInc-744000125212479",
     "job_title": "Provider Network Strategy & Contracting Consultant",
     "employer_name": "Wellmark, Inc.",
@@ -2191,6 +2222,37 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-05-07T19:52:33.869Z"
+  },
+  {
+    "job_id": "sr-AbbVie-3743990013026351",
+    "job_title": "Scientist I, Biologics Drug Product Development",
+    "employer_name": "AbbVie",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Irvine, CA",
+    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990013026351",
+    "job_posted_at_datetime_utc": "2026-05-07T18:09:58.171Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "c93cc3bc597cf270ca51edeae6fcbb22b487d21b8481bf227795476bce360c39",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-07T18:09:58.171Z"
   },
   {
     "job_id": "workday-intel-JR0283204",
@@ -4209,6 +4271,37 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-05-06T18:50:53.440Z"
+  },
+  {
+    "job_id": "sr-AbbVie-3743990012994591",
+    "job_title": "Future Opportunities – Join Our Talent Pipeline for North Carolina",
+    "employer_name": "AbbVie",
+    "job_city": "Durham",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Durham, NC",
+    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012994591",
+    "job_posted_at_datetime_utc": "2026-05-06T12:07:26.319Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "b43ba4a6e074dd87a92e61d6576f7b2af7ac1c8c70382db1efdea341eb289318",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-06T12:07:26.319Z"
   },
   {
     "job_id": "workday-medtronic-R59083",
@@ -8719,6 +8812,37 @@
     "job_posted_at": "2026-05-05T04:05:38.825Z"
   },
   {
+    "job_id": "sr-AbbVie-3743990012966047",
+    "job_title": "MSL, Plastics and Regenerative Medicine (South Central)",
+    "employer_name": "AbbVie",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Houston, TX",
+    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012966047",
+    "job_posted_at_datetime_utc": "2026-05-04T23:35:50.081Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "cc20bf1fcae9e0d59aa72a12871fd99aa40489a4aaa2e3c34d0a25709910861b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-04T23:35:50.081Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-073393",
     "job_title": "Associate Clinical Consultant/Clinical Consultant - Winston Salem, NC - Johnson & Johnson MedTech – Heart Recovery",
     "employer_name": "Johnson & Johnson",
@@ -8747,6 +8871,37 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-04T23:19:05.482Z"
+  },
+  {
+    "job_id": "sr-Intuitive-744000124509429",
+    "job_title": "Manager, NPI Sourcing",
+    "employer_name": "Intuitive",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sunnyvale, CA",
+    "job_apply_link": "https://jobs.smartrecruiters.com/Intuitive/744000124509429",
+    "job_posted_at_datetime_utc": "2026-05-04T20:58:40.530Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "6e29daa73fa3aee494394cf0002b9664003e58f060cd8b97b35fe7836d3ff8ee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-04T20:58:40.530Z"
   },
   {
     "job_id": "workday-walmart-R-2499379",
@@ -8872,6 +9027,37 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-04T17:27:32.965Z"
+  },
+  {
+    "job_id": "sr-AbbVie-3743990012955686",
+    "job_title": "Manager, Statistics",
+    "employer_name": "AbbVie",
+    "job_city": "North Chicago",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "North Chicago, IL",
+    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012955686",
+    "job_posted_at_datetime_utc": "2026-05-04T16:24:51.879Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "02b87ab37e3b41196854d441f36bbada69afe48d04b5a398fa7b4d30f6bf0013",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-04T16:24:51.879Z"
   },
   {
     "job_id": "workday-abbott-31147789",
