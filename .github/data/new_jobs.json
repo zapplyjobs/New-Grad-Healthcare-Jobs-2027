@@ -915,6 +915,36 @@
     "job_posted_at": "2026-05-08T20:09:14.744Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01351694",
+    "job_title": "Clinical Research Nurse- Per Diem Day",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Las Vegas",
+    "job_state": "NV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Las Vegas, Nevada, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse--Per-Diem-Day_R-01351694",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f0fb30e238ef33be5f0b8c7ba0aca8bee772d6c20af7ee5316679f93b8e36ab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:59.834Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01344265",
     "job_title": "Experienced CRA 1; Southeast Location",
     "employer_name": "Thermo Fisher Scientific",
@@ -959,36 +989,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d1954e1cd9a03185833c373eebf84a0106e9788ea6af17538944ecf5974e29a1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:59.834Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01351694",
-    "job_title": "Clinical Research Nurse- Per Diem Day",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Las Vegas",
-    "job_state": "NV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Las Vegas, Nevada, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Las-Vegas-Nevada-USA/Clinical-Research-Nurse--Per-Diem-Day_R-01351694",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:59.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f0fb30e238ef33be5f0b8c7ba0aca8bee772d6c20af7ee5316679f93b8e36ab",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2371,6 +2371,36 @@
     "job_posted_at": "2026-05-07T08:01:51.270Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01351337",
+    "job_title": "QC Scientist I, Microbiology",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "St. Louis",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "St. Louis, Missouri, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/QC-Scientist-I--Microbiology_R-01351337",
+    "job_posted_at_datetime_utc": "2026-05-07T07:50:02.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "362a8cd15f53bd0df916f539904c72001b24525f6c6f5fa3f4726ea16e4811af",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:50:02.461Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01351243",
     "job_title": "Laboratory Supervisor (GMP)",
     "employer_name": "Thermo Fisher Scientific",
@@ -2422,36 +2452,6 @@
       "locations": [
         "us",
         "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:50:02.461Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01351337",
-    "job_title": "QC Scientist I, Microbiology",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "St. Louis",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "St. Louis, Missouri, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/QC-Scientist-I--Microbiology_R-01351337",
-    "job_posted_at_datetime_utc": "2026-05-07T07:50:02.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "362a8cd15f53bd0df916f539904c72001b24525f6c6f5fa3f4726ea16e4811af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
       ],
       "experience": "unknown",
       "special": [],
