@@ -68,7 +68,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Registered Nurse | PA | 43m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/Registered-Nurse_R0180010-1) |
+| 🏢 **Takeda** | Registered Nurse | PA | 58m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/Registered-Nurse_R0180010-1) |
 | 🏢 **Takeda** | Registered Nurse RN | TX | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Registered-Nurse-RN_R0180005-1) |
 | 🏢 **Takeda** | Plasma Center Nurse – RN | NC | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NC---Fayetteville---Morgan/Plasma-Center-Nurse---RN_R0179995-1) |
 | 🏢 **Merck & Co.** | Specialist, Global Employee Health- Registered Nurse (Wilson, NC) | North Carolina | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---North-Carolina---Wilson/Specialist--Global-Employee-Health--Registered-Nurse--Wilson--NC-_R397315) |
@@ -141,7 +141,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **IDEXX** | Genetics Laboratory Technician | Columbia, MO | 46m | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Genetics-Laboratory-Technician_J-053105-1) |
+| 🏢 **IDEXX** | Genetics Laboratory Technician | Columbia, MO | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Genetics-Laboratory-Technician_J-053105-1) |
 | 🏢 **Thermo Fisher Scientific** | Lab Scientist, Applications [Proteomics] | San Jose, Califor... | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Jose-California-USA/Lab-Scientist--Applications--Proteomics-_R-01351268) |
 | 🏢 **Thermo Fisher Scientific** | Assistant Scientist Role | Richmond, Virgini... | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Richmond-Virginia-USA/Assistant-Scientist-Role_R-01348618) |
 | 🏢 **Merck & Co.** | Scientist, Stat. Programming - Early Phase Oncology (Hybrid) | New Jersey Rahway... | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Scientist--Stat-Programming---Early-Phase-Oncology--Hybrid-_R384275-1) |
@@ -186,7 +186,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Philips** | Sales Support, Clinical Specialist VeriSight ICE (Intracardiac Echo) - Chicago IL | Chicago, Illinois... | 44m | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chicago-Illinois-United-States/Sales-Support--Clinical-Specialist-VeriSight-ICE--Intracardiac-Echo----Chicago-IL_579888) |
+| 🏢 **Philips** | Sales Support, Clinical Specialist VeriSight ICE (Intracardiac Echo) - Chicago IL | Chicago, Illinois... | 59m | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chicago-Illinois-United-States/Sales-Support--Clinical-Specialist-VeriSight-ICE--Intracardiac-Echo----Chicago-IL_579888) |
 | 🏢 **Takeda** | Medical Screener | DE | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---DE---Newark/Medical-Screener_R0179991-1) |
 | 🏢 **Takeda** | Medical Screener | IL | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---IL---Bolingbrook/Medical-Screener---Paid-Training_R0176264-1) |
 | 🏢 **Takeda** | Medical Screener/Phlebotomist | CO | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Aurora/Medical-Screener-Phlebotomist---Paid-Training-_R0176144-1) |
@@ -258,9 +258,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Walmart** | (USA) Certified Pharmacy Technician, Central Fill, Health And Wellness Central Operations - Health And Wellness | Plainfield, IN | 11m | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Plainfield-IN/XMLNAME--USA--Certified-Pharmacy-Technician--Central-Fill--Health-And-Wellness-Central-Operations---Health-And-Wellness_R-2506722) |
-| 🏢 **Walmart** | Pharmacy Tech Certified Sam's - Part Time | Oxford, AL | 11m | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Oxford-AL/Pharmacy-Tech-Certified-Sam-s---Part-Time_R-2506504) |
-| 🏢 **Takeda** | EMT-P – Plasma Center | PA | 43m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/EMT-P---Plasma-Center_R0180009-1) |
+| 🏢 **Walmart** | (USA) Certified Pharmacy Technician, Central Fill, Health And Wellness Central Operations - Health And Wellness | Plainfield, IN | 25m | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Plainfield-IN/XMLNAME--USA--Certified-Pharmacy-Technician--Central-Fill--Health-And-Wellness-Central-Operations---Health-And-Wellness_R-2506722) |
+| 🏢 **Walmart** | Pharmacy Tech Certified Sam's - Part Time | Oxford, AL | 25m | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Oxford-AL/Pharmacy-Tech-Certified-Sam-s---Part-Time_R-2506504) |
+| 🏢 **Takeda** | EMT-P – Plasma Center | PA | 58m | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/EMT-P---Plasma-Center_R0180009-1) |
 | 🏢 **Takeda** | On Site Paramedic | TX | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/On-Site-Paramedic_R0180006-1) |
 | 🏢 **Takeda** | Entry Level Phlebotomist | MD | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Towson/Entry-Level-Phlebotomist_R0180003-1) |
 | 🏢 **Walmart** | Pharmacy Tech Sam's, PT | (USA) TX WICHITA ... | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-WICHITA-FALLS-08224-SAMS-CLUB/Pharmacy-Tech-Sam-s--PT_R-2507015) |
@@ -319,7 +319,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Medtronic** | Area Sales Manager, ENT - Santa Rosa/San Rafael/Napa, CA (North CA) | 2 Locations | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Santa-Rosa-California-United-States-of-America/Area-Sales-Manager--ENT---Santa-Rosa-San-Rafael-Napa--CA--North-CA-_R66544-1) |
 | 🏢 **Medtronic** | Area Sales Manager I, ENT - Philadelphia | Philadelphia, Pen... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Area-Sales-Manager-I--ENT---Philadelphia_R66530-1) |
 | 🏢 **Medtronic** | Area Sales Manager, ENT - Minneapolis, MN | Minneapolis, Minn... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Area-Sales-Manager--ENT---Minneapolis--MN_R66517-1) |
-| 🏢 **AbbVie** | Manager, Aesthetics Clinical Development | Irvine, CA | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013032819) |
+| 🏢 **AbbVie** | Manager, Aesthetics Clinical Development | Irvine, CA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013032819) |
 | 🏢 **Wellmark, Inc.** | Provider Network Strategy & Contracting Consultant | Des Moines, IA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000125212479) |
 | 🏢 **IDEXX** | Histology Technician – 1st Shift | West Sacramento, CA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/Histology-Technician---1st-Shift_J-051512) |
 | 🏢 **Exact Sciences** | Supervisor, Histology - Monday-Friday, 12pm-8:30pm | Redwood City, CA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Redwood-City/Supervisor--Histology---Monday-Friday--12pm-8-30pm_R26-13191) |
