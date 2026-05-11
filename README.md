@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-405-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-50-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-398-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-49-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -77,7 +77,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Cookeville, TN | Tennessee | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Cookeville--TN_31149688) |
 | 🏢 **Cigna** | Licensed Practical Nurse - Evernorth - Thomasville NC | Thomasville, NC | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Thomasville-NC/Licensed-Practical-Nurse---Evernorth---Thomasville-NC_26005607-1) |
 | 🏢 **Exact Sciences** | Regional Oncology Specialist - Central California | CA Fresno + 1 more | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Fresno/Regional-Oncology-Specialist---Central-California_R26-13040) |
-| 🏢 **Disney** | Guest Registered Nurse Coordinator (Project Hire/Internal Assignment) | Lake Buena Vista,... | 6d | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Guest-Registered-Nurse-Coordinator_10144089) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -186,8 +185,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Abbott** | Clinical Specialist, CRM - Philadelphia, PA | Pennsylvania | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Pennsylvania---Philadelphia/Clinical-Specialist--CRM---Philadelphia--PA_31149312-1) |
 | 🏢 **Abbott** | Associate Clinical Specialist- Chicago, IL | Illinois | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Chicago/Associate-Clinical-Specialist--Chicago--IL_31136532-1) |
 | 🏢 **EVERSANA** | Medical Information Specialist | Overland Park, KS | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000125383879) |
-| 🏢 **Medtronic** | Cardiac Rhythm Management Associate Clinical Specialist | St. Louis, Missou... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/St-Louis-Missouri-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist_R66015) |
-| 🏢 **Medtronic** | Clinical Specialist CRM - Sarasota | Sarasota, Florida... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Sarasota-Florida-United-States-of-America/Clinical-Specialist-CRM---Sarasota_R66450-1) |
+| 🏢 **Medtronic** | Cardiac Rhythm Management Associate Clinical Specialist | St. Louis, Missou... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/St-Louis-Missouri-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist_R66015) |
+| 🏢 **Medtronic** | Clinical Specialist CRM - Sarasota | Sarasota, Florida... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Sarasota-Florida-United-States-of-America/Clinical-Specialist-CRM---Sarasota_R66450-1) |
 | 🏢 **IDEXX** | Medical Affairs Specialist - Parasitology | Virtual United St... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Medical-Affairs-Specialist---Parasitology_J-052876) |
 | 🏢 **Thermo Fisher Scientific** | Project Manager - FSP - Medical Affairs & Evidence Generation | Remote, North Car... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Project-Manager---FSP---Medical-Affairs---Evidence-Generation_R-01346273) |
 | 🏢 **Globus Medical** | Cranial Clinical Specialist Representative | Massachusetts | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Massachusetts/Cranial-Clinical-Specialist-Representative_JR106316-1) |
@@ -195,7 +194,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Globus Medical** | Clinical Specialist Reppresentative | Texas | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Texas/Clinical-Specialist-Reppresentative_JR106318) |
 | 🏢 **Takeda** | Medical Screener/Phlebotomist | ID | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---ID---Hayden/Medical-Historian--Phlebotomist-PTO---Benefits_R0174872-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist - Peripheral Image Guided Therapy Devices (North Miami) | Miami, Florida, U... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Miami-Florida-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Therapy-Devices--North-Miami-_579594-1) |
-| 🏢 **Medtronic** | Clinical Specialist, Neurovascular - Arizona South | 3 Locations | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tucson-Arizona-United-States-of-America/Clinical-Specialist--Neurovascular---Arizona-South_R65480-1) |
+| 🏢 **Medtronic** | Clinical Specialist, Neurovascular - Arizona South | 3 Locations | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tucson-Arizona-United-States-of-America/Clinical-Specialist--Neurovascular---Arizona-South_R65480-1) |
 | 🏢 **Abbott** | Clinical Specialist - Los Angeles, CA | California | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Los-Angeles/Clinical-Specialist---Los-Angeles--CA_31149301-1) |
 | 🏢 **Philips** | Sales Support, Clinical Specialist – Coronary Image-Guided Therapy Devices (Denver CO) | Denver, Colorado,... | 5d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denver-Colorado-United-States/Sales-Support--Clinical-Specialist---Coronary-Image-Guided-Therapy-Devices--Denver-CO-_579553) |
 
@@ -370,7 +369,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 405 current opportunities from 50 companies**
+**🎯 398 current opportunities from 49 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
