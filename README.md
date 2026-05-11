@@ -243,10 +243,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Chan Zuckerberg Biohub** | Computational Biologist, Immune Perturbation | Chicago, IL (Onsite) | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7286341) |
 | 🏢 **Affirm** | Strategic Partnerships Manager | Remote US | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7647628003) |
 | 🏢 **Affirm** | Capital Markets Manager | Remote US | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7543849003) |
-| 🏢 **Truveta** | Partner Research & Success Manager | Seattle, WA | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5777538004) |
-| 🏢 **Oscar Health** | Manager, Strategic Value & Investment Analysis | New York, New Yor... | 1h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7648597?gh_jid=7648597) |
-| 🏢 **Oscar Health** | Manager, Strategic Value & Investment Analysis | New York, NY | 1h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7778427?gh_jid=7778427) |
-| 🏢 **Formlabs** | Marketing Manager, Dental | Somerville, MA | 1h | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7701319/apply/?gh_jid=7701319) |
+| 🏢 **Truveta** | Partner Research & Success Manager | Seattle, WA | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5777538004) |
+| 🏢 **Oscar Health** | UM Program Operations Manager | New York, New Yor... | 2h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7559065?gh_jid=7559065) |
+| 🏢 **Oscar Health** | UM Program Operations Manager | New York, NY | 2h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7778406?gh_jid=7778406) |
+| 🏢 **Formlabs** | Marketing Manager, Dental | Somerville, MA | 2h | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7701319/apply/?gh_jid=7701319) |
 | 🏢 **Ro** | Virtual Physician (1099 Contractor) | New York, NY or R... | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/f8207a30-991c-43b4-a356-409357323ebf/apply) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, Gilbert Lab | Palo Alto, CA | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5654593004) |
 | 🏢 **Walmart** | Full-Time Pharmacy Tech Certified Sam's | (USA) MD ANNAPOLI... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MD-ANNAPOLIS-06357-SAMS-CLUB/Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2504959) |
