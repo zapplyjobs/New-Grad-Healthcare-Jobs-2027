@@ -691,36 +691,6 @@
     "job_posted_at": "2026-05-11T03:19:05.189Z"
   },
   {
-    "job_id": "lever-ro-b77adac9-786e-4233-9f06-ea85d9ce7eba",
-    "job_title": "Fulfillment Pharmacy Technician - Boynton Beach, FL",
-    "employer_name": "Ro",
-    "job_city": "Boynton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boynton Beach, FL",
-    "job_apply_link": "https://jobs.lever.co/ro/b77adac9-786e-4233-9f06-ea85d9ce7eba/apply",
-    "job_posted_at_datetime_utc": "2026-05-11T03:19:05.171Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7bf02dcd58af7694d52ca1f7f3904c5150a13a2ae894e544f65d3a69f4f025db",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-05-11T03:19:05.171Z"
-  },
-  {
     "job_id": "lever-ro-eca13175-3838-4a88-a138-d44231ca6fef",
     "job_title": "Fulfillment Pharmacy Technician - Boynton Beach, FL (Temp)",
     "employer_name": "Ro",
@@ -835,6 +805,36 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-11T03:19:05.171Z"
+  },
+  {
+    "job_id": "lever-ro-b77adac9-786e-4233-9f06-ea85d9ce7eba",
+    "job_title": "Fulfillment Pharmacy Technician - Boynton Beach, FL",
+    "employer_name": "Ro",
+    "job_city": "Boynton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boynton Beach, FL",
+    "job_apply_link": "https://jobs.lever.co/ro/b77adac9-786e-4233-9f06-ea85d9ce7eba/apply",
+    "job_posted_at_datetime_utc": "2026-05-11T03:19:05.171Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7bf02dcd58af7694d52ca1f7f3904c5150a13a2ae894e544f65d3a69f4f025db",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
@@ -2055,96 +2055,6 @@
     "job_posted_at": "2026-05-11T00:48:37.658Z"
   },
   {
-    "job_id": "greenhouse-oscar-7559065",
-    "job_title": "UM Program Operations Manager",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7559065?gh_jid=7559065",
-    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "24d6350723f20568c0bdc048879110c92d1333d733ff52e193ea3a5bd51e47cd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T00:48:30.461Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7778406",
-    "job_title": "UM Program Operations Manager",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "http://www.hioscar.com/careers/7778406?gh_jid=7778406",
-    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "24d6350723f20568c0bdc048879110c92d1333d733ff52e193ea3a5bd51e47cd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T00:48:30.461Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7584310",
-    "job_title": "UM Program Operations Manager",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7584310?gh_jid=7584310",
-    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a57e20c6edd0f45b400d9c4e217d4ebfbac940ac3de47d607348ef23e8a2085f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T00:48:30.461Z"
-  },
-  {
     "job_id": "greenhouse-oscar-7648597",
     "job_title": "Manager, Strategic Value & Investment Analysis",
     "employer_name": "Oscar Health",
@@ -2218,6 +2128,96 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3f886d45434d417a272e0e5744d14d321e4fc3431c672a4dbbf81df8bc1db588",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:30.461Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7559065",
+    "job_title": "UM Program Operations Manager",
+    "employer_name": "Oscar Health",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7559065?gh_jid=7559065",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "24d6350723f20568c0bdc048879110c92d1333d733ff52e193ea3a5bd51e47cd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:30.461Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7778406",
+    "job_title": "UM Program Operations Manager",
+    "employer_name": "Oscar Health",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, NY",
+    "job_apply_link": "http://www.hioscar.com/careers/7778406?gh_jid=7778406",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "24d6350723f20568c0bdc048879110c92d1333d733ff52e193ea3a5bd51e47cd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:30.461Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7584310",
+    "job_title": "UM Program Operations Manager",
+    "employer_name": "Oscar Health",
+    "job_city": "Tempe",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7584310?gh_jid=7584310",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a57e20c6edd0f45b400d9c4e217d4ebfbac940ac3de47d607348ef23e8a2085f",
     "tags": {
       "employment": "entry_level",
       "domains": [
