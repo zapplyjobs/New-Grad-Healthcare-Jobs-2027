@@ -475,6 +475,37 @@
     "job_posted_at": "2026-05-11T03:19:05.663Z"
   },
   {
+    "job_id": "greenhouse-oscar-7543645",
+    "job_title": "Bilingual (Spanish) Physician Assistant - Virtual Health Assessment (1099)",
+    "employer_name": "Oscar Health",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote (Georgia)",
+    "job_apply_link": "http://www.hioscar.com/careers/7543645?gh_jid=7543645",
+    "job_posted_at_datetime_utc": "2026-05-11T03:19:05.487Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "76d4d0b8b60d0bc3143a64f07e899611fcfd5376f197621c8697805ba4b7c920",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T03:19:05.487Z"
+  },
+  {
     "job_id": "greenhouse-oscar-7647439",
     "job_title": "Physician Assistant (Bilingual - Spanish) - Virtual Urgent Care",
     "employer_name": "Oscar Health",
@@ -612,37 +643,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a72553fc32597ecf11b6b435fcf73ed437323799a29d870abb3c005fc3f40c0f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T03:19:05.487Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7543645",
-    "job_title": "Bilingual (Spanish) Physician Assistant - Virtual Health Assessment (1099)",
-    "employer_name": "Oscar Health",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote (Georgia)",
-    "job_apply_link": "http://www.hioscar.com/careers/7543645?gh_jid=7543645",
-    "job_posted_at_datetime_utc": "2026-05-11T03:19:05.487Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "76d4d0b8b60d0bc3143a64f07e899611fcfd5376f197621c8697805ba4b7c920",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1717,6 +1717,37 @@
     "job_posted_at": "2026-05-11T01:19:34.361Z"
   },
   {
+    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
+    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
+    "employer_name": "Included Health",
+    "job_city": "Washington",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Washington",
+    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:24.596Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-11T01:19:24.596Z"
+  },
+  {
     "job_id": "lever-includedhealth-199c81db-f48d-4d33-bf48-afbd8dde21e3",
     "job_title": "Pediatric Behavioral Health Nurse Care Manager",
     "employer_name": "Included Health",
@@ -1823,37 +1854,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e84ba9a031fc62717611a51cbbb576b1426659730d6a5c8925bc2c996ac485fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-05-11T01:19:24.596Z"
-  },
-  {
-    "job_id": "lever-includedhealth-62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e",
-    "job_title": "Behavioral Health / Substance Use Nurse Care Manager, Adult",
-    "employer_name": "Included Health",
-    "job_city": "Washington",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Washington",
-    "job_apply_link": "https://jobs.lever.co/includedhealth/62ae8e4a-fc70-4ba2-8f79-3f6d25a17c1e/apply",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:24.596Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86c3737e1d082ff1d6166deb7343f583621d51477db981e0722b8adb319ffdce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2055,96 +2055,6 @@
     "job_posted_at": "2026-05-11T00:48:37.658Z"
   },
   {
-    "job_id": "greenhouse-oscar-7648597",
-    "job_title": "Manager, Strategic Value & Investment Analysis",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7648597?gh_jid=7648597",
-    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc0128969408111f330df24a25572a89663abe5b01cd9658e4afbdd871aedeec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T00:48:30.461Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7778427",
-    "job_title": "Manager, Strategic Value & Investment Analysis",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "http://www.hioscar.com/careers/7778427?gh_jid=7778427",
-    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc0128969408111f330df24a25572a89663abe5b01cd9658e4afbdd871aedeec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T00:48:30.461Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7648599",
-    "job_title": "Manager, Strategic Value & Investment Analysis",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7648599?gh_jid=7648599",
-    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f886d45434d417a272e0e5744d14d321e4fc3431c672a4dbbf81df8bc1db588",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T00:48:30.461Z"
-  },
-  {
     "job_id": "greenhouse-oscar-7559065",
     "job_title": "UM Program Operations Manager",
     "employer_name": "Oscar Health",
@@ -2235,6 +2145,96 @@
     "job_posted_at": "2026-05-11T00:48:30.461Z"
   },
   {
+    "job_id": "greenhouse-oscar-7648597",
+    "job_title": "Manager, Strategic Value & Investment Analysis",
+    "employer_name": "Oscar Health",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7648597?gh_jid=7648597",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc0128969408111f330df24a25572a89663abe5b01cd9658e4afbdd871aedeec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:30.461Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7778427",
+    "job_title": "Manager, Strategic Value & Investment Analysis",
+    "employer_name": "Oscar Health",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, NY",
+    "job_apply_link": "http://www.hioscar.com/careers/7778427?gh_jid=7778427",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc0128969408111f330df24a25572a89663abe5b01cd9658e4afbdd871aedeec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:30.461Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7648599",
+    "job_title": "Manager, Strategic Value & Investment Analysis",
+    "employer_name": "Oscar Health",
+    "job_city": "Tempe",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7648599?gh_jid=7648599",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f886d45434d417a272e0e5744d14d321e4fc3431c672a4dbbf81df8bc1db588",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:30.461Z"
+  },
+  {
     "job_id": "greenhouse-formlabs-7701319",
     "job_title": "Marketing Manager, Dental",
     "employer_name": "Formlabs",
@@ -2266,37 +2266,6 @@
     "job_posted_at": "2026-05-11T00:48:21.058Z"
   },
   {
-    "job_id": "lever-ro-f8207a30-991c-43b4-a356-409357323ebf",
-    "job_title": "Virtual Physician (1099 Contractor)",
-    "employer_name": "Ro",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "New York, NY or Remote",
-    "job_apply_link": "https://jobs.lever.co/ro/f8207a30-991c-43b4-a356-409357323ebf/apply",
-    "job_posted_at_datetime_utc": "2026-05-10T21:16:55.298Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf5f4ea5243d9d35370e022e0fb987b8bb919cf94ebcde3307dbbdb89996c6a8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-05-10T21:16:55.298Z"
-  },
-  {
     "job_id": "lever-ro-4effc32e-b652-495c-817a-64bb19b72d6f",
     "job_title": "Virtual Nurse Practitioner (1099 Contractor)",
     "employer_name": "Ro",
@@ -2320,6 +2289,37 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-10T21:16:55.298Z"
+  },
+  {
+    "job_id": "lever-ro-f8207a30-991c-43b4-a356-409357323ebf",
+    "job_title": "Virtual Physician (1099 Contractor)",
+    "employer_name": "Ro",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "New York, NY or Remote",
+    "job_apply_link": "https://jobs.lever.co/ro/f8207a30-991c-43b4-a356-409357323ebf/apply",
+    "job_posted_at_datetime_utc": "2026-05-10T21:16:55.298Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf5f4ea5243d9d35370e022e0fb987b8bb919cf94ebcde3307dbbdb89996c6a8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
