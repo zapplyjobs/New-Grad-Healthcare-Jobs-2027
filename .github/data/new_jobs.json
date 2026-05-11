@@ -475,37 +475,6 @@
     "job_posted_at": "2026-05-11T03:19:05.663Z"
   },
   {
-    "job_id": "greenhouse-oscar-7543645",
-    "job_title": "Bilingual (Spanish) Physician Assistant - Virtual Health Assessment (1099)",
-    "employer_name": "Oscar Health",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote (Georgia)",
-    "job_apply_link": "http://www.hioscar.com/careers/7543645?gh_jid=7543645",
-    "job_posted_at_datetime_utc": "2026-05-11T03:19:05.487Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "76d4d0b8b60d0bc3143a64f07e899611fcfd5376f197621c8697805ba4b7c920",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T03:19:05.487Z"
-  },
-  {
     "job_id": "greenhouse-oscar-7647439",
     "job_title": "Physician Assistant (Bilingual - Spanish) - Virtual Urgent Care",
     "employer_name": "Oscar Health",
@@ -643,6 +612,37 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a72553fc32597ecf11b6b435fcf73ed437323799a29d870abb3c005fc3f40c0f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T03:19:05.487Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7543645",
+    "job_title": "Bilingual (Spanish) Physician Assistant - Virtual Health Assessment (1099)",
+    "employer_name": "Oscar Health",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote (Georgia)",
+    "job_apply_link": "http://www.hioscar.com/careers/7543645?gh_jid=7543645",
+    "job_posted_at_datetime_utc": "2026-05-11T03:19:05.487Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "76d4d0b8b60d0bc3143a64f07e899611fcfd5376f197621c8697805ba4b7c920",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -843,36 +843,6 @@
     "job_posted_at": "2026-05-11T03:19:05.171Z"
   },
   {
-    "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
-    "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
-    "employer_name": "Ro",
-    "job_city": "Romeoville",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Romeoville, IL",
-    "job_apply_link": "https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply",
-    "job_posted_at_datetime_utc": "2026-05-11T03:19:05.170Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8ba5f376eb0aff17049ca4fbfa92a711c45d640ba4824c232c014e2c8aeb55c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-05-11T03:19:05.170Z"
-  },
-  {
     "job_id": "lever-ro-c739f69c-ed8a-4089-9183-ac94b2b06f90",
     "job_title": "Compounding Pharmacy Technician - Boynton Beach, FL (Temp)",
     "employer_name": "Ro",
@@ -955,6 +925,36 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-11T03:19:05.170Z"
+  },
+  {
+    "job_id": "lever-ro-f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c",
+    "job_title": "Compounding Pharmacy Technician -  Romeoville, IL",
+    "employer_name": "Ro",
+    "job_city": "Romeoville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Romeoville, IL",
+    "job_apply_link": "https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c/apply",
+    "job_posted_at_datetime_utc": "2026-05-11T03:19:05.170Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8ba5f376eb0aff17049ca4fbfa92a711c45d640ba4824c232c014e2c8aeb55c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": [],
       "tag_engine_version": 3
     },
