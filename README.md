@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-371-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-370-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-49-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -140,7 +140,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Astera Labs** | Hardware Lab Technician | San Jose, Califor... | 11h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4674410005) |
 | 🏢 **Arc Institute** | Research Associate I, Arce Lab | Palo Alto, CA | 11h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5823236004) |
 | 🏢 **Olsson** | Construction Materials Testing - Lab Technician | Olathe, KS | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5131482008) |
-| 🏢 **Olsson** | Construction Materials Testing - Lab Technician | La Vista, NE | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5179372008) |
+| 🏢 **Olsson** | Construction Materials Testing - Lab Technician | Oklahoma City, OK | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5168759008) |
 | 🏢 **Figure AI** | Lab Technician | San Jose, CA | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4647901006) |
 | 🏢 **IDEXX** | Medical Laboratory Technician | Red Bank, NJ | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Red-Bank-NJ/Medical-Laboratory-Technician_J-052375) |
 | 🏢 **Exact Sciences** | Clinical Laboratory Scientist I, Extraction Lab | Marshfield, WI | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Marshfield/Clinical-Laboratory-Scientist-I--Extraction-Lab_R26-13226) |
@@ -269,8 +269,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Chan Zuckerberg Biohub** | Computational Biologist, Immune Perturbation | Chicago, IL (Onsite) | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7286341) |
 | 🏢 **Affirm** | Strategic Partnerships Manager | Remote US | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7647628003) |
 | 🏢 **Affirm** | Capital Markets Manager | Remote US | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7543849003) |
-| 🏢 **Truveta** | Partner Research & Success Manager | Seattle, WA | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5777538004) |
-| 🏢 **Formlabs** | Marketing Manager, Dental | Somerville, MA | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7701319/apply/?gh_jid=7701319) |
+| 🏢 **Truveta** | Partner Research & Success Manager | Seattle, WA | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5777538004) |
+| 🏢 **Formlabs** | Marketing Manager, Dental | Somerville, MA | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7701319/apply/?gh_jid=7701319) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, Gilbert Lab | Palo Alto, CA | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5654593004) |
 | 🏢 **Walmart** | Full-Time Pharmacy Tech Certified Sam's | (USA) MD ANNAPOLI... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MD-ANNAPOLIS-06357-SAMS-CLUB/Full-Time-Pharmacy-Tech-Certified-Sam-s_R-2504959) |
 | 🏢 **Abbott** | Clinical Associate | Florida | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Florida---Tallahassee/Clinical-Associate_31131455-1) |
@@ -367,7 +367,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 371 current opportunities from 49 companies**
+**🎯 370 current opportunities from 49 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
