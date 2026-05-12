@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-434-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-433-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-53-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Cigna** | Nurse Case Management Manager - Evernorth  Health Services - Remote | United States Wor... | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Nurse-Case-Management-Manager---Evernorth--Health-Services---Remote_26003174) |
-| 🏢 **Takeda** | Registered Nurse (RN) – BSN Required | MD | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Salisbury/Registered-Nurse--RN----BSN-Required_R0180013-1) |
+| 🏢 **Takeda** | Registered Nurse (RN) – BSN Required | MD | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MD---Salisbury/Registered-Nurse--RN----BSN-Required_R0180013-1) |
 | 🏢 **Takeda** | Registered Nurse | PA | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---PA---Pittsburgh---Braddock-Ave/Registered-Nurse_R0180010-1) |
 | 🏢 **Takeda** | Registered Nurse RN | TX | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Registered-Nurse-RN_R0180005-1) |
 | 🏢 **Merck & Co.** | Specialist, Global Employee Health- Registered Nurse (Wilson, NC) | North Carolina | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---North-Carolina---Wilson/Specialist--Global-Employee-Health--Registered-Nurse--Wilson--NC-_R397315) |
@@ -136,9 +136,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Chan Zuckerberg Biohub** | Research Associate, NGS Assay Development, Virtual Immune System | Chicago, IL (Onsite) | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7835072) |
-| 🏢 **PennState University** | Research Associate | State College, PA | 11h | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Associate-w--Dr-Dodge_REQ_0000067912-1) |
-| 🏢 **Nokia** | Photonics Lab Technician | United States | 11h | [<img src="images/apply.png" width="120" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
-| 🏢 **IDEXX** | Genetics Laboratory Technician | Columbia, MO | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Genetics-Laboratory-Technician_J-053105-1) |
+| 🏢 **PennState University** | Research Associate | State College, PA | 12h | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Associate-w--Dr-Dodge_REQ_0000067912-1) |
+| 🏢 **Nokia** | Photonics Lab Technician | United States | 12h | [<img src="images/apply.png" width="120" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
+| 🏢 **IDEXX** | Genetics Laboratory Technician | Columbia, MO | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Columbia-MO/Genetics-Laboratory-Technician_J-053105-1) |
 | 🏢 **Thermo Fisher Scientific** | Lab Scientist, Applications [Proteomics] | San Jose, Califor... | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/San-Jose-California-USA/Lab-Scientist--Applications--Proteomics-_R-01351268) |
 | 🏢 **Merck & Co.** | Scientist, Stat. Programming - Early Phase Oncology (Hybrid) | New Jersey Rahway... | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Scientist--Stat-Programming---Early-Phase-Oncology--Hybrid-_R384275-1) |
 | 🏢 **IDEXX** | Medical Laboratory Technician | New York, NY | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/New-York-NY/Medical-Laboratory-Technician_J-052908-1) |
@@ -248,8 +248,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **IDEXX** | Clinical Pathology Manager | Virtual United St... | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Clinical-Pathology-Manager_J-052991) |
-| 🏢 **Ro** | Ro Pharmacy Interview Day! Friday, May 8th | Boynton Beach, FL | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/d2cad67b-9a86-46ed-940e-77b57ac1229f/apply) |
+| 🏢 **IDEXX** | Clinical Pathology Manager | Virtual United St... | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Clinical-Pathology-Manager_J-052991) |
+| 🏢 **Ro** | Ro Pharmacy Interview Day! Friday, May 8th | Boynton Beach, FL | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/d2cad67b-9a86-46ed-940e-77b57ac1229f/apply) |
 | 🏢 **Walmart** | (USA) Optician Single License | Little Rock, AR | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Little-Rock-AR/XMLNAME--USA--Optician-Single-License_R-2506469) |
 | 🏢 **Walmart** | (USA) Certified Pharmacy Technician, Central Fill, Health And Wellness Central Operations - Health And Wellness | Plainfield, IN | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Plainfield-IN/XMLNAME--USA--Certified-Pharmacy-Technician--Central-Fill--Health-And-Wellness-Central-Operations---Health-And-Wellness_R-2506722) |
 | 🏢 **Walmart** | Pharmacy Manager | (USA) OK SAPULPA ... | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OK-SAPULPA-00073-WM-SUPERCENTER/Pharmacy-Manager_R-2506340) |
@@ -279,10 +279,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Personalis** | Client Experience Associate (Temp - 6 Months) | Fremont, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/6680748003) |
 | 🏢 **Personalis** | Client Experience Specialist | Fremont, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7652731003) |
 | 🏢 **Personalis** | Clinical Lab Associate 1 | Fremont, CA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645093003) |
-| 🏢 **Oscar Health** | Bilingual (Spanish) Physician Assistant - Virtual Health Assessment (1099) | Remote (Georgia) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7543645?gh_jid=7543645) |
 | 🏢 **Oscar Health** | Physician Assistant (Bilingual - Spanish) - Virtual Urgent Care | Remote (Texas) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7647439?gh_jid=7647439) |
-| 🏢 **Ro** | Part-Time, Virtual Physician | New York, NY or R... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/7fe97b9f-13d2-4042-9687-c04580d8a982/apply) |
+| 🏢 **Oscar Health** | Physician Assistant - Virtual Health Assessment (1099) | Remote (Georgia) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7723943?gh_jid=7723943) |
 | 🏢 **Ro** | Fulfillment Pharmacy Technician - Boynton Beach, FL | Boynton Beach, FL | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/b77adac9-786e-4233-9f06-ea85d9ce7eba/apply) |
+| 🏢 **Ro** | Fulfillment Pharmacy Technician - Boynton Beach, FL (Temp) | Boynton Beach, FL | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/eca13175-3838-4a88-a138-d44231ca6fef/apply) |
 | 🏢 **Included Health** | Psychiatrist | Florida | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/4a7b27c1-2162-485c-90c7-6e002cf46c25/apply) |
 | 🏢 **Neuralink** | Field Clinical Engineer | Fremont, Californ... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7684347003?gh_jid=7684347003) |
 | 🏢 **Candid Health** | Medical Biller | Remote (USA) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/6c2029b2-ea83-4cdd-95e7-a5e3c45234ac/application) |
@@ -371,7 +371,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 434 current opportunities from 53 companies**
+**🎯 433 current opportunities from 53 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
