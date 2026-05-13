@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-461-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-412-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-56-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -92,7 +92,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Oscar Health** | Bilingual NP/PA - Virtual Urgent Care (Part-time) | Remote (Texas) | 13h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7647459?gh_jid=7647459) |
+| 🏢 **Oscar Health** | Bilingual NP/PA - Virtual Urgent Care (Part-time) | Remote (Texas) | 14h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7647459?gh_jid=7647459) |
 | 🏢 **Intuitive** | Manager, NPI Sourcing - Instrument and Accessories | Sunnyvale, CA | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126116615) |
 | 🏢 **Intuitive** | Manager, NPI Procurement - Systems | Sunnyvale, CA | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126104139) |
 | 🏢 **Guidehouse** | Research Advanced Practice Provider (PA or NP) | MD, Bethesda | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Research-Advanced-Practice-Provider--PA-or-NP-_39226) |
@@ -144,7 +144,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **SpaceX** | PCB Materials Lab Technician (Starlink) | Bastrop, TX | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8505212002?gh_jid=8505212002) |
-| 🏢 **Intrinsic Robotics** | Robotics and Automation Technician (Lab Technician) | Mountain View, Ca... | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5972972004?gh_jid=5972972004) |
+| 🏢 **Intrinsic Robotics** | Robotics and Automation Technician (Lab Technician) | Mountain View, Ca... | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5972972004?gh_jid=5972972004) |
 | 🏢 **Personalis** | Clinical Lab Scientist 1 (3rd Shift) | Fremont, CA | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/personalisinc/jobs/7645077003) |
 | 🏢 **Chan Zuckerberg Biohub** | Research Associate, NGS Assay Development, Virtual Immune System | Chicago, IL (Onsite) | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7835072) |
 | 🏢 **PennState University** | Research Associate | State College, PA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Associate-w--Dr-Dodge_REQ_0000067912-1) |
@@ -237,7 +237,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Hinge Health** | Physical Therapist (Flex) | Remote US | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/7ff16616-1323-48a3-a9d0-408851d17179/application) |
+| 🏢 **Hinge Health** | Physical Therapist (Flex) | Remote US | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/7ff16616-1323-48a3-a9d0-408851d17179/application) |
 | 🏢 **Hinge Health** | Physical Therapist, Pelvic Health (Flex) | Remote US | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/1e4f194d-67e9-457c-89ce-387355f2e500/application) |
 | 🏢 **SpaceX** | School Counselor | Starbase, TX | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8379498002?gh_jid=8379498002) |
 | 🏢 **Included Health** | Mental Health Therapist | Tennessee | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/includedhealth/29af260c-cc9b-4fe9-b358-6135fd5909be/apply) |
@@ -264,9 +264,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Oscar Health** | Medical Assistant I - Part time (Bilingual - Spanish) | Remote (Texas) | 11h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7766439?gh_jid=7766439) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, Biological Design, Hsu Lab | Palo Alto, CA | 12h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, ML for Biology, Hsu Lab | Palo Alto, CA | 12h | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
-| 🏢 **AbbVie** | Oncology Account Executive - Peoria, IL | Peoria, IL | 13h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013092816) |
+| 🏢 **AbbVie** | Oncology Account Executive - Peoria, IL | Peoria, IL | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013092816) |
 | 🏢 **AbbVie** | Field Reimbursement Manager, Immunology Dermatology | Chicago, IL | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013092466) |
-| 🏢 **Ro** | Fulfillment Pharmacy Technician - Torrance, CA | Los Angeles, CA | 14h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/87940f65-c0de-41f7-bd7c-ab2d6aaaba23/apply) |
+| 🏢 **Ro** | Fulfillment Pharmacy Technician - Torrance, CA | Los Angeles, CA | 15h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/87940f65-c0de-41f7-bd7c-ab2d6aaaba23/apply) |
 | 🏢 **Wellmark, Inc.** | Provider Network Strategy & Contracting Consultant | Des Moines, IA | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126109660) |
 | 🏢 **Wellmark, Inc.** | Provider Engagement Consultant | Des Moines, IA | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126109766) |
 | 🏢 **Wellmark, Inc.** | Associate Product Owner - Network Performance (Open to hiring at the Product Owner level) | Des Moines, IA | 16h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126111439) |
@@ -396,7 +396,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 461 current opportunities from 56 companies**
+**🎯 412 current opportunities from 56 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
