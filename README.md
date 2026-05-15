@@ -153,9 +153,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Neuralink** | Clinical Scientist | Austin, Texas, Un... | 5h | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7676313003?gh_jid=7676313003) |
 | 🏢 **Merck & Co.** | Associate Scientist, Environmental & Process Safety Engineering | New Jersey | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Scientist--Environmental---Process-Safety-Engineering_R389795) |
 | 🏢 **IDEXX** | Medical Laboratory Technician Parasitology Part Time 3rd Shift | North Grafton, MA | 9h | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/North-Grafton-MA/Medical-Laboratory-Technician-Parasitology-PART-TIME-3RD-SHIFT_J-052747) |
-| 🏢 **ByteDance** | Research Scientist in Large Language Model - LLM | San Jose, CA | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7623536303630469381/detail) |
-| 🏢 **ByteDance** | Research Scientist in Speech Foundation Model – Graduates - Seed - PhD | San Jose, CA | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7623545981743286533/detail) |
-| 🏢 **ByteDance** | Research Scientist in Multimodal Interaction and World Model – Graduates | San Jose, CA | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7623543401908848949/detail) |
+| 🏢 **ByteDance** | Research Scientist in Large Language Model - LLM | San Jose, CA | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7623536303630469381/detail) |
+| 🏢 **ByteDance** | Research Scientist in Speech Foundation Model – Graduates - Seed - PhD | San Jose, CA | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7623545981743286533/detail) |
+| 🏢 **ByteDance** | Research Scientist in Multimodal Interaction and World Model – Graduates | San Jose, CA | 20h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7623543401908848949/detail) |
 | 🏢 **iRhythm** | Cardiac Technician Deerfield, IL | Deerfield, IL | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Deerfield-IL/Cardiac-Technician_JR994) |
 | 🏢 **Leidos** | Laboratory Technician | Wharton, NJ | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Wharton-NJ/Laboratory-Technician_R-00183225) |
 | 🏢 **AbbVie** | Scientist I - Early Analytical Development, Synthetic Molecules | North Chicago, IL | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013114496) |
@@ -232,7 +232,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Guidehouse** | Credit Balance Specialist - Physician Healthcare Claims | TX, Lewisville | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-Lewisville/Credit-Balance-Specialist---Physician-Healthcare-Claims_34537) |
-| 🏢 **Oracle** | Oracle Health Associate Consultant - Patient Accounting (Revenue Cycle) | United States | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330877) |
+| 🏢 **Oracle** | Oracle Health Associate Consultant - Patient Accounting (Revenue Cycle) | United States | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330877) |
 | 🏢 **Guidehouse** | Credit Balance Specialist - Healthcare Hospital Claims | TX, San Antonio | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Credit-Balance-Specialist---Healthcare-Hospital-Claims_39373) |
 | 🏢 **Guidehouse** | Patient Access Representative – Part Time, Day Shift | CA, Ojai | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ojai/Patient-Access-Representative---Part-Time--Day-Shift_38988) |
 
@@ -274,7 +274,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Oscar Health** | Manager, Strategy & Operations | New York, New Yor... | 5h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7915120?gh_jid=7915120) |
 | 🏢 **Philips** | Sales Support, Clinical Consultant - OB Solutions (East Zone) | 12 Locations | 6h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-York-New-York-United-States/Sales-Support--Clinical-Consultant---OB-Solutions--East-Zone-_583324-1) |
 | 🏢 **Takeda** | Rare Disease Business Manager - PI - West Palm Beach FL | FL | 6h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Virtual/Rare-Disease-Business-Manager---PI---West-Palm-Beach-FL_R0179572-1) |
-| 🏢 **Globus Medical** | Associate Interventional Specialist (Fort Worth, TX) | Texas | 6h | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Texas/Associate-Interventional-Specialist--Fort-Worth--TX-_JR106748) |
+| 🏢 **Globus Medical** | Associate Interventional Specialist (Fort Worth, TX) | Texas | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Texas/Associate-Interventional-Specialist--Fort-Worth--TX-_JR106748) |
 | 🏢 **Takeda** | Field Access Manager | Virtual | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Michigan---Virtual/Field-Access-Manager_R0179655) |
 | 🏢 **Takeda** | Field Access Manager | Virtual | 7h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Pennsylvania---Virtual/Field-Access-Manager_R0178768) |
 | 🏢 **AbbVie** | Geopolitical Analyst, Business Risk Intelligence | North Chicago, IL | 8h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013132626) |
@@ -302,8 +302,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Philips** | Clinical Application Specialist- MR (National-Travel) | Home Based, Unite... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Clinical-Application-Specialist--MR--National-Travel-_582938-1) |
 | 🏢 **Elanco** | Jr Animal Care Technician | Fort Dodge, IA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Jr-Animal-Care-Technician_R0025774) |
 | 🏢 **Truveta** | ML Postdoc Researcher - Healthcare AI Innovation | Seattle, WA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5978375004) |
-| 🏢 **Oracle** | Oracle Health Physician Executive, Patient Safety and Compliance | United States | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/319020) |
-| 🏢 **Oracle** | Physician Executive, EHR Strategy & Customer Engagement | United States | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326484) |
+| 🏢 **Oracle** | Oracle Health Physician Executive, Patient Safety and Compliance | United States | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/319020) |
+| 🏢 **Oracle** | Physician Executive, EHR Strategy & Customer Engagement | United States | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326484) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, Biological Design, Hsu Lab | Palo Alto, CA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, ML for Biology, Hsu Lab | Palo Alto, CA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
 | 🏢 **Ro** | Fulfillment Pharmacy Technician - Torrance, CA | Los Angeles, CA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/87940f65-c0de-41f7-bd7c-ab2d6aaaba23/apply) |
@@ -321,7 +321,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Pennsylvania State University** | Postdoctoral Scholar - Postdoctoral Scholar - LIGO | State College, PA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1) |
 | 🏢 **Pennsylvania State University** | Postdoctoral Scholar | State College, PA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000076040-1) |
 | 🏢 **Abbott** | Software Design Quality Engineer | Massachusetts | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Westford/Software-Design-Quality-Engineer_31150102-1) |
-| 🏢 **Oracle** | Physician Informatics Executive | United States | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329894) |
+| 🏢 **Oracle** | Physician Informatics Executive | United States | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329894) |
 | 🏢 **IDEXX** | Clinical Pathology Manager | Virtual United St... | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Clinical-Pathology-Manager_J-052991) |
 | 🏢 **Walmart** | (USA) Optician Single License | Little Rock, AR | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Little-Rock-AR/XMLNAME--USA--Optician-Single-License_R-2506469) |
 | 🏢 **Walmart** | (USA) Certified Pharmacy Technician, Central Fill, Health And Wellness Central Operations - Health And Wellness | Plainfield, IN | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Plainfield-IN/XMLNAME--USA--Certified-Pharmacy-Technician--Central-Fill--Health-And-Wellness-Central-Operations---Health-And-Wellness_R-2506722) |
@@ -421,6 +421,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: May 14, 2026
+**Last Updated**: May 15, 2026
 
 </div>
