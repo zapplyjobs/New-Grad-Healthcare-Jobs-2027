@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-516-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-515-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-56-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -261,7 +261,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Oscar Health** | Manager, Strategy & Operations | New York, New Yor... | 16h | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7915120?gh_jid=7915120) |
 | 🏢 **Philips** | Sales Support, Clinical Consultant - OB Solutions (East Zone) | 12 Locations | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-York-New-York-United-States/Sales-Support--Clinical-Consultant---OB-Solutions--East-Zone-_583324-1) |
 | 🏢 **Takeda** | Rare Disease Business Manager - PI - West Palm Beach FL | FL | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Virtual/Rare-Disease-Business-Manager---PI---West-Palm-Beach-FL_R0179572-1) |
-| 🏢 **Globus Medical** | Associate Interventional Specialist (Fort Worth, TX) | Texas | 17h | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Texas/Associate-Interventional-Specialist--Fort-Worth--TX-_JR106748) |
+| 🏢 **Globus Medical** | Associate Interventional Specialist (Fort Worth, TX) | Texas | 18h | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Texas/Associate-Interventional-Specialist--Fort-Worth--TX-_JR106748) |
 | 🏢 **Takeda** | Field Access Manager | Virtual | 18h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Michigan---Virtual/Field-Access-Manager_R0179655) |
 | 🏢 **Takeda** | Field Access Manager | Virtual | 18h | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Pennsylvania---Virtual/Field-Access-Manager_R0178768) |
 | 🏢 **AbbVie** | Geopolitical Analyst, Business Risk Intelligence | North Chicago, IL | 19h | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013132626) |
@@ -397,7 +397,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 516 current opportunities from 56 companies**
+**🎯 515 current opportunities from 56 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
