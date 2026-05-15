@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-484-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-483-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-55-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -112,8 +112,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Takeda** | Licensed Pracitical Nurse LPN | MN | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Mankato/Licensed-Pracitical-Nurse-LPN_R0180173) |
-| 🏢 **Takeda** | Medical Support Specialist - LPN | TX | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---LPN_R0180224-1) |
-| 🏢 **Takeda** | Medical Support Specialist- LPN | TX | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist--LPN_R0180226-1) |
+| 🏢 **Takeda** | Medical Support Specialist - LPN | TX | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist---LPN_R0180224-1) |
+| 🏢 **Takeda** | Medical Support Specialist- LPN | TX | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---San-Antonio---Deza/Medical-Support-Specialist--LPN_R0180226-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -192,7 +192,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **AbbVie** | Oncology Specialist - Seattle, WA | Seattle, WA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013136160) |
 | 🏢 **Medtronic** | Clinical Specialist, Pain Interventions - Columbia / Jefferson City, MO | Columbia, Missour... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Columbia-Missouri-United-States-of-America/Clinical-Specialist--Pain-Interventions---Columbia---Jefferson-City--MO_R67006-1) |
-| 🏢 **Takeda** | Medical Screener | GA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Augusta/Medical-Screener_R0180220-1) |
+| 🏢 **Takeda** | Medical Screener | GA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Augusta/Medical-Screener_R0180220-1) |
 | 🏢 **AbbVie** | Study Project Manager (Medical Affairs/Immunology/Oncology) | Mettawa, IL | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013120726) |
 | 🏢 **Medtronic** | Associate Clinical Specialist - Cardiac Rhythm Management - Chicagoland | Chicago, Illinois... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Associate-Clinical-Specialist---Cardiac-Rhythm-Management---Chicagoland_R66946-2) |
 | 🏢 **Takeda** | Medical Screener | GA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Snellville/Medical-Screener_R0180200) |
@@ -390,7 +390,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 484 current opportunities from 55 companies**
+**🎯 483 current opportunities from 55 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
