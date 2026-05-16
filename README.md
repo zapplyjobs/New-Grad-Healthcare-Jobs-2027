@@ -68,8 +68,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Plasma Center Nurse - EMT-P | TX | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---Buffalo/Plasma-Center-Nurse---EMT-P_R0180280-1) |
-| 🏢 **Takeda** | Plasma Center Nurse - LPN | TX | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---Buffalo/Plasma-Center-Nurse---LPN_R0180282-1) |
+| 🏢 **Takeda** | Plasma Center Nurse - EMT-P | TX | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---Buffalo/Plasma-Center-Nurse---EMT-P_R0180280-1) |
+| 🏢 **Takeda** | Plasma Center Nurse - LPN | TX | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Houston---Buffalo/Plasma-Center-Nurse---LPN_R0180282-1) |
 | 🏢 **Takeda** | Plasma Center Nurse - RN | MI | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Detroit/Plasma-Center-Nurse---RN_R0180257-1) |
 | 🏢 **Johnson & Johnson** | Clinical Account Specialist (New York, NY / Long Island, NY / Northern NJ) - Johnson and Johnson MedTech, Electrophysiology | 2 Locations | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/New-York-New-York-United-States/Clinical-Account-Specialist--New-York--NY---Long-Island--NY---Northern-NJ----Johnson-and-Johnson-MedTech--Electrophysiology_R-062763-1) |
 | 🏢 **IDEXX** | Laboratory Technician (Overnight Shift) | Greensboro, NC | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Greensboro-NC/Laboratory-Technician--Day-Shift-_J-051947) |
@@ -91,9 +91,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Takeda** | Unposted - Phlebotomist - Quick Advancement Opportunities | LA | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Baton-Rouge/Unposted---Phlebotomist---Quick-Advancement-Opportunities_R0180283) |
-| 🏢 **Oscar Health** | NP/PA - Virtual Health Assessment (Bilingual - Spanish) | Remote (Texas) | 2d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7490793?gh_jid=7490793) |
-| 🏢 **Oscar Health** | Nurse Practitioner - Virtual Health Assessment | Remote (Texas) | 2d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7843225?gh_jid=7843225) |
+| 🏢 **Takeda** | Unposted - Phlebotomist - Quick Advancement Opportunities | LA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Baton-Rouge/Unposted---Phlebotomist---Quick-Advancement-Opportunities_R0180283) |
+| 🏢 **Oscar Health** | NP/PA - Virtual Health Assessment (Bilingual - Spanish) | Remote (Texas) | 3d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7490793?gh_jid=7490793) |
+| 🏢 **Oscar Health** | Nurse Practitioner - Virtual Health Assessment | Remote (Texas) | 3d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7843225?gh_jid=7843225) |
 | 🏢 **Cigna** | Part Time Nurse Practitioner- Kissimmee, FL | City of Kissimmee | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---City-of-Kissimmee---100-North-Alaska-Ave---Kissimmee-FL/Part-Time-Nurse-Practitioner--Kissimmee--FL_26005876) |
 | 🏢 **Oscar Health** | Bilingual NP/PA - Virtual Urgent Care (Part-time) | Remote (Texas) | 4d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7647459?gh_jid=7647459) |
 | 🏢 **Intuitive** | Manager, NPI Sourcing - Instrument and Accessories | Sunnyvale, CA | 4d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126116615) |
@@ -143,13 +143,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Neuralink** | Clinical Scientist | Austin, Texas, Un... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7676313003?gh_jid=7676313003) |
+| 🏢 **Neuralink** | Clinical Scientist | Austin, Texas, Un... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7676313003?gh_jid=7676313003) |
 | 🏢 **Merck & Co.** | Associate Scientist, Environmental & Process Safety Engineering | New Jersey | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Scientist--Environmental---Process-Safety-Engineering_R389795) |
 | 🏢 **IDEXX** | Medical Laboratory Technician Parasitology Part Time 3rd Shift | North Grafton, MA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/North-Grafton-MA/Medical-Laboratory-Technician-Parasitology-PART-TIME-3RD-SHIFT_J-052747) |
 | 🏢 **ByteDance** | Research Scientist in Large Language Model - LLM | San Jose, CA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7623536303630469381/detail) |
 | 🏢 **ByteDance** | Research Scientist in Speech Foundation Model – Graduates - Seed - PhD | San Jose, CA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7623545981743286533/detail) |
 | 🏢 **ByteDance** | Research Scientist in Multimodal Interaction and World Model – Graduates | San Jose, CA | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7623543401908848949/detail) |
-| 🏢 **iRhythm** | Cardiac Technician Deerfield, IL | Deerfield, IL | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Deerfield-IL/Cardiac-Technician_JR994) |
+| 🏢 **iRhythm** | Cardiac Technician Deerfield, IL | Deerfield, IL | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Deerfield-IL/Cardiac-Technician_JR994) |
 | 🏢 **Leidos** | Laboratory Technician | Wharton, NJ | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Wharton-NJ/Laboratory-Technician_R-00183225) |
 | 🏢 **AbbVie** | Scientist I - Early Analytical Development, Synthetic Molecules | North Chicago, IL | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013114496) |
 | 🏢 **SpaceX** | PCB Materials Lab Technician (Starlink) | Bastrop, TX | 3d | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8505212002?gh_jid=8505212002) |
@@ -251,8 +251,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Johnson & Johnson** | Field Reimbursement Manager, Oncology - Wisconsin | 2 Locations | 1d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Eau-Claire-Wisconsin-United-States/Field-Reimbursement-Manager--Oncology---Wisconsin_R-068094) |
-| 🏢 **Oscar Health** | Manager, Strategy & Operations | New York, New Yor... | 1d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7915120?gh_jid=7915120) |
+| 🏢 **Johnson & Johnson** | Field Reimbursement Manager, Oncology - Wisconsin | 2 Locations | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Eau-Claire-Wisconsin-United-States/Field-Reimbursement-Manager--Oncology---Wisconsin_R-068094) |
+| 🏢 **Oscar Health** | Manager, Strategy & Operations | New York, New Yor... | 2d | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7915120?gh_jid=7915120) |
 | 🏢 **Philips** | Sales Support, Clinical Consultant - OB Solutions (East Zone) | 12 Locations | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-York-New-York-United-States/Sales-Support--Clinical-Consultant---OB-Solutions--East-Zone-_583324-1) |
 | 🏢 **Takeda** | Rare Disease Business Manager - PI - West Palm Beach FL | FL | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---FL---Virtual/Rare-Disease-Business-Manager---PI---West-Palm-Beach-FL_R0179572-1) |
 | 🏢 **Globus Medical** | Associate Interventional Specialist (Fort Worth, TX) | Texas | 2d | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Texas/Associate-Interventional-Specialist--Fort-Worth--TX-_JR106748) |
