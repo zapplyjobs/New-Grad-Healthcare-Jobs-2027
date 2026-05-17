@@ -1,7 +1,7 @@
 {
-  "registered_nurse": {
-    "title": "Registered Nurse",
-    "emoji": "\ud83c\udfe5",
+  "nursing": {
+    "title": "Nursing",
+    "emoji": "🏥",
     "keywords": [
       "registered nurse",
       "rn",
@@ -14,13 +14,7 @@
       "emergency room nurse",
       "medical surgical nurse",
       "acute care nurse",
-      "stepdown nurse"
-    ]
-  },
-  "nurse_practitioner": {
-    "title": "Nurse Practitioner",
-    "emoji": "\u2695\ufe0f",
-    "keywords": [
+      "stepdown nurse",
       "nurse practitioner",
       "np",
       "family nurse practitioner",
@@ -31,25 +25,13 @@
       "women's health np",
       "neonatal np",
       "psychiatric np",
-      "acute care nurse practitioner"
-    ]
-  },
-  "licensed_practical_nurse": {
-    "title": "Licensed Practical Nurse",
-    "emoji": "\ud83d\udc89",
-    "keywords": [
+      "acute care nurse practitioner",
       "licensed practical nurse",
       "lpn",
       "licensed vocational nurse",
       "lvn",
       "practical nurse",
-      "vocational nurse"
-    ]
-  },
-  "specialized_care": {
-    "title": "Specialized Care",
-    "emoji": "\ud83e\ude7a",
-    "keywords": [
+      "vocational nurse",
       "certified nursing assistant",
       "cna",
       "surgical nurse",
@@ -63,13 +45,7 @@
       "neuroscience nurse",
       "rehabilitation nurse",
       "dialysis nurse",
-      "home health nurse"
-    ]
-  },
-  "medical_support": {
-    "title": "Medical Support",
-    "emoji": "\ud83d\udc68\u200d\u2695\ufe0f",
-    "keywords": [
+      "home health nurse",
       "nurse intern",
       "nursing intern",
       "graduate nurse",
@@ -80,12 +56,23 @@
       "new grad nurse",
       "recent graduate nurse",
       "nurse mentorship",
-      "transition to practice"
+      "transition to practice",
+      "nursing",
+      "travel nurse",
+      "nurse rn",
+      "nurse cna",
+      "~rn",
+      "clinical nurse",
+      "or nurse",
+      "surgical nurse",
+      "med/surg",
+      "rn ms",
+      "tele rn"
     ]
   },
-  "clinical_research_and_trials": {
-    "title": "Clinical Research & Trials",
-    "emoji": "\ud83d\udd2c",
+  "research_laboratory": {
+    "title": "Research & Laboratory",
+    "emoji": "🔬",
     "keywords": [
       "clinical research associate",
       "~cra",
@@ -97,13 +84,7 @@
       "regulatory affairs",
       "pharmacovigilance",
       "clinical project manager",
-      "clinical data manager"
-    ]
-  },
-  "laboratory_science": {
-    "title": "Laboratory Science & Research",
-    "emoji": "\ud83e\uddea",
-    "keywords": [
+      "clinical data manager",
       "scientist",
       "research associate",
       "formulation",
@@ -122,9 +103,9 @@
       "lab assistant"
     ]
   },
-  "medical_sales_and_affairs": {
-    "title": "Medical Sales & Field Specialists",
-    "emoji": "\ud83d\udcbc",
+  "business_operations": {
+    "title": "Business & Operations",
+    "emoji": "💼",
     "keywords": [
       "clinical specialist",
       "oncology specialist",
@@ -140,13 +121,7 @@
       "clinical support specialist",
       "product specialist",
       "associate area manager",
-      "program specialist"
-    ]
-  },
-  "healthcare_admin_and_operations": {
-    "title": "Healthcare Admin & Operations",
-    "emoji": "\ud83d\udccb",
-    "keywords": [
+      "program specialist",
       "revenue cycle",
       "hospital admissions",
       "patient access coordinator",
@@ -163,13 +138,7 @@
       "health informatics",
       "clinical data analyst",
       "authorization specialist",
-      "prior authorization"
-    ]
-  },
-  "counseling_and_behavioral_health": {
-    "title": "Counseling & Behavioral Health",
-    "emoji": "\ud83e\udde0",
-    "keywords": [
+      "prior authorization",
       "counselor",
       "clinical psychologist",
       "clinical social worker",
@@ -184,20 +153,17 @@
   },
   "general_healthcare": {
     "title": "Healthcare & Clinical",
-    "emoji": "\ud83c\udfe5",
+    "emoji": "⚕️",
     "keywords": [
       "medical technologist",
       "mri technologist",
       "radiologist",
       "radiation therapist",
-      "clinical research",
       "medical interpreter",
-      "behavioral health",
       "exercise physiologist",
       "patient access",
       "patient services",
       "medical office",
-      "lab assistant",
       "laboratory assistant",
       "anesthesia",
       "respiratory therapist",
