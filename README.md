@@ -214,7 +214,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Guidehouse** | Credit Balance Specialist - Physician... | TX, Lewisville | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-Lewisville/Credit-Balance-Specialist---Physician-Healthcare-Claims_34537) |
+| **Guidehouse** | Credit Balance Specialist - Physician... | TX, Lewisville | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-Lewisville/Credit-Balance-Specialist---Physician-Healthcare-Claims_34537) |
 | **Oracle** | Oracle Health Associate Consultant - ... | United States | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330877) |
 | **Guidehouse** | Credit Balance Specialist - Healthcar... | TX, San Antonio | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Credit-Balance-Specialist---Healthcare-Hospital-Claims_39373) |
 | **Guidehouse** | Patient Access Representative – Part ... | CA, Ojai | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ojai/Patient-Access-Representative---Part-Time--Day-Shift_38988) |
