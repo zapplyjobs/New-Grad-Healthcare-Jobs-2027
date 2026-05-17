@@ -285,8 +285,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Truveta** | ML Postdoc Researcher - Healthcare AI... | Seattle, WA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5978375004) |
 | **Oracle** | Oracle Health Physician Executive, Pa... | United States | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/319020) |
 | **Oracle** | Physician Executive, EHR Strategy & C... | United States | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326484) |
-| **Arc Institute** | Postdoctoral Researcher, Biological D... | Palo Alto, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
-| **Arc Institute** | Postdoctoral Researcher, ML for Biolo... | Palo Alto, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
+| **Arc Institute** | Postdoctoral Researcher, Biological D... | Palo Alto, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994712004) |
+| **Arc Institute** | Postdoctoral Researcher, ML for Biolo... | Palo Alto, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004) |
 | **Ro** | Fulfillment Pharmacy Technician - Tor... | Los Angeles, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/87940f65-c0de-41f7-bd7c-ab2d6aaaba23/apply) |
 | **Wellmark, Inc.** | Provider Network Strategy & Contracti... | Des Moines, IA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126109660) |
 | **Wellmark, Inc.** | Associate Product Owner - Network Per... | Des Moines, IA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126111439) |
