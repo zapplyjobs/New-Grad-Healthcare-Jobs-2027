@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1384-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1383-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-61-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -198,7 +198,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Atlantic Health System** | Physical Therapist I: Full Time Days,... | Clark, NJ, United... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/23796) |
 | **Oracle** | Oracle Health Associate Consultant - ... | United States | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330877) |
 | **GDIT** | Physical Therapist | 3 Locations | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB---MacDill-AFB-FLC007/Physical-Therapist_RQ219797-1) |
-| **Abbott** | Clinical Specialist, Vessel Closure -... | Colorado | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Denver/Clinical-Specialist--Vessel-Closure---Denver--CO_31149992-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -244,12 +243,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Pennsylvania State University** | Postdoctoral Scholar - Postdoctoral S... | State College, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1) |
 | **PennState University** | Postdoctoral Scholar | State College, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1) |
 | **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
-| **IDEXX** | Histology Technician – 2nd Shift | West Sacramento, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/Histology-Technician---2nd-Shift_J-053124) |
-| **AbbVie** | Hematology Clinical Account Specialis... | Milwaukee, WI | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013187926) |
-| **AbbVie** | Hematology Clinical Account Specialis... | Green Bay, WI | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013187886) |
+| **IDEXX** | Histology Technician – 2nd Shift | West Sacramento, CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/Histology-Technician---2nd-Shift_J-053124) |
+| **AbbVie** | Hematology Clinical Account Specialis... | Milwaukee, WI | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013187926) |
+| **AbbVie** | Hematology Clinical Account Specialis... | Green Bay, WI | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013187886) |
 | **AbbVie** | Hematology Clinical Account Specialis... | Madison, WI | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013187246) |
 | **athenahealth** | Medical Coding Outcomes Manager | Belfast, ME + 9 more | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://athenahealth.wd1.myworkdayjobs.com/External/job/Belfast-ME/Medical-Coding-Outcomes-Manager_R15054-1) |
-| **Chan Zuckerberg Biohub** | Postdoctoral Fellow, Single-Cell Meth... | New York, NY (Ons... | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7922556) |
+| **Chan Zuckerberg Biohub** | Postdoctoral Fellow, Single-Cell Meth... | New York, NY (Ons... | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7922556) |
 | **Oscar Health** | Manager, Member Experience Strategy | New York, New Yor... | 8h | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7938958?gh_jid=7938958) |
 | **Atlantic Health System** | Certified Medical Assistant I,CMA, Fu... | South Orange, NJ,... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22395) |
 | **Atlantic Health System** | Patient Transporter - PT (11:00am-7:0... | Pompton Plains, N... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27387) |
@@ -359,7 +358,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1384 current opportunities from 61 companies**
+**🎯 1383 current opportunities from 61 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
