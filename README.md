@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1835-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1834-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-85-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -96,7 +96,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **XPENG Motors** | Research Scientist Intern | Santa Clara, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8329810002) |
 | **Zillow** | AI Applied Scientist Intern - Foundat... | United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-AQ---EQ_P748041) |
 | **Zillow** | AI Applied Scientist Intern - Foundat... | United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042) |
-| **NVIDIA** | Quantum Research Scientist Intern - F... | US, CA, Remote | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) |
+| **NVIDIA** | Quantum Research Scientist Intern - F... | US, CA, Remote | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) |
 | **Included Health** | Virtual Primary Care Nurse Practitioner | North Carolina | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/cb38694a-968b-4079-9044-c2f687cd2abe/apply) |
 | **Included Health** | Virtual Primary Care Nurse Practitioner | Texas | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/111fc5f8-9d49-46df-bbc8-a642eaae7dfc/apply) |
 | **AbbVie** | Allergan Practice Consultant (APC), N... | Falls Church, VA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013226166) |
@@ -154,7 +154,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nokia** | Photonics Lab Technician | United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
 | **Johnson & Johnson** | Medical Science Liaison - GU Oncology... | Minneapolis, Minn... | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Minneapolis-Minnesota-United-States-of-America/Medical-Science-Liaison---GU-Oncology----MN-SD-ND-_R-068856-1) |
 | **Entegris** | Quality Lab Technician III - Back Hal... | Hillsboro, OR | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Hillsboro-OR/Quality-Lab-Technician-III---Back-Half-Day-Shift_REQ-12081) |
-| **Eurofins** | Laboratory Technician l (Weekends) | Columbia, MO | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127527249) |
+| **Eurofins** | Laboratory Technician l (Weekends) | Columbia, MO | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127527249) |
 | **Eurofins** | Laboratory Technician ll | Columbia, MO | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127525809) |
 | **Eurofins** | Laboratory Technician l (Part Time) Temp | Columbia, MO | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127521200) |
 | **AbbVie** | Associate, Scientist II | North Chicago, IL | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013242116) |
@@ -284,9 +284,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Pennsylvania State University** | Postdoctoral Scholar | State College, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000076040-1) |
 | **University of Texas at Austin** | Postdoctoral Fellow | Austin, TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow---DD_R_00039400) |
 | **Eurofins** | Data Entry Biologist | West Point, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127664549) |
-| **AbbVie** | Engineer, Quality Systems (QC Labs) | North Chicago, IL | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013240551) |
+| **AbbVie** | Engineer, Quality Systems (QC Labs) | North Chicago, IL | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013240551) |
 | **AbbVie** | Manager, Customer CRM- Allergan Aesth... | Irvine, CA | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013238936) |
-| **AbbVie** | Hematology Clinical Account Specialis... | Minneapolis, MN | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013237206) |
+| **AbbVie** | Hematology Clinical Account Specialis... | Minneapolis, MN | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013237206) |
 | **Atlantic Health System** | Certified Medical Assistant I, Full T... | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27375) |
 | **Atlantic Health System** | Certified Medical Assistant I, Full T... | Pompton Plains, N... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27480) |
 | **Atlantic Health System** | Secretary/Technician, part-time night... | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27653) |
@@ -392,7 +392,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1835 current opportunities from 85 companies**
+**🎯 1834 current opportunities from 85 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
