@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1861-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1857-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-85-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -97,7 +97,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cigna** | RN - Oncology Nurse Case Manager - Re... | United States Wor... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/RN---Oncology-Nurse-Case-Manager---Remote_26004215-1) |
 | **Cigna** | Medical Records Representative- Evern... | Oakdale, PA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Oakdale-PA/Medical-Records-Representative--Evernorth--Oakdale--PA_26003710) |
 | **Atlantic Health System** | Registered Nurse, Part Time Nights, 7... | Morristown, NJ, U... | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29229) |
-| **NVIDIA** | Quantum Research Scientist Intern - F... | US, CA, Remote | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) |
+| **NVIDIA** | Quantum Research Scientist Intern - F... | US, CA, Remote | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) |
 | **Included Health** | Virtual Primary Care Nurse Practitioner | North Carolina | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/cb38694a-968b-4079-9044-c2f687cd2abe/apply) |
 | **Included Health** | Virtual Primary Care Nurse Practitioner | Texas | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/111fc5f8-9d49-46df-bbc8-a642eaae7dfc/apply) |
 | **AbbVie** | Allergan Practice Consultant (APC), N... | Falls Church, VA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013226166) |
@@ -155,7 +155,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson & Johnson** | Medical Science Liaison - Hematology/... | Portland, Oregon,... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Portland-Oregon-United-States/Medical-Science-Liaison---Hematology-Oncology--Oregon-Idaho-_R-076776-1) |
 | **Illumina** | Scientist 2, Oncology WGS Assay Dev Dept | San Diego | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Scientist-2--Oncology-WGS-Assay-Dev-Dept_42846-JOB) |
 | **Johnson & Johnson** | Medical Science Liaison - GU Oncology... | Minneapolis, Minn... | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Minneapolis-Minnesota-United-States-of-America/Medical-Science-Liaison---GU-Oncology----MN-SD-ND-_R-068856-1) |
-| **Eurofins** | Laboratory Technician l (Weekends) | Columbia, MO | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127527249) |
+| **Eurofins** | Laboratory Technician l (Weekends) | Columbia, MO | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127527249) |
 | **Eurofins** | Laboratory Technician ll | Columbia, MO | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127525809) |
 | **Eurofins** | Laboratory Technician l (Part Time) Temp | Columbia, MO | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127521200) |
 | **AbbVie** | Associate, Scientist II | North Chicago, IL | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013242116) |
@@ -288,7 +288,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Project Manager, Operations (onsite d... | Worcester, MA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013247596) |
 | **Eurofins** | Data Entry Biologist | West Point, PA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127664549) |
 | **Atlantic Health System** | Vascular Surgeon - Atlantic Health | Morristown, NJ, U... | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29323) |
-| **AbbVie** | Engineer, Quality Systems (QC Labs) | North Chicago, IL | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013240551) |
+| **AbbVie** | Engineer, Quality Systems (QC Labs) | North Chicago, IL | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013240551) |
 | **Atlantic Health System** | Certified Medical Assistant I, Full T... | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27375) |
 | **Atlantic Health System** | Certified Medical Assistant I, Full T... | Pompton Plains, N... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27480) |
 | **Oracle** | Nurse Informatics Executive | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329899) |
@@ -393,7 +393,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1861 current opportunities from 85 companies**
+**🎯 1857 current opportunities from 85 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
