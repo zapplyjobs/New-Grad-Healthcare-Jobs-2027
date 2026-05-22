@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1872-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1868-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-80-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -227,7 +227,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Globus Medical** | Associate Spine Specialist (Baltimore... | Maryland | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Associate-Spine-Specialist--Baltimore--MD-_JR106815) |
 | **Globus Medical** | Spine Specialist (Baltimore, MD) | Maryland | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Spine-Specialist--Baltimore--MD-_JR106817) |
 | **Globus Medical** | Cranial Clinical Specialist Represent... | Massachusetts | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Massachusetts/Cranial-Clinical-Specialist-Representative_JR106316-1) |
-| **Johnson & Johnson** | Clinical Specialist- Monarch- Central | Dayton, Ohio, Uni... | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dayton-Ohio-United-States/Clinical-Specialist--Monarch--West_R-075594-1) |
+| **Johnson & Johnson** | Clinical Specialist- Monarch- Central | Dayton, Ohio, Uni... | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dayton-Ohio-United-States/Clinical-Specialist--Monarch--West_R-075594-1) |
 | **Atlantic Health System** | Patient Access Representative I- Per ... | Hackettstown, NJ,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24805) |
 | **Atlantic Health System** | Patient Access Representative I, Full... | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26455) |
 | **Atlantic Health System** | Patient Access Representative, Full T... | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28711) |
@@ -296,7 +296,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Iterative Health** | Business Development Associate - Card... | Cambridge, Massac... | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4682181006) |
 | **Eurofins** | Dossier Specialist | Spring House, PA | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127673036) |
 | **AbbVie** | Coordinator I, Patient Care (M-F 10:3... | North Chicago, IL | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013247572) |
-| **Eurofins** | Data Entry Biologist | West Point, PA | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127664549) |
+| **Eurofins** | Data Entry Biologist | West Point, PA | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127664549) |
 | **Atlantic Health System** | Secretary/Technician - Part time, Day... | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29035) |
 | **Atlantic Health System** | Vascular Surgeon - Atlantic Health | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29323) |
 | **Atlantic Health System** | Mammography Technologist Per Diem Ove... | Summit, NJ, Unite... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29406) |
@@ -388,7 +388,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1872 current opportunities from 80 companies**
+**🎯 1868 current opportunities from 80 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
