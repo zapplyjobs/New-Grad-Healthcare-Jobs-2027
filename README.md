@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1800-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1782-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-79-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -111,7 +111,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Guidehouse** | Clinical Denials and Appeals RN | Remote | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-and-Appeals-RN_38582) |
 | **AbbVie** | Allergan Practice Consultant (APC), N... | Arlington, VA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013196014) |
 | **Exact Sciences** | Clinical Lab Associate III - Weekend ... | Madison, WI | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Clinical-Lab-Associate-III---Weekend-Overnights_R26-13285) |
-| **Eurofins** | Occupational Health Registered Nurse | Lincoln, NE | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000126992939) |
+| **Eurofins** | Occupational Health Registered Nurse | Lincoln, NE | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000126992939) |
 | **Oscar Health** | Nurse Practitioner or Physician Assis... | New York, New Yor... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7766404?gh_jid=7766404) |
 | **Guidehouse** | Clinical Denial/Appeals RN | Remote | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denial-Appeals-RN_38636) |
 | **Johnson & Johnson** | Clinical Data Science Electrophysiolo... | Irvine, Californi... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/CDS-EP-MedTech-Summer-Intern_R-056163) |
@@ -226,7 +226,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Globus Medical** | Associate Spine Specialist (Baltimore... | Maryland | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Associate-Spine-Specialist--Baltimore--MD-_JR106815) |
 | **Globus Medical** | Spine Specialist (Baltimore, MD) | Maryland | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Spine-Specialist--Baltimore--MD-_JR106817) |
 | **Globus Medical** | Cranial Clinical Specialist Represent... | Massachusetts | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Massachusetts/Cranial-Clinical-Specialist-Representative_JR106316-1) |
-| **Johnson & Johnson** | Clinical Specialist- Monarch- Central | Dayton, Ohio, Uni... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dayton-Ohio-United-States/Clinical-Specialist--Monarch--West_R-075594-1) |
+| **Johnson & Johnson** | Clinical Specialist- Monarch- Central | Dayton, Ohio, Uni... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dayton-Ohio-United-States/Clinical-Specialist--Monarch--West_R-075594-1) |
 | **Atlantic Health System** | Patient Access Representative I- Per ... | Hackettstown, NJ,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24805) |
 | **Atlantic Health System** | Patient Access Representative I, Full... | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26455) |
 | **Atlantic Health System** | Patient Access Representative, Full T... | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28711) |
@@ -295,7 +295,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Iterative Health** | Business Development Associate - Card... | Cambridge, Massac... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4682181006) |
 | **Eurofins** | Dossier Specialist | Spring House, PA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127673036) |
 | **AbbVie** | Coordinator I, Patient Care (M-F 10:3... | North Chicago, IL | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013247572) |
-| **Eurofins** | Data Entry Biologist | West Point, PA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127664549) |
+| **Eurofins** | Data Entry Biologist | West Point, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127664549) |
 | **Atlantic Health System** | Secretary/Technician - Part time, Day... | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29035) |
 | **Atlantic Health System** | Vascular Surgeon - Atlantic Health | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29323) |
 | **Atlantic Health System** | Mammography Technologist Per Diem Ove... | Summit, NJ, Unite... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29406) |
@@ -387,7 +387,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1800 current opportunities from 79 companies**
+**🎯 1782 current opportunities from 79 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
