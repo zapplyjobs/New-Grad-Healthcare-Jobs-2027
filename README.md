@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1819-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1800-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-79-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -157,9 +157,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **IDEXX** | PCR Laboratory Technician – 1st Shift | West Sacramento, CA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/PCR-Laboratory-Technician---1st-Shift_J-053172) |
 | **IDEXX** | Laboratory Technician – Verification ... | Westbrook, ME | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Laboratory-Technician---Verification---Validation_J-052586) |
 | **IDEXX** | Medical Laboratory Technician | Red Bank, NJ | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Red-Bank-NJ/Medical-Laboratory-Technician_J-052375) |
-| **Vertex Pharmaceuticals** | Modeling & Simulations Scientist II -... | Boston, MA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Modeling---Simulations-Scientist-II---PKPD-Programming_REQ-28838) |
-| **Vertex Pharmaceuticals** | Analytical Development Research Scien... | Boston, MA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Analytical-Development-Research-Scientist--Cell-and-Gene-Therapy-Proteomics_REQ-28770) |
-| **Carnegie Mellon University** | Postdoctoral Research Associate - Col... | Pittsburgh, PA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Research-Associate---College-of-Engineering---Materials-Science-and-Engineering_2024591) |
+| **Vertex Pharmaceuticals** | Modeling & Simulations Scientist II -... | Boston, MA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Modeling---Simulations-Scientist-II---PKPD-Programming_REQ-28838) |
+| **Vertex Pharmaceuticals** | Analytical Development Research Scien... | Boston, MA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Analytical-Development-Research-Scientist--Cell-and-Gene-Therapy-Proteomics_REQ-28770) |
+| **Carnegie Mellon University** | Postdoctoral Research Associate - Col... | Pittsburgh, PA | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Research-Associate---College-of-Engineering---Materials-Science-and-Engineering_2024591) |
 | **Johnson & Johnson** | Medical Science Liaison - Hematology/... | Portland, Oregon,... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Portland-Oregon-United-States/Medical-Science-Liaison---Hematology-Oncology--Oregon-Idaho-_R-076776-1) |
 | **Johnson & Johnson** | Medical Science Liaison - GU Oncology... | Minneapolis, Minn... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Minneapolis-Minnesota-United-States-of-America/Medical-Science-Liaison---GU-Oncology----MN-SD-ND-_R-068856-1) |
 | **Amazon.com Services LLC** | Applied Scientist II, Amazon - Vertic... | Palo Alto, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10426772/applied-scientist-ii-amazon-vertical-ads) |
@@ -223,9 +223,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Philips** | Field Medical Affairs Specialist, Wes... | Remote Based, Uni... | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Field-Medical-Affairs-Specialist--West-Zone_577394) |
 | **Guidehouse** | Patient Access Representative – Part ... | CA, Ojai | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ojai/Patient-Access-Representative---Part-Time--Day-Shift_38988) |
 | **Guidehouse** | Patient Account Representative - Medi... | AL, Birmingham | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Representative---Medical-Billing-and-Claims_39717) |
-| **Globus Medical** | Associate Spine Specialist (Baltimore... | Maryland | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Associate-Spine-Specialist--Baltimore--MD-_JR106815) |
-| **Globus Medical** | Spine Specialist (Baltimore, MD) | Maryland | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Spine-Specialist--Baltimore--MD-_JR106817) |
-| **Globus Medical** | Cranial Clinical Specialist Represent... | Massachusetts | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Massachusetts/Cranial-Clinical-Specialist-Representative_JR106316-1) |
+| **Globus Medical** | Associate Spine Specialist (Baltimore... | Maryland | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Associate-Spine-Specialist--Baltimore--MD-_JR106815) |
+| **Globus Medical** | Spine Specialist (Baltimore, MD) | Maryland | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Spine-Specialist--Baltimore--MD-_JR106817) |
+| **Globus Medical** | Cranial Clinical Specialist Represent... | Massachusetts | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Massachusetts/Cranial-Clinical-Specialist-Representative_JR106316-1) |
 | **Johnson & Johnson** | Clinical Specialist- Monarch- Central | Dayton, Ohio, Uni... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dayton-Ohio-United-States/Clinical-Specialist--Monarch--West_R-075594-1) |
 | **Atlantic Health System** | Patient Access Representative I- Per ... | Hackettstown, NJ,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24805) |
 | **Atlantic Health System** | Patient Access Representative I, Full... | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26455) |
@@ -285,15 +285,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Philips** | Clinical Application Consultant- CV U... | 2 Locations | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Francisco-Bay-Area-California-United-States/Clinical-Solution-Consultant--CV-Ultrasound--San-Francisco-Bay-Area-_577396-1) |
 | **Gilead Sciences** | Associate II, Scientific Communications | California | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Associate-II--Scientific-Communications_R0052416-1) |
 | **Biogen** | Manager, Biomarkers and Bioanalytical... | San Francisco, CA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/San-Francisco-CA/Manager--Biomarkers-and-Bioanalytical-Operations_REQ23287) |
-| **AbbVie** | Field Reimbursement Manager, Immunolo... | Omaha, NE | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013255446) |
-| **Vertex Pharmaceuticals** | Medical Writing Manager (Hybrid) | Boston, MA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Medical-Writing-Manager--Hybrid-_REQ-27296) |
+| **AbbVie** | Field Reimbursement Manager, Immunolo... | Omaha, NE | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013255446) |
+| **Vertex Pharmaceuticals** | Medical Writing Manager (Hybrid) | Boston, MA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Medical-Writing-Manager--Hybrid-_REQ-27296) |
 | **AbbVie** | Field Reimbursement Manager, Immunolo... | Chicago, IL | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013254356) |
-| **Globus Medical** | Neurophysiologist (Philadelphia, PA) | Pennsylvania | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Pennsylvania/Neurophysiologist--Philadelphia--PA-_JR105945) |
-| **Globus Medical** | Entry Level Associate Neurophysiologi... | Maryland | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Entry-Level-Associate-Neurophysiologist--Baltimore--MD-_JR106387-1) |
-| **Carnegie Mellon University** | Postdoctoral Fellow - Robotics Institute | Pittsburgh, PA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Fellow---Robotics-Institute_2023679) |
-| **Iterative Health** | Business Development Associate - Gast... | Cambridge, Massac... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4682192006) |
-| **Iterative Health** | Business Development Associate - Card... | Cambridge, Massac... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4682181006) |
-| **Eurofins** | Dossier Specialist | Spring House, PA | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127673036) |
+| **Globus Medical** | Neurophysiologist (Philadelphia, PA) | Pennsylvania | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Pennsylvania/Neurophysiologist--Philadelphia--PA-_JR105945) |
+| **Globus Medical** | Entry Level Associate Neurophysiologi... | Maryland | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Maryland/Entry-Level-Associate-Neurophysiologist--Baltimore--MD-_JR106387-1) |
+| **Carnegie Mellon University** | Postdoctoral Fellow - Robotics Institute | Pittsburgh, PA | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Fellow---Robotics-Institute_2023679) |
+| **Iterative Health** | Business Development Associate - Gast... | Cambridge, Massac... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4682192006) |
+| **Iterative Health** | Business Development Associate - Card... | Cambridge, Massac... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4682181006) |
+| **Eurofins** | Dossier Specialist | Spring House, PA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127673036) |
 | **AbbVie** | Coordinator I, Patient Care (M-F 10:3... | North Chicago, IL | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013247572) |
 | **Eurofins** | Data Entry Biologist | West Point, PA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127664549) |
 | **Atlantic Health System** | Secretary/Technician - Part time, Day... | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29035) |
@@ -387,7 +387,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1819 current opportunities from 79 companies**
+**🎯 1800 current opportunities from 79 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
