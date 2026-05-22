@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1683-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-79-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1682-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-78-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -82,19 +82,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | Nurse Practitioner | Pensacola, FL | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Pensacola/Nurse-Practitioner_R0923618) |
 | **CVS Health** | Advanced Practice Provider NP/PA | 02771 - North Car... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/02771---North-Carolina-CVS-Pharmacy-LLC/Advanced-Practice-Provider-NP-PA_R0923613) |
 | **CVS Health** | Advanced Practice Provider NP/PA | Apex, NC | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Apex/Advanced-Practice-Provider-NP-PA_R0923602) |
-| **Meta** | Research Scientist Intern - Robotic C... | Burlingame, CA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/24308030212183826) |
-| **Integra FEC** | Data Scientist Intern - PhD | Austin, TX | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/integra/jobs/5134592008) |
-| **Integra FEC** | Data Scientist Intern | Austin, TX | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) |
-| **Nokia** | IP R&D Lab Technologist Co-op/Intern | United States | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806) |
-| **Meta** | Research Scientist Intern | Seattle, WA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/779670167783218) |
-| **Meta** | Research Scientist Intern - Photoreal... | Sausalito, CA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/2022109075207025) |
-| **Harris Computer** | Health Informatics Intern | United States | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Saskatchewan/Intern_R0040214) |
-| **LMI** | Data Scientist Intern - Passport Dema... | Vienna, VA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-lmi.icims.com/jobs/13807/job?mobile=true&needsRedirect=false) |
-| **TripleRing** | Data Scientist Intern | Boston, MA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tripleringtech.com/careers?gh_jid=4680998005) |
-| **Zillow** | AI Applied Scientist Intern - Foundat... | United States | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-AQ---EQ_P748041) |
-| **Zillow** | AI Applied Scientist Intern - Foundat... | United States | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042) |
-| **Clarios** | Data Scientist Intern | Milwaukee, WI | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://clarios.wd5.myworkdayjobs.com/en-US/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Scientist-Intern--Summer-2026-_WD45233) |
-| **XPENG Motors** | Research Scientist Intern | Santa Clara, CA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8329810002) |
+| **Meta** | Research Scientist Intern - Robotic C... | Burlingame, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/24308030212183826) |
+| **Integra FEC** | Data Scientist Intern - PhD | Austin, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/integra/jobs/5134592008) |
+| **Integra FEC** | Data Scientist Intern | Austin, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) |
+| **Nokia** | IP R&D Lab Technologist Co-op/Intern | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806) |
+| **Meta** | Research Scientist Intern | Seattle, WA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/779670167783218) |
+| **Meta** | Research Scientist Intern - Photoreal... | Sausalito, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/2022109075207025) |
+| **Harris Computer** | Health Informatics Intern | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Saskatchewan/Intern_R0040214) |
+| **LMI** | Data Scientist Intern - Passport Dema... | Vienna, VA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-lmi.icims.com/jobs/13807/job?mobile=true&needsRedirect=false) |
+| **TripleRing** | Data Scientist Intern | Boston, MA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tripleringtech.com/careers?gh_jid=4680998005) |
+| **Zillow** | AI Applied Scientist Intern - Foundat... | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-AQ---EQ_P748041) |
+| **Zillow** | AI Applied Scientist Intern - Foundat... | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042) |
+| **Clarios** | Data Scientist Intern | Milwaukee, WI | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://clarios.wd5.myworkdayjobs.com/en-US/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Scientist-Intern--Summer-2026-_WD45233) |
+| **XPENG Motors** | Research Scientist Intern | Santa Clara, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8329810002) |
 | **Philips** | Sales Support, Clinical Applications ... | San Bernardino, C... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Bernardino-California-United-States/Sales-Support--Clinical-Solution-Consultant---CV-Ultrasound--San-Bernardino--Central-Valley--CA-_579807-1) |
 | **Guidehouse** | Research Advanced Practice Provider (... | MD, Bethesda | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Research-Advanced-Practice-Provider--PA-or-NP-_39226) |
 | **IDEXX** | Laboratory Technician - Overnight | Glen Burnie, MD | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Glen-Burnie-MD/Laboratory-Technician---Overnight_J-053152) |
@@ -150,8 +150,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Danaher** | Lab Technician I - Column Packing | Torrance, Califor... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Torrance-California-United-States/Lab-Technician-I---Column-Packing_R1309984) |
 | **Entegris** | Quality Lab Technician III - Back Hal... | Hillsboro, OR | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Hillsboro-OR/Quality-Lab-Technician-III---Back-Half-Day-Shift_REQ-12081) |
 | **Carrier Global** | HVAC Supervisor & Engineering Lab Tec... | CAN03: Carrier-Ch... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN03-Carrier-Charlotte-9701-Old-Statesville-Road-Charlotte-NC-28269-USA/HVAC-Supervisor---Engineering-Lab-Technician--3rd-shift-_30200283) |
-| **Emerson Electric** | Engineering Lab Technician | St. Louis, MO | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26002075) |
-| **Nokia** | Photonics Lab Technician | United States | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
+| **Emerson Electric** | Engineering Lab Technician | St. Louis, MO | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26002075) |
+| **Nokia** | Photonics Lab Technician | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
 | **Philips** | Scientist, Advanced Clinical Innovati... | Remote Based, Uni... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Scientist--Advanced-Clinical-Innovation-Partnerships--ACIP---IGTS--West_573417) |
 | **Gilead Sciences** | Clinical Trials Manager | Remote | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States--Remote/Clinical-Trials-Manager_R0052522-2) |
 | **IDEXX** | PCR Laboratory Technician – 1st Shift | West Sacramento, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/PCR-Laboratory-Technician---1st-Shift_J-053172) |
@@ -188,7 +188,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **KeyBank** | Equity Research Associate - Healthcare | New York, NY | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/New-York-NY/Equity-Research-Associate---Healthcare_R-39708) |
 | **Medtronic** | Prin Clinical Research Spec | 2 Locations | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Prin-Clinical-Research-Spec_R65685-1) |
 | **Cardinal Health** | Laboratory Technician | Dallas PET, TX | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TX-Dallas-PET/Laboratory-Technician_20177762) |
-| **Boeing** | Experienced Test & Evaluation Lab Tec... | Berkeley, MO | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Test---Evaluation-Lab-Technician---Metrology---Calibration-_JR2026501709-1) |
+| **Boeing** | Experienced Test & Evaluation Lab Tec... | Berkeley, MO | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Test---Evaluation-Lab-Technician---Metrology---Calibration-_JR2026501709-1) |
 | **Intel** | Analytical Chemistry Lab Technician | US, Arizona, Phoenix | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Analytical-Chemistry-Lab-Technician_JR0284125) |
 | **Northrop Grumman** | Laboratory Technician 4 | Maryland | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/Laboratory-Technician-4_R10233090) |
 | **Arc Institute** | Research Associate II, Konermann Lab | Palo Alto, CA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5997306004) |
@@ -270,14 +270,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | Pharmacy Technician | Farmingville, NY | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Farmingville/Pharmacy-Technician_R0922361) |
 | **CVS Health** | Pharmacy Technician | Kew Gardens, NY | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Kew-Gardens/Pharmacy-Technician_R0923163) |
 | **CVS Health** | CA Pharmacy Manager | 03908 - Longs Dru... | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/03908---Longs-Drug-Stores-California-LLC/CA-Pharmacy-Manager_R0920135) |
-| **University of Texas at Austin** | Postdoctoral Fellow in Water Systems ... | Austin, TX | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems--ml-_R_00041178-1) |
-| **Pennsylvania State University** | Postdoctoral Scholar - Postdoctoral S... | State College, PA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1) |
-| **University of Texas at Austin** | Postdoctoral Scholar | Austin, TX | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034) |
-| **University of Texas at Austin** | Postdoctoral Fellow | Austin, TX | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow_R_00029121) |
-| **Pennsylvania State University** | Postdoctoral Scholar - Gong Lab | State College, PA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Environmental-Health-Science-and-Geospatial-Science--Gong-Lab_REQ_0000078246-1) |
-| **Pennsylvania State University** | Postdoctoral Scholar in Geophysics | State College, PA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoc-Scholar-in-Geophysics-focused-on-Rock-Rheology-and-Machine-Learning_REQ_0000078024-1) |
-| **PennState University** | Postdoctoral Scholar | State College, PA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1) |
-| **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
+| **University of Texas at Austin** | Postdoctoral Fellow in Water Systems ... | Austin, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems--ml-_R_00041178-1) |
+| **Pennsylvania State University** | Postdoctoral Scholar - Postdoctoral S... | State College, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1) |
+| **University of Texas at Austin** | Postdoctoral Scholar | Austin, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034) |
+| **University of Texas at Austin** | Postdoctoral Fellow | Austin, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow_R_00029121) |
+| **Pennsylvania State University** | Postdoctoral Scholar - Gong Lab | State College, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Environmental-Health-Science-and-Geospatial-Science--Gong-Lab_REQ_0000078246-1) |
+| **Pennsylvania State University** | Postdoctoral Scholar in Geophysics | State College, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoc-Scholar-in-Geophysics-focused-on-Rock-Rheology-and-Machine-Learning_REQ_0000078024-1) |
+| **PennState University** | Postdoctoral Scholar | State College, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1) |
+| **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
 | **USAA** | Experienced Retirement Income Advisor... | Plano Legacy | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Experienced-Retirement-Income-Advisor--Sign-On-Bonus-_R0115500) |
 | **USAA** | Experienced Retirement Income Advisor... | Tampa Crosstown | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Tampa-Crosstown/Experienced-Retirement-Income-Advisor--Sign-On-Bonus-_R0115502) |
 | **USAA** | Retirement Income Advisor (Sign-On Bo... | Tampa Crosstown | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Tampa-Crosstown/Retirement-Income-Advisor--Sign-On-Bonus-_R0115503) |
@@ -304,7 +304,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oscar Health** | Total Quality Management Specialist (... | Texas, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7944228?gh_jid=7944228) |
 | **Oscar Health** | Total Quality Management Specialist (... | Georgia, United S... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7944225?gh_jid=7944225) |
 | **Oscar Health** | Total Quality Management Specialist (... | Florida, United S... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7944219?gh_jid=7944219) |
-| **Caterpillar** | Nurse (2nd Shift) | North Little Rock... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/North-Little-Rock-Arkansas/Nurse_R0000360146-1) |
+| **Caterpillar** | Nurse (2nd Shift) | North Little Rock... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/North-Little-Rock-Arkansas/Nurse_R0000360146-1) |
 | **Philips** | Clinical Application Specialist, MR (... | Home Based, Unite... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Home-Based-United-States/Clinical-Application-Specialist--MR--National-Travel-_582128) |
 | **Guidehouse** | Public Health Technology Project Manager | GA Atlanta + 1 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---GA-Atlanta/Public-Health-Technology-Project-Manager_39590) |
 | **Guidehouse** | Part-Time Oncology Data Specialist - ... | Remote | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Part-Time-Oncology-Data-Specialist---Certified--remote-_38252) |
@@ -329,7 +329,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wellmark, Inc.** | Medical Policy & Coding Support Coord... | Des Moines, IA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000126865359) |
 | **Northrop Grumman** | Firefighter 1 (EMT-B Certified) | California | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Firefighter-1--EMT-B-Certified-_R10231634) |
 | **Elanco** | Veterinarian - Local Animal Welfare O... | Fort Dodge, IA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Veterinarian---Local-Animal-Welfare-Officer_R0025641-1) |
-| **Amentum** | Paramedic/Firefighter | Arnold AFB, TN | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Arnold-AFB/Paramedic-Firefighter_R0161090) |
 | **Biogen** | Co-op, Cell Culture Development | Research Triangle... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Co-op--Cell-Culture-Development_REQ22462) |
 
 <p align="center">Apply for more jobs at</p>
@@ -386,7 +385,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1683 current opportunities from 79 companies**
+**🎯 1682 current opportunities from 78 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
