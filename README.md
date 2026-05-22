@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1719-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1718-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-79-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -102,8 +102,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Atlantic Health System** | Registered Nurse - Full Time, Nights ... | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28609) |
 | **Atlantic Health System** | Registered Nurse - Per Diem Nights - ... | Morristown, NJ, U... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28624) |
 | **NVIDIA** | Quantum Research Scientist Intern - F... | US, CA, Remote | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) |
-| **Included Health** | Virtual Primary Care Nurse Practitioner | North Carolina | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/cb38694a-968b-4079-9044-c2f687cd2abe/apply) |
-| **Included Health** | Virtual Primary Care Nurse Practitioner | Texas | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/111fc5f8-9d49-46df-bbc8-a642eaae7dfc/apply) |
+| **Included Health** | Virtual Primary Care Nurse Practitioner | North Carolina | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/cb38694a-968b-4079-9044-c2f687cd2abe/apply) |
+| **Included Health** | Virtual Primary Care Nurse Practitioner | Texas | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/111fc5f8-9d49-46df-bbc8-a642eaae7dfc/apply) |
 | **AbbVie** | Allergan Practice Consultant (APC), N... | Falls Church, VA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013226166) |
 | **AbbVie** | Allergan Practice Consultant (APC), N... | Reston, VA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013225788) |
 | **RVO Health** | Nurse Practitioner - Weight & Wellness | US | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4696685005) |
@@ -312,7 +312,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Guidehouse** | Remote IP Quality Reviewer | Remote | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Remote-IP-Quality-Reviewer_34842) |
 | **Experian** | Hospital Contract Definition Analyst,... | United States, UN... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000127257599) |
 | **Globus Medical** | Neurophysiologist (Clearwater, FL) | Florida | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Florida/Neurophysiologist--Clearwater--FL-_JR106396-1) |
-| **Guidepoint** | Client Service Healthcare Associate | Boston, Massachus... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8550737002) |
+| **Guidepoint** | Client Service Healthcare Associate | Boston, Massachus... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8550737002) |
 | **Oracle** | Physician Informatics Executive | United States | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334339) |
 | **Intuitive** | Contract Negotiator | Peachtree Corners... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000127084845) |
 | **Intuitive** | Contract Negotiator | Sunnyvale, CA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000127084789) |
@@ -387,7 +387,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1719 current opportunities from 79 companies**
+**🎯 1718 current opportunities from 79 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
