@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1710-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1708-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-79-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -194,7 +194,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Arc Institute** | Research Associate II, Konermann Lab | Palo Alto, CA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5997306004) |
 | **Medtronic** | Clinical Research Specialist - NV - I... | 2 Locations | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Irvine-California-United-States-of-America/Clinical-Research-Specialist---NV---Irvine--CA-OR-Fridley--MN--Onsite-_R66355-1) |
 | **Marvell** | Electronics Lab Technician | Irvine, CA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Irvine-CA/Electronics-Lab-Technician_2601785) |
-| **Guidehouse** | Patient Account Representative - Clin... | AL, Birmingham | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Representative---Clinical-Trials_36383) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -387,7 +386,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1710 current opportunities from 79 companies**
+**🎯 1708 current opportunities from 79 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
