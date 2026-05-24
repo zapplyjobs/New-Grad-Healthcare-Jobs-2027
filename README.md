@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-2138-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-2137-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-86-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -86,8 +86,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | In-Home Health - NP or PA (Part Time)... | Binghamton, NY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Binghamton/In-Home-Health---NP-or-PA--Part-Time----Tioga-County--Binghamton--NY_R0779967) |
 | **Walmart** | Pharmacy Grad Intern (Hrly) | Rice Lake, WI | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Rice-Lake-WI/Pharmacy-Grad-Intern--Hrly-----2026-SIGN-ON-BONUS---_R-2350129) |
 | **CVS Health** | In-Home Health - Nurse Practitioner o... | Elmira, NY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Elmira/In-Home-Health---Nurse-Practitioner-or-Physician-Assistant--Part-Time----Chemung-County--Elmira--NY_R0780151) |
-| **Walmart** | Pharmacy Grad Intern (Hrly) | (USA) TX PALMHURS... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-PALMHURST-03320-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2517871) |
-| **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) AR MENA 000... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AR-MENA-00067-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2516421) |
+| **Walmart** | Pharmacy Grad Intern (Hrly) | (USA) TX PALMHURS... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-PALMHURST-03320-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2517871) |
+| **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) AR MENA 000... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AR-MENA-00067-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2516421) |
 | **Cigna** | (RN) Nurse Case Manager - Evernorth H... | United States Wor... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/XMLNAME--RN--Nurse-Case-Manager---Evernorth-Health-Services--Remote_26004526) |
 | **Takeda** | Plasma Center Nurse- LPN | CO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Loveland/Plasma-Center-Nurse--LPN_R0180782-1) |
 | **Takeda** | Plasma Center Nurse- RN | CO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Loveland/Plasma-Center-Nurse--RN_R0180781-1) |
@@ -265,20 +265,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Pennsylvania State University** | Postdoctoral Scholar Sengupta Group | State College, PA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar-Sengupta-Group_REQ_0000062624-1) |
 | **Pennsylvania State University** | Postdoctoral Scholar - Postdoctoral S... | State College, PA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1) |
 | **University of Texas at Austin** | Postdoctoral Scholar | Austin, TX | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034) |
 | **University of Texas at Austin** | Postdoctoral Fellow | Austin, TX | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow_R_00029121) |
 | **Pennsylvania State University** | Postdoctoral Scholar - Gong Lab | State College, PA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Environmental-Health-Science-and-Geospatial-Science--Gong-Lab_REQ_0000078246-1) |
-| **University of Texas at Austin** | Postdoctoral Fellow | Austin, TX | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow---DD_R_00039400) |
+| **Pennsylvania State University** | Postdoctoral Scholar in Geophysics | State College, PA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoc-Scholar-in-Geophysics-focused-on-Rock-Rheology-and-Machine-Learning_REQ_0000078024-1) |
 | **PennState University** | Postdoctoral Scholar | State College, PA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1) |
 | **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
+| **University of Texas at Austin** | Postdoctoral Fellow | Austin, TX | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow---DD_R_00039400) |
 | **CVS Health** | Pharmacy Manager | 00427 - North Car... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/00427---North-Carolina-CVS-Pharmacy-LLC/Pharmacy-Manager_R0926269) |
 | **CVS Health** | Pharmacy Technician | Clifton Park, NY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Clifton-Park/Pharmacy-Technician_R0925414) |
 | **CVS Health** | Pharmacy Technician | Middletown, NY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Middletown/Pharmacy-Technician_R0925378) |
-| **Takeda** | Assistant Manager | GA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Snellville/Assistant-Manager_R0180775-1) |
-| **Merck & Co.** | Cardiovascular Disease Specialist – A... | Arkansas Little R... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Arkansas---Little-Rock/Cardiovascular-Disease-Specialist---Arkansas-Louisiana-District-Spare_R399554-2) |
-| **Merck & Co.** | Cardiovascular Disease Specialist – D... | Iowa | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Iowa---Des-Moines/Cardiovascular-Disease-Specialist---Des-Moines--IA_R399534-1) |
+| **Takeda** | Assistant Manager | GA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Snellville/Assistant-Manager_R0180775-1) |
+| **Merck & Co.** | Cardiovascular Disease Specialist – A... | Arkansas Little R... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Arkansas---Little-Rock/Cardiovascular-Disease-Specialist---Arkansas-Louisiana-District-Spare_R399554-2) |
+| **Merck & Co.** | Cardiovascular Disease Specialist – D... | Iowa | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Iowa---Des-Moines/Cardiovascular-Disease-Specialist---Des-Moines--IA_R399534-1) |
 | **Cardinal Health** | Pharmacy Manager | PAM Hlth Rehab Ho... | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/SC-Aiken--PAM-Hlth-Rehab-Hosp-of-Aiken/Pharmacy-Manager_20181254-1) |
 | **Walmart** | Optician Sam's | Dallas, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Dallas-TX/Optician-Sam-s_R-2519328) |
 | **Walmart** | Pharmacist Manager - Sam's | Saint Louis, MO | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Saint-Louis-MO/Pharmacist-Manager---Sam-s_R-2519608) |
@@ -286,6 +286,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hitachi** | Off Shift Occupational Health Nurse | South Boston, Vir... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/South-Boston-Virginia-United-States-of-America/Off-Shift-Occupational-Health-Nurse_R0131077) |
 | **Leidos** | Public Health Analyst/Epidemiologist | 6314 Remote/Telew... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Public-Health-Analyst-Epidemiologist_R-00183916) |
 | **Abbott** | Clinical Associate | Louisiana | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Louisiana---New-Orleans/Clinical-Associate_31150541-1) |
+| **Johnson Controls** | Client Services Coordinator | New York | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Hauppauge-New-York-United-States-of-America/Client-Services-Coordinator_WD30270342) |
 | **Johnson & Johnson** | Study Responsible Physician- Neurosci... | 2 Locations | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience-Late-Development_R-066499-1) |
 | **Johnson & Johnson** | Study Responsible Physician- Neurosci... | 2 Locations | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience-Late-Development_R-066453-1) |
 | **Johnson & Johnson** | Study Responsible Physician- Neurosci... | 2 Locations | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Study-Responsible-Physician--Neuroscience--Pediatric-Studies-_R-067364-1) |
@@ -295,7 +296,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Philips** | Critical Care Nurse - Clinical Soluti... | 2 Locations | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Seattle-Washington-United-States/Critical-Care-Nurse---Clinical-Solution-Specialist--Travel--Pacific-Northwest-_583518) |
 | **Merck & Co.** | Cardiovascular Disease Specialist – C... | Kentucky Pikevill... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Kentucky---Pikeville/Cardiovascular-Disease-Specialist---Central-Kentucky--Lexington-Pikeville-_R399540-1) |
 | **Guidehouse** | Veterinarian | MD, Bethesda | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Veterinarian_37995) |
-| **Johnson Controls** | Client Services Coordinator | New York | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Hauppauge-New-York-United-States-of-America/Client-Services-Coordinator_WD30270342) |
 | **EVERSANA** | Field Reimbursement Manager - East | Orlando, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000127956329) |
 | **Medtronic** | Contract Analyst, Cardiovascular Pric... | Minneapolis, Minn... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Contract-Analyst--Cardiovascular-Pricing---Contracting---Minneapolis--MN_R66664-1) |
 | **Medtronic** | Prin Physician & Society Liaison | 2 Locations | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Prin-Physician---Society-Liaison_R65008-2) |
@@ -416,7 +416,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2138 current opportunities from 86 companies**
+**🎯 2137 current opportunities from 86 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
