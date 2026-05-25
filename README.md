@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-2045-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-2021-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-77-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -68,27 +68,27 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Cigna** | Strategy & Analytics Advisor, C&CE - ... | United States Wor... | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Strategy---Analytics-Advisor---Evernorth---Remote_26003149) |
-| **CVS Health** | Foreign Pharmacy Grad - International... | Mechanicsburg, PA | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Mechanicsburg/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0926732) |
-| **CVS Health** | Pharmacy Intern | Henderson, NV | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NV---Henderson/Pharmacy-Intern_R0926729) |
-| **CVS Health** | Pharmacy Intern | Portland, OR | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OR---Portland/Pharmacy-Intern_R0926730) |
-| **Meta** | Research Scientist Intern - Photoreal... | Sausalito, CA | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/2022109075207025) |
-| **Meta** | Research Scientist Intern - Multimoda... | Redmond, WA | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/1732424664451603) |
-| **Meta** | Research Scientist Intern - Multimoda... | Redmond, WA | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/2160167211413098) |
-| **Zillow** | AI Applied Scientist Intern - Foundat... | United States | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-AQ---EQ_P748041) |
-| **Zillow** | AI Applied Scientist Intern - Foundat... | United States | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042) |
-| **Zillow** | AI Applied Scientist Intern | United States | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043) |
-| **TripleRing** | Data Scientist Intern | Boston, MA | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tripleringtech.com/careers?gh_jid=4680998005) |
-| **Integra FEC** | Data Scientist Intern - PhD | Austin, TX | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/integra/jobs/5134592008) |
-| **Integra FEC** | Data Scientist Intern | Austin, TX | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) |
-| **Nokia** | IP R&D Lab Technologist Co-op/Intern | United States | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806) |
-| **AstraZeneca** | Quantitative Systems Pharmacology Mod... | Gaithersburg, MD | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Quantitative-Systems-Pharmacology-Modeling-Intern--PhD-Students_R-241829) |
-| **Harris Computer** | Health Informatics Intern | United States | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Saskatchewan/Intern_R0040214) |
-| **LMI** | Data Scientist Intern - Passport Dema... | Vienna, VA | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-lmi.icims.com/jobs/13807/job?mobile=true&needsRedirect=false) |
+| **Cigna** | Strategy & Analytics Advisor, C&CE - ... | United States Wor... | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Strategy---Analytics-Advisor---Evernorth---Remote_26003149) |
+| **CVS Health** | Foreign Pharmacy Grad - International... | Mechanicsburg, PA | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Mechanicsburg/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0926732) |
+| **CVS Health** | Pharmacy Intern | Henderson, NV | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NV---Henderson/Pharmacy-Intern_R0926729) |
+| **CVS Health** | Pharmacy Intern | Portland, OR | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OR---Portland/Pharmacy-Intern_R0926730) |
+| **Meta** | Research Scientist Intern - Photoreal... | Sausalito, CA | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/2022109075207025) |
+| **Meta** | Research Scientist Intern - Multimoda... | Redmond, WA | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/1732424664451603) |
+| **Meta** | Research Scientist Intern - Multimoda... | Redmond, WA | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/2160167211413098) |
+| **Zillow** | AI Applied Scientist Intern - Foundat... | United States | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-AQ---EQ_P748041) |
+| **Zillow** | AI Applied Scientist Intern - Foundat... | United States | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042) |
+| **Zillow** | AI Applied Scientist Intern | United States | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043) |
+| **TripleRing** | Data Scientist Intern | Boston, MA | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tripleringtech.com/careers?gh_jid=4680998005) |
+| **Integra FEC** | Data Scientist Intern - PhD | Austin, TX | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/integra/jobs/5134592008) |
+| **Integra FEC** | Data Scientist Intern | Austin, TX | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) |
+| **Nokia** | IP R&D Lab Technologist Co-op/Intern | United States | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806) |
+| **AstraZeneca** | Quantitative Systems Pharmacology Mod... | Gaithersburg, MD | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Quantitative-Systems-Pharmacology-Modeling-Intern--PhD-Students_R-241829) |
+| **Harris Computer** | Health Informatics Intern | United States | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Saskatchewan/Intern_R0040214) |
+| **LMI** | Data Scientist Intern - Passport Dema... | Vienna, VA | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-lmi.icims.com/jobs/13807/job?mobile=true&needsRedirect=false) |
 | **Boeing** | Nurse Practitioner | Everett, WA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Nurse-Practitioner_JR2026511710-1) |
 | **Walmart** | Pharmacy Grad Intern (Hrly) | Rice Lake, WI | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Rice-Lake-WI/Pharmacy-Grad-Intern--Hrly-----2026-SIGN-ON-BONUS---_R-2350129) |
-| **Walmart** | Pharmacy Grad Intern (Hrly) | (USA) TX PALMHURS... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-PALMHURST-03320-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2517871) |
-| **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) AR MENA 000... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AR-MENA-00067-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2516421) |
+| **Walmart** | Pharmacy Grad Intern (Hrly) | (USA) TX PALMHURS... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-PALMHURST-03320-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2517871) |
+| **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) AR MENA 000... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AR-MENA-00067-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2516421) |
 | **Cigna** | (RN) Nurse Case Manager - Evernorth H... | United States Wor... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/XMLNAME--RN--Nurse-Case-Manager---Evernorth-Health-Services--Remote_26004526) |
 | **Merck & Co.** | Cardiovascular Disease Specialist - N... | California San Jo... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---San-Jose/Cardiovascular-Disease-Specialist---Northern-California-District_R399239-1) |
 | **Merck & Co.** | Cardiovascular Disease Specialist – S... | REMOTE | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---REMOTE---REMOTE/Cardiovascular-Disease-Specialist---Southern-Illinois_R399546-1) |
@@ -141,8 +141,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Emerson Electric** | Engineering Lab Technician | St. Louis, MO | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26002075) |
-| **Nokia** | Photonics Lab Technician | United States | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
+| **Emerson Electric** | Engineering Lab Technician | St. Louis, MO | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26002075) |
+| **Nokia** | Photonics Lab Technician | United States | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
 | **Blue Origin** | Characterization Lab Technician | Huntsville, AL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Characterization-Lab-Technician_R63772-1) |
 | **Vertex Pharmaceuticals** | Analytical Development Research Scien... | Boston, MA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Analytical-Development-Research-Scientist--Cell-and-Gene-Therapy-Proteomics_REQ-28770) |
 | **Vertex Pharmaceuticals** | Medical Science Liaison Pain | Field Based | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Illinois---Field-Based/Senior-Medical-Science-Liaison-Pain_REQ-28039) |
@@ -258,25 +258,25 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Merck & Co.** | Assoc. Dir , Strategic Forecasting | 2 Locations | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Assoc-Dir---Strategic-Forecasting_R399036-1) |
-| **Merck & Co.** | Dir , Strategic Forecasting | New Jersey | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Dir---Strategic-Forecasting_R399035-1) |
-| **Johnson & Johnson** | Manager, Source Reg Compliance | Raynham, Massachu... | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raynham-Massachusetts-United-States-of-America/Manager--Source-Reg-Compliance_R-074952-1) |
-| **Johnson & Johnson** | Manager, Legal, HCC, GCA | Raynham, Massachu... | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raynham-Massachusetts-United-States-of-America/Manager--Legal--HCC--GCA_R-076289-1) |
-| **Johnson & Johnson** | Manager, Source Reg Compliance (NA) | 3 Locations | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Palm-Beach-Gardens-Florida-United-States-of-America/Manager--Source-Reg-Compliance--NA-_R-074942) |
-| **Guidehouse** | Biologist | MD, Rockville | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Rockville/Biologist_39730) |
-| **Guidehouse** | Biologist | MD, Baltimore | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Biologist_39023) |
-| **CVS Health** | Pharmacy Technician | Green Valley, AZ | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Green-Valley/Pharmacy-Technician_R0925788) |
-| **CVS Health** | Pharmacy Technician | Radford, VA | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Radford/Pharmacy-Technician_R0925801) |
-| **CVS Health** | Pharmacy Technician | Topeka, KS | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/KS---Topeka/Pharmacy-Technician_R0925860) |
-| **Pennsylvania State University** | Postdoctoral Scholar in Geophysics | State College, PA | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoc-Scholar-in-Geophysics-focused-on-Rock-Rheology-and-Machine-Learning_REQ_0000078024-1) |
-| **Pennsylvania State University** | Postdoctoral Scholar Sengupta Group | State College, PA | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar-Sengupta-Group_REQ_0000062624-1) |
-| **Pennsylvania State University** | Postdoctoral Scholar | State College, PA | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000076040-1) |
-| **University of Texas at Austin** | Postdoctoral Fellow | Austin, TX | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow---DD_R_00039400) |
-| **University of Texas at Austin** | Postdoctoral Fellow | Austin, TX | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00009657) |
-| **University of Texas at Austin** | Postdoctoral Fellow in Water Systems ... | Austin, TX | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems--ml-_R_00041178-1) |
-| **PennState University** | Postdoctoral Scholar | State College, PA | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1) |
-| **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
-| **Takeda** | Rare Disease Business Manager, PI (Pa... | CA | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Virtual/Rare-Disease-Business-Manager--PI--Pasadena--CA-_R0177062) |
+| **Merck & Co.** | Assoc. Dir , Strategic Forecasting | 2 Locations | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Assoc-Dir---Strategic-Forecasting_R399036-1) |
+| **Merck & Co.** | Dir , Strategic Forecasting | New Jersey | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Dir---Strategic-Forecasting_R399035-1) |
+| **Johnson & Johnson** | Manager, Source Reg Compliance | Raynham, Massachu... | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raynham-Massachusetts-United-States-of-America/Manager--Source-Reg-Compliance_R-074952-1) |
+| **Johnson & Johnson** | Manager, Legal, HCC, GCA | Raynham, Massachu... | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raynham-Massachusetts-United-States-of-America/Manager--Legal--HCC--GCA_R-076289-1) |
+| **Johnson & Johnson** | Manager, Source Reg Compliance (NA) | 3 Locations | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Palm-Beach-Gardens-Florida-United-States-of-America/Manager--Source-Reg-Compliance--NA-_R-074942) |
+| **Guidehouse** | Biologist | MD, Rockville | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Rockville/Biologist_39730) |
+| **Guidehouse** | Biologist | MD, Baltimore | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Biologist_39023) |
+| **CVS Health** | Pharmacy Technician | Green Valley, AZ | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Green-Valley/Pharmacy-Technician_R0925788) |
+| **CVS Health** | Pharmacy Technician | Radford, VA | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Radford/Pharmacy-Technician_R0925801) |
+| **CVS Health** | Pharmacy Technician | Topeka, KS | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/KS---Topeka/Pharmacy-Technician_R0925860) |
+| **Pennsylvania State University** | Postdoctoral Scholar in Geophysics | State College, PA | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoc-Scholar-in-Geophysics-focused-on-Rock-Rheology-and-Machine-Learning_REQ_0000078024-1) |
+| **Pennsylvania State University** | Postdoctoral Scholar Sengupta Group | State College, PA | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar-Sengupta-Group_REQ_0000062624-1) |
+| **Pennsylvania State University** | Postdoctoral Scholar | State College, PA | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000076040-1) |
+| **University of Texas at Austin** | Postdoctoral Fellow | Austin, TX | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow---DD_R_00039400) |
+| **University of Texas at Austin** | Postdoctoral Fellow | Austin, TX | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00009657) |
+| **University of Texas at Austin** | Postdoctoral Fellow in Water Systems ... | Austin, TX | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems--ml-_R_00041178-1) |
+| **PennState University** | Postdoctoral Scholar | State College, PA | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1) |
+| **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
+| **Takeda** | Rare Disease Business Manager, PI (Pa... | CA | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Virtual/Rare-Disease-Business-Manager--PI--Pasadena--CA-_R0177062) |
 | **Merck & Co.** | Cardiovascular Disease Specialist – A... | Arkansas Little R... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Arkansas---Little-Rock/Cardiovascular-Disease-Specialist---Arkansas-Louisiana-District-Spare_R399554-2) |
 | **Medtronic** | Executive Administrative Assistant | Mounds View, Minn... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Executive-Administrative-Assistant_R66993) |
 | **Takeda** | Assistant Manager | GA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Snellville/Assistant-Manager_R0180775-1) |
@@ -401,7 +401,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2045 current opportunities from 77 companies**
+**🎯 2021 current opportunities from 77 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
