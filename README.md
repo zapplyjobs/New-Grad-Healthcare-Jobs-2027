@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1920-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1918-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-77-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -398,7 +398,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1920 current opportunities from 77 companies**
+**🎯 1918 current opportunities from 77 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
