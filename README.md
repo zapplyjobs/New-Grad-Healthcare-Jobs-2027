@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1969-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1967-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-78-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -321,7 +321,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Iterative Health** | Business Development Associate - Gast... | Cambridge, Massac... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4682192006) |
 | **Iterative Health** | Business Development Associate - Card... | Cambridge, Massac... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4682181006) |
 | **Eurofins** | Dossier Specialist | Spring House, PA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127673036) |
-| **Eurofins** | Data Entry Biologist | West Point, PA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127664549) |
+| **Eurofins** | Data Entry Biologist | West Point, PA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127664549) |
 | **IDEXX** | Field Support Representative Diagnost... | Rochester, NY | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Rochester-NY/Veterinary-Technician-Field-Support-Representative-Diagnostics--Rochester--NY_J-053216) |
 | **IDEXX** | Field Support Representative Diagnost... | Syracuse, NY + 1 ... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Syracuse-NY/Veterinary-Technician-Field-Support-Representative-Diagnostic-Imaging--Syracuse---Buffalo_J-053205-1) |
 | **IDEXX** | Field Support Representative Diagnost... | San Diego, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/San-Diego-CA/Veterinary-Technician-Field-Support-Representative-Diagnostics--San-Diego-South_J-053222) |
@@ -400,7 +400,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1969 current opportunities from 78 companies**
+**🎯 1967 current opportunities from 78 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
