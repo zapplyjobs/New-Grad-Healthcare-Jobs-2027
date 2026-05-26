@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1937-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1936-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-75-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -87,8 +87,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cigna** | Strategy & Analytics Advisor, C&CE - ... | United States Wor... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Strategy---Analytics-Advisor---Evernorth---Remote_26003149) |
 | **Boeing** | Nurse Practitioner | Everett, WA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Nurse-Practitioner_JR2026511710-1) |
 | **Walmart** | Pharmacy Grad Intern (Hrly) | Rice Lake, WI | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Rice-Lake-WI/Pharmacy-Grad-Intern--Hrly-----2026-SIGN-ON-BONUS---_R-2350129) |
-| **Walmart** | Pharmacy Grad Intern (Hrly) | (USA) TX PALMHURS... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-PALMHURST-03320-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2517871) |
-| **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) AR MENA 000... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AR-MENA-00067-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2516421) |
+| **Walmart** | Pharmacy Grad Intern (Hrly) | (USA) TX PALMHURS... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-PALMHURST-03320-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2517871) |
+| **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) AR MENA 000... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AR-MENA-00067-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2516421) |
 | **Cigna** | (RN) Nurse Case Manager - Evernorth H... | United States Wor... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/XMLNAME--RN--Nurse-Case-Manager---Evernorth-Health-Services--Remote_26004526) |
 | **Takeda** | Plasma Center Nurse- LPN | CO | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Loveland/Plasma-Center-Nurse--LPN_R0180782-1) |
 | **Takeda** | Plasma Center Nurse- RN | CO | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Loveland/Plasma-Center-Nurse--RN_R0180781-1) |
@@ -155,14 +155,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Emerson Electric** | Engineering Lab Technician | St. Louis, MO | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26002075) |
 | **Nokia** | Photonics Lab Technician | United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
 | **Eurofins** | In Vivo Associate Scientist | Boston, MA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128570214) |
-| **AbbVie** | Clinical Research Associate I - Arkan... | Little Rock, AR | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013299066) |
-| **Eurofins** | Laboratory Technician I - Organic Pre... | Tustin, CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128556759) |
+| **AbbVie** | Clinical Research Associate I - Arkan... | Little Rock, AR | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013299066) |
+| **Eurofins** | Laboratory Technician I - Organic Pre... | Tustin, CA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128556759) |
 | **Eurofins** | Laboratory Technician | East Windsor, NJ | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128532875) |
 | **AbbVie** | Associate Scientist II ADC/AOC Conjug... | Worcester, MA | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013296116) |
 | **AbbVie** | Scientist l - Peptide Synthesis | Madison, WI | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013295326) |
-| **Vertex Pharmaceuticals** | Analytical Development Research Scien... | Boston, MA | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Analytical-Development-Research-Scientist--Cell-and-Gene-Therapy-Proteomics_REQ-28770) |
-| **Vertex Pharmaceuticals** | Medical Science Liaison Pain | Field Based | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Illinois---Field-Based/Senior-Medical-Science-Liaison-Pain_REQ-28039) |
-| **Vertex Pharmaceuticals** | Modeling & Simulations Scientist II -... | Boston, MA | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Modeling---Simulations-Scientist-II---PKPD-Programming_REQ-28838) |
+| **Vertex Pharmaceuticals** | Analytical Development Research Scien... | Boston, MA | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Analytical-Development-Research-Scientist--Cell-and-Gene-Therapy-Proteomics_REQ-28770) |
+| **Vertex Pharmaceuticals** | Medical Science Liaison Pain | Field Based | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Illinois---Field-Based/Senior-Medical-Science-Liaison-Pain_REQ-28039) |
+| **Vertex Pharmaceuticals** | Modeling & Simulations Scientist II -... | Boston, MA | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Modeling---Simulations-Scientist-II---PKPD-Programming_REQ-28838) |
 | **Blue Origin** | Characterization Lab Technician | Huntsville, AL | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Characterization-Lab-Technician_R63772-1) |
 | **Thermo Fisher Scientific** | Scientist I - Cell Lab - Sun-Thu 1st ... | Middleton, Wiscon... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Scientist-I---Cell-Lab---Sun-Thu-1st-Shift_R-01353508) |
 | **Amazon.com Services LLC** | Applied Scientist II, Sponsored Produ... | Palo Alto, CA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10428848/applied-scientist-ii-sponsored-products-autonomous-campaigns) |
@@ -295,7 +295,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Pennsylvania State University** | Postdoctoral Scholar - Postdoctoral S... | State College, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1) |
 | **PennState University** | Postdoctoral Scholar | State College, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1) |
 | **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
-| **EVERSANA** | Quality Lab Analyst - No 3rd party ca... | Central, New Jersey | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000128567359) |
+| **EVERSANA** | Quality Lab Analyst - No 3rd party ca... | Central, New Jersey | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000128567359) |
 | **AbbVie** | Associate Operator, Production API - ... | Wyandotte, MI | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013300086) |
 | **Eurofins** | Process Sciences Lab Support Technici... | Rensselaer, NY | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128552819) |
 | **Medtronic** | Executive Administrative Assistant | Mounds View, Minn... | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Executive-Administrative-Assistant_R66993) |
@@ -403,7 +403,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1937 current opportunities from 75 companies**
+**🎯 1936 current opportunities from 75 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
