@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1987-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1986-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-78-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -106,7 +106,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Atlantic Health System** | Filled- Registered Nurse- Per-Diem, D... | Sparta, NJ, Unite... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/28255) |
 | **LLNL** | Nurse Practitioner / Physician Assistant | Livermore, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013265726) |
 | **Johnson & Johnson** | Preclinical Research Intern - (Irvine... | Irvine, Californi... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Preclinical-Research-Intern----Irvine--CA--Johnson-and-Johnson-MedTech--Electrophysiology_R-077329) |
-| **IDEXX** | Laboratory Technician - Overnight | Glen Burnie, MD | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Glen-Burnie-MD/Laboratory-Technician---Overnight_J-053152) |
+| **IDEXX** | Laboratory Technician - Overnight | Glen Burnie, MD | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Glen-Burnie-MD/Laboratory-Technician---Overnight_J-053152) |
 | **NVIDIA** | Quantum Error Correction Research Sci... | US, CA, Remote | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) |
 | **Cardinal Health** | PRN Hospital Pharmacist | Wausau, WI | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/WI--Wausau-Pam-Rehab-Hosp-of-Wausau/PRN-Hospital-Pharmacist_20181003-1) |
 | **Cardinal Health** | PRN Infusion Nurse | Lake City, FL | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/FL-Lake-City-CCNF---MO/PRN-Infusion-Nurse_20180469-1) |
@@ -174,7 +174,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Gilead Sciences** | Clinical Trials Manager | Remote | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States--Remote/Clinical-Trials-Manager_R0052522-2) |
 | **IDEXX** | Laboratory Technician – Verification ... | Westbrook, ME | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Laboratory-Technician---Verification---Validation_J-052586) |
 | **Johnson & Johnson** | Medical Science Liaison - Hematology/... | Portland, Oregon,... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Portland-Oregon-United-States/Medical-Science-Liaison---Hematology-Oncology--Oregon-Idaho-_R-076776-1) |
-| **IDEXX** | PCR Laboratory Technician – 1st Shift | West Sacramento, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/PCR-Laboratory-Technician---1st-Shift_J-053172) |
+| **IDEXX** | PCR Laboratory Technician – 1st Shift | West Sacramento, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/West-Sacramento-CA/PCR-Laboratory-Technician---1st-Shift_J-053172) |
 | **Marvell** | Mid-Level Electronics Lab Technician | Irvine, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/US-CA---Irvine/Mid-Level-Electronics-Lab-Technician_2601779-1) |
 | **GE Healthcare** | Microbiologist 1 | Arlington Heights | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Arlington-Heights/Microbiologist-1_R4041316) |
 | **Entegris** | Quality Lab Technician III - Back Hal... | Hillsboro, OR | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Hillsboro-OR/Quality-Lab-Technician-III---Back-Half-Day-Shift_REQ-12081) |
@@ -188,7 +188,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Associate Scientist, Data II | North Chicago, IL | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013237577) |
 | **AbbVie** | Scientist I - Early Analytical Develo... | North Chicago, IL | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013236766) |
 | **Carnegie Mellon University** | Postdoctoral Research Associate - Col... | Pittsburgh, PA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Postdoctoral-Research-Associate---College-of-Engineering---Materials-Science-and-Engineering_2024591) |
-| **IDEXX** | Medical Laboratory Technician | Red Bank, NJ | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Red-Bank-NJ/Medical-Laboratory-Technician_J-052375) |
+| **IDEXX** | Medical Laboratory Technician | Red Bank, NJ | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Red-Bank-NJ/Medical-Laboratory-Technician_J-052375) |
 | **KBR** | Data Scientist II | Arlington, Virginia | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Data-Scientist-II_R2122523) |
 | **Amazon.com Services LLC - A57** | Applied Scientist II - AMZ9970940 | New York, NY | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10425611/applied-scientist-ii-amz9970940) |
 | **Amazon Advertising LLC - B11** | Applied Scientist II - AMZ9935275 | New York, NY | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10425551/applied-scientist-ii-amz9935275) |
@@ -322,9 +322,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Iterative Health** | Business Development Associate - Card... | Cambridge, Massac... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4682181006) |
 | **Eurofins** | Dossier Specialist | Spring House, PA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127673036) |
 | **Eurofins** | Data Entry Biologist | West Point, PA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127664549) |
-| **IDEXX** | Field Support Representative Diagnost... | Rochester, NY | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Rochester-NY/Veterinary-Technician-Field-Support-Representative-Diagnostics--Rochester--NY_J-053216) |
-| **IDEXX** | Field Support Representative Diagnost... | Syracuse, NY + 1 ... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Syracuse-NY/Veterinary-Technician-Field-Support-Representative-Diagnostic-Imaging--Syracuse---Buffalo_J-053205-1) |
-| **IDEXX** | Field Support Representative Diagnost... | San Diego, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/San-Diego-CA/Veterinary-Technician-Field-Support-Representative-Diagnostics--San-Diego-South_J-053222) |
+| **IDEXX** | Field Support Representative Diagnost... | Rochester, NY | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Rochester-NY/Veterinary-Technician-Field-Support-Representative-Diagnostics--Rochester--NY_J-053216) |
+| **IDEXX** | Field Support Representative Diagnost... | Syracuse, NY + 1 ... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Syracuse-NY/Veterinary-Technician-Field-Support-Representative-Diagnostic-Imaging--Syracuse---Buffalo_J-053205-1) |
+| **IDEXX** | Field Support Representative Diagnost... | San Diego, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/San-Diego-CA/Veterinary-Technician-Field-Support-Representative-Diagnostics--San-Diego-South_J-053222) |
 | **Globus Medical** | Associate Neurophysiologist (Detroit,... | Michigan | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Michigan/Associate-Neurophysiologist--Detroit--MI-_JR106847) |
 | **Globus Medical** | Neurophysiologist (Philadelphia, PA) | Pennsylvania | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Pennsylvania/Neurophysiologist--Philadelphia--PA-_JR105945) |
 | **KBR** | Donor Specialist (Northwest Colorado) | Denver Colorado +... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Denver-Colorado/Donor-Specialist--Denver-Colorado-Springs-_R2120809) |
@@ -400,7 +400,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1987 current opportunities from 78 companies**
+**🎯 1986 current opportunities from 78 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
