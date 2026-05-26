@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1956-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1946-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-78-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -233,7 +233,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Atlantic Health System** | Registered Respiratory Therapist –Pre... | Morristown, NJ, U... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29426) |
 | **CVS Health** | Behavioral Health Specialist Fellow (... | Providence, RI | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Providence/Behavioral-Health-Specialist-Fellow--MSW---LSW---Bilingual-Spanish-Required-_R0923389-1) |
 | **CVS Health** | MinuteClinic Mental Health Therapist | Work from home, PA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Mental-Health-Therapist_R0897443) |
-| **Johnson & Johnson** | Clinical Specialist- Monarch- Central | Dayton, Ohio, Uni... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dayton-Ohio-United-States/Clinical-Specialist--Monarch--West_R-075594-1) |
+| **Johnson & Johnson** | Clinical Specialist- Monarch- Central | Dayton, Ohio, Uni... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Dayton-Ohio-United-States/Clinical-Specialist--Monarch--West_R-075594-1) |
 | **Leidos** | Military Family Life Counselor - (Adult) | Monterey, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Monterey-CA/Military-Family-Life-Counselor----Adult-_R-00183791) |
 | **Guidehouse** | Patient Account Representative - Medi... | AL, Birmingham | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Birmingham/Patient-Account-Representative---Medical-Billing-and-Claims_39717) |
 | **Guidehouse** | Patient Access Representative – Part ... | CA, Ojai | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CA-Ojai/Patient-Access-Representative---Part-Time--Day-Shift_38988) |
@@ -400,7 +400,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1956 current opportunities from 78 companies**
+**🎯 1946 current opportunities from 78 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
