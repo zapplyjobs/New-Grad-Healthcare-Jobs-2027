@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1904-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-77-blue?style=flat&logo=building)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1895-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-76-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -341,7 +341,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oscar Health** | Total Quality Management Specialist (... | Florida, United S... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7944219?gh_jid=7944219) |
 | **Oscar Health** | Total Quality Management Specialist (... | Georgia, United S... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7944225?gh_jid=7944225) |
 | **Johnson Controls** | Client Services Coordinator | Ohio | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/West-Chester-Ohio-United-States-of-America/Client-Services-Coordinator_WD30269762) |
-| **Experian** | Hospital Contract Definition Analyst,... | United States, UN... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000127257599) |
 | **Biogen** | Co-op, Cell Culture Development | Research Triangle... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Co-op--Cell-Culture-Development_REQ22462) |
 
 <p align="center">Apply for more jobs at</p>
@@ -398,7 +397,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1904 current opportunities from 77 companies**
+**🎯 1895 current opportunities from 76 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
