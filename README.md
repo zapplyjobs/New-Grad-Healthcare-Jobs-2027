@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1966-brightgreen?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1961-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-78-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -112,8 +112,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cardinal Health** | PRN Infusion Nurse | Lake City, FL | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/FL-Lake-City-CCNF---MO/PRN-Infusion-Nurse_20180469-1) |
 | **Included Health** | Virtual Primary Care Nurse Practitioner | North Carolina | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/cb38694a-968b-4079-9044-c2f687cd2abe/apply) |
 | **Included Health** | Virtual Primary Care Nurse Practitioner | Texas | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/111fc5f8-9d49-46df-bbc8-a642eaae7dfc/apply) |
-| **AbbVie** | Allergan Practice Consultant (APC), N... | Falls Church, VA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013226166) |
-| **AbbVie** | Allergan Practice Consultant (APC), N... | Reston, VA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013225788) |
+| **AbbVie** | Allergan Practice Consultant (APC), N... | Falls Church, VA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013226166) |
+| **AbbVie** | Allergan Practice Consultant (APC), N... | Reston, VA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013225788) |
 | **Guidehouse** | Clinical Denials and Appeals RN | Remote | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Clinical-Denials-and-Appeals-RN_38582) |
 | **Philips** | Sales Support, Clinical Specialist - ... | 2 Locations | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Morristown-New-Jersey-United-States/Sales-Support--Clinical-Specialist---Peripheral-Image-Guided-Therapy-Devices--Northern-New-Jersey-_583411) |
 | **RVO Health** | Nurse Practitioner - Weight & Wellness | US | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rvohealth/jobs/4696685005) |
@@ -400,7 +400,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1966 current opportunities from 78 companies**
+**🎯 1961 current opportunities from 78 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
