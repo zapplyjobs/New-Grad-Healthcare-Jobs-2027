@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1867-brightgreen?style=flat&logo=briefcase)
-![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-921-informational?style=flat&logo=briefcase)
+![Healthcare Jobs](https://img.shields.io/badge/Healthcare_Jobs-1865-brightgreen?style=flat&logo=briefcase)
+![Top: General Healthcare & Clinical](https://img.shields.io/badge/General_Healthcare_&_Clinical-920-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-83-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -73,7 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Meta** | Research Scientist Intern, Advanced M... | Redmond, WA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/profile/job_details/25514049594874160) |
 | **Meta** | Research Scientist Intern, Organic Op... | Redmond, WA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/profile/job_details/843617948284299) |
 | **TripleRing** | Data Scientist Intern | Boston, MA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tripleringtech.com/careers?gh_jid=4680998005) |
-| **Cigna** | Business Analytics Advisor, C&CE Work... | United States Wor... | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Advisor--C-CE-Workforce-Management---Evernorth---Remote_26006371) |
+| **Cigna** | Business Analytics Advisor, C&CE Work... | United States Wor... | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Advisor--C-CE-Workforce-Management---Evernorth---Remote_26006371) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Leesville, SC | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Leesville-SC/Patient-Care-Technician---PCT_R0256934) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Lexington, SC | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lexington-SC/Outpatient-Registered-Nurse---RN_R0256722) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Leesville, SC | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Leesville-SC/Outpatient-Registered-Nurse---RN_R0256720) |
@@ -192,9 +192,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Exact Sciences** | Clinical Lab Scientist I - NGS | Madison, WI | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Clinical-Lab-Scientist-I---NGS_R26-13492) |
 | **Amazon.com Services LLC** | Applied Scientist II, Sponsored Products | New York, NY | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10446555/applied-scientist-ii-sponsored-products) |
 | **Convergent Research** | Postdoctoral Research Scientist, Ocea... | Boulder, CO | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/07147ace-4d67-47de-9a0a-c7add68bbb68/apply) |
-| **Convergent Research** | Postdoctoral Research Scientist, OAE ... | Boulder, CO | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/e62d0373-df49-42f2-ad4d-73d99329d781/apply) |
-| **Sanofi** | Scientist | Cambridge, MA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Senior-Scientist_R2857839-1) |
+| **Convergent Research** | Postdoctoral Research Scientist, OAE ... | Boulder, CO | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/e62d0373-df49-42f2-ad4d-73d99329d781/apply) |
 | **Sanofi** | Clinical Data Scientist/ Methodologist | Bridgewater, NJ +... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bridgewater-NJ/Clinical-Data-Scientist--Methodologist_R2856067) |
+| **Sanofi** | Scientist | Cambridge, MA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Senior-Scientist_R2857839-1) |
 | **LabCorp** | Clinical Lab Technician - Invitae - E... | San Francisco CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Clinical-Lab-Technician---Invitae---Entry-level_2620302) |
 | **Johnson & Johnson** | Compound Logistics Scientist | San Diego, Califo... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/San-Diego-California-United-States-of-America/Compound-Logistics-Scientist_R-081917-1) |
 | **Johnson & Johnson** | Postdoctoral Scholar, ADC Discovery C... | Spring House, Pen... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Postdoctoral-Scholar--ADC-Discovery-Chemistry_R-074290) |
@@ -207,7 +207,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Atlantic Health System** | Medical Laboratory Scientist, Full Ti... | Morristown, NJ, U... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/27583) |
 | **Fortive** | Scientist II | Irvine, CA, Unite... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9925) |
 | **Sanofi** | Rheumatology MSL -Northeast | New York City, NY... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/New-York-City-NY/Rheumatology-MSL--Northeast_R2857473-1) |
-| **Becton Dickinson** | Clinical Project Manager (CPM) | Milpitas, CA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Milpitas-135/Clinical-Project-Manager--CPM-_R-546068-1) |
 | **LabCorp** | Lab Assistant - Oncology | Phoenix AZ | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Phoenix-AZ/Lab-Assistant---Oncology_2617839) |
 | **Johnson & Johnson** | Scientist I | Cornelia, Georgia... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cornelia-Georgia-United-States-of-America/Scientist-I_R-080689) |
 | **Merck & Co.** | Scientist, Vaccine Research | Pennsylvania | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---Lower-Gwynedd-Township-Spring-House/Scientist--Vaccine-Research_R401913-1) |
@@ -301,9 +300,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **University of Texas at Austin** | Postdoctoral Scholar | Austin, TX | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034) |
-| **LabCorp** | Phlebotomist | Baltimore MD | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Phlebotomist_2619818) |
-| **LabCorp** | Phlebotomy Supervisor | Chesapeake VA | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Chesapeake-VA/Phlebotomy-Supervisor_2619492) |
-| **Cigna** | Pharmacy Technician - Accredo | DE, Newark | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/DE-Newark-2051-Old-Coochs-Bridge-Rd/Pharmacy-Technician---Accredo_26007335) |
+| **LabCorp** | Phlebotomist | Baltimore MD | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Phlebotomist_2619818) |
+| **LabCorp** | Phlebotomy Supervisor | Chesapeake VA | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Chesapeake-VA/Phlebotomy-Supervisor_2619492) |
+| **Cigna** | Pharmacy Technician - Accredo | DE, Newark | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/DE-Newark-2051-Old-Coochs-Bridge-Rd/Pharmacy-Technician---Accredo_26007335) |
 | **Takeda** | Center Manager in Training - Relocati... | AZ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---AZ---Virtual/Center-Manager-in-Training---Relocation-Required_R0182154-1) |
 | **Takeda** | Center Manager in Training - Relocati... | MT | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MT---Virtual/Center-Manager-in-Training---Relocation-Required_R0182160-1) |
 | **Takeda** | Center Manager Readiness Program - Re... | TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Virtual/Center-Manager-Readiness-Program---Relocation-Required_R0182122-1) |
@@ -455,7 +454,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1867 current opportunities from 83 companies**
+**🎯 1865 current opportunities from 83 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
