@@ -41,5 +41,8 @@ module.exports = {
   },
 
   // Job categorization — fallback for jobs not matching any keyword in job_categories.json
-  defaultCategory: 'general_healthcare'
+  defaultCategory: 'general_healthcare',
+
+  // Job filter — single source of truth (used by index.js and update-readme-only.js)
+  filters: { domains: ['healthcare'], locations: ['us'] }
 };
