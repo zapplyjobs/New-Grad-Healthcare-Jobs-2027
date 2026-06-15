@@ -69,11 +69,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Phlebotomist Float PRN | Colorado Springs CO | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Colorado-Springs-CO/Phlebotomist-Float-PRN_2619734) |
-| **Meta** | Research Scientist Intern - Applied P... | Redmond, WA | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/25766888559672059) |
-| **Meta** | Research Scientist Intern PhD - Appli... | Menlo Park, CA | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/2633206137040139) |
-| **Meta** | Research Scientist Intern - AI/ML - C... | United States | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/771948392580541) |
-| **TripleRing** | Data Scientist Intern | Boston, MA | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tripleringtech.com/careers?gh_jid=4680998005) |
+| **LabCorp** | Phlebotomist Float PRN | Colorado Springs CO | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Colorado-Springs-CO/Phlebotomist-Float-PRN_2619734) |
+| **Meta** | Research Scientist Intern - Applied P... | Redmond, WA | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/25766888559672059) |
+| **Meta** | Research Scientist Intern PhD - Appli... | Menlo Park, CA | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/2633206137040139) |
+| **Meta** | Research Scientist Intern - AI/ML - C... | United States | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/771948392580541) |
+| **TripleRing** | Data Scientist Intern | Boston, MA | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tripleringtech.com/careers?gh_jid=4680998005) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Southern-California---San-Diego-and-Anaheim-_REQ-29092) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Central-California---Los-Angeles---San-Bernardino-_REQ-29091) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Northern-California---San-Francisco--San-Jose--Sacramento-_REQ-29090) |
@@ -148,9 +148,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Thermo Fisher Scientific** | FSP Associate Scientist- Purification... | Wilmington, Delaw... | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-Delaware-USA/FSP-Associate-Scientist--Purification-Process-Sciences_R-01357018) |
-| **Thermo Fisher Scientific** | FSP Associate Scientist- Cell Culture | Wilmington, Delaw... | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-Delaware-USA/FSP-Associate-Scientist--Cell-Culture_R-01357017) |
-| **LabCorp** | Clinical Laboratory Technician - Chem... | Tampa FL | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Tampa-FL/Clinical-Laboratory-Technician---Chemistry_2616355) |
+| **Thermo Fisher Scientific** | FSP Associate Scientist- Purification... | Wilmington, Delaw... | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-Delaware-USA/FSP-Associate-Scientist--Purification-Process-Sciences_R-01357018) |
+| **Thermo Fisher Scientific** | FSP Associate Scientist- Cell Culture | Wilmington, Delaw... | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-Delaware-USA/FSP-Associate-Scientist--Cell-Culture_R-01357017) |
+| **LabCorp** | Clinical Laboratory Technician - Chem... | Tampa FL | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Tampa-FL/Clinical-Laboratory-Technician---Chemistry_2616355) |
 | **Vertex Pharmaceuticals** | Modeling & Simulations Scientist II -... | Boston, MA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Modeling---Simulations-Scientist-II---PKPD-Programming_REQ-28838) |
 | **Vertex Pharmaceuticals** | Comparative Medicine Research Associate | Boston, MA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Comparative-Medicine-Research-Associate_REQ-29154) |
 | **Amazon.com Services LLC** | Applied Scientist II, Perception | N.reading, MA | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10448481/applied-scientist-ii-perception) |
@@ -289,10 +289,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Sanofi** | Business System Owner | Swiftwater, PA | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Business-System-Owner_R2857944) |
-| **LabCorp** | Medical Technologist - Microbiology | Dallas TX | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Dallas-TX/Medical-Technologist---Microbiology_2620740) |
-| **LabCorp** | Phlebotomist | Baltimore MD | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Phlebotomist_2619818) |
-| **University of Texas at Austin** | Postdoctoral Scholar | Austin, TX | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034) |
+| **Sanofi** | Business System Owner | Swiftwater, PA | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Business-System-Owner_R2857944) |
+| **LabCorp** | Medical Technologist - Microbiology | Dallas TX | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Dallas-TX/Medical-Technologist---Microbiology_2620740) |
+| **LabCorp** | Phlebotomist | Baltimore MD | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Phlebotomist_2619818) |
+| **University of Texas at Austin** | Postdoctoral Scholar | Austin, TX | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034) |
 | **Vertex Pharmaceuticals** | Medical Writing Manager (Hybrid) | Boston, MA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Medical-Writing-Manager--Hybrid-_REQ-27296) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--New-England---ME--VT--NH--MA--RI--CT-_REQ-29112) |
 | **Vertex Pharmaceuticals** | Field Reimbursement Manager - Kidney ... | United States Fie... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Field-Reimbursement-Manager---Kidney--Tri-State---NY--PA--NJ-_REQ-29110) |
