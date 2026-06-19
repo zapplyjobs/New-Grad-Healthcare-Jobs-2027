@@ -5,9 +5,9 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="images/hcj-heading.png" alt="Healthcare Jobs 2026 - Illustration of healthcare professionals.">
+<img src="images/hcj-heading.png" alt="Healthcare Jobs 2027 - Illustration of healthcare professionals.">
 
-# Healthcare Jobs 2026
+# Healthcare Jobs 2027
 
 
 

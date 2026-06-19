@@ -1,5 +1,5 @@
 /**
- * New-Grad-Healthcare-Jobs-2026 Configuration
+ * New-Grad-Healthcare-Jobs-2027 Configuration
  *
  * Purpose: Per-repo customization for shared job board library
  * Version: 1.1 (2026-03-12 — HEALTHCARE-CONFIG-FIX: nursing→healthcare branding)
@@ -15,10 +15,10 @@ module.exports = {
 
   // Image configuration (repoPrefix drives image filenames)
   repoPrefix: 'hcj',
-  headingImageAlt: 'Healthcare Jobs 2026 - Illustration of healthcare professionals.',
+  headingImageAlt: 'Healthcare Jobs 2027 - Illustration of healthcare professionals.',
 
   // Branding text
-  title: 'Healthcare Jobs 2026',
+  title: 'Healthcare Jobs 2027',
   tagline: '',  // No tagline for SEO repos
   jobCountBadgeLabel: 'Healthcare Jobs',
 
@@ -31,7 +31,7 @@ module.exports = {
   noteText: '🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).',
 
   // Section headers
-  jobsSectionHeader: 'Fresh Healthcare Jobs 2026',
+  jobsSectionHeader: 'Fresh Healthcare Jobs 2027',
 
   // Feature flags
   features: {
