@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Patient Care Technician I, BHU, AVH, Full Time | Natrona Heights PA, 15065, 1301... | 30m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286934?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Registered Nurse | TN - Memphis | 30m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1039294?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I, BHU, AVH, Full Time | Natrona Heights PA, 15065, 1301... | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286934?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Registered Nurse | TN - Memphis | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1039294?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Dededo GU | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0263454?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Petersburg, WV; Williamson, WV | United States - West Virginia -... | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31131392?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Ukiah, CA; Bishop, CA; San... | United States - California -... | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31128002?s=gh-new-grad-healthcare-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | Behavioral Health Specialist Requires LCSW  LPC or LMFT | East Mesa | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0992514?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Behavioral Health Counselor | San Antonio, TX, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603016289?s=gh-new-grad-healthcare-jobs-2027) |
 | **EVERSANA** | Medical Information Specialist | Overland Park, KS | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-EVERSANA1-744000149426159?s=gh-new-grad-healthcare-jobs-2027) |
-| **Hinge Health** | Pelvic Health Physical Therapist, Flex | Remote US | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-hinge-health-8a02346b-132a-44e1-809c-7af6afd674b7?s=gh-new-grad-healthcare-jobs-2027) |
+| **Hinge Health** | Pelvic Health Physical Therapist, Flex | Remote US | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-hinge-health-8a02346b-132a-44e1-809c-7af6afd674b7?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Clinical Specialist, Pelvic Health - Houston, TX | Houston, Texas, United States... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77556?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Clinical Specialist, Pain Interventions -  Long Island, NY | Long Island, New York, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R71415?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Mental Health Technician - BHU - Full Time - Forbes Hospital | Monroeville PA, 15146, 2570... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287316?s=gh-new-grad-healthcare-jobs-2027) |
@@ -351,9 +351,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | CA - Los Angeles | 30m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1039647?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Medical Scribe - $1,000 sign-on bonus | TN - Knoxville | 30m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1043589?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Referral Medical Assistant | TN - Memphis | 30m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1039312?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | CA - Los Angeles | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1039647?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Medical Scribe - $1,000 sign-on bonus | TN - Knoxville | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1043589?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Referral Medical Assistant | TN - Memphis | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1039312?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Pathology Report Coordinator I | Phoenix AZ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2618608?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | IOP Phlebotomist | Midfield AL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627204?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | IOP Phlebotomist | Jackson MS | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627723?s=gh-new-grad-healthcare-jobs-2027) |
