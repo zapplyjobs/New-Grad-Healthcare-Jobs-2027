@@ -16,8 +16,8 @@
 <p align="center">🚀 Healthcare and nursing jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Healthcare%20Jobs-9244-3FB950?style=flat&logo=briefcase" height="30" alt="Healthcare Jobs">
-  <img src="https://img.shields.io/badge/Nursing-4675-2F81F7?style=flat&logo=briefcase" height="30" alt="Nursing">
+  <img src="https://img.shields.io/badge/Healthcare%20Jobs-9172-3FB950?style=flat&logo=briefcase" height="30" alt="Healthcare Jobs">
+  <img src="https://img.shields.io/badge/Nursing-4677-2F81F7?style=flat&logo=briefcase" height="30" alt="Nursing">
   <img src="https://img.shields.io/badge/Companies-131-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | MA - Oxford | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050593?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Licensed Vocational Nurse (LVN) | TX - McKinney | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0998646?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Case Manager RN - Compact License | NJ - Work from home | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1031268?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | MA - Oxford | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050593?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Licensed Vocational Nurse (LVN) | TX - McKinney | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0998646?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Case Manager RN - Compact License | NJ - Work from home | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1031268?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Ypsilanti, MI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269559?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Ypsilanti, MI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269558?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Ypsilanti, MI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269557?s=gh-new-grad-healthcare-jobs-2027) |
@@ -146,11 +146,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cardinal Health** | Specialty Registered Nurse Navigator | Fresno-cCARE Clinic, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20187210?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Clinical Specialist, Cranial & Spinal Technologies - Los Angeles / San Fernando Valley, CA | Los Angeles, California, United... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R76088?s=gh-new-grad-healthcare-jobs-2027) |
 | **General Motors** | Occupational Health Registered Nurse | Wyoming, Michigan, United... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202618867?s=gh-new-grad-healthcare-jobs-2027) |
+| **Expedia Group** | Machine Learning Scientist II - Agentic Experiences | Washington Seattle | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-expedia-private-R-109446?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Day Shift Registered Nurse - Occupational Health | Lincoln, NE | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000148616439?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Occupational Health Registered Nurse | Lincoln, NE | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000148615409?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Texas at Austin** | Pre/Post Op PACU Registered Nurse (RN) | AUSTIN, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00048691?s=gh-new-grad-healthcare-jobs-2027) |
 | **Bristol Myers Squibb** | Medical Science Liaison, Neurodegeneration (Southern California) | San Diego - CA - US | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1606039?s=gh-new-grad-healthcare-jobs-2027) |
-| **Expedia Group** | Machine Learning Scientist II - Agentic Experiences | Washington Seattle | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-expedia-private-R-109446?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Texas at Austin** | PRN Pre/Post Registered Nurse (RN), Ambulatory Surgery Center | AUSTIN, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00048628?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Medical Science Liaison, Inflammation, Western/Central Texas, Oklahoma, New Mexico | Texas Austin | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255035?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Medical Science Liaison, Inflammation, Southern California and Western/Central Arizona | California Los Angeles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-254425?s=gh-new-grad-healthcare-jobs-2027) |
@@ -360,13 +360,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician - Back End | CA - Lodi | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0940711?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician Data Entry 2nd Shift - Onsite | CA - Canoga Park | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0979957?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician Front End Full Time, Omnicare | Edison | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0982780?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician - Back End | CA - Lodi | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0940711?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician Data Entry 2nd Shift - Onsite | CA - Canoga Park | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0979957?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician Front End Full Time, Omnicare | Edison | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0982780?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Kidney Care Specialist | Newark, DE, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0249505?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Radiology Technician | Mishawaka, IN, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269538?s=gh-new-grad-healthcare-jobs-2027) |
 | **Becton Dickinson** | Clinical Database Programmer | USA MD - Sparks | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-555435?s=gh-new-grad-healthcare-jobs-2027) |
-| **Wellmark, Inc.** | Health Economics & Outcomes Research (HEOR) Analyst | Des Moines, IA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-WellmarkInc-744000150526529?s=gh-new-grad-healthcare-jobs-2027) |
+| **Wellmark, Inc.** | Health Economics & Outcomes Research (HEOR) Analyst | Des Moines, IA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-WellmarkInc-744000150526529?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Surgery Aide | San Antonio, TX, United States | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603018986?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Certified Pharmacy Technician | Seabrook, TX, United States | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-231714?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Gardnerville, NV, United States | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-231718?s=gh-new-grad-healthcare-jobs-2027) |
@@ -536,7 +536,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 9244 current opportunities from 131 companies**
+**🎯 9172 current opportunities from 131 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
