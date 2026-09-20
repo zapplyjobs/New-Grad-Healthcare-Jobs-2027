@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | TX - Fort Worth | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050160?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | TX - Whitehouse | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050091?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | TX - Hutto | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050013?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | TX - Fort Worth | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050160?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | TX - Whitehouse | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050091?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | TX - Hutto | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050013?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | DE016 FMCNA Wilmington - Clinic | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269524?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN - Dialysis | Bryn Mawr, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270308?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician -  PCT | Waianae, HI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269900?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Thermo Fisher Scientific** | FSP - Scientist: Immunology | San Diego, California, USA | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01367019?s=gh-new-grad-healthcare-jobs-2027) |
+| **Thermo Fisher Scientific** | FSP - Scientist: Immunology | San Diego, California, USA | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01367019?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Associate Scientist - Biology | California - Thousand Oaks | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255768?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Scientist, Pathology | California - South San Francisco | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255835?s=gh-new-grad-healthcare-jobs-2027) |
 | **Entegris** | Scientist II, Chemistry | Austin, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-12000?s=gh-new-grad-healthcare-jobs-2027) |
@@ -360,12 +360,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Elevance Health** | Patient Enrollment Specialist I (100% Virtual) | TN-NASHVILLE | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR203233?s=gh-new-grad-healthcare-jobs-2027) |
-| **Thermo Fisher Scientific** | Start-up Team Manager - FSP | North Carolina | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01355467?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In-Home Health - Physician (Part Time) - Rockland, NY | Work At Home-New York | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1046536?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In-Home Health - Clinician (Per Diem)- Portland ME | ME - Portland | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1049376?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Dallas TX | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2622718?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Medical Technologist - Immunology | Phoenix AZ | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2626355?s=gh-new-grad-healthcare-jobs-2027) |
+| **Elevance Health** | Patient Enrollment Specialist I (100% Virtual) | TN-NASHVILLE | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR203233?s=gh-new-grad-healthcare-jobs-2027) |
+| **Thermo Fisher Scientific** | Start-up Team Manager - FSP | North Carolina | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01355467?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In-Home Health - Physician (Part Time) - Rockland, NY | Work At Home-New York | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1046536?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In-Home Health - Clinician (Per Diem)- Portland ME | ME - Portland | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1049376?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Dallas TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2622718?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Medical Technologist - Immunology | Phoenix AZ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2626355?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Master Social Worker - MSW | Skokie, IL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268328?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wellmark, Inc.** | Health Economics & Outcomes Research (HEOR) Analyst | Des Moines, IA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-WellmarkInc-744000150526529?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician Front End - Full Time | NJ - Edison | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1012599?s=gh-new-grad-healthcare-jobs-2027) |
