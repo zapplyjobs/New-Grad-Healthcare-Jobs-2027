@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Patient Care Technician III - ED - AGH - Full Time | Pittsburgh PA, 15212 | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J285333?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | RN 6C Telemetry (Nights), Allegheny General | Pittsburgh PA, 15212 | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287404?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Patient Care Technician III - ED - AGH - Full Time | Pittsburgh PA, 15212 | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J285333?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | RN 6C Telemetry (Nights), Allegheny General | Pittsburgh PA, 15212 | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287404?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | IN - Indianapolis | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052732?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Case Manager Registered Nurse - Two Rivers Region KY | KY Owensboro | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1046507?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Registered Nurse | SC - Rock Hill | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1048940?s=gh-new-grad-healthcare-jobs-2027) |
@@ -362,13 +362,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Elevance Health** | Medical Mgmt Specialist I - North Carolina | 2 Locations | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR207664?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist - FLOAT | Albany NY | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2622716?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist - IOP | Milford CT | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2615047?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Kingston NY | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2624647?s=gh-new-grad-healthcare-jobs-2027) |
+| **Elevance Health** | Medical Mgmt Specialist I - North Carolina | 2 Locations | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR207664?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist - FLOAT | Albany NY | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2622716?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist - IOP | Milford CT | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2615047?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Kingston NY | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2624647?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Cleaning Validation & Commissioning Specialist | North Chicago, IL | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015592974?s=gh-new-grad-healthcare-jobs-2027) |
 | **Oscar Health** | Physician - Virtual Health Assessment (Part-Time) | Remote (Georgia) | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-oscar-8225613?s=gh-new-grad-healthcare-jobs-2027) |
-| **Oscar Health** | Advanced Practice Provider - Virtual Health Assessment (Part Time) | Remote (Georgia) | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-oscar-8225598?s=gh-new-grad-healthcare-jobs-2027) |
+| **Oscar Health** | Advanced Practice Provider - Virtual Health Assessment (Part Time) | Remote (Georgia) | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-oscar-8225598?s=gh-new-grad-healthcare-jobs-2027) |
 | **JLL** | Lab Services Assistant | San Diego, CA | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ536372?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician | GA - Suwanee | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1051579?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician | MD - Odenton | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1051961?s=gh-new-grad-healthcare-jobs-2027) |
@@ -387,7 +387,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BillionToOne** | Automation Service Engineering Associate I/II, Oncology | Menlo Park, CA | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-billiontoone-4736701005?s=gh-new-grad-healthcare-jobs-2027) |
 | **Hims & Hers** | Registered Pharmacy Technician (Nights) | New Albany, Ohio | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-hims-and-hers-b2b8d1f0-c0e9-421a-84c8-b836cb0faa98?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | QC Microbiology Lab Support Technician  (Sun - Wed) | Rensselaer, NY | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000151064189?s=gh-new-grad-healthcare-jobs-2027) |
-| **LLNL** | Computational Biologist - Academic Graduate Appointee | Livermore, CA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990015558392?s=gh-new-grad-healthcare-jobs-2027) |
+| **LLNL** | Computational Biologist - Academic Graduate Appointee | Livermore, CA | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990015558392?s=gh-new-grad-healthcare-jobs-2027) |
 | **Sanofi** | Global Oncology Market Access Junior Project Specialist VIE Contract | Cambridge, Massachusetts | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-45061362944?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Field Reimbursement Manager - Phoenix, AZ | Arizona Phoenix | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255471?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Manufacturing Senior Associate 12 hour PM shift | Ohio - New Albany | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-256362?s=gh-new-grad-healthcare-jobs-2027) |
