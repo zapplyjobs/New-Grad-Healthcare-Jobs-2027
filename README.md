@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Charge Registered Nurse - RN | Meridian, MS | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270888?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Dialysis Clinical Manager Registered Nurse – RN | Baton Rouge, LA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270114?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Binghamton, NY | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271647?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | CO - Parker | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1058012?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Charge Registered Nurse - RN | Meridian, MS | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270888?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Dialysis Clinical Manager Registered Nurse – RN | Baton Rouge, LA | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270114?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Binghamton, NY | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271647?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | CO - Parker | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1058012?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Case Management - Registered Nurse - Telehealth ( MT or PST) | Work At Home Arizona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0980739?s=gh-new-grad-healthcare-jobs-2027) |
 | **Cigna** | Home Infusion Registered Nurse, 24 hours - Accredo -  Mojave, CA | Lancaster, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26011004?s=gh-new-grad-healthcare-jobs-2027) |
 | **University System of New Hampshire** | Assistant Professor of Nursing | University of New Hampshire – Main | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usnh-careers-JR7169?s=gh-new-grad-healthcare-jobs-2027) |
@@ -355,11 +355,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Clinic Administrative Assistant | Sayre, PA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0267364?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In Home Health - Physician (Part Time) - Manhattan, NY | NY - Manhattan | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052408?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In Home Health - Physician (Part Time) - Manhattan, NY | NY Work from hom | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1053818?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In-Home Health - Physician (Part Time) - Kings County, NY | NY - Work from hom | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1055166?s=gh-new-grad-healthcare-jobs-2027) |
-| **Kroger** | Pharmacy Technician | Nashville, TN, United States | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-234302?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Clinic Administrative Assistant | Sayre, PA | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0267364?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In Home Health - Physician (Part Time) - Manhattan, NY | NY - Manhattan | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052408?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In Home Health - Physician (Part Time) - Manhattan, NY | NY Work from hom | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1053818?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In-Home Health - Physician (Part Time) - Kings County, NY | NY - Work from hom | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1055166?s=gh-new-grad-healthcare-jobs-2027) |
+| **Kroger** | Pharmacy Technician | Nashville, TN, United States | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-234302?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Student Social Work Clinical Placement | Phoenix, AZ, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271382?s=gh-new-grad-healthcare-jobs-2027) |
 | **SS&C Technologies** | Pharmacy Rebate/ Network Financial Analyst | New Jersey US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R41899?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Phillips, WI, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-234162?s=gh-new-grad-healthcare-jobs-2027) |
