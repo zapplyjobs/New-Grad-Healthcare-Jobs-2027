@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Charge Registered Nurse - RN | Meridian, MS | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270888?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Dialysis Clinical Manager Registered Nurse – RN | Baton Rouge, LA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270114?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Binghamton, NY | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271647?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | CO - Parker | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1058012?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Charge Registered Nurse - RN | Meridian, MS | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270888?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Dialysis Clinical Manager Registered Nurse – RN | Baton Rouge, LA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270114?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Binghamton, NY | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271647?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | CO - Parker | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1058012?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Nursing Assistant - Neuro | San Antonio, TX, United States | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603021441?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Nursing Assistant - Neuro | San Antonio, TX, United States | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603021444?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Nursing Assistant - Neuro | San Antonio, TX, United States | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603021453?s=gh-new-grad-healthcare-jobs-2027) |
@@ -171,8 +171,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Danaher** | Quality Control Lab Technician | Pensacola, Florida, United States | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1310926?s=gh-new-grad-healthcare-jobs-2027) |
-| **Bristol Myers Squibb** | Associate Scientist, Pilot Plant | Devens - MA - US | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1605827?s=gh-new-grad-healthcare-jobs-2027) |
+| **Danaher** | Quality Control Lab Technician | Pensacola, Florida, United States | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1310926?s=gh-new-grad-healthcare-jobs-2027) |
+| **Bristol Myers Squibb** | Associate Scientist, Pilot Plant | Devens - MA - US | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1605827?s=gh-new-grad-healthcare-jobs-2027) |
 | **Honeywell** | Data Scientist II | Charlotte, NC, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-157694?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Biopharmaceutical Chemist | Groton, CT | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000151994919?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Medical Science Liaison - Obesity - Columbia, SC | South Carolina - Columbia | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-256906?s=gh-new-grad-healthcare-jobs-2027) |
@@ -355,11 +355,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Clinic Administrative Assistant | Sayre, PA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0267364?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In Home Health - Physician (Part Time) - Manhattan, NY | NY - Manhattan | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052408?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In Home Health - Physician (Part Time) - Manhattan, NY | NY Work from hom | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1053818?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In-Home Health - Physician (Part Time) - Kings County, NY | NY - Work from hom | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1055166?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Laboratory Specimen Processor | Shelton CT | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633023?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Clinic Administrative Assistant | Sayre, PA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0267364?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In Home Health - Physician (Part Time) - Manhattan, NY | NY - Manhattan | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052408?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In Home Health - Physician (Part Time) - Manhattan, NY | NY Work from hom | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1053818?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In-Home Health - Physician (Part Time) - Kings County, NY | NY - Work from hom | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1055166?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Laboratory Specimen Processor | Shelton CT | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633023?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Nashville, TN, United States | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-234302?s=gh-new-grad-healthcare-jobs-2027) |
 | **Danaher** | Facilities Technician | Richmond, Illinois, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1317069?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Student Social Work Clinical Placement | Phoenix, AZ, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271382?s=gh-new-grad-healthcare-jobs-2027) |
