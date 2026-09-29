@@ -283,7 +283,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Abbott** | Clinical Specialist II | United States - Pennsylvania -... | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163455?s=gh-new-grad-healthcare-jobs-2027) |
-| **Leidos** | Child Military and Family Life Counselor - Mountain Home | Meridian, ID | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00191077?s=gh-new-grad-healthcare-jobs-2027) |
+| **Leidos** | Child Military and Family Life Counselor - Mountain Home | Meridian, ID | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00191077?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Customer Service Representative - Behavioral Health | NC Work from home | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0990658?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Certified Respiratory Therapist (CRT) | Harlingen, TX, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603024642?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician, Prior Authorizations (Work from Home) | MS - Work from  home | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1044100?s=gh-new-grad-healthcare-jobs-2027) |
