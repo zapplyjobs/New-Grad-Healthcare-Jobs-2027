@@ -176,14 +176,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Eurofins** | Scientist II: Kinase Screening & Profiling | San Diego, CA | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153282089?s=gh-new-grad-healthcare-jobs-2027) |
-| **Eurofins** | Laboratory Technician | Lenexa, KS | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153272075?s=gh-new-grad-healthcare-jobs-2027) |
+| **Eurofins** | Scientist II: Kinase Screening & Profiling | San Diego, CA | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153282089?s=gh-new-grad-healthcare-jobs-2027) |
+| **Eurofins** | Laboratory Technician | Lenexa, KS | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153272075?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Associate Scientist: Cell & Molecular Biology | Lancaster, PA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153271500?s=gh-new-grad-healthcare-jobs-2027) |
 | **LLNL** | Biomedical Scientist - Laboratory Animal Caretaker | Livermore, CA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990015874476?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Scientist II, Drug Product Design & Development | North Chicago, IL | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015870466?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Scientist I - Analytical Chemistry | North Chicago, IL | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015870326?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Scientist I, Neuroscience Molecular Imaging | North Chicago, IL | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015869356?s=gh-new-grad-healthcare-jobs-2027) |
-| **Iterative Health** | Clinical Research Coordinator II - Fort Worth, TX | Fort Worth, Texas | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-iterativehealth-4718708006?s=gh-new-grad-healthcare-jobs-2027) |
+| **Iterative Health** | Clinical Research Coordinator II - Fort Worth, TX | Fort Worth, Texas | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-iterativehealth-4718708006?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Clinical Research Coordinator II - Medical Oncology | Washington University Medical | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR97860?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Associate Product Support Scientist | United States > Madison : 650... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31162515?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Histotechnologist II | United States > Phoenix : 445... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163725?s=gh-new-grad-healthcare-jobs-2027) |
@@ -355,8 +355,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Phlebotomist Float Full Time | Pasadena CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630176?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist Float Full Time | Los Angeles CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630178?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist Float Full Time | Pasadena CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630176?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist Float Full Time | Los Angeles CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630178?s=gh-new-grad-healthcare-jobs-2027) |
 | **Johnson & Johnson** | Clinical Account Specialist (Richmond, VA) – Johnson & Johnson MedTech, Neurovascular | Richmond, Virginia, United... | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102473?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Certified Pharmacy Technician | Ripley, WV, United States | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-236653?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Senior Executive Assistant – VP, Patient Access and Services | United States - Remote | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-256441?s=gh-new-grad-healthcare-jobs-2027) |
@@ -368,7 +368,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Highmark Health** | Unit Secretary - 6C Telemetry - AGH - Full Time Nights | Pittsburgh PA, 15212 | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286083?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Cardiac Monitor Technician - Telemetry - SVH - Full Time - Rotational | Erie PA, 16502 | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J284959?s=gh-new-grad-healthcare-jobs-2027) |
 | **Becton Dickinson** | Surgiphor Market Manager- East | RI Warwick | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-555935?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Medical Scribe | IN - Hammond | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1063148?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Medical Scribe | IN - Hammond | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1063148?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Technician I, Remote Care | Puerto Rico - Arecibo | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31161196?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Technician I, Remote Care | Puerto Rico - Arecibo | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31161588?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Clinical Associate | United States - Arkansas -... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31161250?s=gh-new-grad-healthcare-jobs-2027) |
