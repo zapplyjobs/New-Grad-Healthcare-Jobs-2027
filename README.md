@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Patient Care Technician - PCT | Chicago, IL | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268575?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Patient Care Technician - PCT | Chicago, IL | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0264501?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Philadelphia, PA | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272253?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT | Chicago, IL | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268575?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT | Chicago, IL | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0264501?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Philadelphia, PA | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272253?s=gh-new-grad-healthcare-jobs-2027) |
 | **Atlantic Health System** | Registered Nurse - Full Time, Days, 8 AM - 4 PM, Outpatient Infusion, Atlantic Health Chilton... | Pompton Plains, NJ, United States | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-32667?s=gh-new-grad-healthcare-jobs-2027) |
 | **Atlantic Health System** | Registered Nurse- Per-Diem, Days, 8 AM - 4 PM, Outpatient Infusion, Atlantic Health Chilton... | Pompton Plains, NJ, United States | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-32671?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Care Technician II - 5A Telemetry/Observation - AGH - Full Time | Pittsburgh PA, 15212 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J268221?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Eurofins** | Scientist II: Kinase Screening & Profiling | San Diego, CA | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153282089?s=gh-new-grad-healthcare-jobs-2027) |
+| **Eurofins** | Scientist II: Kinase Screening & Profiling | San Diego, CA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153282089?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Cytogenetic Technologist | Pittsburgh PA, 15212 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J269077?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Histotechnologist - Part Time - Day Shift | Natrona Heights PA, 15065, 1301... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J270745?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Clinical Research Nurse - AHN Hematology, Cellular Therapy and Investigator Initiated Studies | Pittsburgh PA, 15224, West Penn... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286593?s=gh-new-grad-healthcare-jobs-2027) |
@@ -358,12 +358,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Clinic Administrative Assistant | Chicago, IL | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0267272?s=gh-new-grad-healthcare-jobs-2027) |
-| **Insulet Corporation** | Operational Excellence Manager (Onsite - Acton) | Massachusetts | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18184?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Clinic Administrative Assistant | Chicago, IL | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0267272?s=gh-new-grad-healthcare-jobs-2027) |
+| **Insulet Corporation** | Operational Excellence Manager (Onsite - Acton) | Massachusetts | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18184?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist | Huntington Beach CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631836?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist | Santa Ana CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2632935?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist | Fountain Valley CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630098?s=gh-new-grad-healthcare-jobs-2027) |
-| **Elevance Health** | Nurse Case Mgr II (US) | KY-LOUISVILLE | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR205913?s=gh-new-grad-healthcare-jobs-2027) |
+| **Elevance Health** | Nurse Case Mgr II (US) | KY-LOUISVILLE | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR205913?s=gh-new-grad-healthcare-jobs-2027) |
 | **Advantmed** | Medical Records Technician (Los Angeles, CA) - 6748 | Los Angeles, California | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-advantmed-10FA9C244F?s=gh-new-grad-healthcare-jobs-2027) |
 | **Advantmed** | Medical Records Technician (Middlesex County, NJ) 6747 | East Brunswick, New Jersey | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-advantmed-F9397E0E3B?s=gh-new-grad-healthcare-jobs-2027) |
 | **Advantmed** | Medical Records Technician (Orange, CA) - 6749 | Orange, California | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-advantmed-F4B669C0C9?s=gh-new-grad-healthcare-jobs-2027) |
