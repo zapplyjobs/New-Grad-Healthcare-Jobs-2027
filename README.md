@@ -16,9 +16,9 @@
 <p align="center">🚀 Healthcare and nursing jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Healthcare%20Jobs-10422-3FB950?style=flat&logo=briefcase" height="30" alt="Healthcare Jobs">
-  <img src="https://img.shields.io/badge/Nursing-5557-2F81F7?style=flat&logo=briefcase" height="30" alt="Nursing">
-  <img src="https://img.shields.io/badge/Companies-134-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Healthcare%20Jobs-10424-3FB950?style=flat&logo=briefcase" height="30" alt="Healthcare Jobs">
+  <img src="https://img.shields.io/badge/Nursing-5559-2F81F7?style=flat&logo=briefcase" height="30" alt="Nursing">
+  <img src="https://img.shields.io/badge/Companies-133-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -65,7 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Philadelphia, PA | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272253?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Philadelphia, PA | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272253?s=gh-new-grad-healthcare-jobs-2027) |
+| **Atlantic Health System** | Registered Nurse - Full Time, Days, 8 AM - 4 PM, Outpatient Infusion, Atlantic Health Chilton... | Pompton Plains, NJ, United States | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-32667?s=gh-new-grad-healthcare-jobs-2027) |
+| **Atlantic Health System** | Registered Nurse- Per-Diem, Days, 8 AM - 4 PM, Outpatient Infusion, Atlantic Health Chilton... | Pompton Plains, NJ, United States | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-32671?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Licensed Practical Nurse (LPN) | OH - Kent | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0962664?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Care Technician I - Emergency Room - Grove City - Full Time - Rotational | Grove City PA, 16127, 631 N... | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287403?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | RN - Cardiac Cath Lab (Jefferson) | Jefferson Hills PA, 15025, 565... | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J284295?s=gh-new-grad-healthcare-jobs-2027) |
@@ -87,12 +89,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LabCorp** | PRN Phlebotomist | Wilmington NC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634306?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | PRN Phlebotomist | Wilmington NC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634304?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Clinical Specialist, Cranial & Spinal Technologies - Los Angeles / San Fernando Valley, CA | Los Angeles, California, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R76088?s=gh-new-grad-healthcare-jobs-2027) |
+| **Atlantic Health System** | Registered Nurse -  Hospice, Days 8 AM - 4 PM, Sussex County Atlantic Visiting Nurse | Morristown, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-30149?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Patient Care Technician | Cold Spring, KY, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-236417?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | PHARMACY/PHARMACIST-INTERN | Arvada, CO, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-236598?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Patient Care Technician | New Albany, IN, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-236604?s=gh-new-grad-healthcare-jobs-2027) |
-| **Atlantic Health System** | Registered Nurse -  Hospice, Days 8 AM - 4 PM, Sussex County Atlantic Visiting Nurse | Morristown, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-30149?s=gh-new-grad-healthcare-jobs-2027) |
-| **Atlantic Health System** | Registered Nurse, Per Diem Days, 7a-7p, Progressive Care, Atlantic Health Newton Medical Center | Newton, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-32351?s=gh-new-grad-healthcare-jobs-2027) |
-| **Atlantic Health System** | Hospice Referral Specialist, RN | Morristown, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-32653?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | TRA Operating Room RN Local and Travel Contracts | Worcester, MA, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2305016926?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | RN Specialty Seasonal | Palm Beach Gardens, FL, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2503008515?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Registered Nurse New Graduate (RN) - Telemetry | San Antonio, TX, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603012248?s=gh-new-grad-healthcare-jobs-2027) |
@@ -289,7 +289,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **CVS Health** | Clinical Case Manager, Behavioral Health - Field | Field Louisiana | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1046739?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Clinical Case Manager Behavioral Health - Field in Bergen & Surrounding Counties, NJ | Field New Jersey | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1053303?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Customer Service Representative - Behavioral Health | NC Work from home | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0990658?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Customer Service Representative - Behavioral Health | NC Work from home | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0990658?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Access Coordinator I / Registration - AHN Cancer Institute - Beaver - Full Time | Monaca PA, 15061, 81 Wagner Road | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287328?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Clinical Specialist I, CPT - Pittsburgh PA | United States - Pennsylvania -... | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163867?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Access Coordinator I / Emergency Department - Westfield Memorial Hospital - Full time -... | Westfield NY, 14787 | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287775?s=gh-new-grad-healthcare-jobs-2027) |
@@ -315,9 +315,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Guidehouse** | Hospital Admissions Rep - Varied Night Shift,  Part Time, Onsite | CA, Los Angeles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-45023?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Texas at Austin** | Admissions Counselor I - Office of Admissions | AUSTIN, TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049088?s=gh-new-grad-healthcare-jobs-2027) |
 | **Leidos** | School Military and Family Life Counselor - Whidbey Island | Oak Harbor, WA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00193691?s=gh-new-grad-healthcare-jobs-2027) |
-| **Hilton** | Massage Therapist (Part-Time) - Waldorf Astoria Orlando | Orlando, FL, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-225745?s=gh-new-grad-healthcare-jobs-2027) |
 | **Atlantic Health System** | Registered Respiratory Therapist, Per Diem, Days, 9am-5pm, AMG, Pulmonology, Freehold, NJ | Freehold, NJ, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-32980?s=gh-new-grad-healthcare-jobs-2027) |
 | **Atlantic Health System** | Patient Access Representative I, Full Time, Nights (11p-7a), Atlantic Health Morristown Medical... | Morristown, NJ, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-33074?s=gh-new-grad-healthcare-jobs-2027) |
+| **Hilton** | Massage Therapist (Part-Time) - Waldorf Astoria Orlando | Orlando, FL, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-225745?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Texas at Austin** | Behavioral Health Care Coordinator | UT MAIN | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049111?s=gh-new-grad-healthcare-jobs-2027) |
 | **Northeastern University** | Vertex – Medical Affairs Postdoctoral Research Fellow | Boston, MA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-northeastern-careers-R142351?s=gh-new-grad-healthcare-jobs-2027) |
 | **Northeastern University** | Abbott Diabetes Care – Medical Affairs Postdoctoral Research Fellow | Boston, MA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-northeastern-careers-R142330?s=gh-new-grad-healthcare-jobs-2027) |
@@ -343,7 +343,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **University of Maryland** | Financial Aid Counselor | University of Maryland College Park | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-umd-umcp-JR104998?s=gh-new-grad-healthcare-jobs-2027) |
 | **GDIT** | Mental Health Technician | NC Fort Bragg | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ223286?s=gh-new-grad-healthcare-jobs-2027) |
 | **GDIT** | Mental Health Clinician | NC Fort Bragg | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ222818?s=gh-new-grad-healthcare-jobs-2027) |
-| **SpaceX** | Environmental Health & Safety Specialist (Paramedic) | Cape Canaveral, FL | 4w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8773582002?s=gh-new-grad-healthcare-jobs-2027) |
+| **SpaceX** | Environmental Health & Safety Specialist (Paramedic) | Cape Canaveral, FL | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8773582002?s=gh-new-grad-healthcare-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -375,7 +375,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Technician I, Remote Care | Puerto Rico - Arecibo | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31161196?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Technician I, Remote Care | Puerto Rico - Arecibo | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31161588?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Clinical Associate | United States - Arkansas -... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31161250?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Clinical Laboratory Technologist - Micro - $10,000 Sign On Bonus | Birmingham AL | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633750?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Clinical Laboratory Technologist - Micro - $10,000 Sign On Bonus | Birmingham AL | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633750?s=gh-new-grad-healthcare-jobs-2027) |
 | **University System of New Hampshire** | Per Diem Athletic Trainer | University of New Hampshire – Main | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-usnh-careers-JR10178?s=gh-new-grad-healthcare-jobs-2027) |
 | **Elevance Health** | Nurse Case Manager I | NY LATHAM 15 PLAZA DR | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR205990?s=gh-new-grad-healthcare-jobs-2027) |
 | **Elevance Health** | Cust Care Rep I (US) | VA-ROANOKE | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR205449?s=gh-new-grad-healthcare-jobs-2027) |
@@ -404,14 +404,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cardinal Health** | Retail Pharmacy Manager | New York, NY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20188578?s=gh-new-grad-healthcare-jobs-2027) |
 | **Cardinal Health** | Hospital Pharmacy Technician | Oak Ridge, TN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20188422?s=gh-new-grad-healthcare-jobs-2027) |
 | **Becton Dickinson** | Surgiphor Market Manager- Southwest | Texas FIELD | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-555933?s=gh-new-grad-healthcare-jobs-2027) |
+| **Atlantic Health System** | Certified Surgical Technologist - Full-Time - Same Day - Atlantic Health Morristown Medical Center | Morristown, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-27696?s=gh-new-grad-healthcare-jobs-2027) |
+| **Atlantic Health System** | Secretary/Technician- Part Time Days, 8 AM - 4 PM, Radiation Oncology, Atlantic Health Overlook... | Summit, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-31192?s=gh-new-grad-healthcare-jobs-2027) |
+| **Atlantic Health System** | Secretary/Technician - Full Time, Days 7a-7p, Med/Renal/Pulmonary 10CD, Atlantic Health Overlook... | Summit, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-33030?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Certified Pharmacy Technician | Denver, CO, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-210097?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Avon, CO, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-218234?s=gh-new-grad-healthcare-jobs-2027) |
 | **Albertsons** | Float Pharmacy Technician | Portland, OR, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-775450?s=gh-new-grad-healthcare-jobs-2027) |
 | **Albertsons** | Float Pharmacy Technician | Beaverton, OR, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-775499?s=gh-new-grad-healthcare-jobs-2027) |
 | **Albertsons** | Pharmacy Technician | Fox River Grove, IL, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-775512?s=gh-new-grad-healthcare-jobs-2027) |
-| **Atlantic Health System** | Certified Surgical Technologist - Full-Time - Same Day - Atlantic Health Morristown Medical Center | Morristown, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-27696?s=gh-new-grad-healthcare-jobs-2027) |
-| **Atlantic Health System** | Secretary/Technician- Part Time Days, 8 AM - 4 PM, Radiation Oncology, Atlantic Health Overlook... | Summit, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-31192?s=gh-new-grad-healthcare-jobs-2027) |
-| **Atlantic Health System** | Secretary/Technician - Full Time, Days 7a-7p, Med/Renal/Pulmonary 10CD, Atlantic Health Overlook... | Summit, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-33030?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Certified Surgical Tech (CST) | Rock Hill, SC, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2503019364?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Certified Surgical First Assistant (CSFA) - CVOR | San Antonio, TX, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2503035847?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | CT Tech | New Braunfels, TX, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603006489?s=gh-new-grad-healthcare-jobs-2027) |
@@ -422,13 +422,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LLNL** | Protein Bioinformatics - Postdoctoral Researcher | Livermore, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990015843837?s=gh-new-grad-healthcare-jobs-2027) |
 | **LLNL** | Computational Biologist (ML) Postdoctoral Researcher | Livermore, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990015843956?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Technologist I | Boston, MA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153003884?s=gh-new-grad-healthcare-jobs-2027) |
+| **VSP Vision** | Part Time Optician/Opt Admin | Folsom, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-9808?s=gh-new-grad-healthcare-jobs-2027) |
 | **Centene** | Pharmacy Technician (Onsite Specialty) | Houston | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-centene-centene-external-1651217?s=gh-new-grad-healthcare-jobs-2027) |
 | **Zoetis** | Pork Technical Services Veterinarian | IL Remote | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00020865?s=gh-new-grad-healthcare-jobs-2027) |
 | **Zoetis** | Pork Technical Services Veterinarian | US, OH | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00018732?s=gh-new-grad-healthcare-jobs-2027) |
 | **Baxter International** | Occupational Health Nurse (Night Shift 7pm-7am) | Marion, North Carolina | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-211007?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Maryland** | QuICS Hartree Postdoctoral Fellow-1 | University of Maryland College Park | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-umd-umcp-JR104987?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Maryland** | Laboratory Animal Technician Assistant Hourly | University of Maryland College Park | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-umd-umcp-JR105088?s=gh-new-grad-healthcare-jobs-2027) |
-| **VSP Vision** | Part Time Optician/Opt Admin | Folsom, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-9808?s=gh-new-grad-healthcare-jobs-2027) |
 | **AstraZeneca** | Oncology Account Specialist- Lung Cancer -  Denver, CO/New Mexico | Denver, CO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-260945?s=gh-new-grad-healthcare-jobs-2027) |
 | **Pfizer** | Cardiovascular Specialist, Health and Science Professional - Manhattan, NY | United States New York | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4964729?s=gh-new-grad-healthcare-jobs-2027) |
 | **Pfizer** | Cardiovascular Specialist, Health and Science Professional - Frederick, MD | United States Maryland | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4960719?s=gh-new-grad-healthcare-jobs-2027) |
@@ -531,7 +531,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 10422 current opportunities from 134 companies**
+**🎯 10424 current opportunities from 133 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
