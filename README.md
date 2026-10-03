@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Eurofins** | Scientist II: Kinase Screening & Profiling | San Diego, CA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153282089?s=gh-new-grad-healthcare-jobs-2027) |
+| **Eurofins** | Scientist II: Kinase Screening & Profiling | San Diego, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153282089?s=gh-new-grad-healthcare-jobs-2027) |
 | **Danaher** | Scientist II Production Operations | Chaska, Minnesota, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1317118?s=gh-new-grad-healthcare-jobs-2027) |
 | **Boys Town** | Research Scientist II- Statistician | Omaha, NE | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-9329?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Texas at Austin** | Clinical Research Associate I | AUSTIN, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049220?s=gh-new-grad-healthcare-jobs-2027) |
@@ -355,10 +355,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Phlebotomist | Huntington Beach CA | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631836?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Santa Ana CA | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2632935?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Fountain Valley CA | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630098?s=gh-new-grad-healthcare-jobs-2027) |
-| **Elevance Health** | Nurse Case Mgr II (US) | KY-LOUISVILLE | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR205913?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Huntington Beach CA | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631836?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Santa Ana CA | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2632935?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Fountain Valley CA | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630098?s=gh-new-grad-healthcare-jobs-2027) |
+| **Elevance Health** | Nurse Case Mgr II (US) | KY-LOUISVILLE | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR205913?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Clinic Administrative Assistant | Chicago, IL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0267272?s=gh-new-grad-healthcare-jobs-2027) |
 | **Advantmed** | Medical Records Technician (Los Angeles, CA) - 6748 | Los Angeles, California | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-advantmed-10FA9C244F?s=gh-new-grad-healthcare-jobs-2027) |
 | **Advantmed** | Medical Records Technician (Middlesex County, NJ) 6747 | East Brunswick, New Jersey | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-advantmed-F9397E0E3B?s=gh-new-grad-healthcare-jobs-2027) |
