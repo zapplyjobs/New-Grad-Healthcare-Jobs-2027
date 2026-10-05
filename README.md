@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Infusion RN Registered Nurse - AHN Cancer Institute - Forbes - Full Time | Monroeville PA, 15146 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287248?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Patient Care Technician I - Night - Respiratory - Jefferson Hospital - Full Time | Jefferson Hills PA, 15025, 565... | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287785?s=gh-new-grad-healthcare-jobs-2027) |
-| **Cigna** | Intake Care Representative- Evernorth- Remote | Pennsylvania Work at Home | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26011311?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Infusion RN Registered Nurse - AHN Cancer Institute - Forbes - Full Time | Monroeville PA, 15146 | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287248?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I - Night - Respiratory - Jefferson Hospital - Full Time | Jefferson Hills PA, 15025, 565... | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287785?s=gh-new-grad-healthcare-jobs-2027) |
+| **Cigna** | Intake Care Representative- Evernorth- Remote | Pennsylvania Work at Home | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26011311?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | CT - Ansonia | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1065836?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Intern | MS - Flowood | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1065834?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Intern | NJ - Lawrenceville | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1065835?s=gh-new-grad-healthcare-jobs-2027) |
@@ -351,13 +351,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Specimen Processor II – Per Diem | New York NY | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634964?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Hospital Reference Test Clerk | Biloxi MS | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631823?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | IOP Phlebotomist | Birmingham AL | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2629664?s=gh-new-grad-healthcare-jobs-2027) |
-| **Zoetis** | Occupational Health, Advanced Practitioner | Union City | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00021599?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | TX - Marble Falls | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1064780?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | TX - Liberty | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1064919?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | TX - Houston | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1064607?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Specimen Processor II – Per Diem | New York NY | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634964?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Hospital Reference Test Clerk | Biloxi MS | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631823?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | IOP Phlebotomist | Birmingham AL | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2629664?s=gh-new-grad-healthcare-jobs-2027) |
+| **Zoetis** | Occupational Health, Advanced Practitioner | Union City | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00021599?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | TX - Marble Falls | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1064780?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | TX - Liberty | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1064919?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | TX - Houston | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1064607?s=gh-new-grad-healthcare-jobs-2027) |
 | **Advantmed** | Medical Records Technician (Santa Clara, CA) - 6751 | Santa Clara, California | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-advantmed-9EF35472F1?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Salem, OR, United States | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-220308?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Falcon, CO, United States | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-236964?s=gh-new-grad-healthcare-jobs-2027) |
