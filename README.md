@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Patient Care Technician I - Medical Progressive Care - Jefferson Hospital - Casual | Jefferson Hills PA, 15025, 565... | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287491?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I - Medical Progressive Care - Jefferson Hospital - Casual | Jefferson Hills PA, 15025, 565... | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287491?s=gh-new-grad-healthcare-jobs-2027) |
 | **Boys Town** | Registered Nurse - Floor | Omaha, NE | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-9436?s=gh-new-grad-healthcare-jobs-2027) |
 | **Boys Town** | Registered Nurse - OR I | Omaha, NE | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-8615?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician Preceptor - PCT - Dialysis | Sumter, SC | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271366?s=gh-new-grad-healthcare-jobs-2027) |
@@ -353,7 +353,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Medical Courier | Westborough MA | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634818?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Medical Courier | Westborough MA | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634818?s=gh-new-grad-healthcare-jobs-2027) |
 | **Northrop Grumman** | Employee Health Nurse 3 | United States-Utah-Clearfield | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253484?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Registered Dietitian | Smyrna, TN | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272683?s=gh-new-grad-healthcare-jobs-2027) |
 | **Argonne National Laboratory** | Postdoctoral Appointee – Atomic Layer Deposition for Water Treatment | Lemont, IL USA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-argonne-argonne-careers-423516?s=gh-new-grad-healthcare-jobs-2027) |
@@ -370,9 +370,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | Pharmacy Technician | MA - Waltham | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1065551?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician | MD - Waldorf | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1065233?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Certified Pharmacy Technician | Tucson, AZ, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-236422?s=gh-new-grad-healthcare-jobs-2027) |
-| **AbbVie** | Field Reimbursement Manager - Parkinson’s | Houston, TX | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015906806?s=gh-new-grad-healthcare-jobs-2027) |
-| **AbbVie** | Field Reimbursement Manager - Parkinson’s | Dallas, TX | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015906766?s=gh-new-grad-healthcare-jobs-2027) |
-| **AbbVie** | Field Reimbursement Manager - Parkinson’s | Oklahoma City, OK | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015906726?s=gh-new-grad-healthcare-jobs-2027) |
+| **AbbVie** | Field Reimbursement Manager - Parkinson’s | Houston, TX | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015906806?s=gh-new-grad-healthcare-jobs-2027) |
+| **AbbVie** | Field Reimbursement Manager - Parkinson’s | Dallas, TX | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015906766?s=gh-new-grad-healthcare-jobs-2027) |
+| **AbbVie** | Field Reimbursement Manager - Parkinson’s | Oklahoma City, OK | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015906726?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Clinical Associate | United States - Tennessee –... | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163976?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Digital Health Solutions, Project Manager (Lab Informatics) | United States of America : Remote | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31156523?s=gh-new-grad-healthcare-jobs-2027) |
 | **Vertex Pharmaceuticals** | Pain Territory Business Manager - Nassau, NY | United States - Field Based | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30305?s=gh-new-grad-healthcare-jobs-2027) |
