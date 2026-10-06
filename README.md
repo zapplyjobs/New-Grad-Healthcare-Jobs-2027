@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Float Registered Nurse | OH - Columbus | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1064363?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Float Registered Nurse | OH - Columbus | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1064363?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Care Technician I - Medical Progressive Care - Jefferson Hospital - Casual | Jefferson Hills PA, 15025, 565... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287491?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician Preceptor - PCT - Dialysis | Sumter, SC | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271366?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Johnsonville, SC | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0267917?s=gh-new-grad-healthcare-jobs-2027) |
@@ -180,7 +180,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Associate Research Scientist II | United States - California - La... | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163940?s=gh-new-grad-healthcare-jobs-2027) |
 | **Lila Sciences** | Platform Scientist I/II, Functional Materials Instrumentation | Cambridge, MA USA | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lilasciences-4423504009?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Assistant Microbiologist I - 3rd shift - Columbus Plant | United States - Ohio - Columbus | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31162771?s=gh-new-grad-healthcare-jobs-2027) |
-| **Eurofins** | Laboratory Technician - Leachates- Environment Testing - 2nd Shift, Sun-Thurs | Lancaster, PA | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153610159?s=gh-new-grad-healthcare-jobs-2027) |
+| **Eurofins** | Laboratory Technician - Leachates- Environment Testing - 2nd Shift, Sun-Thurs | Lancaster, PA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153610159?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Laboratory Technician (HPLC) - Eurofins Environment Testing - Lancaster, PA | Lancaster, PA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153609379?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Laboratory Technician | Des Moines, IA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000153606079?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Clinical Research Associate II - Oncology (Ohio/Kentucky) | Ohio City, OH | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015901836?s=gh-new-grad-healthcare-jobs-2027) |
@@ -353,10 +353,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | IL - Chicago | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1064505?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Delivery Driver/Pharmacy Technician Back End | CA - Lodi | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1022536?s=gh-new-grad-healthcare-jobs-2027) |
-| **Johnson & Johnson** | Field Reimbursement Manager, Concord NC - Dermatology | North Carolina | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103306?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Medical Courier | Westborough MA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634818?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | IL - Chicago | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1064505?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Delivery Driver/Pharmacy Technician Back End | CA - Lodi | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1022536?s=gh-new-grad-healthcare-jobs-2027) |
+| **Johnson & Johnson** | Field Reimbursement Manager, Concord NC - Dermatology | North Carolina | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103306?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Medical Courier | Westborough MA | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634818?s=gh-new-grad-healthcare-jobs-2027) |
 | **Northrop Grumman** | Employee Health Nurse 3 | United States-Utah-Clearfield | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253484?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Registered Dietitian | Smyrna, TN | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272683?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Master Social Worker – MSW | Wauchula, FL | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269217?s=gh-new-grad-healthcare-jobs-2027) |
