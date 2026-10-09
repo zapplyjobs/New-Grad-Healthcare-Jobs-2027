@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Patient Care Technician II - ED - AGH - Full Time | Pittsburgh PA, 15212 | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J281193?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | RN 8C Surgical Trauma (Nights), Allegheny General | Pittsburgh PA, 15212 | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J285422?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | RN Clinical Education Specialist - Cardiac, Allegheny General | Pittsburgh PA, 15212 | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288179?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Patient Care Technician II - ED - AGH - Full Time | Pittsburgh PA, 15212 | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J281193?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | RN 8C Surgical Trauma (Nights), Allegheny General | Pittsburgh PA, 15212 | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J285422?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | RN Clinical Education Specialist - Cardiac, Allegheny General | Pittsburgh PA, 15212 | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288179?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist PRN | Asheville NC | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634662?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Paris, TN | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271117?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Palatine, IL | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272294?s=gh-new-grad-healthcare-jobs-2027) |
@@ -75,7 +75,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | Case Management - Registered Nurse - Telehealth ( MT or PST) | Work At Home Arizona | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0980739?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Case Manager, Registered Nurse | TX Work from home | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1040354?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | PA - Harrisburg | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1070055?s=gh-new-grad-healthcare-jobs-2027) |
-| **Eurofins** | Laboratory Technician I (Multiple Shifts) Eurofins Environment Testing Northern California - Air... | Folsom, CA | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000154542620?s=gh-new-grad-healthcare-jobs-2027) |
+| **Eurofins** | Laboratory Technician I (Multiple Shifts) Eurofins Environment Testing Northern California - Air... | Folsom, CA | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000154542620?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Registered Nurse (RN) - Cardiac | Modesto, CA, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603023600?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Registered Nurse (RN) - Operating Room | San Antonio, TX, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603023541?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Oncology | Murfreesboro, TN | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1314861?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,11 +176,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Trane Technologies** | Electronics Lab Technician II | Davidson, North Carolina | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-7152?s=gh-new-grad-healthcare-jobs-2027) |
+| **Trane Technologies** | Electronics Lab Technician II | Davidson, North Carolina | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-7152?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Clinical Laboratory Technician - Hematology | Boston MA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635536?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Clinical Laboratory Technician - Microbiology | West Monroe LA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636276?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Clinical Laboratory Technologist - Core Chemistry | Burlington NC | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633169?s=gh-new-grad-healthcare-jobs-2027) |
-| **AbbVie** | Scientist I/II - Cancer Biology | North Chicago, IL | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016002527?s=gh-new-grad-healthcare-jobs-2027) |
+| **AbbVie** | Scientist I/II - Cancer Biology | North Chicago, IL | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016002527?s=gh-new-grad-healthcare-jobs-2027) |
 | **BillionToOne** | Clinical Laboratory Scientist, Oncology (AM Shift) | Menlo Park, CA | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-billiontoone-4742104005?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Clinical Educator | CA277 FMCNA Peralta RAI - Clinic | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269475?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Clinical Educator | AZ062 Avondale JV - Clinic | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270106?s=gh-new-grad-healthcare-jobs-2027) |
@@ -287,8 +287,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Medtronic** | Clinical Specialist, Enabling Technologies -  Denver, CO | Denver, Colorado, United States... | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79367?s=gh-new-grad-healthcare-jobs-2027) |
-| **Medtronic** | Clinical Specialist, Deep Brain Stimulation (DBS) - Atlanta, GA | Atlanta, Georgia, United States... | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79365?s=gh-new-grad-healthcare-jobs-2027) |
+| **Medtronic** | Clinical Specialist, Enabling Technologies -  Denver, CO | Denver, Colorado, United States... | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79367?s=gh-new-grad-healthcare-jobs-2027) |
+| **Medtronic** | Clinical Specialist, Deep Brain Stimulation (DBS) - Atlanta, GA | Atlanta, Georgia, United States... | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79365?s=gh-new-grad-healthcare-jobs-2027) |
 | **GDIT** | Clinical Psychologist | USA NC Fort Bragg - Fort Bragg | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230175?s=gh-new-grad-healthcare-jobs-2027) |
 | **Booz Allen Hamilton** | EAP Counselor | Springfield, VA | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251322?s=gh-new-grad-healthcare-jobs-2027) |
 | **Leidos** | Military Family Life Counselor - Schofield Barracks, HI | Honolulu, HI | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00194268?s=gh-new-grad-healthcare-jobs-2027) |
@@ -363,9 +363,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Cardiac Monitor Technician - AGH - Full Time | Pittsburgh PA, 15212 | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288390?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Cardiac Monitor Technician Transport - AGH - Full Time Nights | Pittsburgh PA, 15212 | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288394?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Cardiac Monitor Technician Transport - GI Lab - AGH - Full Time | Pittsburgh PA, 15212 | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288402?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Cardiac Monitor Technician - AGH - Full Time | Pittsburgh PA, 15212 | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288390?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Cardiac Monitor Technician Transport - AGH - Full Time Nights | Pittsburgh PA, 15212 | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288394?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Cardiac Monitor Technician Transport - GI Lab - AGH - Full Time | Pittsburgh PA, 15212 | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288402?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist | Evansville IN | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2624971?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Histology Supervisor | Boston MA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635902?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Data Processing Associate - Clinical Lab Operations | San Francisco, CA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-269144?s=gh-new-grad-healthcare-jobs-2027) |
