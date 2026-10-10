@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | FL - Tallahassee | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028499?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Tallahassee | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028511?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | OK - Oklahoma City | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1049634?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Tallahassee | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028499?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Tallahassee | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028511?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | OK - Oklahoma City | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1049634?s=gh-new-grad-healthcare-jobs-2027) |
 | **Thermo Fisher Scientific** | Associate Sample Coordinator - 2nd/Afternoons (Tuesday - Saturday) | Highland Heights, Kentucky, USA | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01332374?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Miami** | Registered Nurse - Medical Surgical Telemetry - Full Time | Miami, Florida | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100101064?s=gh-new-grad-healthcare-jobs-2027) |
 | **Atlantic Health System** | Registered Nurse, Per Diem Days, 8a-4p, Pre Procedure Evaluation Center, Atlantic Health,... | Morristown, NJ, United States | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-33018?s=gh-new-grad-healthcare-jobs-2027) |
@@ -364,7 +364,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Medical Laboratory Technologist | Chesapeake VA | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627784?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Medical Laboratory Technologist | Chesapeake VA | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627784?s=gh-new-grad-healthcare-jobs-2027) |
 | **Sanofi** | Field Reimbursement Manager - Dermatology - New Brunswick, NJ | Remote, USA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-43230763136?s=gh-new-grad-healthcare-jobs-2027) |
 | **Thermo Fisher Scientific** | Associate Sample Coordinator - 1st Shift (Tuesday - Saturday) | Covington, Kentucky - USA | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01353377?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist | Dallas TX | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631310?s=gh-new-grad-healthcare-jobs-2027) |
@@ -381,8 +381,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | Patient Care Coordinator | LA Work from home | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1063021?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician - Part Time | PA - Warminster | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1070646?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician | SC - Orangeburg | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1070308?s=gh-new-grad-healthcare-jobs-2027) |
-| **Intuitive** | Clinical Applications Engineer | New York, NY | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000154768998?s=gh-new-grad-healthcare-jobs-2027) |
-| **Intuitive** | Clinical Applications Engineer | Columbus, OH | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000154768948?s=gh-new-grad-healthcare-jobs-2027) |
+| **Intuitive** | Clinical Applications Engineer | New York, NY | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000154768998?s=gh-new-grad-healthcare-jobs-2027) |
+| **Intuitive** | Clinical Applications Engineer | Columbus, OH | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000154768948?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Field Reimbursement Manager | Nashville, TN | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016031064?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Manager, Global Medical Information | Florham Park, NJ | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016028866?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Manager, Global Medical Information | Mettawa, IL | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016028776?s=gh-new-grad-healthcare-jobs-2027) |
