@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | FL - Tallahassee | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028499?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Tallahassee | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028511?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | OK - Oklahoma City | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1049634?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Clinical Coordinator - Charge Registered Nurse - Dialysis | FL081 Florida Kidney | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272842?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Tallahassee | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028499?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Tallahassee | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028511?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | OK - Oklahoma City | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1049634?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Clinical Coordinator - Charge Registered Nurse - Dialysis | FL081 Florida Kidney | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272842?s=gh-new-grad-healthcare-jobs-2027) |
 | **Thermo Fisher Scientific** | Associate Sample Coordinator - 2nd/Afternoons (Tuesday - Saturday) | Highland Heights, Kentucky, USA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01332374?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Miami** | Registered Nurse 2, Interventional Radiology, Full Time | Miami, Florida | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100101776?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Miami** | Registered Nurse - Medical Surgical Telemetry - Full Time | Miami, Florida | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100101064?s=gh-new-grad-healthcare-jobs-2027) |
@@ -364,7 +364,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Medical Laboratory Technologist | Chesapeake VA | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627784?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Medical Laboratory Technologist | Chesapeake VA | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627784?s=gh-new-grad-healthcare-jobs-2027) |
 | **Sanofi** | Field Reimbursement Manager - Dermatology - New Brunswick, NJ | Remote, USA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-43230763136?s=gh-new-grad-healthcare-jobs-2027) |
 | **Thermo Fisher Scientific** | Associate Sample Coordinator - 1st Shift (Tuesday - Saturday) | Covington, Kentucky - USA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01353377?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist | Dallas TX | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631310?s=gh-new-grad-healthcare-jobs-2027) |
@@ -460,7 +460,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **MedVet** | Radiology Veterinary Assistant | Chicago, Illinois | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/jobvite-medvet-oodVAfwQ?s=gh-new-grad-healthcare-jobs-2027) |
 | **Included Health** | Urgent Care Physician | Missouri | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-includedhealth-0c0fc080-f3d7-4ad9-a13f-71ce9971280a?s=gh-new-grad-healthcare-jobs-2027) |
 | **Oscar Health** | Member & Provider Care Specialist | Remote (Arizona) | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-oscar-8146234?s=gh-new-grad-healthcare-jobs-2027) |
-| **EVERSANA** | Medical, Legal and Regulatory (MLR) Coordinator | Overland Park, KS | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-EVERSANA1-744000153845254?s=gh-new-grad-healthcare-jobs-2027) |
+| **EVERSANA** | Medical, Legal and Regulatory (MLR) Coordinator | Overland Park, KS | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-EVERSANA1-744000153845254?s=gh-new-grad-healthcare-jobs-2027) |
 | **Cardinal Health** | Pharmacy Technician | Columbus, GA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20188543?s=gh-new-grad-healthcare-jobs-2027) |
 | **Cardinal Health** | Medical Assistant Radiation | San Diego-cCARE -, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20188382?s=gh-new-grad-healthcare-jobs-2027) |
 | **Centene** | Pharmacy Technician (Onsite Specialty) | Houston | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-centene-centene-external-1651217?s=gh-new-grad-healthcare-jobs-2027) |
