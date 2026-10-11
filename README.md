@@ -363,9 +363,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician Front End | RI - Coventry | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0939029?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Associate Pharmacy Manager Front End | MD - Annapolis Junction | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0874621?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Clerk | PA - Glen Mills | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0940544?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician Front End | RI - Coventry | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0939029?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Associate Pharmacy Manager Front End | MD - Annapolis Junction | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0874621?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Clerk | PA - Glen Mills | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0940544?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Endoscopy Technician | Elk Grove Village, IL | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-12796?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Business Process Analyst - Health Engagement Operations | PA, Working at Home - Pennsylvania | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288008?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist | Newport Beach CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2620786?s=gh-new-grad-healthcare-jobs-2027) |
