@@ -16,7 +16,7 @@
 <p align="center">🚀 Healthcare and nursing jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Healthcare%20Jobs-11157-3FB950?style=flat&logo=briefcase" height="30" alt="Healthcare Jobs">
+  <img src="https://img.shields.io/badge/Healthcare%20Jobs-11154-3FB950?style=flat&logo=briefcase" height="30" alt="Healthcare Jobs">
   <img src="https://img.shields.io/badge/Nursing-5976-2F81F7?style=flat&logo=briefcase" height="30" alt="Nursing">
   <img src="https://img.shields.io/badge/Companies-137-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -65,12 +65,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | MA - East Boston | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072146?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Tallahassee | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028499?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Tallahassee | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028511?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | MA - East Boston | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072146?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Tallahassee | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028499?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Tallahassee | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1028511?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Clinical Coordinator - Charge Registered Nurse - Dialysis | FL081 Florida Kidney | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272842?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse Clinic | Nashville, TN | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-13454?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse NICU | Middleburg, FL | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1322899?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse Clinic | Nashville, TN | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-13454?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse NICU | Middleburg, FL | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1322899?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | 2027 IT Intern | United States - Illinois - Waukegan | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31159432?s=gh-new-grad-healthcare-jobs-2027) |
 | **Zoetis** | Regulatory CMC Data/Digital Internship | Kalamazoo - Downtown Portage Street | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00021715?s=gh-new-grad-healthcare-jobs-2027) |
 | **Zoetis** | Laboratory Animal Veterinarian and Behavior Intern | Kalamazoo - Downtown Portage Street | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00021717?s=gh-new-grad-healthcare-jobs-2027) |
@@ -364,11 +364,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Business Process Analyst - Health Engagement Operations | PA, Working at Home - Pennsylvania | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288008?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Newport Beach CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2620786?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Torrance CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2618550?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | IOP Phlebotomist Specialist | Decatur GA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633651?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Endoscopy Technician | Elk Grove Village, IL | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-12796?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Business Process Analyst - Health Engagement Operations | PA, Working at Home - Pennsylvania | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288008?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Newport Beach CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2620786?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Torrance CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2618550?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | IOP Phlebotomist Specialist | Decatur GA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633651?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Endoscopy Technician | Elk Grove Village, IL | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-12796?s=gh-new-grad-healthcare-jobs-2027) |
 | **Sanofi** | Field Reimbursement Manager - Dermatology - New Brunswick, NJ | Remote, USA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-43230763136?s=gh-new-grad-healthcare-jobs-2027) |
 | **Guidehouse** | Consultant - Public Health - Strategy & Transformation | VA McLean | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-40149?s=gh-new-grad-healthcare-jobs-2027) |
 | **Danaher** | Clinical Applications Specialist- Dallas or Oklahoma City | Oklahoma City, Oklahoma, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1313928?s=gh-new-grad-healthcare-jobs-2027) |
@@ -540,7 +540,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 11157 current opportunities from 137 companies**
+**🎯 11154 current opportunities from 137 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
