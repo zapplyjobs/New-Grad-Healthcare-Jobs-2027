@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | 07107 - Longs Drug Stores... | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996618?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern - Grad | 09164 - Longs Drug Stores... | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996759?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern - Grad | 09189 - Longs Drug Stores... | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996764?s=gh-new-grad-healthcare-jobs-2027) |
-| **Johnson & Johnson** | Immunology Medical Affairs Clinical Project Scientist Internship | Horsham, Pennsylvania, United... | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102793?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | 07107 - Longs Drug Stores... | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996618?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | 09164 - Longs Drug Stores... | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996759?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | 09189 - Longs Drug Stores... | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996764?s=gh-new-grad-healthcare-jobs-2027) |
+| **Johnson & Johnson** | Immunology Medical Affairs Clinical Project Scientist Internship | Horsham, Pennsylvania, United... | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102793?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Emergency Department | Nashville, TN | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-13485?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Licensed Practical Nurse Skilled Nursing | Chicago, IL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1316346?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Certified Nursing Assistant Skilled Nursing | Racine, WI | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1318754?s=gh-new-grad-healthcare-jobs-2027) |
@@ -365,11 +365,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Manager | FL - Spring Hill | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1071604?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Manager | FL - Miami | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1071387?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist - Client Office | Suwanee GA | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631921?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist-Client Office | Suwanee GA | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631792?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist-Patient Service Center | Newnan GA | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635838?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Manager | FL - Spring Hill | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1071604?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Manager | FL - Miami | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1071387?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist - Client Office | Suwanee GA | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631921?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist-Client Office | Suwanee GA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631792?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist-Patient Service Center | Newnan GA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635838?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Grad Pharmacist | GA - Marietta | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072642?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Echocardiography Technologist | Pensacola, FL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1325153?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Respiratory Care Practitioner | Milwaukee, WI | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1317492?s=gh-new-grad-healthcare-jobs-2027) |
