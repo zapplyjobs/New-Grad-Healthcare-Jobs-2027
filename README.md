@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Johnson & Johnson** | Immunology Medical Affairs Clinical Project Scientist Internship | Horsham, Pennsylvania, United... | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102793?s=gh-new-grad-healthcare-jobs-2027) |
+| **Johnson & Johnson** | Immunology Medical Affairs Clinical Project Scientist Internship | Horsham, Pennsylvania, United... | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102793?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Intern - Grad | 17436 - Alaska CVS Pharmacy, L.L.C. | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0997027?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | WI - Wisconsin Rapids | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072729?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Intern | NC - Weddington | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072731?s=gh-new-grad-healthcare-jobs-2027) |
@@ -362,12 +362,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Phlebotomist - Client Office | Suwanee GA | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631921?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist-Client Office | Suwanee GA | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631792?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist-Patient Service Center | Newnan GA | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635838?s=gh-new-grad-healthcare-jobs-2027) |
-| **Amgen** | Commercial Forecasting Assoc Dir | California - Thousand Oaks | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255467?s=gh-new-grad-healthcare-jobs-2027) |
-| **Amgen** | Local Trial Manager | California - Thousand Oaks | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255458?s=gh-new-grad-healthcare-jobs-2027) |
-| **Amgen** | Process Development Associate | California - Thousand Oaks | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255465?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist - Client Office | Suwanee GA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631921?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist-Client Office | Suwanee GA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631792?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist-Patient Service Center | Newnan GA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635838?s=gh-new-grad-healthcare-jobs-2027) |
+| **Amgen** | Commercial Forecasting Assoc Dir | California - Thousand Oaks | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255467?s=gh-new-grad-healthcare-jobs-2027) |
+| **Amgen** | Local Trial Manager | California - Thousand Oaks | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255458?s=gh-new-grad-healthcare-jobs-2027) |
+| **Amgen** | Process Development Associate | California - Thousand Oaks | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-255465?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Grad Pharmacist | GA - Marietta | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072642?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Nurse Pracitioner | LA - Lafayette | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1069639?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Hand Orthopedic Surgeon | JACKSONVILLE, FL | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-10584?s=gh-new-grad-healthcare-jobs-2027) |
