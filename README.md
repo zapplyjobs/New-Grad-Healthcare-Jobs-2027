@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Patient Care Technician - PCT | Boone, NC | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0254020?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Patient Care Technician - PCT | Morganton, NC | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0262014?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Licensed Practical Nurse - LPN LVN Dialysis | Fayetteville, NY | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268329?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT | Boone, NC | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0254020?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT | Morganton, NC | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0262014?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Licensed Practical Nurse - LPN LVN Dialysis | Fayetteville, NY | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268329?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse NICU | Austin, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1321654?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse CVOR | Milwaukee, WI | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1292300?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Clinic Occupational Health and Wellness | Kokomo, IN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1317275?s=gh-new-grad-healthcare-jobs-2027) |
@@ -365,12 +365,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician - Front End | WA - Spokane | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0968888?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician Back End | MD - Annapolis Junction | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0971208?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician, Back End Full Time | NY - Ballston Spa | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0957225?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Float Phlebotomist | Irving TX | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627502?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Float Phlebotomist | Amarillo TX | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627826?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist Float | Tucson AZ | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631645?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician - Front End | WA - Spokane | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0968888?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician Back End | MD - Annapolis Junction | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0971208?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician, Back End Full Time | NY - Ballston Spa | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0957225?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Float Phlebotomist | Irving TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627502?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Float Phlebotomist | Amarillo TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627826?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist Float | Tucson AZ | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631645?s=gh-new-grad-healthcare-jobs-2027) |
 | **Becton Dickinson** | Team Lead | USA MD - Hunt Valley | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-554647?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Milford, OH, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-237968?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-238650?s=gh-new-grad-healthcare-jobs-2027) |
