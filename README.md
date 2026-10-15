@@ -65,12 +65,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | OH - Columbus | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1076319?s=gh-new-grad-healthcare-jobs-2027) |
-| **Boys Town** | RN Pre-Op/Phase II | Omaha, NE | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-9436?s=gh-new-grad-healthcare-jobs-2027) |
-| **Boys Town** | RN Pre Op/Phase II | Omaha, NE | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-9292?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | CA - San Francisco | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1013347?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Inventory Control Coordinator - Specialty Returns | PA - Monroeville | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1048112?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Patient Care Technician II, ED, Full Time, AVH | Natrona Heights PA, 15065, 1301... | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288415?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | OH - Columbus | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1076319?s=gh-new-grad-healthcare-jobs-2027) |
+| **Boys Town** | RN Pre-Op/Phase II | Omaha, NE | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-9436?s=gh-new-grad-healthcare-jobs-2027) |
+| **Boys Town** | RN Pre Op/Phase II | Omaha, NE | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-9292?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | CA - San Francisco | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1013347?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Inventory Control Coordinator - Specialty Returns | PA - Monroeville | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1048112?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Patient Care Technician II, ED, Full Time, AVH | Natrona Heights PA, 15065, 1301... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288415?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Kailua Kona, HI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272903?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Wailuku, HI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0273425?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Registered Nurse  - ED PSYCH | San Antonio, TX, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603016402?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Lab Assistant | Austin TX | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2615027?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Lab Assistant | Austin TX | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2615027?s=gh-new-grad-healthcare-jobs-2027) |
 | **Thermo Fisher Scientific** | FSP - Scientist III - Small Molecule | Greenfield, Indiana, USA | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01363444?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amazon.com Services LLC** | Data Scientist I, PXT Central Science | Arlington, VA | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-4bf837ae-65f2-4bb0-9839-1fe6fbca3399?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Laboratory Technician | Horsham, PA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000155590029?s=gh-new-grad-healthcare-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Medtronic** | Cardiac Rhythm Management Clinical Specialist - New Hampshire | State of New Hampshire, United... | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79685?s=gh-new-grad-healthcare-jobs-2027) |
+| **Medtronic** | Cardiac Rhythm Management Clinical Specialist - New Hampshire | State of New Hampshire, United... | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79685?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician - Prior Authorizations - Work From Home | AZ - Work from home | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0991863?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Case Manager Behavioral Health - LCSW or LCPC (Field - Chinatown area) | IL Chicago | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1068817?s=gh-new-grad-healthcare-jobs-2027) |
 | **EVERSANA** | Medical Information Specialist | Overland Park, KS | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-EVERSANA1-744000155596039?s=gh-new-grad-healthcare-jobs-2027) |
@@ -363,14 +363,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | OH - Westlake | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1075759?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | TX - Livingston | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1075968?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | MI - Shelby Township | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1075692?s=gh-new-grad-healthcare-jobs-2027) |
-| **Bristol Myers Squibb** | Associate, QC Analytical Flow Cytometry, A2 Shift, Cell Therapy | Devens - MA - US | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1607099?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist-Float | Newark NJ | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-265042?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Fredericksburg VA | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633437?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Grand Blanc MI | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630029?s=gh-new-grad-healthcare-jobs-2027) |
-| **Eversource Energy** | Athletic Trainer - Field Ergonomics & Mobility | Tilton, NH | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032189?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | OH - Westlake | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1075759?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | TX - Livingston | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1075968?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | MI - Shelby Township | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1075692?s=gh-new-grad-healthcare-jobs-2027) |
+| **Bristol Myers Squibb** | Associate, QC Analytical Flow Cytometry, A2 Shift, Cell Therapy | Devens - MA - US | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1607099?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist-Float | Newark NJ | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-265042?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Fredericksburg VA | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633437?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Grand Blanc MI | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630029?s=gh-new-grad-healthcare-jobs-2027) |
+| **Eversource Energy** | Athletic Trainer - Field Ergonomics & Mobility | Tilton, NH | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032189?s=gh-new-grad-healthcare-jobs-2027) |
 | **Toyota Research Institute** | Postdoctoral Researcher, Post-Training and Continual Adaptation for Robotics | Cambridge, MA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-caf6bc0f-4f02-4d1d-b48e-c5a316ceee30?s=gh-new-grad-healthcare-jobs-2027) |
 | **Advantmed** | Medical Records Technician (Baton Rouge, LA) 6786 | Baton Rouge, Louisiana | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-advantmed-217CA8042C?s=gh-new-grad-healthcare-jobs-2027) |
 | **Advantmed** | Medical Records Technician (Charlotte, NC) 6788 | Charlotte, North Carolina | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-advantmed-BB621D9DEB?s=gh-new-grad-healthcare-jobs-2027) |
