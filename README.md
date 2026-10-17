@@ -16,8 +16,8 @@
 <p align="center">🚀 Healthcare and nursing jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Healthcare%20Jobs-10321-3FB950?style=flat&logo=briefcase" height="30" alt="Healthcare Jobs">
-  <img src="https://img.shields.io/badge/Nursing-5941-2F81F7?style=flat&logo=briefcase" height="30" alt="Nursing">
+  <img src="https://img.shields.io/badge/Healthcare%20Jobs-10317-3FB950?style=flat&logo=briefcase" height="30" alt="Healthcare Jobs">
+  <img src="https://img.shields.io/badge/Nursing-5939-2F81F7?style=flat&logo=briefcase" height="30" alt="Nursing">
   <img src="https://img.shields.io/badge/Companies-137-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
@@ -87,9 +87,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | Case Manager, Registered Nurse (Remote) | NY - Work from hom | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1063660?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Case Manager Registered Nurse | PA - Work from home | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1063662?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist - Part-Time - 3rd Shift - Inpatient | Lowell MA | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627645?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse NICU | Indianapolis, IN | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1320785?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Licensed Practical Nurse | Milwaukee, WI | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1321090?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Critical Care | Murfreesboro, TN | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1322796?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse Pulmonary | Austin, TX | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-11603?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse Diagnostic Imaging | Elk Grove Village, IL | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1325426?s=gh-new-grad-healthcare-jobs-2027) |
 | **Iterative Health** | Infusion RN  -  Rochester, NY | Rochester, New York | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-iterativehealth-4722454006?s=gh-new-grad-healthcare-jobs-2027) |
 | **Boys Town** | RN Pre-Op/Phase II | Omaha, NE | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-9436?s=gh-new-grad-healthcare-jobs-2027) |
 | **Boys Town** | RN Pre Op/Phase II | Omaha, NE | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-9292?s=gh-new-grad-healthcare-jobs-2027) |
@@ -323,10 +323,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GDIT** | Mental Health Clinician | USA NC Fort Bragg | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230449?s=gh-new-grad-healthcare-jobs-2027) |
 | **GDIT** | Clinical Psychologist | USA NC Fort Bragg - Fort Bragg | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230426?s=gh-new-grad-healthcare-jobs-2027) |
 | **Hilton** | Massage Therapist (Part-Time) - Kilolani Spa at Grand Wailea, A Waldorf Astoria Resort | Wailea, HI, United States | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-227360?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Respiratory Therapist Pediatric | Austin, TX | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1289823?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Occupational Therapist | Appleton, WI | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1323160?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Respiratory Therapist | Round Rock, TX | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1326459?s=gh-new-grad-healthcare-jobs-2027) |
 | **Citizens Financial Group** | Consumer Counselor- Mortgage Collections | Irving, TX, United States | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-citizens-financial-49851?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Respiratory Therapist Pediatric | Austin, TX | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1289840?s=gh-new-grad-healthcare-jobs-2027) |
 | **Leidos** | Military Family Life School Counselor - San Angelo, TX | Goodfellow Air Force Base, TX | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00194422?s=gh-new-grad-healthcare-jobs-2027) |
 | **Globus Medical** | Fast Track Associate Spine Specialist (New York City) | New York | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globusmedical-gmed-careers-JR108041?s=gh-new-grad-healthcare-jobs-2027) |
 | **Johnson & Johnson** | Field Clinical Specialist (New York City) - J&J MedTech (Circulatory Restoration) | New York, New York, United States | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-104323?s=gh-new-grad-healthcare-jobs-2027) |
@@ -394,7 +394,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amgen** | Biostatistics Oncology TA Head | California - Thousand Oaks | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-257994?s=gh-new-grad-healthcare-jobs-2027) |
 | **Merck & Co.** | 2027 Future Talent Program – Chemical Biology Spatial Biology & Proteomics – Co-op | USA - Massachusetts - Cambridge | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R413530?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Washington Court House, OH,... | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-241693?s=gh-new-grad-healthcare-jobs-2027) |
-| **University of Miami** | Assistant Professor of Clinical - Medicine, Endocrinology | Miami, Florida | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100101806?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Miami** | Per Diem Ultrasound Technologist - UHealth SoLé Mia | North Miami, Florida | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100101121?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Miami** | Patient Access Specialist (On-Site) (H) | Palm Beach Gardens, Florida | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102077?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Method Development and Validation Research Technician I | Lenexa, KS | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000156091129?s=gh-new-grad-healthcare-jobs-2027) |
@@ -425,6 +424,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Tenet Healthcare** | Patient Care Tech (PCT) - Float Pool | West Palm Beach, FL, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603005107?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Ultrasound Tech | Worcester, MA, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603005814?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Patient Care Tech  Med-Surg.  FT  Nights | Nacogdoches, TX, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2604000609?s=gh-new-grad-healthcare-jobs-2027) |
+| **University of Miami** | Nurse Navigator 1 - Primary Care TBC - Full Time | Coral Gables, Florida | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100101877?s=gh-new-grad-healthcare-jobs-2027) |
 | **Atlantic Health System** | Radiographer-Atlantic Health Morristown Medical Center-Full Time: 2p-10p | Morristown, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-23314?s=gh-new-grad-healthcare-jobs-2027) |
 | **Atlantic Health System** | Radiographer-Atlantic Health Morristown Medical Center-Full Time: Mon-Fri 3p - 11p | Morristown, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-26898?s=gh-new-grad-healthcare-jobs-2027) |
 | **Atlantic Health System** | Radiographer-Atlantic Health Imaging @ 261 James St- Full Time | Morristown, NJ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-28110?s=gh-new-grad-healthcare-jobs-2027) |
@@ -538,7 +538,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 10321 current opportunities from 137 companies**
+**🎯 10317 current opportunities from 137 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
