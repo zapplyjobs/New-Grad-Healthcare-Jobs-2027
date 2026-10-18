@@ -67,7 +67,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Fresenius Medical Care** | Acute Inpatient Patient Care Technician - PCT CCHT - Dialysis | Louisville, KY | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0274285?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN - Dialysis | Louisville, KY | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0274065?s=gh-new-grad-healthcare-jobs-2027) |
-| **Amazon.com Services LLC** | Applied Scientist II, International and Emerging Stores Payments | Seattle, WA | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-32b9eaf1-44a5-4a2d-a8fc-c7a3ae6d3a6a?s=gh-new-grad-healthcare-jobs-2027) |
+| **Amazon.com Services LLC** | Applied Scientist II, International and Emerging Stores Payments | Seattle, WA | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-32b9eaf1-44a5-4a2d-a8fc-c7a3ae6d3a6a?s=gh-new-grad-healthcare-jobs-2027) |
 | **Zoetis** | Endoparasite Biologist Intern | Kalamazoo - Downtown Portage Street | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00021823?s=gh-new-grad-healthcare-jobs-2027) |
 | **Cigna** | Onsite Health Coach - Evernorth - New Orleans Louisiana | New Orleans, LA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26011781?s=gh-new-grad-healthcare-jobs-2027) |
 | **Cigna** | Onsite Health Educator - Evernorth - Omaha Nebraska | Omaha , NE | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26011780?s=gh-new-grad-healthcare-jobs-2027) |
@@ -362,7 +362,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Kroger** | Pharmacy Technician | Seymour, IN, United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-240577?s=gh-new-grad-healthcare-jobs-2027) |
+| **Kroger** | Pharmacy Technician | Seymour, IN, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-240577?s=gh-new-grad-healthcare-jobs-2027) |
 | **Guidehouse** | Patient Account Representative - Patient Collections - Bilingual Spanish | CA, El Segundo | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-45636?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | IOP Phlebotomist | Gonzales LA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630955?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | IOP Phlebotomist | Pascagoula MS | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2629632?s=gh-new-grad-healthcare-jobs-2027) |
