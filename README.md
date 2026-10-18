@@ -363,9 +363,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | IOP Phlebotomist | Pascagoula MS | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2629632?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Yorba Linda CA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634579?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist Float | Yorba Linda CA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633577?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | IOP Phlebotomist | Pascagoula MS | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2629632?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Yorba Linda CA | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634579?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist Float | Yorba Linda CA | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633577?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Biomedical Technician | Saint Petersburg, FL | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272642?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Registered Dietitian | Detroit, MI | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0257051?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Registered Dietitian | Laredo, TX | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0273565?s=gh-new-grad-healthcare-jobs-2027) |
