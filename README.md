@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Patient Care Technician - PCT | Shreveport, LA | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0266136?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN | JACKSON, MS | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0266355?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN | JACKSON, MS | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0262122?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT | Shreveport, LA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0266136?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN | JACKSON, MS | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0266355?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN | JACKSON, MS | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0262122?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amazon.com Services LLC** | Applied Scientist II, International and Emerging Stores Payments | Seattle, WA | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-32b9eaf1-44a5-4a2d-a8fc-c7a3ae6d3a6a?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Care Technician - Trauma ICU - AGH - Full Time | Pittsburgh PA, 15212 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J289964?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Care Technician - Trauma ICU - AGH - Full Time | Pittsburgh PA, 15212 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J289959?s=gh-new-grad-healthcare-jobs-2027) |
@@ -362,10 +362,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | 16628 - Washington CVS... | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1069898?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Registered Dietitian- Clinic | Shreveport, LA, USA | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272554?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Registered Dietitian | Bossier City, LA | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0257406?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Office Administrator | Midland, WA | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272755?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | 16628 - Washington CVS... | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1069898?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Registered Dietitian- Clinic | Shreveport, LA, USA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272554?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Registered Dietitian | Bossier City, LA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0257406?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Office Administrator | Midland, WA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272755?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Columbus, OH, United States | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-220437?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Seymour, IN, United States | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-240577?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Middletown, OH, United States | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-241434?s=gh-new-grad-healthcare-jobs-2027) |
