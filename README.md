@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Patient Care Technician - PCT | Shreveport, LA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0266136?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN | JACKSON, MS | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0266355?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN | JACKSON, MS | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0262122?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT | Shreveport, LA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0266136?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN | JACKSON, MS | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0266355?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN | JACKSON, MS | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0262122?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Respiratory Therapist Pediatrics and NICU Travel | Austin, TX | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-16409?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse | Franklin, WI | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-14114?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Licensed Vocational Nurse | Waco, TX | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-14931?s=gh-new-grad-healthcare-jobs-2027) |
@@ -362,14 +362,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Service Representative | San Antonio TX | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2628955?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Service Representative | San Antonio TX | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2628955?s=gh-new-grad-healthcare-jobs-2027) |
 | **Elevance Health** | Medical Management Clinician Associate | NY-LATHAM | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR210073?s=gh-new-grad-healthcare-jobs-2027) |
 | **Elevance Health** | Medical Management Clinician Associate | NY-LATHAM | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR209837?s=gh-new-grad-healthcare-jobs-2027) |
 | **Elevance Health** | Medical Management Clinician Associate | NY LATHAM 15 PLAZA DR | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR210048?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Medical Assistant | PA - Philadelphia | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1076383?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Registered Dietitian- Clinic | Shreveport, LA, USA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272554?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Registered Dietitian | Bossier City, LA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0257406?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Office Administrator | Midland, WA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272755?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Registered Dietitian- Clinic | Shreveport, LA, USA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272554?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Registered Dietitian | Bossier City, LA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0257406?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Office Administrator | Midland, WA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272755?s=gh-new-grad-healthcare-jobs-2027) |
 | **AstraZeneca** | Clinical Pharmacometrician | South San Francisco - CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-262047?s=gh-new-grad-healthcare-jobs-2027) |
 | **AstraZeneca** | Specialist, Quality Control Analytical, Cell Therapy ( Wed - Saturday) | Rockville - MD | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-262044?s=gh-new-grad-healthcare-jobs-2027) |
 | **AstraZeneca** | Specialist, Quality Control Analytical, Cell Therapy (Sun - Wed) | Rockville - MD | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-262045?s=gh-new-grad-healthcare-jobs-2027) |
