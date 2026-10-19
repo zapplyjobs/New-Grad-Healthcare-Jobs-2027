@@ -65,11 +65,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Cardinal Health** | PRN Hospital Pharmacy Technician | Hammond, LA | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20189358?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | OH - Toledo | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1079146?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Respiratory Therapist Pediatrics and NICU Travel | Austin, TX | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-16409?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse | Franklin, WI | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-14114?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Licensed Vocational Nurse | Waco, TX | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-14931?s=gh-new-grad-healthcare-jobs-2027) |
+| **Cardinal Health** | PRN Hospital Pharmacy Technician | Hammond, LA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20189358?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | OH - Toledo | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1079146?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Respiratory Therapist Pediatrics and NICU Travel | Austin, TX | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-16409?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse | Franklin, WI | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-14114?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Licensed Vocational Nurse | Waco, TX | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-14931?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Shreveport, LA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0266136?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN | JACKSON, MS | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0266355?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN | JACKSON, MS | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0262122?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Pfizer** | Associate Scientist - Robotics & Automation, Vaccines | United States - New York -... | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4965298?s=gh-new-grad-healthcare-jobs-2027) |
-| **Pfizer** | Associate Scientist, Sample Logistics | United States - New York -... | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4965548?s=gh-new-grad-healthcare-jobs-2027) |
+| **Pfizer** | Associate Scientist - Robotics & Automation, Vaccines | United States - New York -... | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4965298?s=gh-new-grad-healthcare-jobs-2027) |
+| **Pfizer** | Associate Scientist, Sample Logistics | United States - New York -... | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4965548?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Clinical Research Associate | United States California | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31165206?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Scientist II - Analytical Chemist | Saint Charles, MO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000156094339?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Laboratory Technician | Lenexa, KS | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000156093989?s=gh-new-grad-healthcare-jobs-2027) |
@@ -362,15 +362,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | MD - Pasadena | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1078629?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | UM Nurse Consultant | LA - Work from home | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1053364?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | MD - Pasadena | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1078628?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Detroit MI | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2632853?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | MD - Pasadena | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1078629?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | UM Nurse Consultant | LA - Work from home | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1053364?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | MD - Pasadena | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1078628?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Detroit MI | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2632853?s=gh-new-grad-healthcare-jobs-2027) |
 | **Elevance Health** | Medical Management Clinician Associate | NY-LATHAM | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR210073?s=gh-new-grad-healthcare-jobs-2027) |
 | **Elevance Health** | Medical Management Clinician Associate | NY-LATHAM | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR209837?s=gh-new-grad-healthcare-jobs-2027) |
 | **Elevance Health** | Medical Management Clinician Associate | NY LATHAM 15 PLAZA DR | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR210048?s=gh-new-grad-healthcare-jobs-2027) |
-| **University of Miami** | Clinical Program Manager | Miami, Florida | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100097101?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | OB/GYN Hospitalist | Austin, TX | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2025-428263?s=gh-new-grad-healthcare-jobs-2027) |
+| **University of Miami** | Clinical Program Manager | Miami, Florida | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100097101?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | OB/GYN Hospitalist | Austin, TX | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2025-428263?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Registered Dietitian- Clinic | Shreveport, LA, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272554?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Registered Dietitian | Bossier City, LA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0257406?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Office Administrator | Midland, WA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272755?s=gh-new-grad-healthcare-jobs-2027) |
