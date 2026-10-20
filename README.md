@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Elevance Health** | Medical Mgmt Nurse (RN) | IN-INDIANAPOLIS | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR209861?s=gh-new-grad-healthcare-jobs-2027) |
+| **Elevance Health** | Medical Mgmt Nurse (RN) | IN-INDIANAPOLIS | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR209861?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Nursing Professional Development Specialist- Surg Tech Academy, AHN | Bellevue PA, 15202 | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286607?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Care Technician - 5N Med/Surg - Wexford Hospital - Part Time | Wexford PA, 15090, 12351 Perry... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J289955?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Health Coach - (CMA or LPN) - CIN - Erie PA/Warren PA- Hybrid | Erie PA,16502 | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J280759?s=gh-new-grad-healthcare-jobs-2027) |
@@ -184,7 +184,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Clinical Laboratory Scientist II - NGS | United States > Madison : 650... | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31165203?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Laboratory Technician IV | Waco, TX | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016244136?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Scientist I, Biopharmaceutics | North Chicago, IL | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016237946?s=gh-new-grad-healthcare-jobs-2027) |
-| **AbbVie** | Scientist I | Waltham, MA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016232036?s=gh-new-grad-healthcare-jobs-2027) |
+| **AbbVie** | Scientist I | Waltham, MA | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016232036?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Statistician -Medtronic Clinical Research Solutions (MCRS) - On-site, Minneapolis, MN | Minneapolis, Minnesota, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79230?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Strategic Clinical Research Program Manager/Clinical Scientist - PH - Rice Creek, MN (Onsite) | Minneapolis, Minnesota, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R78922?s=gh-new-grad-healthcare-jobs-2027) |
 | **NVIDIA** | Emulation Lab Technician | US, CA, Santa Clara | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028074?s=gh-new-grad-healthcare-jobs-2027) |
@@ -365,9 +365,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | AZ - Scottsdale | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1075791?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | AZ - Phoenix | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1076224?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | NV - Las Vegas | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1076398?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | AZ - Scottsdale | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1075791?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | AZ - Phoenix | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1076224?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | NV - Las Vegas | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1076398?s=gh-new-grad-healthcare-jobs-2027) |
 | **Thales** | Executive Assistant | Orlando | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0330710?s=gh-new-grad-healthcare-jobs-2027) |
 | **Booz Allen Hamilton** | Public Health Specialist | Bethesda, MD | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251890?s=gh-new-grad-healthcare-jobs-2027) |
 | **Hitachi** | Industrial Occupational Health Nurse | Crystal Springs, Mississippi,... | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0145046?s=gh-new-grad-healthcare-jobs-2027) |
