@@ -162,7 +162,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Lab Assistant | Tampa FL | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637015?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Lab Assistant | Tampa FL | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637015?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Chemistry Laboratory Technician I | Mounds View, MN | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000157679349?s=gh-new-grad-healthcare-jobs-2027) |
 | **Parsons** | Data Scientist II | DC, Washington, R186425 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R186425?s=gh-new-grad-healthcare-jobs-2027) |
 | **Parsons** | Data Scientist I | DC, Washington, R186422 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R186422?s=gh-new-grad-healthcare-jobs-2027) |
@@ -340,9 +340,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Phlebotomist | Mission Viejo CA | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2624358?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Clinical Laboratory Technologist - Hematology | Tampa FL | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637012?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | PSC Phlebotomist | Huntsville AL | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638208?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Mission Viejo CA | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2624358?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Clinical Laboratory Technologist - Hematology | Tampa FL | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637012?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | PSC Phlebotomist | Huntsville AL | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638208?s=gh-new-grad-healthcare-jobs-2027) |
 | **Vertex Pharmaceuticals** | Spring Co-Op 2027, Drug Product Development - Cell Therapy Cryopreservation | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30508?s=gh-new-grad-healthcare-jobs-2027) |
 | **Vertex Pharmaceuticals** | Patient Safety PVSci Manager | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30159?s=gh-new-grad-healthcare-jobs-2027) |
 | **Vertex Pharmaceuticals** | Comparative Medicine Manager | 5005 - Vertex US - San Diego | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30042?s=gh-new-grad-healthcare-jobs-2027) |
