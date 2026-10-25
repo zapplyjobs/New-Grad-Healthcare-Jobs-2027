@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | New Graduate Nurse | Acworth, GA | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269251?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | New Graduate Nurse | Newberry, SC | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0267531?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | New Graduate Nurse | Suffolk, VA | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0275316?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Nissan** | Emissions Test Lab Technician | Farmington Hills, Michigan -... | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00215453?s=gh-new-grad-healthcare-jobs-2027) |
+| **Nissan** | Emissions Test Lab Technician | Farmington Hills, Michigan -... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00215453?s=gh-new-grad-healthcare-jobs-2027) |
 | **Pfizer** | Associate Scientist CID | United States - New York -... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4965881?s=gh-new-grad-healthcare-jobs-2027) |
 | **Regal Rexnord** | Electronics Lab Technician I | Radford, Virginia, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04131?s=gh-new-grad-healthcare-jobs-2027) |
 | **Gilead Sciences** | Sr Associate Scientist, FPD | United States - California -... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0056040?s=gh-new-grad-healthcare-jobs-2027) |
