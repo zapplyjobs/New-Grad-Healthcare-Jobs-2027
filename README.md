@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Pfizer** | Associate Scientist CID | United States - New York -... | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4965881?s=gh-new-grad-healthcare-jobs-2027) |
-| **Nissan** | Emissions Test Lab Technician | Farmington Hills, Michigan -... | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00215453?s=gh-new-grad-healthcare-jobs-2027) |
+| **Pfizer** | Associate Scientist CID | United States - New York -... | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4965881?s=gh-new-grad-healthcare-jobs-2027) |
+| **Nissan** | Emissions Test Lab Technician | Farmington Hills, Michigan -... | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00215453?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Lab Assistant - Histology | Murfreesboro TN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636590?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Clinical Laboratory Technician - Hematology | Birmingham AL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635561?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Medical Laboratory Scientist - $10,000.00 SIGN ON BONUS | Nashville TN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636193?s=gh-new-grad-healthcare-jobs-2027) |
@@ -365,10 +365,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | In Home Health Physician (Full Time) - Manhattan, NY | NY - Manhattan | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1083862?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In-Home Health - Physician (Per Diem) - Providence, RI | RI - Providence | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084424?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In-Home Health - Physician (Part Time) - Portland, Maine | ME - Portland | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084504?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | 3rd shift Hospital Phlebotomist | Fairhope AL | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634645?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In Home Health Physician (Full Time) - Manhattan, NY | NY - Manhattan | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1083862?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In-Home Health - Physician (Per Diem) - Providence, RI | RI - Providence | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084424?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In-Home Health - Physician (Part Time) - Portland, Maine | ME - Portland | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084504?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | 3rd shift Hospital Phlebotomist | Fairhope AL | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634645?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Clinical Laboratory Technologist -  Molecular Infectious Disease | Burlington NC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2629224?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Hospital Phlebotomist - 1st Shift | Wichita KS | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2628715?s=gh-new-grad-healthcare-jobs-2027) |
 | **Elevance Health** | Medical Management Nurse | 6 Locations | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR209656?s=gh-new-grad-healthcare-jobs-2027) |
@@ -404,7 +404,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intuitive** | Clinical Development Engineer - Advanced Energy | Sunnyvale, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000157556532?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Clinical Lab Associate III, Pre-Analytical | United States > Madison : 650... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31165401?s=gh-new-grad-healthcare-jobs-2027) |
 | **Dandy** | Dental Field Trainer - Chicago | USA - Remote | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-dandy-47a22e84-03fc-4910-96fb-b185c103b8f7?s=gh-new-grad-healthcare-jobs-2027) |
-| **Cigna** | Pharmacy Technician Associate - Accredo - Newark, DE | DE, Newark | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26011362?s=gh-new-grad-healthcare-jobs-2027) |
+| **Cigna** | Pharmacy Technician Associate - Accredo - Newark, DE | DE, Newark | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26011362?s=gh-new-grad-healthcare-jobs-2027) |
 | **GDIT** | Paramedic | USA NC Pope AFF | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229040?s=gh-new-grad-healthcare-jobs-2027) |
 | **AstraZeneca** | QC Associate – Global Cell Therapy Raw Materials | Rockville - MD | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-262514?s=gh-new-grad-healthcare-jobs-2027) |
 | **Argonne National Laboratory** | Postdoctoral Appointee - Power Markets and Modeling | Lemont, IL USA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-argonne-argonne-careers-423600?s=gh-new-grad-healthcare-jobs-2027) |
