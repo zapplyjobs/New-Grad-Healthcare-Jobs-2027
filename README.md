@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | New Graduate Nurse | Acworth, GA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269251?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | New Graduate Nurse | Newberry, SC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0267531?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | New Graduate Nurse | Suffolk, VA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0275316?s=gh-new-grad-healthcare-jobs-2027) |
@@ -84,7 +84,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LabCorp** | Phlebotomist-PRN-Spring Hill | Spring Hill FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2629859?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amazon.com Services LLC** | Data Scientist I, Central Learning Solutions Science | Bellevue, WA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-45ff7ec7-fec7-4e6e-aa05-8c9653f28c60?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | PHARMACIST INTERN | North Las Vegas, NV, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-244208?s=gh-new-grad-healthcare-jobs-2027) |
-| **AbbVie** | 2027 Corporate Affairs Development Program Intern (Undergraduate) | North Chicago, IL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016339656?s=gh-new-grad-healthcare-jobs-2027) |
+| **AbbVie** | 2027 Corporate Affairs Development Program Intern (Undergraduate) | North Chicago, IL | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016339656?s=gh-new-grad-healthcare-jobs-2027) |
 | **Boys Town** | Registered Nurse (RN), Pediatrics | Omaha, NE | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-9544?s=gh-new-grad-healthcare-jobs-2027) |
 | **Boys Town** | Beh. Health Registered Nurse | Omaha, NE | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-9549?s=gh-new-grad-healthcare-jobs-2027) |
 | **Boys Town** | Registered Nurse - Same Day Pediatrics (Part-Time Evenings) | Omaha, NE | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-9559?s=gh-new-grad-healthcare-jobs-2027) |
@@ -324,8 +324,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | PSC Phlebotomist | Huntsville AL | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638208?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | PSC Phlebotomist | Huntsville AL | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638293?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | PSC Phlebotomist | Huntsville AL | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638208?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | PSC Phlebotomist | Huntsville AL | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638293?s=gh-new-grad-healthcare-jobs-2027) |
 | **Vertex Pharmaceuticals** | Spring Co-Op 2027, Drug Product Development - Cell Therapy Cryopreservation | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30508?s=gh-new-grad-healthcare-jobs-2027) |
 | **Vertex Pharmaceuticals** | Patient Safety PVSci Manager | Boston, MA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30159?s=gh-new-grad-healthcare-jobs-2027) |
 | **Vertex Pharmaceuticals** | Comparative Medicine Manager | 5005 - Vertex US - San Diego | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30042?s=gh-new-grad-healthcare-jobs-2027) |
