@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | MA - Cambridge | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0998172?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | MA - Malden | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0995587?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | MA - Cambridge | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0998172?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | MA - Malden | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0995587?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT - Training Provided | Philadelphia, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0255853?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Houston, TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269352?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | New Graduate Nurse | Acworth, GA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269251?s=gh-new-grad-healthcare-jobs-2027) |
