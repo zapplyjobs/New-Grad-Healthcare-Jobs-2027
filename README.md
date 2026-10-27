@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | New Graduate Nurse | Hampton, VA | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0275313?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | New Graduate Nurse | Hampton, VA | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0275313?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Care Technician - 5N Ortho/Stroke/Trauma - Casual - Forbes Hospital | Monroeville PA, 15146, 2570... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J283242?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Care Technician I - CDU - SVH - Full Time | Erie PA, 16502 | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J284655?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | RN Program Coordinator - Street Medicine - Bellevue - FT | Bellevue PA, 15202 | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290201?s=gh-new-grad-healthcare-jobs-2027) |
@@ -357,12 +357,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | NY - Syosset | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1086622?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | MI - Belleville | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1086411?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | IN - Fort Wayne | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1086558?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Associate Dietitian | CA109 Brawley - Clinic | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0267902?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | CT Technologist   Canonsburg Hospital | Canonsburg PA, 15317 | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J272357?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Specimen Processor I | Portland OR | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2622109?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | NY - Syosset | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1086622?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | MI - Belleville | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1086411?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | IN - Fort Wayne | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1086558?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Associate Dietitian | CA109 Brawley - Clinic | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0267902?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | CT Technologist   Canonsburg Hospital | Canonsburg PA, 15317 | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J272357?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Specimen Processor I | Portland OR | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2622109?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Medical Assistant - PCI - Forest Hills - Full Time | Pittsburgh PA, 15221 | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J282864?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Medical Assistant - Primary Care - Monroeville - Full Time | Monroeville PA, 15146 | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290005?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Denver, CO, United States | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-245411?s=gh-new-grad-healthcare-jobs-2027) |
