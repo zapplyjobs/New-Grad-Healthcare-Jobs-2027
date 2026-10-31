@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Case Manager, Registered Nurse - Southeast Region | GA Work from home | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1059805?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Case Manager, Registered Nurse - Remote | NC Work from home | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1089594?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern - Grad | 09500 - Longs Drug Stores... | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996783?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Case Manager, Registered Nurse - Southeast Region | GA Work from home | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1059805?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Case Manager, Registered Nurse - Remote | NC Work from home | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1089594?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | 09500 - Longs Drug Stores... | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996783?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Miami** | Registered Nurse, Medical Intensive Care, Full-time | Miami, Florida | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102587?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Phenix City, AL | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0273681?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Zion, IL | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0265349?s=gh-new-grad-healthcare-jobs-2027) |
@@ -115,7 +115,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **MedVet** | Nursing & ICU Veterinary Technician | Akron, Ohio | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/jobvite-medvet-oLs1Afwy?s=gh-new-grad-healthcare-jobs-2027) |
 | **LLNL** | Machine Learning - Postdoctoral Researcher | Livermore, CA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016432706?s=gh-new-grad-healthcare-jobs-2027) |
 | **LLNL** | Sidney Fernbach Postdoctoral Fellow | Livermore, CA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016432146?s=gh-new-grad-healthcare-jobs-2027) |
-| **AbbVie** | 2027 Corporate Affairs Development Program Intern (Undergraduate) | North Chicago, IL | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016430377?s=gh-new-grad-healthcare-jobs-2027) |
+| **AbbVie** | 2027 Corporate Affairs Development Program Intern (Undergraduate) | North Chicago, IL | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016430377?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | RN Research Nurse Coordinator l - Cardiology | Washington University Medical | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98345?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Nurse Anesthetist CRNA - Anesthesiology | Washington University Medical | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98222?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | RN Infusion Nurse II - Department of Medicine - West County Medicine Multispecialty Center | West County - St. Louis, MO | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98329?s=gh-new-grad-healthcare-jobs-2027) |
@@ -177,7 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Thermo Fisher Scientific** | MSAT Scientist I | Greenville, North Carolina, USA | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01373707?s=gh-new-grad-healthcare-jobs-2027) |
-| **Eurofins** | Scientist I - LC/MS- Environment Testing | South Bend, IN | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000158855939?s=gh-new-grad-healthcare-jobs-2027) |
+| **Eurofins** | Scientist I - LC/MS- Environment Testing | South Bend, IN | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000158855939?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Miami** | Assistant Scientist (Public Health Scientist) | Miami, Florida | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102669?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Miami** | Assistant Scientist (Public Health Sciences) | Miami, Florida | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102664?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Scientist I Analytical Chemist | Saint Charles, MO | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000158854284?s=gh-new-grad-healthcare-jobs-2027) |
@@ -185,7 +185,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BillionToOne** | Reporting Clinical Laboratory Scientist (contractor) | Union City, CA | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-billiontoone-4747272005?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Laboratory Technician VI | Waco, TX | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016537616?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | R&D Laboratory Technician II | Ogden, UT, USA | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0275212?s=gh-new-grad-healthcare-jobs-2027) |
-| **AbbVie** | Clinical Educator, AMI Clinical Engagement | Irvine, CA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016533626?s=gh-new-grad-healthcare-jobs-2027) |
+| **AbbVie** | Clinical Educator, AMI Clinical Engagement | Irvine, CA | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016533626?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Scientist II | Minneapolis, Minnesota, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R81061?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Postdoctoral Research Associate (Hybrid) - Emergency Medicine | Washington University Medical | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98429?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Clinical Research Coordinator I - Pediatrics Gastroenterology | Washington University Medical | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98389?s=gh-new-grad-healthcare-jobs-2027) |
@@ -287,8 +287,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Prior Authorization UM Nurse Consultant - Louisiana Preferred | LA - Work from home | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1077176?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Customer Service Representative - Behavioral Health | NC Work from home | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0990658?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Prior Authorization UM Nurse Consultant - Louisiana Preferred | LA - Work from home | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1077176?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Customer Service Representative - Behavioral Health | NC Work from home | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0990658?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Clinical Specialist - Cardiac Rhythm Management (Akron/Canton, OH) | Akron, Ohio, United States of... | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77871?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Associate Clinical Specialist CRM - Mountain View | Mountain View, California,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R81136?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Endoscopy Clinical Specialist | Philadelphia, Pennsylvania,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79843?s=gh-new-grad-healthcare-jobs-2027) |
@@ -368,9 +368,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Manager | NC - Arden | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1091106?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Medical Scribe | NC - Raleigh | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084621?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician Customer Service/Data Entry | MS - Ridgeland | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1037281?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Manager | NC - Arden | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1091106?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Medical Scribe | NC - Raleigh | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084621?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician Customer Service/Data Entry | MS - Ridgeland | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1037281?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Clinical Associate | United States - California -... | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31161700?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Clinical Associate | United States - California -... | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31150986?s=gh-new-grad-healthcare-jobs-2027) |
 | **Albertsons** | Pharmacy Technician | Westchester, IL, United States | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-787637?s=gh-new-grad-healthcare-jobs-2027) |
