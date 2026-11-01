@@ -364,8 +364,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | FL - Work from home | 30m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084057?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Manager | NC - Arden | 30m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1091106?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | FL - Work from home | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084057?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Manager | NC - Arden | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1091106?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Medical Scribe | NC - Raleigh | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084621?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Registered Dietitian | Rosedale, MD | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0249937?s=gh-new-grad-healthcare-jobs-2027) |
 | **Guidehouse** | Patient Coordinator | MD, Bethesda | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-46131?s=gh-new-grad-healthcare-jobs-2027) |
