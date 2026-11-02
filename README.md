@@ -65,14 +65,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | 00960 - Pennsylvania CVS... | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1092859?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | PA - Stroudsburg | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1092860?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | PA - West Chester | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1092862?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse Labor and Delivery | Hoffman Estates, IL | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1318168?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse Emergency Department | Hoffman Estates, IL | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-17270?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse OB High Risk | Nashville, TN | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-13885?s=gh-new-grad-healthcare-jobs-2027) |
-| **University of Miami** | GI - RN 1 - Per Diem | Doral, Florida | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100101207?s=gh-new-grad-healthcare-jobs-2027) |
-| **University of Miami** | Registered Nurse 1- Doral Clinic | Doral, Florida | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102627?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | 00960 - Pennsylvania CVS... | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1092859?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | PA - Stroudsburg | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1092860?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | PA - West Chester | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1092862?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse Labor and Delivery | Hoffman Estates, IL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1318168?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse Emergency Department | Hoffman Estates, IL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-17270?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse OB High Risk | Nashville, TN | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-13885?s=gh-new-grad-healthcare-jobs-2027) |
+| **University of Miami** | GI - RN 1 - Per Diem | Doral, Florida | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100101207?s=gh-new-grad-healthcare-jobs-2027) |
+| **University of Miami** | Registered Nurse 1- Doral Clinic | Doral, Florida | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102627?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse 2 | Houston, TX, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0275496?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Outpatient Licensed Practical Nurse - LPN LVN | Newark, NJ | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0265585?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Worcester, MA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0273894?s=gh-new-grad-healthcare-jobs-2027) |
@@ -287,11 +287,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Centene** | Youth Care Manager - Behavioral Health | Corpus Christi Texas78414 | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-centene-centene-external-1670750?s=gh-new-grad-healthcare-jobs-2027) |
-| **Centene** | Behavioral Health Care Manager, Child or Adolescent, LTSS | Austin Texas78712 | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-centene-centene-external-1670749?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Assistant Physical Therapist | Tulsa, OK | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-18027?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Physical Therapist Assistant | Tulsa, OK | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1297844?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Occupational Therapist | Fishers, IN | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1317560?s=gh-new-grad-healthcare-jobs-2027) |
+| **Centene** | Youth Care Manager - Behavioral Health | Corpus Christi Texas78414 | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-centene-centene-external-1670750?s=gh-new-grad-healthcare-jobs-2027) |
+| **Centene** | Behavioral Health Care Manager, Child or Adolescent, LTSS | Austin Texas78712 | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-centene-centene-external-1670749?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Assistant Physical Therapist | Tulsa, OK | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-18027?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Physical Therapist Assistant | Tulsa, OK | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1297844?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Occupational Therapist | Fishers, IN | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1317560?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Access Coordinator II - Bellevue - Full time - Day Shift | Bellevue PA, 15202 | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290576?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Access Coordinator II/Emergency Department - Forbes Regional Hospital - Full time -... | Monroeville PA, 15146, 2570... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290496?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Access Coordinator I/Emergency Department - AGH - Full-time - Evening Shifts | Pittsburgh PA, 15212 | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290470?s=gh-new-grad-healthcare-jobs-2027) |
@@ -365,17 +365,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Route Coordinator | New Brighton MN | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634740?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Service Reprepresentive | Weslaco TX | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634736?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Medical Assistant/Phlebotomist $2500 SIGN ON BONUS | IA - Des Moines | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1039729?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Interventional Radiology Tech Cath Lab | Chicago, IL | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-18791?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Endoscopy Technician | Elk Grove Village, IL | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-12796?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | PA Urgent Care NE | JACKSONVILLE, FL | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-21903?s=gh-new-grad-healthcare-jobs-2027) |
-| **Kroger** | Pharmacy Technician | White House, TN, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-221781?s=gh-new-grad-healthcare-jobs-2027) |
-| **Kroger** | Pharmacy Technician | Circleville, OH, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-247541?s=gh-new-grad-healthcare-jobs-2027) |
-| **Albertsons** | PT Pharmacy Technician-Willingboro, NJ | Willingboro, NJ, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-787195?s=gh-new-grad-healthcare-jobs-2027) |
-| **Albertsons** | PT Pharmacy Technician-Swedesboro, NJ | Logan Township, NJ, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-787210?s=gh-new-grad-healthcare-jobs-2027) |
-| **Albertsons** | PT Pharmacy Technician-Bensalem, PA | Bensalem, PA, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-787211?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Route Coordinator | New Brighton MN | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634740?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Service Reprepresentive | Weslaco TX | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634736?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Medical Assistant/Phlebotomist $2500 SIGN ON BONUS | IA - Des Moines | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1039729?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Interventional Radiology Tech Cath Lab | Chicago, IL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-18791?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Endoscopy Technician | Elk Grove Village, IL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-12796?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | PA Urgent Care NE | JACKSONVILLE, FL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-21903?s=gh-new-grad-healthcare-jobs-2027) |
+| **Kroger** | Pharmacy Technician | White House, TN, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-221781?s=gh-new-grad-healthcare-jobs-2027) |
+| **Kroger** | Pharmacy Technician | Circleville, OH, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-247541?s=gh-new-grad-healthcare-jobs-2027) |
+| **Albertsons** | PT Pharmacy Technician-Willingboro, NJ | Willingboro, NJ, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-787195?s=gh-new-grad-healthcare-jobs-2027) |
+| **Albertsons** | PT Pharmacy Technician-Swedesboro, NJ | Logan Township, NJ, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-787210?s=gh-new-grad-healthcare-jobs-2027) |
+| **Albertsons** | PT Pharmacy Technician-Bensalem, PA | Bensalem, PA, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-787211?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Float Phlebotomist | Seattle, WA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635157?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Dietitian | Beaumont, TX, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0274964?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician | TX - Cameron | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1092705?s=gh-new-grad-healthcare-jobs-2027) |
