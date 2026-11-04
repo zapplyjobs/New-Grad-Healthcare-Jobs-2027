@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Registered Nurse Level 3 – Grade 4 - Clinical Coordinator | Cannington, WA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271637?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Registered Nurse Level 3 – Grade 4 - Clinical Coordinator | Cannington, WA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271637?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | RN - Telemetry Intermediate Care (NEW GRADS) Jefferson | Jefferson Hills PA, 15025, 565... | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290847?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | RN - General Medical Surgical (NEW GRADS) Jefferson | Jefferson Hills PA, 15025, 565... | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290890?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | RN - Adult Respiratory & Medical Surgical (April/May 27 Grads) Jefferson | Jefferson Hills PA, 15025, 565... | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290857?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,16 +176,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Pfizer** | Associate Scientist | United States - New York -... | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4966234?s=gh-new-grad-healthcare-jobs-2027) |
+| **Pfizer** | Associate Scientist | United States - New York -... | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4966234?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Clinical Research Coordinator | Kalamazoo, MI, USA | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0275808?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Clinical Laboratory Technician - STAT lab | Raleigh NC | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637218?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Clinical Laboratory Technician | Kingsport TN | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637253?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Clinical Laboratory Technologist - Chemistry | Tampa FL | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636501?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Sample Management Associate (Part-Time) | Leola, PA | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000159512679?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Sample Management Associate (Part-Time) | Leola, PA | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000159511469?s=gh-new-grad-healthcare-jobs-2027) |
-| **Eurofins** | Sample Management Associate (Part-Time) | Leola, PA | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000159509039?s=gh-new-grad-healthcare-jobs-2027) |
+| **Eurofins** | Sample Management Associate (Part-Time) | Leola, PA | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000159509039?s=gh-new-grad-healthcare-jobs-2027) |
 | **Iterative Health** | Clinical Research Coordinator I - Nurse - Richmond, VA | Richmond, Virginia | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-iterativehealth-4726930006?s=gh-new-grad-healthcare-jobs-2027) |
-| **Chan Zuckerberg Biohub** | Postdoctoral Fellow/ Scientist I, T Cell Biology and Tissue Immunology | New York, NY (Onsite) | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-biohub-8351080?s=gh-new-grad-healthcare-jobs-2027) |
+| **Chan Zuckerberg Biohub** | Postdoctoral Fellow/ Scientist I, T Cell Biology and Tissue Immunology | New York, NY (Onsite) | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-biohub-8351080?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Lab Technician, Sampling (1st Shift, Sun-Thurs) - Sturgis, MI | United States - Michigan - Sturgis | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31166619?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Associate Scientist I/II, In Vivo Pharmacology | North Chicago, IL | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016592646?s=gh-new-grad-healthcare-jobs-2027) |
 | **Thermo Fisher Scientific** | FSP - Scientist - Analytical Development Testing | San Diego, California, USA | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01367015?s=gh-new-grad-healthcare-jobs-2027) |
@@ -370,11 +370,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Cigna** | Specialty Infusion Field Nurse, Per Diem – Accredo – Des Moines, IA | Des Moines, IA | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013585?s=gh-new-grad-healthcare-jobs-2027) |
-| **Teledyne** | Manufacturing X-Ray Technician | Lewisburg, TN | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36397?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Alexandria VA | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638319?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist Part Time | Brandywine MD | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636424?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Shelby NC | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637040?s=gh-new-grad-healthcare-jobs-2027) |
+| **Cigna** | Specialty Infusion Field Nurse, Per Diem – Accredo – Des Moines, IA | Des Moines, IA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013585?s=gh-new-grad-healthcare-jobs-2027) |
+| **Teledyne** | Manufacturing X-Ray Technician | Lewisburg, TN | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36397?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Alexandria VA | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638319?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist Part Time | Brandywine MD | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636424?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Shelby NC | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637040?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Attendant - AGH - Part Time | Pittsburgh PA, 15212 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288108?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Medical Assistant Certified-Pediatrics-Irwin | Irwin PA, 15642, 4044 Route 130 | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288140?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Medical Assistant-Breast Surgery-Forbes Hospital | Monroeville PA, 15146 | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J282797?s=gh-new-grad-healthcare-jobs-2027) |
