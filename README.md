@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Ascension** | Registered Nurse ED | Milwaukee, WI | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1313974?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse Women's and Children's Post Surgical | Tulsa, OK | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1309106?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse Telemetry | Tulsa, OK | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-16582?s=gh-new-grad-healthcare-jobs-2027) |
-| **Tenet Healthcare** | Radiology Tech - Student Extern | West Palm Beach, FL, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603028357?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse ED | Milwaukee, WI | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1313974?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse Women's and Children's Post Surgical | Tulsa, OK | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1309106?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse Telemetry | Tulsa, OK | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-16582?s=gh-new-grad-healthcare-jobs-2027) |
+| **Tenet Healthcare** | Radiology Tech - Student Extern | West Palm Beach, FL, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603028357?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Pottstown, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277167?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Registered Nurse - RN - Dialysis | Waianae, HI | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0276398?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Indianapolis, IN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0260967?s=gh-new-grad-healthcare-jobs-2027) |
@@ -287,9 +287,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Ascension** | Physical Therapist Acute | Hoffman Estates, IL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-436216?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Physical Therapist Day Rehab | Elk Grove Village, IL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1322234?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Behavioral Health Therapist | Hoffman Estates, IL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1319762?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Physical Therapist Acute | Hoffman Estates, IL | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-436216?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Physical Therapist Day Rehab | Elk Grove Village, IL | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1322234?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Behavioral Health Therapist | Hoffman Estates, IL | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1319762?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Clinical Specialist CRM - Sarasota / Fort Myers | Sarasota, Florida, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R80130?s=gh-new-grad-healthcare-jobs-2027) |
 | **Stryker** | Clinical Specialist, Joint Replacement - Fort Wayne, IN | Fort Wayne, Indiana | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R576909?s=gh-new-grad-healthcare-jobs-2027) |
 | **Stryker** | Clinical Specialist- Columbus, Ohio- Neurovascular | Columbus, Ohio | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R576723?s=gh-new-grad-healthcare-jobs-2027) |
@@ -364,12 +364,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | MN - White Bear Lake | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098111?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | MI - Westland | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098122?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | MI - Lake Orion | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1097949?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Hand Orthopedic Surgeon | JACKSONVILLE, FL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-10584?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Family Medicine Physician | Chilton, WI | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-453686?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Certified Surgical Tech CVOR | Austin, TX | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1286060?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | MN - White Bear Lake | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098111?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | MI - Westland | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098122?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | MI - Lake Orion | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1097949?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Hand Orthopedic Surgeon | JACKSONVILLE, FL | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-10584?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Family Medicine Physician | Chilton, WI | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-453686?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Certified Surgical Tech CVOR | Austin, TX | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1286060?s=gh-new-grad-healthcare-jobs-2027) |
 | **Insulet Corporation** | Controls & Instrumentation Technician (12 Hour Nights Shift - Onsite) | Massachusetts | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-16301?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Patient Access Liaison - UPLIZNA- North Florida | Florida - West Palm Beach | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-261061?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Patient Access Liaison - UPLIZNA - Nashville, TN | Tennessee - Nashville-Davidson | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-261062?s=gh-new-grad-healthcare-jobs-2027) |
