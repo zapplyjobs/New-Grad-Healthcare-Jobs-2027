@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Ascension** | Occupational Therapist Inpatient | Elk Grove Village, IL | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-448027?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse ED | Milwaukee, WI | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1313974?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse CVICU | Evansville, IN | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1325643?s=gh-new-grad-healthcare-jobs-2027) |
-| **Tenet Healthcare** | Radiology Tech - Student Extern | West Palm Beach, FL, United States | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603028357?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Occupational Therapist Inpatient | Elk Grove Village, IL | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-448027?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse ED | Milwaukee, WI | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1313974?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse CVICU | Evansville, IN | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1325643?s=gh-new-grad-healthcare-jobs-2027) |
+| **Tenet Healthcare** | Radiology Tech - Student Extern | West Palm Beach, FL, United States | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603028357?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Pottstown, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277167?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Registered Nurse - RN - Dialysis | Waianae, HI | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0276398?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Indianapolis, IN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0260967?s=gh-new-grad-healthcare-jobs-2027) |
@@ -113,7 +113,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cigna** | Health and Clinical Outcomes Research Intern (Master's/PhD Students) | Bloomfield, CT | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009344?s=gh-new-grad-healthcare-jobs-2027) |
 | **Cigna** | RN Onsite Health Coach | Clinic - Stanley Black & Decker | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013246?s=gh-new-grad-healthcare-jobs-2027) |
 | **Cardinal Health** | PRN Physician | Largo, FL | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190628?s=gh-new-grad-healthcare-jobs-2027) |
-| **Eurofins** | Laboratory Technician I (M-F, 3pm -11:30pm) Eurofins Environment Testing Northern California -... | Folsom, CA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000159717635?s=gh-new-grad-healthcare-jobs-2027) |
+| **Eurofins** | Laboratory Technician I (M-F, 3pm -11:30pm) Eurofins Environment Testing Northern California -... | Folsom, CA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000159717635?s=gh-new-grad-healthcare-jobs-2027) |
 | **Merck & Co.** | 2027 Future Talent Program - Global Medical Affairs - Intern | USA - Pennsylvania - North Wales | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R414453?s=gh-new-grad-healthcare-jobs-2027) |
 | **AstraZeneca** | US Medical Affairs, Hematology-Lymphoma Intern | Gaithersburg - MD | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263555?s=gh-new-grad-healthcare-jobs-2027) |
 | **Boys Town** | Advanced Practice RN-Pediatric Surgery Clinic-Full Time | Omaha, NE | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boystown-boystowncareers-REQ-2026-9633?s=gh-new-grad-healthcare-jobs-2027) |
@@ -287,9 +287,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Ascension** | Behavioral Health Case Manager | Hoffman Estates, IL | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-19447?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Physical Therapist Assistant | Tulsa, OK | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1297844?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Occupational Therapist | Nashville, TN | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-26666?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Behavioral Health Case Manager | Hoffman Estates, IL | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-19447?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Physical Therapist Assistant | Tulsa, OK | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1297844?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Occupational Therapist | Nashville, TN | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-26666?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Customer Service Representative - Behavioral Health | NC Work from home | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0990658?s=gh-new-grad-healthcare-jobs-2027) |
 | **Tenet Healthcare** | Speech Therapist | Delray Beach, FL, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603028028?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Associate Clinical Specialist CRM - Mountain View | Mountain View, California,... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R81136?s=gh-new-grad-healthcare-jobs-2027) |
@@ -364,14 +364,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | In-Home Traveler Physician (Full Time) - Maryland | MD - Work from home | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060559?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In-Home Traveler Physician (Full Time) - New Hampshire | NH - Work from home | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060539?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In-Home Traveler Physician (Full Time) - Kansas | KS - Work from home | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060560?s=gh-new-grad-healthcare-jobs-2027) |
-| **Kroger** | Certified Pharmacy Technician | Fort Worth, TX, United States | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-219333?s=gh-new-grad-healthcare-jobs-2027) |
-| **Kroger** | Pharmacy Technician | Carson City, NV, United States | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-250384?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Athletic Trainer | Wichita, KS | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-17676?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Surgical First Assistant | Milwaukee, WI | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1274259?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Otolaryngologist | Bartlesville, OK | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-455741?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In-Home Traveler Physician (Full Time) - Maryland | MD - Work from home | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060559?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In-Home Traveler Physician (Full Time) - New Hampshire | NH - Work from home | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060539?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In-Home Traveler Physician (Full Time) - Kansas | KS - Work from home | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060560?s=gh-new-grad-healthcare-jobs-2027) |
+| **Kroger** | Certified Pharmacy Technician | Fort Worth, TX, United States | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-219333?s=gh-new-grad-healthcare-jobs-2027) |
+| **Kroger** | Pharmacy Technician | Carson City, NV, United States | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-250384?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Athletic Trainer | Wichita, KS | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-17676?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Surgical First Assistant | Milwaukee, WI | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1274259?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Otolaryngologist | Bartlesville, OK | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-455741?s=gh-new-grad-healthcare-jobs-2027) |
 | **Insulet Corporation** | Controls & Instrumentation Technician (12 Hour Nights Shift - Onsite) | Massachusetts | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-16301?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist | Palmdale CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2617698?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Savannah, GA, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-250088?s=gh-new-grad-healthcare-jobs-2027) |
