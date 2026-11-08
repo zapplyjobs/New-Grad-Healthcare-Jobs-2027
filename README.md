@@ -364,9 +364,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | In-Home Traveler Physician (Full Time) - West Virginia | WV - Work from home | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060480?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In-Home Traveler Physician (Full Time) - Wisconsin | WI - Work from home | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060659?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | In-Home Traveler Physician (Full Time) - DC | DC - Work from home | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060573?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In-Home Traveler Physician (Full Time) - West Virginia | WV - Work from home | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060480?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In-Home Traveler Physician (Full Time) - Wisconsin | WI - Work from home | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060659?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | In-Home Traveler Physician (Full Time) - DC | DC - Work from home | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060573?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | OB/GYN Physician | Indianapolis, IN | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2025-420528?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Family Medicine Physician | Bartlesville, OK | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1295010?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | CT Tech | Wichita, KS | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-460416?s=gh-new-grad-healthcare-jobs-2027) |
