@@ -65,13 +65,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Patient Care Technician I, Float, Casual, AVH | Natrona Heights PA, 15065, 1301... | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290510?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Patient Care Technician I, Float, Casual, AVH | Natrona Heights PA, 15065, 1301... | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290513?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | RN Registered Nurse, Weekend, Med Surg, AVH | Natrona Heights PA, 15065, 1301... | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290514?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Port Saint Lucie | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099067?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Lakeland | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099068?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | MO - Columbia | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099069?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Patient Care Technician - PCT - Dialysis | Omak, WA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270307?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I, Float, Casual, AVH | Natrona Heights PA, 15065, 1301... | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290510?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I, Float, Casual, AVH | Natrona Heights PA, 15065, 1301... | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290513?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | RN Registered Nurse, Weekend, Med Surg, AVH | Natrona Heights PA, 15065, 1301... | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290514?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Port Saint Lucie | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099067?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Lakeland | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099068?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | MO - Columbia | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099069?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT - Dialysis | Omak, WA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270307?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Interventional Registered Nurse | Milwaukee, WI | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1292220?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse CVICU | Evansville, IN | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1325643?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Educator | Milwaukee, WI | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1326127?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Bristol Myers Squibb** | Associate Scientist | New Brunswick - NJ - US | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1607544?s=gh-new-grad-healthcare-jobs-2027) |
+| **Bristol Myers Squibb** | Associate Scientist | New Brunswick - NJ - US | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1607544?s=gh-new-grad-healthcare-jobs-2027) |
 | **Gilead Sciences** | Scientist, Process Development | United States - California -... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0056344?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Clinical Laboratory Technologist - Core Chemistry | Birmingham AL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2640110?s=gh-new-grad-healthcare-jobs-2027) |
 | **Carnegie Mellon University** | Postdoctoral Research Associate - College of Engineering - Department of Mechanical Engineering | Pittsburgh, PA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-cmu-2025305?s=gh-new-grad-healthcare-jobs-2027) |
@@ -364,7 +364,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Elevance Health** | Outreach Care Specialist | 5 Locations | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR208165?s=gh-new-grad-healthcare-jobs-2027) |
+| **Elevance Health** | Outreach Care Specialist | 5 Locations | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR208165?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | In-Home Traveler Physician (Full Time) - Wisconsin | WI - Work from home | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060659?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | In-Home Traveler Physician (Full Time) - DC | DC - Work from home | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060573?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | In-Home Traveler Physician (Full Time) - Idaho | ID - Work from home | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060566?s=gh-new-grad-healthcare-jobs-2027) |
