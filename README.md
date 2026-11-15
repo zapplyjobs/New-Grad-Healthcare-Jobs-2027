@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | VA - Gainesville | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104752?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | VA - Falls Church | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104748?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | VA - Reston | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104746?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | VA - Gainesville | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104752?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | VA - Falls Church | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104748?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | VA - Reston | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104746?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Vestal, NY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277516?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | DE007 Christiana - Clinic | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0273015?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Waimea, HI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277156?s=gh-new-grad-healthcare-jobs-2027) |
