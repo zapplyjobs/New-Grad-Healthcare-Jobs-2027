@@ -16,7 +16,7 @@
 <p align="center">🚀 Healthcare and nursing jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Healthcare%20Jobs-11368-3FB950?style=flat&logo=briefcase" height="30" alt="Healthcare Jobs">
+  <img src="https://img.shields.io/badge/Healthcare%20Jobs-11369-3FB950?style=flat&logo=briefcase" height="30" alt="Healthcare Jobs">
   <img src="https://img.shields.io/badge/Nursing-6265-2F81F7?style=flat&logo=briefcase" height="30" alt="Nursing">
   <img src="https://img.shields.io/badge/Companies-137-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -182,8 +182,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fresenius Medical Care** | R&D Laboratory Technician II | Ogden, UT, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0275212?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Postdoctoral Research Associate - Infectious Diseases | Washington University Medical | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98642?s=gh-new-grad-healthcare-jobs-2027) |
 | **Baxter International** | Quality Lab Technician - 1st Shift | Cleveland, Mississippi | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-213135?s=gh-new-grad-healthcare-jobs-2027) |
-| **Bristol Myers Squibb** | Senior Associate Scientist, Routine Assays | Cambridge - MA - US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608020?s=gh-new-grad-healthcare-jobs-2027) |
-| **Bristol Myers Squibb** | Senior Associate Scientist | Princeton - NJ - US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1607437?s=gh-new-grad-healthcare-jobs-2027) |
 | **Danaher** | Laboratory Technician | San Jose, California, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1321529?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Clinical Laboratory Scientist I - 2nd Shift | United States > Madison : 1... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31167351?s=gh-new-grad-healthcare-jobs-2027) |
 | **Abbott** | Clinical Laboratory Scientist I - Weekend AM | United States > Madison : 650... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31159623?s=gh-new-grad-healthcare-jobs-2027) |
@@ -201,6 +199,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Thermo Fisher Scientific** | Scientist II, Cell & Gene Therapy - Thursday - Sunday (4-days, 10-hour shift) | Middleton, Wisconsin, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01371707?s=gh-new-grad-healthcare-jobs-2027) |
 | **Thermo Fisher Scientific** | Scientist II, Cell & Gene Therapy - Second Shift (2 PM - 10 PM) | Middleton, Wisconsin, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01370011?s=gh-new-grad-healthcare-jobs-2027) |
 | **GenScript** | Quality Control (QC) Associate Scientist | Piscataway, New Jersey, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-genscript-5294657007?s=gh-new-grad-healthcare-jobs-2027) |
+| **Bristol Myers Squibb** | Senior Associate Scientist, Routine Assays | Cambridge - MA - US | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608020?s=gh-new-grad-healthcare-jobs-2027) |
+| **Bristol Myers Squibb** | Senior Associate Scientist | Princeton - NJ - US | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1607437?s=gh-new-grad-healthcare-jobs-2027) |
 | **Northeastern University** | Postdoctoral Research Associate | Burlington, MA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-northeastern-careers-R143332?s=gh-new-grad-healthcare-jobs-2027) |
 | **AstraZeneca** | Medical Science Liaison - (Hematology) - N TX/CO/NM | St Louis, MO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263636?s=gh-new-grad-healthcare-jobs-2027) |
 | **Guidehouse** | Data Scientist II | VA, Norfolk | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-45742?s=gh-new-grad-healthcare-jobs-2027) |
@@ -406,6 +406,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intuitive** | da Vinci Specialist - Tampa | Tampa, FL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000161513173?s=gh-new-grad-healthcare-jobs-2027) |
 | **Intuitive** | da Vinci Specialist - Winston-Salem | Winston-Salem, NC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000161510947?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | National Field Trainer | Mettawa, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016840966?s=gh-new-grad-healthcare-jobs-2027) |
+| **Elanco** | Consultant- Clinical Operations | Fort Dodge, IA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elanco-external-career-R0026801?s=gh-new-grad-healthcare-jobs-2027) |
 | **Northeastern University** | Postdoctoral Teaching Associate | Boston, MA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-northeastern-careers-R143312?s=gh-new-grad-healthcare-jobs-2027) |
 | **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-healthcare-jobs-2027) |
 | **NREL** | Postdoctoral Researcher - Computational Protein Design | Golden, CO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14609?s=gh-new-grad-healthcare-jobs-2027) |
@@ -463,7 +464,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Baxter International** | Patient Account Specialist | Houston, Texas | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-211964?s=gh-new-grad-healthcare-jobs-2027) |
 | **Bristol Myers Squibb** | Clinical Manufacturing Associate II, Cell Therapy in Devens, MA | Devens - MA - US | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1606414?s=gh-new-grad-healthcare-jobs-2027) |
 | **Bristol Myers Squibb** | Associate, QC Analytical, Cell Therapy | Devens - MA - US | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1606749?s=gh-new-grad-healthcare-jobs-2027) |
-| **Bristol Myers Squibb** | Material Handler, Cell Therapy | Devens - MA - US | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1607886?s=gh-new-grad-healthcare-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -550,7 +550,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 11368 current opportunities from 137 companies**
+**🎯 11369 current opportunities from 137 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
