@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN - Dialysis | Huntington, WV | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0275819?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN - Dialysis | Marietta, GA | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277600?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern - Grad | TX - Crowley | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1074370?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN - Dialysis | Huntington, WV | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0275819?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN - Dialysis | Marietta, GA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277600?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | TX - Crowley | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1074370?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Intern | VA - Charlottesville | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104722?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Intern | VA - Charlottesville | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104721?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Vestal, NY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277516?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,9 +176,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Lab Assistant | Raritan NJ | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633953?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Lab Assistant | Raritan NJ | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638116?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Lab Assistant | Raritan NJ | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638119?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Lab Assistant | Raritan NJ | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633953?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Lab Assistant | Raritan NJ | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638116?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Lab Assistant | Raritan NJ | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638119?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Laboratory Technician l (2nd Shift) | Omaha, NE | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000161627829?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Laboratory Technician l | Omaha, NE | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000161627662?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Laboratory Technician l (3rd Shift) | Omaha, NE | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000161627739?s=gh-new-grad-healthcare-jobs-2027) |
@@ -364,9 +364,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Clinical Laboratory Technologist - Flow Cytometry | RTP NC | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639652?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Laboratory Testing Clerk | Raritan NJ | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627120?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Laboratory Specimen Processor | Raritan NJ | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2625263?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Clinical Laboratory Technologist - Flow Cytometry | RTP NC | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639652?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Laboratory Testing Clerk | Raritan NJ | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627120?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Laboratory Specimen Processor | Raritan NJ | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2625263?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Certified Pharmacy Technician | Payson, UT, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-244281?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Certified Pharmacy Technician | Fort Collins, CO, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-253071?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Pharmacy Technician | Fort Collins, CO, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-253069?s=gh-new-grad-healthcare-jobs-2027) |
@@ -379,7 +379,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | Pharmacy Technician | PA - Honesdale | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1103055?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician | UT - Layton | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1103121?s=gh-new-grad-healthcare-jobs-2027) |
 | **15dc44c7** | CERTIFIED SURGICAL TECH- Days, call rotation | Robinson, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/adp-15dc44c7-9201523148197_72?s=gh-new-grad-healthcare-jobs-2027) |
-| **90ee0c52** | Patient Access Resource Management Analyst | Creve Coeur, MO | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/adp-90ee0c52-9203184655611_85?s=gh-new-grad-healthcare-jobs-2027) |
+| **90ee0c52** | Patient Access Resource Management Analyst | Creve Coeur, MO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/adp-90ee0c52-9203184655611_85?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Biomedical Technician | Kokomo, IN | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278052?s=gh-new-grad-healthcare-jobs-2027) |
 | **Johnson & Johnson** | Field Reimbursement Manager, Neuroscience – (Manhattan, NY) – Patient Engagement & Customer... | New York Any City | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098919?s=gh-new-grad-healthcare-jobs-2027) |
 | **Guidehouse** | Patient Account Representative - Self Pay | SD, Mitchell | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-46649?s=gh-new-grad-healthcare-jobs-2027) |
