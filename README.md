@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | TX - Crowley | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1074370?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | TX - Crowley | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1074370?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN - Dialysis | Huntington, WV | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0275819?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN - Dialysis | Marietta, GA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277600?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Family Medicine or Internal Medicine Physician | Greenfield, WI | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-455435?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,10 +176,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Lab Assistant | Raritan NJ | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633953?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Lab Assistant | Raritan NJ | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638116?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Lab Assistant | Raritan NJ | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638119?s=gh-new-grad-healthcare-jobs-2027) |
-| **HPE** | Hardware Lab Technician VI | Sunnyvale, California, United... | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1208303?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Lab Assistant | Raritan NJ | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2633953?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Lab Assistant | Raritan NJ | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638116?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Lab Assistant | Raritan NJ | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638119?s=gh-new-grad-healthcare-jobs-2027) |
+| **HPE** | Hardware Lab Technician VI | Sunnyvale, California, United... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1208303?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Clinical Educator | Lubbock, TX, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0274430?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Clinical Educator | CA061 Chula Vista South - Clinic | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272843?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Clinical Educator | CA311 FMCNA West Glendale - Clinic | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272824?s=gh-new-grad-healthcare-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Medtronic** | Clinical Specialist, Cranial & Spinal Technologies - Las Vegas, NV | Las Vegas, Nevada, United... | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79625?s=gh-new-grad-healthcare-jobs-2027) |
+| **Medtronic** | Clinical Specialist, Cranial & Spinal Technologies - Las Vegas, NV | Las Vegas, Nevada, United... | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79625?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Physical Therapist | Austin, TX | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-17932?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Occupational Therapist Outpatient | Baltimore, MD | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-20778?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Physical Therapist Acute | Tulsa, OK | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1296173?s=gh-new-grad-healthcare-jobs-2027) |
@@ -364,9 +364,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Medical Technologist II | Indianapolis IN | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638898?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | USA - AZ - Gilbert | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634525?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist Float Casual | Phoenix AZ | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639123?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Medical Technologist II | Indianapolis IN | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638898?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | USA - AZ - Gilbert | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634525?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist Float Casual | Phoenix AZ | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639123?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Dietitian | Chattanooga, TN | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-21705?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Certified Surgical Tech | Sparta, TN | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-25218?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Otolaryngologist | Tulsa, OK | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2025-418926?s=gh-new-grad-healthcare-jobs-2027) |
