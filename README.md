@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | OH - Marion | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1105959?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | PA - Pottstown | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1105964?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | UT - South Jordan | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1105958?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | OH - Marion | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1105959?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | PA - Pottstown | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1105964?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | UT - South Jordan | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1105958?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Ortho Neuro | Tulsa, OK | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1218447?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Coordinator Cardiac Transplant | Nashville, TN | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1312416?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Med Surg | Nashville, TN | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-22392?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,9 +176,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Clinical Educator | CA137 Kearny Mesa JV - Clinic | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272845?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Clinical Educator | AZ203 FMCNA Westgate Home - Clinic | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277523?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Clinical Educator | Lubbock, TX, USA | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0274430?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Clinical Educator | CA137 Kearny Mesa JV - Clinic | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272845?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Clinical Educator | AZ203 FMCNA Westgate Home - Clinic | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277523?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Clinical Educator | Lubbock, TX, USA | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0274430?s=gh-new-grad-healthcare-jobs-2027) |
 | **HPE** | Hardware Lab Technician VI | Sunnyvale, California, United... | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1208303?s=gh-new-grad-healthcare-jobs-2027) |
 | **HPE (University)** | Hardware Lab Technician VI | Sunnyvale, California, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1208303?s=gh-new-grad-healthcare-jobs-2027) |
 | **Bristol Myers Squibb** | Associate Scientist, Pilot Plant | Devens - MA - US | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1605827?s=gh-new-grad-healthcare-jobs-2027) |
@@ -363,7 +363,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Medical Technologist II | Indianapolis IN | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638898?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Medical Technologist II | Indianapolis IN | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638898?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Social Worker Case Management | Elk Grove Village, IL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1323280?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | OB/GYN Hospitalist | CARMEL, IN | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-438765?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Cardiothoracic Surgeon | Waco, TX | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-455261?s=gh-new-grad-healthcare-jobs-2027) |
