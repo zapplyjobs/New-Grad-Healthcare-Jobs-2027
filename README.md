@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Patient Care Technician I, Night, 3d, AVH, Full Time | Natrona Heights PA, 15065, 1301... | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291359?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Patient Care Technician I, Night, Full Time, ICU, AVH | Natrona Heights PA, 15065, 1301... | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291420?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Patient Care Technician II, ED, Full Time, AVH | Natrona Heights PA, 15065, 1301... | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291364?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I, Night, 3d, AVH, Full Time | Natrona Heights PA, 15065, 1301... | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291359?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I, Night, Full Time, ICU, AVH | Natrona Heights PA, 15065, 1301... | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291420?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Patient Care Technician II, ED, Full Time, AVH | Natrona Heights PA, 15065, 1301... | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291364?s=gh-new-grad-healthcare-jobs-2027) |
 | **AstraZeneca** | Global Medical Affairs Intern | Gaithersburg - MD | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264551?s=gh-new-grad-healthcare-jobs-2027) |
 | **AstraZeneca** | Oncology Regulatory Affairs Intern | Gaithersburg - MD | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264547?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Clinical Manager Registered Nurse - RN - Dialysis | Kapaa, HI | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277334?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Bristol Myers Squibb** | Associate Scientist | Devens MA US | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608443?s=gh-new-grad-healthcare-jobs-2027) |
-| **Bristol Myers Squibb** | Associate Scientist | Devens MA US | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608436?s=gh-new-grad-healthcare-jobs-2027) |
+| **Bristol Myers Squibb** | Associate Scientist | Devens MA US | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608443?s=gh-new-grad-healthcare-jobs-2027) |
+| **Bristol Myers Squibb** | Associate Scientist | Devens MA US | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608436?s=gh-new-grad-healthcare-jobs-2027) |
 | **Danaher** | Scientist I R&D | Fargo, North Dakota, United States | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1322577?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Clinical Educator | Decatur, AL | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277267?s=gh-new-grad-healthcare-jobs-2027) |
 | **Mariana Minerals** | Lab Technician | San Francisco | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-marianaminerals-0523d224-e502-49a3-b56b-fd4e6f0d3b95?s=gh-new-grad-healthcare-jobs-2027) |
@@ -287,8 +287,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Case Manager Behavioral Health - Field (Cook County, IL LCPC or LCSW)) | IL Chicago | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1097593?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Appeals Nurse Consultant (Remote) | Work At Home Connecticut | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1032659?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Case Manager Behavioral Health - Field (Cook County, IL LCPC or LCSW)) | IL Chicago | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1097593?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Appeals Nurse Consultant (Remote) | Work At Home Connecticut | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1032659?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Access Coordinator I/Emergency Department - AHN St. Vincent - Full time - Rotating Shifts | Erie PA, 16502 | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291649?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Access Coordinator II - Fed North - Full time - Rotating Shifts | Pittsburgh PA, 15212 | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291607?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Access Coordinator I - AHN Wexford - Full time - Rotating Shifts | Wexford PA, 12311 Perry... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291612?s=gh-new-grad-healthcare-jobs-2027) |
@@ -364,7 +364,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Radiology Technologist / SEIU - E   AGH | Pittsburgh PA, 15212 | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288414?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Radiology Technologist / SEIU - E   AGH | Pittsburgh PA, 15212 | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288414?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Patient Access Liaison - UPLIZNA - Miami, FL | Florida Miami | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-258496?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician | MO - Rolla | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1106380?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician | IL - Mattoon | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1107027?s=gh-new-grad-healthcare-jobs-2027) |
@@ -385,12 +385,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ascension** | Cath Lab Tech | Panama City, FL | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-32787?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Clinical Documentation Specialist | Nashville, TN | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-25271?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Critical Care Physician | Indianapolis, IN | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-14457?s=gh-new-grad-healthcare-jobs-2027) |
-| **Intuitive** | da Vinci Specialist - Phoenix West | Phoenix, AZ | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162187099?s=gh-new-grad-healthcare-jobs-2027) |
+| **Intuitive** | da Vinci Specialist - Phoenix West | Phoenix, AZ | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162187099?s=gh-new-grad-healthcare-jobs-2027) |
 | **Oscar Health** | Physician - Virtual Urgent Care (Part-Time) | Remote (Tennessee) | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-oscar-8380036?s=gh-new-grad-healthcare-jobs-2027) |
-| **Oscar Health** | Physician (3:00pm - 11:00pm ET) - Virtual Urgent Care | Remote (Texas) | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-oscar-8336018?s=gh-new-grad-healthcare-jobs-2027) |
+| **Oscar Health** | Physician (3:00pm - 11:00pm ET) - Virtual Urgent Care | Remote (Texas) | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-oscar-8336018?s=gh-new-grad-healthcare-jobs-2027) |
 | **LLNL** | HPC Data Provenance – Postdoctoral Researcher | Livermore, CA | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990016921256?s=gh-new-grad-healthcare-jobs-2027) |
 | **Oscar Health** | Physician (Bilingual Spanish) - Virtual Urgent Care (Nights - 7 days on & 7 days off) | Remote (Florida) | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-oscar-8396654?s=gh-new-grad-healthcare-jobs-2027) |
-| **Intuitive** | da Vinci Specialist | Reno, NV | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162149789?s=gh-new-grad-healthcare-jobs-2027) |
+| **Intuitive** | da Vinci Specialist | Reno, NV | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162149789?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Clinical Account Executive - Kansas City, KS | Kansas City, KS | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016909417?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Specialist, Access and Reimbursement | North Chicago, IL | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016909996?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Field Reimbursement Manager | Atlanta, GA | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016905876?s=gh-new-grad-healthcare-jobs-2027) |
