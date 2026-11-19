@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Care Manager RN - (Remote) | PA, Working at Home - Pennsylvania | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290414?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Case Manager Long-term Care - Delaware, New Castle County - RN | DE, Working at Home - Delaware | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291157?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Care Manager RN - (Remote) | PA, Working at Home - Pennsylvania | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290414?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Case Manager Long-term Care - Delaware, New Castle County - RN | DE, Working at Home - Delaware | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291157?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Care Technician I / Float - SVH / AGH - Dual Location - Casual | Erie PA, 16502 | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J279884?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Talladega, AL | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0274663?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Dialysis Clinical Manager Registered Nurse - RN | Rio Rancho, NM | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0276772?s=gh-new-grad-healthcare-jobs-2027) |
@@ -177,7 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Highmark Health** | Clinical Research Coordinator / Part-time | Pittsburgh PA, 15212 | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291687?s=gh-new-grad-healthcare-jobs-2027) |
-| **Mariana Minerals** | Lab Technician | San Francisco | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-marianaminerals-0523d224-e502-49a3-b56b-fd4e6f0d3b95?s=gh-new-grad-healthcare-jobs-2027) |
+| **Mariana Minerals** | Lab Technician | San Francisco | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-marianaminerals-0523d224-e502-49a3-b56b-fd4e6f0d3b95?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Scientist I - Immunology & Biomarker Services | Saint Charles, MO | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000162410129?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amazon.com Services LLC** | Applied Scientist II - AMZ10564066 | New York, NY | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-a1bbf865-3f11-4412-9e94-89b61a8792b9?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Scientist I (Multiple Shifts) - Eurofins Environment Testing - Pomona, CA | Pomona, CA | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000162405344?s=gh-new-grad-healthcare-jobs-2027) |
