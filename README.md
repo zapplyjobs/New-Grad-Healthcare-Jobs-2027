@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Dialysis Registered Nurse | Rochester, NY | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272980?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Acute Inpatient Care Technician - PCT | Ann Arbor, MI, USA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278572?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN - Dialysis | Cleveland, OH | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278949?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist - PRN / Casual | Dallas TX | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2613488?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Dialysis Registered Nurse | Rochester, NY | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272980?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Acute Inpatient Care Technician - PCT | Ann Arbor, MI, USA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278572?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN - Dialysis | Cleveland, OH | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278949?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist - PRN / Casual | Dallas TX | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2613488?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Emergency Department | Nashville, TN | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-13883?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | RN-Registered Nurse | Tulsa, OK | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1296941?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Operating Room | Kyle, TX | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-31236?s=gh-new-grad-healthcare-jobs-2027) |
@@ -371,12 +371,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | SC - Orangeburg | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1110466?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | VA - Fredericksburg | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1110388?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | SC - Holly Hill | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1110352?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Clinic Administrative Assistant | Leesville, SC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0276971?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Kaufman TX | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631628?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Rowlett TX | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637288?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | SC - Orangeburg | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1110466?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | VA - Fredericksburg | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1110388?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | SC - Holly Hill | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1110352?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Clinic Administrative Assistant | Leesville, SC | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0276971?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Kaufman TX | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631628?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Rowlett TX | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637288?s=gh-new-grad-healthcare-jobs-2027) |
 | **Cardinal Health** | Pharmacy Technician ( Nuclear Pharmacy ) | San Diego, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191572?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Field Reimbursement Manager, Oncology | Los Angeles, CA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017020636?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Field Reimbursement Manager, Oncology | San Diego, CA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017020606?s=gh-new-grad-healthcare-jobs-2027) |
@@ -391,7 +391,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Specialty Representative, Urology, Oncology & Gynecology - Los Angeles, S. | Los Angeles, CA | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017018806?s=gh-new-grad-healthcare-jobs-2027) |
 | **Intuitive** | da Vinci Specialist - Miami | Miami, FL | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162829919?s=gh-new-grad-healthcare-jobs-2027) |
 | **Intuitive** | da Vinci Specialist- Pittsburgh, PA | Pittsburgh, PA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162815694?s=gh-new-grad-healthcare-jobs-2027) |
-| **Eurofins** | Local Analytical Definition Specialist | Lancaster, PA | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000162813919?s=gh-new-grad-healthcare-jobs-2027) |
+| **Eurofins** | Local Analytical Definition Specialist | Lancaster, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000162813919?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Medical Assistant III - Department of Medicine | Washington University Medical | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR94027?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Ophthalmic Assistant - Ophthalmology | Washington University Medical | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98804?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Public Health Librarian - University Libraries | Washington University Danforth | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR97842?s=gh-new-grad-healthcare-jobs-2027) |
