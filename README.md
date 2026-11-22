@@ -371,7 +371,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Sterile Processing Technician Associate / Teamsters JH | Jefferson Hills PA, 15025, 565... | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291576?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Sterile Processing Technician Associate / Teamsters JH | Jefferson Hills PA, 15025, 565... | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291576?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Paramedic | Murfreesboro, TN | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-24421?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Echo Tech Echocardiography | Indianapolis, IN | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1318443?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Radiology Tech | Milwaukee, WI | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1235957?s=gh-new-grad-healthcare-jobs-2027) |
