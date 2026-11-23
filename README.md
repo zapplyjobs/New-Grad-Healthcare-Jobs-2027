@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639778?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist PRN / Casual | Tucson AZ | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2641100?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639590?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639778?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist PRN / Casual | Tucson AZ | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2641100?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639590?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Baton Rouge, LA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0273542?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Chicago, IL | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0258575?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse ED | Murfreesboro, TN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-25459?s=gh-new-grad-healthcare-jobs-2027) |
@@ -371,9 +371,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Las Vegas NV | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635566?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Sterile Processing Technician Associate / Teamsters JH | Jefferson Hills PA, 15025, 565... | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291576?s=gh-new-grad-healthcare-jobs-2027) |
+| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Las Vegas NV | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635566?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Sterile Processing Technician Associate / Teamsters JH | Jefferson Hills PA, 15025, 565... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291576?s=gh-new-grad-healthcare-jobs-2027) |
 | **Sanofi** | Area Business Manager, Rare Hematology (Hematology/Oncology) - Columbia, SC | Remote, USA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-47141491200?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician | AZ - Tucson | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1110632?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Technician | AZ - Tucson | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1110715?s=gh-new-grad-healthcare-jobs-2027) |
@@ -389,8 +389,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ascension** | Certified Surgical Tech | Austin, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-22696?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Surgical Tech General Surgery | Racine, WI | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1288220?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Clinic Administrative Assistant | Leesville, SC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0276971?s=gh-new-grad-healthcare-jobs-2027) |
-| **AbbVie** | Field Reimbursement Manager, Oncology | Los Angeles, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017020636?s=gh-new-grad-healthcare-jobs-2027) |
-| **AbbVie** | Field Reimbursement Manager, Oncology | San Diego, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017020606?s=gh-new-grad-healthcare-jobs-2027) |
+| **AbbVie** | Field Reimbursement Manager, Oncology | Los Angeles, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017020636?s=gh-new-grad-healthcare-jobs-2027) |
+| **AbbVie** | Field Reimbursement Manager, Oncology | San Diego, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017020606?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Medical Assistant II - Department of Medicine | Washington University Medical | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR92919?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Medical Assistant III - Department of Medicine | Washington University Medical | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR94027?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Ophthalmic Assistant - Ophthalmology | Washington University Medical | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98804?s=gh-new-grad-healthcare-jobs-2027) |
