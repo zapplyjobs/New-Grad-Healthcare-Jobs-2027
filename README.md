@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Advanced Practice Provider - FNP/PA | DC - Washington | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1106788?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Advanced Practice Provider - FNP/PA | DC - Washington | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1106788?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639778?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist PRN / Casual | Tucson AZ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2641100?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639590?s=gh-new-grad-healthcare-jobs-2027) |
@@ -371,8 +371,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Medical Scribe | AL - Mobile | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0915617?s=gh-new-grad-healthcare-jobs-2027) |
-| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Medical Scribe | AL - Mobile | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0915617?s=gh-new-grad-healthcare-jobs-2027) |
+| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist | Las Vegas NV | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635566?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Medical Assistant - AHN Outpatient Cardiology - Natrona Heights - Full Time | Natrona Heights PA, 15065, 1624... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291938?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Medical Assistant - AHN Hematology and Cellular Therapy - West Penn - Full Time | Pittsburgh PA, 15224 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291923?s=gh-new-grad-healthcare-jobs-2027) |
