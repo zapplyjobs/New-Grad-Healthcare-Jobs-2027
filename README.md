@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | FL - Boca Raton | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112377?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | DC - Washington | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112378?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Miami | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112379?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Boca Raton | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112377?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | DC - Washington | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112378?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Miami | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112379?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse ED | Milwaukee, WI | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1316792?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Manager Cath Lab | Kyle, TX | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1324182?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Intermediate Care | Murfreesboro, TN | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-29266?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AbbVie** | Scientist I - Chemistry | North Chicago, IL | 48m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017028526?s=gh-new-grad-healthcare-jobs-2027) |
+| **AbbVie** | Scientist I - Chemistry | North Chicago, IL | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017028526?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Miami** | Clinical Research Coordinator 2 | Miami, Florida | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100103330?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Clinical Research Coordinator | MILWAUKEE, WI | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-16989?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Scientist II - Material Science & Process Development | North Chicago, IL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017018097?s=gh-new-grad-healthcare-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Centene** | LTSS Service Care Manager - Behavioral Health | El Paso Texas79938 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-centene-centene-external-1676181?s=gh-new-grad-healthcare-jobs-2027) |
+| **Centene** | LTSS Service Care Manager - Behavioral Health | El Paso Texas79938 | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-centene-centene-external-1676181?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Respiratory Therapist Practitioner | Milwaukee, WI | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1289405?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Physical Therapist Acute | Hoffman Estates, IL | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-436216?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Licensed Behavioral Health Counselor School Therapist | Indianapolis, IN | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-20142?s=gh-new-grad-healthcare-jobs-2027) |
@@ -372,10 +372,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Environmental Service Associate / Teamsters JH (Housekeeping-FT Evening) Jefferson Hospital | Jefferson Hills PA, 15025, 565... | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291590?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Environmental Services Associate / SEIU - D (Housekeeping-FT Night) Allegheny General Hospital | Pittsburgh PA, 15212 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291626?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Patient Host or Hostess / SEIU - D (FT Day) Allegheny General Hospital | Pittsburgh PA, 15212 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291597?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Medical Assistant | PA - Philadelphia | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1077459?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Environmental Service Associate / Teamsters JH (Housekeeping-FT Evening) Jefferson Hospital | Jefferson Hills PA, 15025, 565... | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291590?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Environmental Services Associate / SEIU - D (Housekeeping-FT Night) Allegheny General Hospital | Pittsburgh PA, 15212 | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291626?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Patient Host or Hostess / SEIU - D (FT Day) Allegheny General Hospital | Pittsburgh PA, 15212 | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291597?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Medical Assistant | PA - Philadelphia | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1077459?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Paramedic Freestanding ED | Indianapolis, IN | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1324778?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Certified Pharmacy Technician | Nashville, TN | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-29548?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Sonography Technologist | Evansville, IN | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1300652?s=gh-new-grad-healthcare-jobs-2027) |
