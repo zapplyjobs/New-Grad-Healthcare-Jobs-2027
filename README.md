@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Advanced Practice Provider - FNP/PA | DC - Washington | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1106788?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639778?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist PRN / Casual | Tucson AZ | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2641100?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639590?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Advanced Practice Provider - FNP/PA | DC - Washington | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1106788?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639778?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist PRN / Casual | Tucson AZ | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2641100?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639590?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Assistant Manager Specialty NICU | Indianapolis, IN | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-451735?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Women's and Children's Post Surgical | Tulsa, OK | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1309106?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Pediatric CVICU | Austin, TX | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1290219?s=gh-new-grad-healthcare-jobs-2027) |
@@ -371,10 +371,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Medical Scribe | AL - Mobile | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0915617?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Las Vegas NV | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635566?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Medical Scribe | AL - Mobile | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0915617?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Las Vegas NV | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635566?s=gh-new-grad-healthcare-jobs-2027) |
 | **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Sterile Processing Technician Associate / Teamsters JH | Jefferson Hills PA, 15025, 565... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291576?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Sterile Processing Technician Associate / Teamsters JH | Jefferson Hills PA, 15025, 565... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291576?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | PHARMACY/CLERK | Omaha, NE, United States | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-255725?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Certified Surgical Technologist Main OR | Indianapolis, IN | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1261737?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Urologist | Appleton, WI | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-453683?s=gh-new-grad-healthcare-jobs-2027) |
