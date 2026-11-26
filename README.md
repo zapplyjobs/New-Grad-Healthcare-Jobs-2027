@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Patient Care Technician - PCT | Ewa Beach, HI | 32m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278943?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT | Ewa Beach, HI | 41m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278943?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Intern - Grad | MD - Laurel | 18h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114751?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Intern - Grad | MD - Greenbelt | 18h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114745?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Intern - Grad | MD - Wheaton | 18h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114735?s=gh-new-grad-healthcare-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Eurofins** | QC Scientist - Raw Materials | Gaithersburg, MD | 18h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000163805599?s=gh-new-grad-healthcare-jobs-2027) |
+| **Eurofins** | QC Scientist - Raw Materials | Gaithersburg, MD | 19h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000163805599?s=gh-new-grad-healthcare-jobs-2027) |
 | **Eurofins** | Laboratory Technician l | Exeter, NH | 22h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000163780720?s=gh-new-grad-healthcare-jobs-2027) |
 | **General Atomics** | Materials Lab Technician | San Diego, California | 23h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/brassring-general-atomics-5235419?s=gh-new-grad-healthcare-jobs-2027) |
 | **General Atomics** | Materials Lab Technician | San Diego, California | 23h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/brassring-general-atomics-5235851?s=gh-new-grad-healthcare-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Medtronic** | Prin. Vascular Clinical Specialist - Milwaukee, WI / Green Bay, WI | Milwaukee, Wisconsin, United... | 32m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77263?s=gh-new-grad-healthcare-jobs-2027) |
+| **Medtronic** | Prin. Vascular Clinical Specialist - Milwaukee, WI / Green Bay, WI | Milwaukee, Wisconsin, United... | 41m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77263?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Patient Access Representative | Wamego, KS | 23h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-33235?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Respiratory Therapist | Manhattan, KS | 23h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1324535?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Physical Therapist Pediatrics | Pensacola, FL | 23h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1298097?s=gh-new-grad-healthcare-jobs-2027) |
@@ -377,10 +377,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Elevance Health** | Telephonic Nurse Case Manager II | 13 Locations | 14m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR213851?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | TX - Gladewater | 14m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115371?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | AZ - Tempe | 14m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115222?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | OH - Fairview Park | 14m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115493?s=gh-new-grad-healthcare-jobs-2027) |
+| **Elevance Health** | Telephonic Nurse Case Manager II | 13 Locations | 23m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR213851?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | TX - Gladewater | 23m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115371?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | AZ - Tempe | 23m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115222?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | OH - Fairview Park | 23m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115493?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Environmental Service Associate / Teamsters JH (Housekeeping-FT Day) Jefferson Hospital | Jefferson Hills PA, 15025, 565... | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291857?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Environmental Services Associate / SEIU - D (Housekeeping-PT Evening) Allegheny General Hospital | Pittsburgh PA, 15212 | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J292003?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Host or Hostess / SEIU - D (FT Day) Allegheny General Hospital | Pittsburgh PA, 15212 | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291926?s=gh-new-grad-healthcare-jobs-2027) |
