@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Patient Care Technician - PCT | Ewa Beach, HI | 4m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278943?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT | Ewa Beach, HI | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278943?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Henderson, NV | 9h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278000?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN - Dialysis | East Peoria, IL | 9h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0253958?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Pharmacy Intern - Grad | MD - Laurel | 12h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114751?s=gh-new-grad-healthcare-jobs-2027) |
@@ -198,7 +198,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Scientist I - New Chemical Entities | North Chicago, IL | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017071316?s=gh-new-grad-healthcare-jobs-2027) |
 | **The Trade Desk** | Applied Scientist II, Performance Algorithms | New York | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thetradedesk-5306682007?s=gh-new-grad-healthcare-jobs-2027) |
 | **Redwood Materials** | Analytical Laboratory Technician | McCarran, NV | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-redwoodmaterials-6265343004?s=gh-new-grad-healthcare-jobs-2027) |
-| **AbbVie** | Associate Data Scientist II – Early Discovery Science | North Chicago, IL | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017066596?s=gh-new-grad-healthcare-jobs-2027) |
+| **AbbVie** | Associate Data Scientist II – Early Discovery Science | North Chicago, IL | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017066596?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Clinical Research Coordinator I (Hybrid) - Neurology | Washington University Medical | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98897?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Postdoctoral Research Associate - Acute and Critical Care Surgery | Washington University Medical | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98875?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Clinical Research Coordinator II (Hybrid) (West County) - Allergy & Immunology | West County - St. Louis, MO | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98843?s=gh-new-grad-healthcare-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Medtronic** | Prin. Vascular Clinical Specialist - Milwaukee, WI / Green Bay, WI | Milwaukee, Wisconsin, United... | 30m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77263?s=gh-new-grad-healthcare-jobs-2027) |
+| **Medtronic** | Prin. Vascular Clinical Specialist - Milwaukee, WI / Green Bay, WI | Milwaukee, Wisconsin, United... | 37m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77263?s=gh-new-grad-healthcare-jobs-2027) |
 | **Humana** | Home Health Physical Therapist Assistant | Kent, Washington | 17h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-humana-R-438534?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Certified Respiratory Therapist | Elk Grove Village, IL | 17h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-448268?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Licensed Behavioral Health Counselor | Melrose Park, IL | 17h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-22739?s=gh-new-grad-healthcare-jobs-2027) |
@@ -375,9 +375,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | SC Moore | 5m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115243?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | 16546 - Rhode Island CVS... | 5m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115193?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | PA - East Stroudsburg | 5m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115410?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | SC Moore | 13m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115243?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | 16546 - Rhode Island CVS... | 13m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115193?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | PA - East Stroudsburg | 13m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115410?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Environmental Service Associate / Teamsters JH (Housekeeping-FT Day) Jefferson Hospital | Jefferson Hills PA, 15025, 565... | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291857?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Environmental Services Associate / SEIU - D (Housekeeping-PT Evening) Allegheny General Hospital | Pittsburgh PA, 15212 | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J292003?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Patient Host or Hostess / SEIU - D (FT Day) Allegheny General Hospital | Pittsburgh PA, 15212 | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291926?s=gh-new-grad-healthcare-jobs-2027) |
