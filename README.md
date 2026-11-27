@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Medtronic** | Prin. Vascular Clinical Specialist - Milwaukee, WI / Green Bay, WI | Milwaukee, Wisconsin, United... | 7m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77263?s=gh-new-grad-healthcare-jobs-2027) |
+| **Medtronic** | Prin. Vascular Clinical Specialist - Milwaukee, WI / Green Bay, WI | Milwaukee, Wisconsin, United... | 14m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77263?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Clinical Specialist - Cardiac Rhythm Management (CRM) Columbus, Newnan, Fayetteville, Georgia | Atlanta, Georgia, United States... | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79981?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Clinical Specialist CRM - Richmond, VA | Richmond, Virginia, United... | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R82746?s=gh-new-grad-healthcare-jobs-2027) |
 | **Stryker** | Clinical Specialist, Joint Replacement - Sioux City | Sioux City, Iowa | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R578060?s=gh-new-grad-healthcare-jobs-2027) |
@@ -374,10 +374,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | TX - Mission | 8m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114975?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | VA - Glen Allen | 8m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115358?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | Bronx, NY | 8m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098495?s=gh-new-grad-healthcare-jobs-2027) |
-| **Elevance Health** | Telephonic Nurse Case Manager II | 13 Locations | 32m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR213851?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | TX - Mission | 14m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114975?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | VA - Glen Allen | 14m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115358?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | Bronx, NY | 14m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098495?s=gh-new-grad-healthcare-jobs-2027) |
+| **Elevance Health** | Telephonic Nurse Case Manager II | 13 Locations | 38m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR213851?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Endoscopy Technician / SEIU - E | Canonsburg PA, 15317 | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291873?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Environmental Service Associate / Teamsters JH (Housekeeping-FT Day) Jefferson Hospital | Jefferson Hills PA, 15025, 565... | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291857?s=gh-new-grad-healthcare-jobs-2027) |
 | **Highmark Health** | Environmental Services Associate / SEIU - D (Housekeeping-PT Evening) Allegheny General Hospital | Pittsburgh PA, 15212 | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J292003?s=gh-new-grad-healthcare-jobs-2027) |
