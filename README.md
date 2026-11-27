@@ -65,10 +65,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Registered Nurse | RI - Woonsocket | 7m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112584?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | RN E6 Postpartum/Newborn Nursery (Weekend Program), West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 50m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291928?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | RN Emergency Department (Full time 36 Hours), West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 50m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291898?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | RN Float - Team 1 ICU, Allegheny General | Pittsburgh PA, 15212 | 50m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291952?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Registered Nurse | RI - Woonsocket | 15m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112584?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | RN E6 Postpartum/Newborn Nursery (Weekend Program), West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 57m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291928?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | RN Emergency Department (Full time 36 Hours), West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 57m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291898?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | RN Float - Team 1 ICU, Allegheny General | Pittsburgh PA, 15212 | 57m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291952?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Ewa Beach, HI | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278943?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse | Mequon, WI | 9h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-32048?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Registered Nurse Telemetry | Nashville, TN | 9h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1320466?s=gh-new-grad-healthcare-jobs-2027) |
@@ -374,10 +374,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | CA - San Diego | 7m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114470?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | CA - San Mateo | 7m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115240?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | CA - Oceanside | 7m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115419?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Endoscopy Technician / SEIU - E | Canonsburg PA, 15317 | 50m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291873?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | CA - San Diego | 15m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114470?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | CA - San Mateo | 15m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115240?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | CA - Oceanside | 15m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115419?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Endoscopy Technician / SEIU - E | Canonsburg PA, 15317 | 57m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291873?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Primary Care Family Medicine Physician | Green Cove Springs, FL | 9h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1263844?s=gh-new-grad-healthcare-jobs-2027) |
 | **Ascension** | Family Medicine Physician | Wellington, KS | 9h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-29742?s=gh-new-grad-healthcare-jobs-2027) |
 | **Humana** | Home Health Medical Social Worker-Per Diem | Graham, Texas | 9h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-humana-R-437864?s=gh-new-grad-healthcare-jobs-2027) |
