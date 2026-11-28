@@ -16,9 +16,9 @@
 <p align="center">🚀 Healthcare and nursing jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Healthcare%20Jobs-10624-3FB950?style=flat&logo=briefcase" height="30" alt="Healthcare Jobs">
-  <img src="https://img.shields.io/badge/Nursing-5538-2F81F7?style=flat&logo=briefcase" height="30" alt="Nursing">
-  <img src="https://img.shields.io/badge/Companies-139-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Healthcare%20Jobs-10664-3FB950?style=flat&logo=briefcase" height="30" alt="Healthcare Jobs">
+  <img src="https://img.shields.io/badge/Nursing-5548-2F81F7?style=flat&logo=briefcase" height="30" alt="Nursing">
+  <img src="https://img.shields.io/badge/Companies-140-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -65,17 +65,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | RN Outpatient-Surgical Oncology-West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J276756?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | RN Registered Nurse-General Surgery-Allegheny General Hospital | Pittsburgh PA, 15212, 314 E... | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J273664?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | RN E6 Postpartum/Newborn Nursery (Weekend Program), West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291928?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Outpatient Registered Nurse - RN | CA092 Reedley Dial_Ctrl Valley... | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278795?s=gh-new-grad-healthcare-jobs-2027) |
-| **Fresenius Medical Care** | Outpatient Registered Nurse - RN - Dialysis | CA339 FMCNA Union City - Clinic | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0279362?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | RN Outpatient-Surgical Oncology-West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 16m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J276756?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | RN Registered Nurse-General Surgery-Allegheny General Hospital | Pittsburgh PA, 15212, 314 E... | 16m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J273664?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | RN E6 Postpartum/Newborn Nursery (Weekend Program), West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 16m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291928?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Outpatient Registered Nurse - RN | CA092 Reedley Dial_Ctrl Valley... | 17m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278795?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Outpatient Registered Nurse - RN - Dialysis | CA339 FMCNA Union City - Clinic | 17m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0279362?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Case Manager RN | NC - Work from home | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1087064?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Registered Nurse | RI - Woonsocket | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112584?s=gh-new-grad-healthcare-jobs-2027) |
 | **CVS Health** | Case Manager, Registered Nurse - Field (Southside Chicago | IL Chicago | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1039510?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse Float ED | Jacksonville, FL | 6h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-30127?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse NICU | Indianapolis, IN | 6h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1320785?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Nurse Neonatal ICU - FT Night | Wichita, KS | 6h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-21109?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse Float ED | Jacksonville, FL | 7h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-30127?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse NICU | Indianapolis, IN | 7h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1320785?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Nurse Neonatal ICU - FT Night | Wichita, KS | 7h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-21109?s=gh-new-grad-healthcare-jobs-2027) |
 | **Humana** | RN Home Health Clinical Manager | Greensboro, North Carolina | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-humana-R-435682?s=gh-new-grad-healthcare-jobs-2027) |
 | **Kroger** | Patient Care Technician | Holland, OH, United States | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-240082?s=gh-new-grad-healthcare-jobs-2027) |
 | **Atlantic Health System** | Patient Care Technician I - Full Time, Days 7a-7p, Nursing Resource, Atlantic Health Overlook... | NJ, United States | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-33404?s=gh-new-grad-healthcare-jobs-2027) |
@@ -106,6 +106,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cardinal Health** | PRN Hospital Pharmacy Technician | Corinth, MS | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191693?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Miami** | Registered Nurse 2 Specialty- Plantation | Plantation, Florida | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100103248?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | District Manager, Psychiatry - Northern Ohio | Toledo, OH | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017075927?s=gh-new-grad-healthcare-jobs-2027) |
+| **Arkansas Children's** | Patient Care Technician | Little Rock, R0024961 | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-archildrens-external-career-site-R0024961?s=gh-new-grad-healthcare-jobs-2027) |
 | **NREL** | Postdoctoral Researcher - Privacy-Preserving Federated Learning and SI Security | Golden, CO | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14628?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Phlebotomist PRN | Detroit MI | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2641698?s=gh-new-grad-healthcare-jobs-2027) |
 | **Elevance Health** | Field Advanced Practice Provider - Grand Rapids - NP | 2 Locations | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR212447?s=gh-new-grad-healthcare-jobs-2027) |
@@ -119,6 +120,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Albertsons** | Pharmacy Student Intern | Derry, NH, United States | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-796946?s=gh-new-grad-healthcare-jobs-2027) |
 | **Thermo Fisher Scientific** | CRA l - Clinician to CRA (RN, NP, PA, or MD), US West | California | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01375159?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Medical Science Liaison - Cardiovascular Metabolic -  Western North Carolina | North Carolina - Charlotte | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-262301?s=gh-new-grad-healthcare-jobs-2027) |
+| **Moderna** | 2027 Intern, TMF Systems & Operations | Cambridge, Massachusetts,... | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R20220?s=gh-new-grad-healthcare-jobs-2027) |
 | **NREL** | Graduate Intern – Focused Ion Beam, Electron Microscopy, and Autonomous Characterization | Golden, CO | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14431?s=gh-new-grad-healthcare-jobs-2027) |
 | **Boeing** | Test & Evaluation Lab Technician (Associate or Experienced) (Overnight Shift) | Smithfield, PA | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026511757?s=gh-new-grad-healthcare-jobs-2027) |
 | **Bristol Myers Squibb** | Oncology Discovery BioSciences Intern | Cambridge Crossing - MA - US | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608776?s=gh-new-grad-healthcare-jobs-2027) |
@@ -129,6 +131,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **EVERSANA** | Home Infusion RN- Per Diem | Yuma, AZ | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-EVERSANA1-744000162805100?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | 2027 Clinical Pharmacology Intern (PhD) | North Chicago, IL | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016996766?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | 2027 Pharmacometrics Intern (PhD) | North Chicago, IL | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016994841?s=gh-new-grad-healthcare-jobs-2027) |
+| **Insulet Corporation** | Intern, Corporate Communications: June-August 2027 (Hybrid) | Acton, Massachusetts | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-19271?s=gh-new-grad-healthcare-jobs-2027) |
 | **Gilead Sciences** | External Quality QC Senior Associate Scientist | United States - California -... | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gilead-gileadcareers-R0056485?s=gh-new-grad-healthcare-jobs-2027) |
 | **AstraZeneca** | US Medical Affairs Oncology - Externally Sponsored Research Specialist | Gaithersburg - MD | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264771?s=gh-new-grad-healthcare-jobs-2027) |
 | **Genentech** | 2027 Summer Intern - Translational Medicine Oncology | South San Francisco | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-129408?s=gh-new-grad-healthcare-jobs-2027) |
@@ -146,6 +149,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cencora** | Pharmacy Intern | Knoxville, Tennessee | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-cencora-R2618806?s=gh-new-grad-healthcare-jobs-2027) |
 | **MedVet** | Internal Medicine Veterinary Technician | Chicago, Illinois | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/jobvite-medvet-oNM7Afw0?s=gh-new-grad-healthcare-jobs-2027) |
 | **Intuitive** | Learning Experience Research Intern | Sunnyvale, CA | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162406479?s=gh-new-grad-healthcare-jobs-2027) |
+| **Arkansas Children's** | RN II Southwest Little Rock | Southwest Little Rock, R0024883 | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-archildrens-external-career-site-R0024883?s=gh-new-grad-healthcare-jobs-2027) |
 | **AstraZeneca** | Global Medical Affairs Intern | Gaithersburg - MD | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264551?s=gh-new-grad-healthcare-jobs-2027) |
 | **Amgen** | Grad Intern - Clinical Science, Late Stage Oncology (Summer 2027) | United States - Remote | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-260757?s=gh-new-grad-healthcare-jobs-2027) |
 | **Oracle** | Clinical Consultant - Health System Ops (RN required) | United States | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-oracle-345093?s=gh-new-grad-healthcare-jobs-2027) |
@@ -160,11 +164,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Tenet Healthcare** | Pharmacist Intern | Memphis, TN, United States | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2503017258?s=gh-new-grad-healthcare-jobs-2027) |
 | **Entegris** | Formulation Scientist, Intern - Summer 2027 | Aurora, IL | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15876?s=gh-new-grad-healthcare-jobs-2027) |
 | **HPE (University)** | HPE Labs - Systems Architecture Lab Research Associate Intern | Milpitas, California, United... | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1218728?s=gh-new-grad-healthcare-jobs-2027) |
-| **Merck & Co.** | 2027 Future Talent Program - Global Medical Affairs - Intern | USA - Pennsylvania - North Wales | 3w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R414453?s=gh-new-grad-healthcare-jobs-2027) |
-| **Johnson & Johnson** | Oncology TR Scientist Intern | Spring House, Pennsylvania,... | 3w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-099901?s=gh-new-grad-healthcare-jobs-2027) |
-| **Johnson & Johnson** | Oncology Discovery Scientist Intern | Spring House, Pennsylvania,... | 3w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-099898?s=gh-new-grad-healthcare-jobs-2027) |
-| **Johnson & Johnson** | Oncology Clinical Scientist Intern | Spring House, Pennsylvania,... | 3w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-099892?s=gh-new-grad-healthcare-jobs-2027) |
-| **Flagler Health** | Onsite - Medical Assistant (MA) / Licensed Practical Nurse (LPN) / Licensed Vocational Nurse (LVN) | 200 W Monroe St, 2nd Floor,... | 3w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-flaglerhealth-faf81fd4-c811-454a-a66b-4dc2f38475d4?s=gh-new-grad-healthcare-jobs-2027) |
+| **Moderna** | Intern, Biobanking | Norwood, Massachusetts,... | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R19852?s=gh-new-grad-healthcare-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -176,9 +176,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Clinical Educator | Voorhees, NJ | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272042?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Clinical Laboratory Technologist - Core Chemistry | Birmingham AL | 51m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2640110?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Clinical Research Coordinator | MILWAUKEE, WI | 6h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-16989?s=gh-new-grad-healthcare-jobs-2027) |
+| **Fresenius Medical Care** | Clinical Educator | Voorhees, NJ | 17m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272042?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Clinical Laboratory Technologist - Core Chemistry | Birmingham AL | 57m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2640110?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Clinical Research Coordinator | MILWAUKEE, WI | 7h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-16989?s=gh-new-grad-healthcare-jobs-2027) |
 | **NVIDIA** | Emulation Lab Technician | US, CA, Santa Clara | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028074?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Clinical Laboratory Technician - Sequenom - Entry Level Will Train! | San Diego CA | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636633?s=gh-new-grad-healthcare-jobs-2027) |
 | **LabCorp** | Clinical Lab Technician - Sequenom - Entry level, will train! | San Diego CA | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637770?s=gh-new-grad-healthcare-jobs-2027) |
@@ -230,6 +230,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Profluent** | Associate Scientist, In Vivo Pharmacology | Emeryville, California, United... | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-profluent-5491563008?s=gh-new-grad-healthcare-jobs-2027) |
 | **Danaher** | Scientist II R&D | Fargo, North Dakota | 5d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-danaher-R1323556?s=gh-new-grad-healthcare-jobs-2027) |
 | **Illinois Tool Works** | Laboratory Technician - Power Systems Division | Appleton, Wisconsin | 5d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-illinois-tool-works-JR11013?s=gh-new-grad-healthcare-jobs-2027) |
+| **Moderna** | Scientist, Analytical Sciences and Technology, Chemistry | Norwood, Massachusetts,... | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R19516?s=gh-new-grad-healthcare-jobs-2027) |
 | **Baxter International** | Research Scientist I | Round Lake, Illinois | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-210052?s=gh-new-grad-healthcare-jobs-2027) |
 | **Zoetis** | Senior Associate II, Clinical Research and Regulatory Affairs | Kalamazoo - Downtown Portage Street | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00022184?s=gh-new-grad-healthcare-jobs-2027) |
 | **The Mosaic Company** | Laboratory Technician, Biosciences | Plant City Production | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-mosaic-mosaic-65383?s=gh-new-grad-healthcare-jobs-2027) |
@@ -275,7 +276,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BAE Systems** | Lab Technician | Endicott, New York | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-132866BR?s=gh-new-grad-healthcare-jobs-2027) |
 | **BAE Systems** | FAST Labs RF Scientist I or II | Merrimack, New Hampshire | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-132642BR?s=gh-new-grad-healthcare-jobs-2027) |
 | **BillionToOne** | Clinical Laboratory Scientist, Prenatal | Union City, CA | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-billiontoone-4755919005?s=gh-new-grad-healthcare-jobs-2027) |
-| **Cardinal Health** | Scientist I - CMC | Nationwide-FIELD | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191163?s=gh-new-grad-healthcare-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -288,9 +288,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **CVS Health** | Clinical Claims Review Nurse (Remote) | ND - Work from home | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1096025?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Occupational Therapist | Fishers, IN | 6h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1317560?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Licensed Behavioral Health Counselor School Therapist | Indianapolis, IN | 6h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-20142?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Registered Respiratory Therapist Heart Center | Carmel, IN | 6h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1318105?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Occupational Therapist | Fishers, IN | 7h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1317560?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Licensed Behavioral Health Counselor School Therapist | Indianapolis, IN | 7h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-20142?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Registered Respiratory Therapist Heart Center | Carmel, IN | 7h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1318105?s=gh-new-grad-healthcare-jobs-2027) |
 | **Medtronic** | Prin. Vascular Clinical Specialist - Milwaukee, WI / Green Bay, WI | Milwaukee, Wisconsin, United... | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77263?s=gh-new-grad-healthcare-jobs-2027) |
 | **Humana** | Occupational Therapist Home Health-Per Diem | Colorado City, Texas | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-humana-R-438051?s=gh-new-grad-healthcare-jobs-2027) |
 | **Atlantic Health System** | Occupational Therapist I: Per Diem, Atlantic Visiting Nurse, Essex County | Morristown, NJ, United States | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-atlantic-health-34721?s=gh-new-grad-healthcare-jobs-2027) |
@@ -321,10 +321,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Highmark Health** | Patient Access Coordinator I - Pulmonary - Jefferson Hills - Full Time | Jefferson Hills PA, 15025, 1200... | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291959?s=gh-new-grad-healthcare-jobs-2027) |
 | **Boston Scientific** | Clinical Specialist Manager   Urology - Sacral Neuromodulation   Cincinnati/Columbus OH Lexington KY | Columbus/Zanesville US-OH,... | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602814000334?s=gh-new-grad-healthcare-jobs-2027) |
 | **Hilton** | Massage Therapist (Part-Time) - Waldorf Astoria Chicago | Chicago, IL, United States | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-232974?s=gh-new-grad-healthcare-jobs-2027) |
+| **Insulet Corporation** | Clinical Product Specialist II (Remote - West Coast,Central/East Region: OK, MO, AR, MS, TX, LA,... | Tennessee | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-19372?s=gh-new-grad-healthcare-jobs-2027) |
 | **Cardinal Health** | Radiation Therapist II - $5,000 Sign-On Bonus! | Fresno-cCARE Clinic, CA | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191642?s=gh-new-grad-healthcare-jobs-2027) |
 | **Stryker** | Field Clinical Specialist - Denver - Peripheral Vascular | Denver, Colorado | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577281?s=gh-new-grad-healthcare-jobs-2027) |
 | **Leidos** | MFLC Counselor: Short Term or As Needed Coverage, Fort Riley, KS | Junction City, KS | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00197512?s=gh-new-grad-healthcare-jobs-2027) |
 | **15dc44c7** | REGISTERED RESPIRATORY THERAPIST II | Robinson, IL | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/adp-15dc44c7-9201529226247_51?s=gh-new-grad-healthcare-jobs-2027) |
+| **Arkansas Children's** | Patient Access Representative I (12/3 Hiring Event) | Little Rock, R0024955 | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-archildrens-external-career-site-R0024955?s=gh-new-grad-healthcare-jobs-2027) |
 | **Elevance Health** | Managed Care Coordinator - Behavioral Health/Foster Care (BSW, MSW, or QMHP) | VA ROANOKE 602 S JEFFERSON ST | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR210547?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | Genetic Clinical Counselor I - Pediatrics Genetics | Washington University Medical | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98791?s=gh-new-grad-healthcare-jobs-2027) |
 | **Baxter International** | Acute Care Clinical Specialist, New England Territory) | New York, NY | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-211780?s=gh-new-grad-healthcare-jobs-2027) |
@@ -349,6 +351,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hilton** | Massage Therapist - Conrad Los Angeles | Los Angeles, CA, United States | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-232061?s=gh-new-grad-healthcare-jobs-2027) |
 | **University of Miami** | Patient Access Representative 2 (On-Site) | Boca Raton, Florida | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100103298?s=gh-new-grad-healthcare-jobs-2027) |
 | **Oracle** | Associate Consultant - Behavioral Health | United States | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-oracle-344166?s=gh-new-grad-healthcare-jobs-2027) |
+| **Arkansas Children's** | Behavioral Health Technician- Nights | Little Rock, R0024888 | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-archildrens-external-career-site-R0024888?s=gh-new-grad-healthcare-jobs-2027) |
 | **SpaceX** | Environmental Health & Safety Specialist (Paramedic) | Long Beach, CA | 1mo | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8908926002?s=gh-new-grad-healthcare-jobs-2027) |
 | **Innovaccer** | 1234-Medical Coding Specialist | United States | 1mo | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workable-innovaccer-analytics-AA715A831E?s=gh-new-grad-healthcare-jobs-2027) |
 | **Included Health** | Mental Health Therapist | Virginia | 1mo | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/lever-includedhealth-702de0c5-7628-47b2-832a-c31c9ccb888a?s=gh-new-grad-healthcare-jobs-2027) |
@@ -372,19 +375,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Medical Assistant-Breast Surgery-Wexford | Wexford PA, 12311 Perry... | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J285400?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Medical Assistant Certified-Surgical Oncology-West Penn Hospital | Pittsburgh PA | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J283344?s=gh-new-grad-healthcare-jobs-2027) |
-| **Highmark Health** | Endoscopy Technician / SEIU - E | Canonsburg PA, 15317 | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291873?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | FL - North Miami | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115599?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | AZ - Chandler | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115606?s=gh-new-grad-healthcare-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | 06304 - Tennessee CVS Pharmacy,... | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115827?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Clover SC | 51m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2641033?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist | Baltimore MD | 51m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2640359?s=gh-new-grad-healthcare-jobs-2027) |
-| **LabCorp** | Phlebotomist PST | Burlington IA | 51m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636360?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | FL - North Miami | 6m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115599?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | AZ - Chandler | 6m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115606?s=gh-new-grad-healthcare-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | 06304 - Tennessee CVS Pharmacy,... | 6m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115827?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Medical Assistant-Breast Surgery-Wexford | Wexford PA, 12311 Perry... | 16m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J285400?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Medical Assistant Certified-Surgical Oncology-West Penn Hospital | Pittsburgh PA | 16m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J283344?s=gh-new-grad-healthcare-jobs-2027) |
+| **Highmark Health** | Endoscopy Technician / SEIU - E | Canonsburg PA, 15317 | 16m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291873?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Clover SC | 57m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2641033?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist | Baltimore MD | 57m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2640359?s=gh-new-grad-healthcare-jobs-2027) |
+| **LabCorp** | Phlebotomist PST | Burlington IA | 57m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636360?s=gh-new-grad-healthcare-jobs-2027) |
 | **Guidehouse** | Customer Service Representative   Hospital Patient Accounts | AL, Birmingham | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-47031?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Telemetry Technician | Nashville, TN | 6h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-31384?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Certified Surgical Tech CVOR | Austin, TX | 6h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1286050?s=gh-new-grad-healthcare-jobs-2027) |
-| **Ascension** | Paramedic | Wichita, KS | 6h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1322863?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Telemetry Technician | Nashville, TN | 7h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-31384?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Certified Surgical Tech CVOR | Austin, TX | 7h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1286050?s=gh-new-grad-healthcare-jobs-2027) |
+| **Ascension** | Paramedic | Wichita, KS | 7h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1322863?s=gh-new-grad-healthcare-jobs-2027) |
 | **Elevance Health** | Telephonic Nurse Case Manager II | 13 Locations | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR213851?s=gh-new-grad-healthcare-jobs-2027) |
 | **Humana** | Home Health Patient Services Coordinator | Shalimar, Florida | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-humana-R-438086?s=gh-new-grad-healthcare-jobs-2027) |
 | **Humana** | Medical Assistant | Beaumont, Texas | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-humana-R-434258?s=gh-new-grad-healthcare-jobs-2027) |
@@ -419,9 +422,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fresenius Medical Care** | Registered Dietician | Amherst, OH | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278748?s=gh-new-grad-healthcare-jobs-2027) |
 | **Fresenius Medical Care** | Master Social Worker - MSW Part time | Cedar City, UT | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0249310?s=gh-new-grad-healthcare-jobs-2027) |
 | **RTX** | Optician 1 - 1st Shift | CA-CARLSBAD | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887529?s=gh-new-grad-healthcare-jobs-2027) |
+| **Arkansas Children's** | Social Worker II | Little Rock, R0024881 | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-archildrens-external-career-site-R0024881?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Manager, Global Medical Information | Florham Park, NJ | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017096076?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Manager, Global Medical Information | Mettawa, IL | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017095846?s=gh-new-grad-healthcare-jobs-2027) |
 | **AbbVie** | Manager, Global Medical Information | Irvine, CA | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017095806?s=gh-new-grad-healthcare-jobs-2027) |
+| **Arkansas Children's** | Transport EMT | Little Rock, R0024956 | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-archildrens-external-career-site-R0024956?s=gh-new-grad-healthcare-jobs-2027) |
+| **Arkansas Children's** | Clinical Support Assistant | Little Rock, R0024942 | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-archildrens-external-career-site-R0024942?s=gh-new-grad-healthcare-jobs-2027) |
+| **Insulet Corporation** | Lead Generation Representative (Remote) | Massachusetts | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-19036?s=gh-new-grad-healthcare-jobs-2027) |
 | **Caterpillar** | Nurse | Sanford, North Carolina | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000406405?s=gh-new-grad-healthcare-jobs-2027) |
 | **Wash U** | MRI Technologist - Radiology | Washington University Medical | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98227?s=gh-new-grad-healthcare-jobs-2027) |
 | **NREL** | Postdoctoral Researcher - Cd(Se,Te) Photovoltaics | Golden, CO | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14653?s=gh-new-grad-healthcare-jobs-2027) |
@@ -450,6 +457,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LLNL** | Liquid Metal Jetting and Casting – Postdoctoral Researcher | Livermore, CA | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990017066146?s=gh-new-grad-healthcare-jobs-2027) |
 | **Iterative Health** | Research Assistant -New Albany, IN | New Albany, IN | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-iterativehealth-4729652006?s=gh-new-grad-healthcare-jobs-2027) |
 | **Hims & Hers** | Certified Compounding Pharmacy Technician (Nights) | New Albany, Ohio | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-hims-and-hers-ea29a82e-2033-4f96-bd50-80e8359881bd?s=gh-new-grad-healthcare-jobs-2027) |
+| **Insulet Corporation** | Clinical Services Manager - New Haven, CT (Field Based) | New Haven, Connecticut | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18912?s=gh-new-grad-healthcare-jobs-2027) |
 | **NREL** | Postdoctoral Researcher – Operations Research and Transportation Systems Optimization | Golden, CO | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14607?s=gh-new-grad-healthcare-jobs-2027) |
 | **Globus Medical** | Entry Level Associate Neurophysiologist (Elmira/Ithaca, NY) | New York | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-globusmedical-gmed-careers-JR108253?s=gh-new-grad-healthcare-jobs-2027) |
 | **Globus Medical** | Neurophysiologist (Fort Myers, FL) | Florida | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-globusmedical-gmed-careers-JR108309?s=gh-new-grad-healthcare-jobs-2027) |
@@ -467,11 +475,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertex Pharmaceuticals** | Vertex Physician Investigator | Boston, MA | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30691?s=gh-new-grad-healthcare-jobs-2027) |
 | **LLNL** | Nuclear Physics - Postdoctoral Researcher | Livermore, CA | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990017033646?s=gh-new-grad-healthcare-jobs-2027) |
 | **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 5d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-new-grad-healthcare-jobs-2027) |
-| **MedVet** | Radiology Veterinary Technician Assistant | Mandeville, Louisiana | 5d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/jobvite-medvet-oqD8Afwv?s=gh-new-grad-healthcare-jobs-2027) |
-| **Elanco** | Study Management Coordinator - Clinical Development | Fort Dodge, IA | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-elanco-external-career-R0026804?s=gh-new-grad-healthcare-jobs-2027) |
-| **Plains GP Holdings** | Electrical & Instrumentation Technician I | Dilley, TX | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-plains-plains-R0015280?s=gh-new-grad-healthcare-jobs-2027) |
-| **University System of New Hampshire** | Assistant Strength and Conditioning | University of New Hampshire – Main | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-usnh-careers-JR10650?s=gh-new-grad-healthcare-jobs-2027) |
-| **Merck & Co.** | Cardiovascular Disease Specialist –  Los Angeles District | USA - California - Los Angeles | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R428298?s=gh-new-grad-healthcare-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -558,7 +561,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 10624 current opportunities from 139 companies**
+**🎯 10664 current opportunities from 140 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
